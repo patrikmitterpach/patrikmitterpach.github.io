@@ -1,0 +1,72 @@
+html,
+body {
+	background: #272727;
+}
+body {
+	font-family: "JetBrains Mono", monospace;
+	color: #fbf1c7;
+	font-size: 16px;
+	line-height: 1.4;
+	margin: 0;
+	min-height: 100%;
+	overflow-wrap: break-word;
+	font-weight: Light;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* 
+Headers */
+header {
+	width: max-content;
+	margin-left: none;
+	margin-right: none;
+	font-weight: 800;
+}
+/* Subheaders */
+h2 {
+	font-weight: 800;
+}
+h3 {
+  font-weight: 500;
+	padding-left: 20px;
+}
+h3:hover {
+	color: #689d6a;
+}
+
+/* Blinking cursor */
+@keyframes blink {
+	from {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+.blink {
+	animation: blink 2s ease-in-out infinite;
+}
+
+/* Paragraphs */
+p2 {
+	font-weight: 300;
+}
+
+/* Links */
+a {
+	color: #fbf1c7;
+	text-decoration: none;
+}
+
+/* Color Classes */
+.green {
+	color: #689d6a;
+}
+.yellow {
+	color: #ffd700;
+}
