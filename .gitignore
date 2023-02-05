@@ -1,0 +1,6 @@
+# Publishing script
+update_blog.py
+
+# Publishing folders
+markdown/*
+templates/*
