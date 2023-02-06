@@ -38,11 +38,15 @@ hr {
 	height: 3px
 
 }
-footer, .comment {
+footer {
 	line-height: 1;
 	opacity: 0.4;
 }
 
+.comment {
+	line-height: 1;
+	opacity: 0.4;
+}
 /* Animation */
 @keyframes blink {
 	from {
