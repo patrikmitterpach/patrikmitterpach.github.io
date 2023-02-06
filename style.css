@@ -16,15 +16,13 @@ body {
 	margin-right: auto;
 }
 
-/* 
-Headers */
+/* Headers */
 header {
 	width: max-content;
 	margin-left: none;
 	margin-right: none;
 	font-weight: 800;
 }
-/* Subheaders */
 h2 {
 	font-weight: 800;
 }
@@ -37,7 +35,8 @@ footer {
 	opacity: 0.4;
 
 }
-/* Blinking cursor */
+
+/* Animation */
 @keyframes blink {
 	from {
 		opacity: 1;
@@ -51,9 +50,6 @@ footer {
 }
 .blink {
 	animation: blink 2s ease-in-out infinite;
-}
-.link:hover {
-	color: #689d6a;
 }
 .center {
 	text-align: center;
@@ -71,7 +67,12 @@ a {
 	color: #fbf1c7;
 	text-decoration: none;
 }
-
+.link_green:hover {
+	color: #689d6a;
+}
+.link_yellow:hover {
+	color: #ffd700;
+}
 /* Color Classes */
 .green {
 	color: #689d6a;
