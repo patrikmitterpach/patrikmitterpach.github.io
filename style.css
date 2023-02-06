@@ -32,7 +32,11 @@ h3 {
   font-weight: 500;
 	padding-left: 20px;
 }
+footer {
+	line-height: 1;
+	opacity: 0.4;
 
+}
 /* Blinking cursor */
 @keyframes blink {
 	from {
@@ -48,8 +52,13 @@ h3 {
 .blink {
 	animation: blink 2s ease-in-out infinite;
 }
-.link {
+.link:hover {
 	color: #689d6a;
+}
+.center {
+	text-align: center;
+	margin: auto;
+	display: block;
 }
 
 /* Paragraphs */
