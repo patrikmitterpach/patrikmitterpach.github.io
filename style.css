@@ -38,7 +38,7 @@ hr {
 	height: 3px
 
 }
-footer {
+footer, .comment {
 	line-height: 1;
 	opacity: 0.4;
 }
