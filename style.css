@@ -44,8 +44,9 @@ footer {
 }
 
 .comment {
-	line-height: 1;
-	opacity: 0.4;
+	padding-right: 20px;
+	float: right;
+	opacity: 0.2;
 }
 /* Animation */
 @keyframes blink {
