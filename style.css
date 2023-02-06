@@ -27,13 +27,20 @@ h2 {
 	font-weight: 800;
 }
 h3 {
-  font-weight: 500;
+	font-weight: 500;
 	padding-left: 20px;
+	display:inline;
+}
+hr {
+	color: #fbf1c7;
+	background-color: #fbf1c7;
+	opacity: 0.4;
+	height: 3px
+
 }
 footer {
 	line-height: 1;
 	opacity: 0.4;
-
 }
 
 /* Animation */
@@ -61,6 +68,19 @@ footer {
 p2 {
 	font-weight: 300;
 }
+ol li {
+	list-style: none;	
+	counter-increment: my-counter;
+	padding-left: 20px; 
+	quotes: "“" "”";
+}
+ol li::before {
+	content: counter(my-counter) ": " open-quote; 
+	left: 0;
+}
+ol li::after {
+	content: close-quote; /* insert the closing quotation mark */
+  }
 
 /* Links */
 a {
