@@ -76,7 +76,8 @@ p2 {
 ol li {
 	list-style: none;	
 	counter-increment: my-counter;
-	padding-left: 20px; 
+	margin-left: -20px;
+	margin-top: -20px; 
 	quotes: "“" "”";
 }
 ol li::before {
