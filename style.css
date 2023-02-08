@@ -96,7 +96,6 @@ ol li {
 	list-style: none;	
 	counter-increment: my-counter;
 	margin-left: -20px;
-	margin-top: -20px; 
 	quotes: "“" "”";
 }
 ol li::before {
