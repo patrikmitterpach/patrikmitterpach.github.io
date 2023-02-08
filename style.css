@@ -1,7 +1,8 @@
-html,
-body {
+html, body {
 	background: #272727;
 }
+
+/* General Style */
 body {
 	font-family: "JetBrains Mono", monospace;
 	color: #fbf1c7;
@@ -42,15 +43,9 @@ footer {
 	line-height: 1;
 	opacity: 0.4;
 }
-
-.comment {
-	padding-right: 20px;
-	float: right;
-	opacity: 0.2;
-}
 /* Animation */
 @keyframes blink {
-	from {
+    from {
 		opacity: 1;
 	}
 	50% {
@@ -60,6 +55,8 @@ footer {
 		opacity: 1;
 	}
 }
+
+/* Classes */
 .blink {
 	animation: blink 2s ease-in-out infinite;
 }
@@ -69,10 +66,32 @@ footer {
 	display: block;
 }
 
+.comment {
+    padding-right: 20px;
+    float: right;
+    opacity: 0.2;
+}
+
+.link_green:hover {
+	color: #689d6a;
+}
+.link_yellow:hover {
+	color: #ffd700;
+}
+/* Color Classes */
+.green {
+	color: #689d6a;
+}
+.yellow {
+	color: #ffd700;
+}
+
 /* Paragraphs */
 p2 {
-	font-weight: 300;
+    font-weight: 300;
 }
+
+/* Lists */
 ol li {
 	list-style: none;	
 	counter-increment: my-counter;
@@ -92,17 +111,4 @@ ol li::after {
 a {
 	color: #fbf1c7;
 	text-decoration: none;
-}
-.link_green:hover {
-	color: #689d6a;
-}
-.link_yellow:hover {
-	color: #ffd700;
-}
-/* Color Classes */
-.green {
-	color: #689d6a;
-}
-.yellow {
-	color: #ffd700;
 }
