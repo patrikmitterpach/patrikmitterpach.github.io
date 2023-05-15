@@ -1,113 +1,53 @@
-html, body {
-	background: #272727;
-}
 
-/* General Style */
 body {
-	font-family: "JetBrains Mono", monospace;
-	color: #fbf1c7;
-	font-size: 16px;
-	line-height: 1.4;
-	margin: 0;
-	min-height: 100%;
-	overflow-wrap: break-word;
-	font-weight: Light;
-	width: 600px;
-	margin-left: auto;
-	margin-right: auto;
+    text-decoration: none;
+    font-family: system-ui,
+        sans-serif;
+    margin: 40px auto;
+    max-width: 600px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #fbf1c7;
+    background-color: #272727;
+    padding: 0 10px
 }
 
-/* Headers */
+h1,
+h2,
+h3,
 header {
-	width: max-content;
-	margin-left: none;
-	margin-right: none;
-	font-weight: 800;
+    font-family: monospace;
+    line-height: 1.2;
+    font-weight: bold;
+    text-decoration: none;
 }
-h2 {
-	font-weight: 800;
-}
-h3 {
-	font-weight: 500;
-	padding-left: 20px;
-	display:inline;
-}
-hr {
-	color: #fbf1c7;
-	background-color: #fbf1c7;
-	opacity: 0.4;
-	height: 3px
 
+.color {
+    color: #689d6a
 }
-footer {
-	line-height: 1;
-	opacity: 0.4;
-}
+
 /* Animation */
 @keyframes blink {
     from {
-		opacity: 1;
-	}
-	50% {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
-}
+        opacity: 1;
+    }
 
-/* Classes */
+    50% {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
 .blink {
-	animation: blink 2s ease-in-out infinite;
-}
-.center {
-	text-align: center;
-	margin: auto;
-	display: block;
+    animation: blink 3s ease-in-out infinite;
 }
 
-.comment {
-    padding-right: 20px;
-    float: right;
-    opacity: 0.2;
-}
-
-.link_green:hover {
-	color: #689d6a;
-}
-.link_yellow:hover {
-	color: #ffd700;
-}
-/* Color Classes */
-.green {
-	color: #689d6a;
-}
-.yellow {
-	color: #ffd700;
-}
-
-/* Paragraphs */
-p2 {
-    font-weight: 300;
-}
-
-/* Lists */
-ol li {
-	list-style: none;	
-	counter-increment: my-counter;
-	margin-left: -20px;
-	quotes: "“" "”";
-}
-ol li::before {
-	content: counter(my-counter) ": " open-quote; 
-	left: 0;
-}
-ol li::after {
-	content: close-quote; /* insert the closing quotation mark */
-  }
-
-/* Links */
 a {
-	color: #fbf1c7;
-	text-decoration: none;
+    color: #fbf1c7;
+    text-decoration-color: #fbf1c7;
+}
+li {
+    margin-left: 30px;
 }
