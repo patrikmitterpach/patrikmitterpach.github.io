@@ -1,15 +1,15 @@
-
 body {
     text-decoration: none;
-    font-family: system-ui,
-        sans-serif;
+
     margin: 40px auto;
-    max-width: 600px;
-    line-height: 1.6;
-    font-size: 18px;
+    max-width: 650px;
+    font-size: 20px;
     color: #fbf1c7;
     background-color: #272727;
-    padding: 0 10px
+    padding: 0 10px;
+
+    line-height: 200%;
+    font-family: opendyslexic, serif;
 }
 
 h1,
