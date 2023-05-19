@@ -1,9 +1,2 @@
 # Publishing script
-update_blog.py
-
-# Publishing folders
-markdown/*
-templates/*
-
-# Editor files
-.vscode/
+publishing/
