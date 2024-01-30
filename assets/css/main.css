@@ -133,7 +133,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
-		font-size: 18px;
+		font-size: 14px;
 		line-height: 1.7em;
 	}
 
@@ -1770,7 +1770,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #cfcfcf;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2598,8 +2598,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background-color: #1f1815;
-		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4);
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -2608,7 +2607,7 @@ input, select, textarea {
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: center;
+		text-align: right;
 		top: 0;
 		width: 30%;
 	}
