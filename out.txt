@@ -1,14 +1,14 @@
 -- Daily Times --
 Thursday, February 01
-Weather: 2° - 9°
+Weather: 2° - 6°
 
-	“Choose a sound financial lifestyle. Start
-     early and invest regularly. Know what you’re
-     buying. Preserve your buying power. Keep costs
-     and taxes low. Diversify your stock portfolio
-     [and diversify your stock risk with a bond
-     portfolio].”
-            ~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
+	Someone driving a $100,000 car might be
+     wealthy. But the only data point you have
+     about their wealth is that they have $100,000
+     less than they did before they bought the car
+     (or $100,000 more in debt). That’s all you
+     know about them.
+                                             ~ Morgan Housel
 
 
 -- News --
