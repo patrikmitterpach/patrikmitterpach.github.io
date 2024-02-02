@@ -2,76 +2,135 @@
 Friday, February 02
 Weather: 6° - 6°
 
-	Do you ask what I seek from virtue? I
-     answer, Herself: for she has nothing better;
-     she is her own rewar(1).
-                                                    ~ Seneca
+	I know not whether
+     wisdom is not best displayed
+     by calmness in the midst of
+     annoyances, just as the
+     greatest proof of a
+     general’s strength in arms
+     and men consists in his
+     quietness and confidence in
+     the midst of an enemy’s
+     country.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@scuderiaferrari] Scuderia Ferrari is pleased
-       to announce that Lewis Hamilton will be joining the
-       team in 2025, on a multi-year contract.
-   2. Lewis Hamilton to join Ferrari for 2025 Formula
-       1 season
-   3. Carlos Sainz's Statement
-   4. [@OscarPiastri] Just been for a run. Have I
-       missed anything?
-   5. [Sky Sports News] Mercedes employees in Brackley
-       have been told that Lewis Hamilton will be leaving at
-       the end of the 2024 season .The seven-time world
-       champion will join Ferrari for the 2025 season
+   1. [@scuderiaferrari]
+       Scuderia Ferrari is
+       pleased to announce that
+       Lewis Hamilton will be
+       joining the team in
+       2025, on a multi-year
+       contract.
+   2. Carlos Sainz's
+       Statement
+   3. [MERCEDES]
+       Mercedes-AMG PETRONAS F1
+       Team and Lewis Hamilton
+       to part ways -
+       Mercedes-AMG PETRONAS F1
+       Team
+   4. [@Cla_Cottingham]
+       Hearing Lewis Hamilton
+       went paintballing with
+       the Mercedes crew today
+       and informed them first
+       that he would be leaving
+       at the end of the
+       season. Classy act from
+       a classy driver.
+   5. [Formula 1]
+       BREAKING: The Japanese
+       Grand Prix remains on
+       the calendar until 2029!
 
 # Gaming
-   1. Persona 3 Reload guide: Classroom answers and
-       questions
-   2. Matthew Vaughn is out to turn Argylle’s
-       post-credits scene into a franchise
-   3. GTA Online update for the week of Feb. 1
-   4. SpongeBob finally gets to play the Super Bowl,
-       but he may not look how you expect
-   5. GTA 5 cheats and codes for PS4, PS5, Xbox, PC
+   1. Congrats Suits
+       fans, your Netflix
+       binges are being
+       rewarded with a Suits
+       spinoff
+   2. Pokémon Go
+       Spotlight Hour schedule
+       for February 2024
+   3. Pokémon Go Ditto
+       disguises list for
+       February 2024
+   4. Pokémon Go
+       Giovanni counters, team
+       line-up in February 2024
+   5. Pokémon Go leader
+       counters for Sierra,
+       Arlo, and Cliff in
+       February 2024
 
 # HackerNews
-   1. Juno – A YouTube Client for Vision Pro
-   2. We built our customer data warehouse all on
-       Postgres
-   3. Starlink's laser system is beaming 42 petabytes
-       of data per day
-   4. The Retro Web – Database, Docs, BIOS, Drivers,
-       etc. for old PC Hardware
-   5. OLMo: Accelerating the Science of Language
-       Models [pdf]
+   1. Tailwind color
+       palette generator
+   2. Pandoc
+   3. There are too many
+       damn honeypots
+   4. Google has another
+       secret browser
+   5. Open Source color
+       palettes generator in
+       HSLuv color space
 
 # NL
-   1. *discards* you now owe me five dollars (Balatro)
-   2. Toddler improv is exhausting #shorts
-   3. Admit it, you were a little impressed
+   1. Imagine how good
+       that badge is gonna look
+       (Super Auto Pets)
+   2. *discards* you now
+       owe me five dollars
+       (Balatro)
+   3. Toddler improv is
+       exhausting #shorts
+   4. Admit it, you were
+       a little impressed
        (Miscellaneous)
-   4. The CEO of News (News Tower #ad)
-   5. No lies detected (Lethal Company)
+   5. The CEO of News
+       (News Tower #ad)
 
 # Slovakia
-   1. Paris has Centre Pompidou, Bratislava has New
-       Market Hall
-   2. Top 10 events in Bratislava for foreigners
-   3. News digest: Activists blast air raid sirens
-       outside Fico's office
-   4. Chinese online retailer gains popularity in
-       Slovakia
-   5. Pro-Ukraine supporters leave unusual gift for
-       Fico after his infamous claim
+   1. News digest:
+       Slovak expats are
+       watching the situation
+       back home, says Čaputová
+       in US
+   2. Slovaks fear
+       renting their flats to
+       foreigners, survey shows
+   3. Replica of first
+       Slovak-made car goes on
+       display near where the
+       original was built
+   4. Slovak scientists
+       making important
+       historical finds
+   5. Weekend: If you
+       are not afraid of dark
+       forests, come watch owls
 
 # Space
-   1. Japan's SLIM moon lander snaps final photos
-       before going dormant during lunar night
-   2. Space Force Guardian to reach orbit for 1st time
-       on SpaceX's Crew-9 astronaut launch
-   3. X-ray image of universe reveals almost 1 million
-       high-energy objects: 'These are mind-blowing numbers'
-   4. Watch next-generation lightweight spacesuit
-       tested on Zero-G flight (photos, video)
-   5. How do galaxies grow while ensnared in the
-       universe's cosmic web?
+   1. Sierra Space
+       unveils Dream Chaser
+       space plane ahead of 1st
+       flight to ISS (photos)
+   2. Which telescope
+       will be 1st to find
+       alien life? Scientists
+       have some ideas
+   3. Huge stadium-sized
+       asteroid will make its
+       closest approach to
+       Earth for centuries
+       today (Feb. 2)
+   4. Get a 1st look at
+       debut issue of 'Star
+       Trek: Sons of Star Trek'
+       miniseries (exclusive)
+   5. Space pictures!
+       See our image of the day
 
