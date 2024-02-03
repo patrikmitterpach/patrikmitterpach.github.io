@@ -2,18 +2,19 @@
 Saturday, February 03
 Weather: 6° - 6°
 
-	It is above all things
-     necessary to form a true
-     estimate of oneself, because
-     as a rule we think that we
-     can do more than we are
-     able: one man is led too far
-     through confidence in his
-     eloquence, another demands
-     more from his estate than it
-     can produce, another burdens
-     a weakly body with some
-     toilsome duty.
+	How many complain
+     because they have been born?
+     yet Nature is ever renewing
+     our race, and even suffers
+     men to live who wish that
+     they had never lived. It is
+     the property of a great and
+     good mind to covet, not the
+     fruit of good deeds, but
+     good deeds themselves, and
+     to seek for a good man even
+     after having met with bad
+     men.
                         ~ Seneca
 
 
@@ -63,21 +64,21 @@ Weather: 6° - 6°
        on Netflix right now
 
 # HackerNews
-   1. Goodbye Non-Kiss
-       Appliances
-   2. How is a binary
-       executable organized?
-       Let's explore it (2014)
+   1. Over the Edge: The
+       Use of Design Tactics to
+       Undermine Browser Choice
+   2. Ede – An Fltk
+       based desktop
+       environment
    3. SeaweedFS fast
        distributed storage
        system for blobs,
        objects, files and
        datalake
    4. Origami Simulator
-   5. AT&T applies to
-       end obligation to
-       service landlines in
-       California
+   5. Significant
+       features introduced for
+       recent versions of Perl
 
 # NL
    1. What ten years of
@@ -96,26 +97,27 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Balans bistro,
+   1. Renata Kliska —
+       Shining bright with the
+       Fashion Oscar de la Moda
+       in Rome
+   2. Balans bistro,
        Bratislava: "Clever
        recipes which left me
        feeling properly fed" -
        restaurant review
-   2. News digest:
+   3. News digest:
        Slovak expats are
        watching the situation
        back home, says Čaputová
        in US
-   3. Slovaks fear
+   4. Slovaks fear
        renting their flats to
        foreigners, survey shows
-   4. Replica of first
+   5. Replica of first
        Slovak-made car goes on
        display near where the
        original was built
-   5. Slovak scientists
-       making important
-       historical finds
 
 # Space
    1. 'Predator' and
