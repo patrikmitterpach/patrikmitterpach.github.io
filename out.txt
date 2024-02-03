@@ -1,136 +1,143 @@
 -- Daily Times --
-Friday, February 02
+Saturday, February 03
 Weather: 6° - 6°
 
-	I know not whether
-     wisdom is not best displayed
-     by calmness in the midst of
-     annoyances, just as the
-     greatest proof of a
-     general’s strength in arms
-     and men consists in his
-     quietness and confidence in
-     the midst of an enemy’s
-     country.
+	It is above all things
+     necessary to form a true
+     estimate of oneself, because
+     as a rule we think that we
+     can do more than we are
+     able: one man is led too far
+     through confidence in his
+     eloquence, another demands
+     more from his estate than it
+     can produce, another burdens
+     a weakly body with some
+     toilsome duty.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@scuderiaferrari]
-       Scuderia Ferrari is
-       pleased to announce that
-       Lewis Hamilton will be
-       joining the team in
-       2025, on a multi-year
-       contract.
-   2. Carlos Sainz's
-       Statement
-   3. [MERCEDES]
-       Mercedes-AMG PETRONAS F1
-       Team and Lewis Hamilton
-       to part ways -
-       Mercedes-AMG PETRONAS F1
-       Team
-   4. [@Cla_Cottingham]
-       Hearing Lewis Hamilton
-       went paintballing with
-       the Mercedes crew today
-       and informed them first
-       that he would be leaving
-       at the end of the
-       season. Classy act from
-       a classy driver.
-   5. [Formula 1]
-       BREAKING: The Japanese
-       Grand Prix remains on
-       the calendar until 2029!
+   1. Ferrari: Hamilton
+       will earn $100M a year
+       and will also be an
+       important strategic
+       asset
+   2. Follow up
+       statement from Andretti
+       claims:
+   3. [Thomas Maher]
+       Toto Wolff has said
+       conversations with Pete
+       Bonnington over whether
+       he'll go with Lewis to
+       Ferrari are all up in
+       the air, but Bono's
+       reaction to Lewis'
+       Ferrari move was "Is it
+       April 1st already?"
+   4. [SkySportsF1] Toto
+       Wolff speaks for the
+       first time on Lewis
+       Hamilton's decision to
+       leave the team for
+       Ferrari in 2025
+   5. [Formula 1] Who
+       Will Drive For Mercedes
+       In 2025?
 
 # Gaming
-   1. Congrats Suits
-       fans, your Netflix
-       binges are being
-       rewarded with a Suits
-       spinoff
-   2. Pokémon Go
-       Spotlight Hour schedule
-       for February 2024
-   3. Pokémon Go Ditto
-       disguises list for
-       February 2024
-   4. Pokémon Go
-       Giovanni counters, team
-       line-up in February 2024
-   5. Pokémon Go leader
-       counters for Sierra,
-       Arlo, and Cliff in
-       February 2024
+   1. Wonka, The
+       Beekeeper, and every new
+       movie to watch at home
+       this weekend
+   2. Elmo just had a
+       very bad week
+   3. There’s so much
+       Batman in Suicide Squad:
+       Kill the Justice League
+   4. Where to buy
+       Pokémon Squishmallows
+   5. The 25 best movies
+       on Netflix right now
 
 # HackerNews
-   1. Tailwind color
-       palette generator
-   2. Pandoc
-   3. There are too many
-       damn honeypots
-   4. Google has another
-       secret browser
-   5. Open Source color
-       palettes generator in
-       HSLuv color space
+   1. Goodbye Non-Kiss
+       Appliances
+   2. How is a binary
+       executable organized?
+       Let's explore it (2014)
+   3. SeaweedFS fast
+       distributed storage
+       system for blobs,
+       objects, files and
+       datalake
+   4. Origami Simulator
+   5. AT&T applies to
+       end obligation to
+       service landlines in
+       California
 
 # NL
-   1. Imagine how good
+   1. What ten years of
+       streaming does to a man
+       #shorts
+   2. I am now banned
+       from Las Vegas (Balatro)
+   3. I'm so twisted the
+       jokers are just normal
+       dudes to me (Balatro)
+   4. Imagine how good
        that badge is gonna look
        (Super Auto Pets)
-   2. *discards* you now
+   5. *discards* you now
        owe me five dollars
        (Balatro)
-   3. Toddler improv is
-       exhausting #shorts
-   4. Admit it, you were
-       a little impressed
-       (Miscellaneous)
-   5. The CEO of News
-       (News Tower #ad)
 
 # Slovakia
-   1. News digest:
+   1. Balans bistro,
+       Bratislava: "Clever
+       recipes which left me
+       feeling properly fed" -
+       restaurant review
+   2. News digest:
        Slovak expats are
        watching the situation
        back home, says Čaputová
        in US
-   2. Slovaks fear
+   3. Slovaks fear
        renting their flats to
        foreigners, survey shows
-   3. Replica of first
+   4. Replica of first
        Slovak-made car goes on
        display near where the
        original was built
-   4. Slovak scientists
+   5. Slovak scientists
        making important
        historical finds
-   5. Weekend: If you
-       are not afraid of dark
-       forests, come watch owls
 
 # Space
-   1. Sierra Space
-       unveils Dream Chaser
-       space plane ahead of 1st
-       flight to ISS (photos)
-   2. Which telescope
-       will be 1st to find
-       alien life? Scientists
-       have some ideas
-   3. Huge stadium-sized
-       asteroid will make its
-       closest approach to
-       Earth for centuries
-       today (Feb. 2)
-   4. Get a 1st look at
-       debut issue of 'Star
-       Trek: Sons of Star Trek'
-       miniseries (exclusive)
-   5. Space pictures!
-       See our image of the day
+   1. 'Predator' and
+       'The Mandalorian' star
+       Carl Weathers passes
+       away at 76
+   2. SpaceX shows off
+       Super Heavy boosters
+       'for the next 3'
+       Starship flights
+       (photos)
+   3. Tuck and roll!
+       Watch ISS astronauts
+       have fun during
+       orbit-raising thruster
+       fire (video)
+   4. Watch Ax-3
+       astronauts leave ISS in
+       SpaceX Dragon capsule
+       Feb. 5 after delay
+   5. Nuclear power on
+       the moon: NASA wraps up
+       1st phase of ambitious
+       reactor project
 
