@@ -2,83 +2,88 @@
 Saturday, February 03
 Weather: 6° - 6°
 
-	How many complain
-     because they have been born?
-     yet Nature is ever renewing
-     our race, and even suffers
-     men to live who wish that
-     they had never lived. It is
-     the property of a great and
-     good mind to covet, not the
-     fruit of good deeds, but
-     good deeds themselves, and
-     to seek for a good man even
-     after having met with bad
-     men.
+	There are three kinds of
+     life, and it is a stock
+     question which of the three
+     is the best: the first is
+     devoted to pleasure, the
+     second to contemplation, the
+     third to action.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Ferrari: Hamilton
-       will earn $100M a year
-       and will also be an
-       important strategic
-       asset
-   2. Follow up
+   1. Follow up
        statement from Andretti
        claims:
-   3. [Thomas Maher]
-       Toto Wolff has said
-       conversations with Pete
-       Bonnington over whether
-       he'll go with Lewis to
-       Ferrari are all up in
-       the air, but Bono's
-       reaction to Lewis'
-       Ferrari move was "Is it
-       April 1st already?"
-   4. [SkySportsF1] Toto
-       Wolff speaks for the
-       first time on Lewis
-       Hamilton's decision to
-       leave the team for
-       Ferrari in 2025
-   5. [Formula 1] Who
-       Will Drive For Mercedes
-       In 2025?
+   2. Carlos Sainz
+       removed all of his
+       ferrari highlights
+       (Instagram)
+   3. A picture from my
+       small town old karting
+       track in Italy. It was
+       1999, after 26 years
+       he’s kinda coming back.
+   4. [@LewisHamilton]
+       It’s been a crazy few
+       days which have been
+       filled with a whole
+       range of emotions. But
+       as you all now know,
+       after an incredible 11
+       years at Mercedes-AMG
+       PETRONAS F1 Team, the
+       time has come for me to
+       start a new chapter in
+       my life and I will be
+       joining Scuderia Ferrari
+       in 2025.
+   5. [Chris Medland]
+       According to @JennaFryer
+       the email invitation to
+       an in-person meeting was
+       from a FOM staff member
+       but went into a junk
+       folder
 
 # Gaming
-   1. Wonka, The
+   1. 2023’s queasiest,
+       most discussable
+       documentary is on
+       Netflix now
+   2. If we have to
+       recycle old IP, Mr. &
+       Mrs. Smith is the way to
+       do it
+   3. Armored Core 6 is
+       currently down to $42
+       for Xbox and PlayStation
+   4. The best movies
+       new to streaming in
+       February
+   5. Wonka, The
        Beekeeper, and every new
        movie to watch at home
        this weekend
-   2. Elmo just had a
-       very bad week
-   3. There’s so much
-       Batman in Suicide Squad:
-       Kill the Justice League
-   4. Where to buy
-       Pokémon Squishmallows
-   5. The 25 best movies
-       on Netflix right now
 
 # HackerNews
-   1. Over the Edge: The
-       Use of Design Tactics to
-       Undermine Browser Choice
-   2. Ede – An Fltk
-       based desktop
-       environment
-   3. SeaweedFS fast
-       distributed storage
-       system for blobs,
-       objects, files and
-       datalake
-   4. Origami Simulator
-   5. Significant
-       features introduced for
-       recent versions of Perl
+   1. Pkl, a Programming
+       Language for
+       Configuration
+   2. A 1.55 R⊕
+       habitable-zone planet
+       hosted by TOI-715
+   3. Over the Edge -
+       Microsoft’s Design
+       Tactics Compromise Free
+       Browser Choice [pdf]
+   4. Folk Computer
+   5. Show HN: Simple
+       demo of a cold boot
+       attack using a Raspberry
+       Pi
 
 # NL
    1. What ten years of
@@ -120,26 +125,25 @@ Weather: 6° - 6°
        original was built
 
 # Space
-   1. 'Predator' and
-       'The Mandalorian' star
-       Carl Weathers passes
-       away at 76
-   2. SpaceX shows off
-       Super Heavy boosters
-       'for the next 3'
-       Starship flights
-       (photos)
-   3. Tuck and roll!
-       Watch ISS astronauts
-       have fun during
-       orbit-raising thruster
-       fire (video)
-   4. Watch Ax-3
-       astronauts leave ISS in
-       SpaceX Dragon capsule
-       Feb. 5 after delay
-   5. Nuclear power on
-       the moon: NASA wraps up
-       1st phase of ambitious
-       reactor project
+   1. This Week In Space
+       podcast: Episode 96 —
+       It's Space TV!
+   2. Ghostly plasma
+       loops linger on the sun
+       after massive solar
+       explosion (photos)
+   3. Watch Amazon's new
+       trailer for cosmic
+       comedy 'The Second Best
+       Hospital in the Galaxy'
+       (video)
+   4. Event Horizon
+       Telescope spies jets
+       erupting from nearby
+       supermassive black hole
+   5. James Webb Space
+       Telescope makes rare
+       detection of 2
+       exoplanets orbiting dead
+       stars
 
