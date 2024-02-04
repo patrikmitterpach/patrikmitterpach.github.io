@@ -1,26 +1,19 @@
 -- Daily Times --
-Saturday, February 03
+Sunday, February 04
 Weather: 6° - 6°
 
-	Now Fortune does not
-     give virtue; therefore she
-     does not take it away.
-     Virtue is free, inviolable,
-     not to be moved, not to be
-     shaken, and so hardened
-     against misfortunes that she
-     cannot be bent, let alone
-     overcome by them.
+	To how many men do
+     riches prove a heavy burden?
+     how many men’s eloquence and
+     continual desire to display
+     their own cleverness has
+     cost them their lives?
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Carlos Sainz
-       removed all of his
-       ferrari highlights
-       (Instagram)
-   2. [@LewisHamilton]
+   1. [@LewisHamilton]
        It’s been a crazy few
        days which have been
        filled with a whole
@@ -34,67 +27,70 @@ Weather: 6° - 6°
        my life and I will be
        joining Scuderia Ferrari
        in 2025.
-   3. Lewis Hamilton and
+   2. Lewis Hamilton and
        Ferrari on course for a
        €410 million deal?
-   4. Newspaper
-       Reactions to Lewis
-       Hamilton's move to
-       Scuderia Ferrari
-   5. Summary of
+   3. Summary of
        Formu1a.uno's Twitch
        stream on more inside
        knowledge about Lewis
        Hamilton's move to
        Scuderia Ferrari
+   4. Somebody hacked
+       Charles' spotify and
+       dropped their songs
+   5. Toto Wolff fails
+       to rule out Bono joining
+       Lewis Hamilton at
+       Ferrari
 
 # Gaming
-   1. When does Honkai:
+   1. Pokémon Go Chansey
+       Community Day guide
+   2. When does Honkai:
        Star Rail 2.0 release?
-   2. All 21 Persona
+   3. All 21 Persona
        games and spinoffs,
        ranked
-   3. 2023’s queasiest,
+   4. 2023’s queasiest,
        most discussable
        documentary is on
        Netflix now
-   4. If we have to
+   5. If we have to
        recycle old IP, Mr. &
        Mrs. Smith is the way to
        do it
-   5. Armored Core 6 is
-       currently down to $42
-       for Xbox and PlayStation
 
 # HackerNews
-   1. A brief history of
+   1. Why is the mouse
+       cursor slightly tilted
+       and not straight?
+   2. How to Replace
+       Your CPAP in Only 666
+       Days
+   3. A brief history of
        the U.S. trying to add
        backdoors into encrypted
        data (2016)
-   2. Pkl, a Programming
-       Language for
-       Configuration
-   3. How much bigger
-       could Earth be before
-       rockets wouldn't work?
-   4. A 1.55 R⊕
-       habitable-zone planet
-       hosted by TOI-715
-   5. DIY MBA: My
-       Reading List (2019)
+   4. You are what you
+       love
+   5. The first amateur
+       radio station on the
+       moon
 
 # NL
-   1. What have I done?
+   1. Bro knows his
+       lords and ladies
+       (Jackbox)
+   2. What have I done?
        (Balatro)
-   2. When you dont have
+   3. When you dont have
        stereo audio #ads
-   3. Relax, I'll handle
+   4. Relax, I'll handle
        it (Super Auto Pets)
-   4. What ten years of
+   5. What ten years of
        streaming does to a man
        #shorts
-   5. I am now banned
-       from Las Vegas (Balatro)
 
 # Slovakia
    1. Renata Kliska —
@@ -120,25 +116,24 @@ Weather: 6° - 6°
        original was built
 
 # Space
-   1. This Week In Space
+   1. SpaceX to launch
+       NASA's PACE
+       ocean-monitoring
+       satellite this week
+   2. This Week In Space
        podcast: Episode 96 —
        It's Space TV!
-   2. Ghostly plasma
+   3. Ghostly plasma
        loops linger on the sun
        after massive solar
        explosion (photos)
-   3. Watch Amazon's new
+   4. Watch Amazon's new
        trailer for cosmic
        comedy 'The Second Best
        Hospital in the Galaxy'
        (video)
-   4. Event Horizon
+   5. Event Horizon
        Telescope spies jets
        erupting from nearby
        supermassive black hole
-   5. James Webb Space
-       Telescope makes rare
-       detection of 2
-       exoplanets orbiting dead
-       stars
 
