@@ -2,16 +2,10 @@
 Sunday, February 04
 Weather: 6° - 6°
 
-	While all excesses are
-     hurtful, excess of comfort
-     is the most hurtful of all;
-     it affects the brain; it
-     leads men’s minds into vain
-     imaginings; it spreads a
-     thick cloud over the
-     boundaries of truth and
-     falsehood.
-                        ~ Seneca
+	Public opinion is a weak
+     tyrant compared with our own
+     private opinion.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -32,13 +26,9 @@ Weather: 6° - 6°
        motorsport titan in his
        first season with an
        Italian machinery
-   4. [@F1] Lewis and
-       Fred, reunited. From
-       being Lewis' Team
-       Principal in GP2 at ART
-       back in 2006, to now his
-       boss at Ferrari come
-       2025!
+   4. [@ScuderiaFerrari]
+       “The black is gone, the
+       white is back”
    5. Edited FW24 press
        photo - notably thin
        nose and additional
@@ -64,31 +54,33 @@ Weather: 6° - 6°
    1. Browser extensions
        are underrated: the
        promise of hackable
-       software
-   2. Interpreting
-       neural networks through
-       the polytope lens (2022)
-   3. Compiling Rust Is
+       software (2019)
+   2. Why Gödel, Escher,
+       Bach is the most
+       influential book in my
+       life
+   3. Beyond
+       Self-Attention: How a
+       Small Language Model
+       Predicts the Next Token
+   4. Compiling Rust Is
        Testing
-   4. ProofWiki: Online
-       compendium of
-       mathematical proofs
-   5. Rolling Airframe
-       Missile
+   5. How the Codpiece
+       Flopped
 
 # NL
-   1. I'm learning a lot
+   1. We may never lose
+       again (Balatro)
+   2. I'm learning a lot
        about a lot (Super Auto
        Pets)
-   2. Bro knows his
+   3. Bro knows his
        lords and ladies
        (Jackbox)
-   3. What have I done?
+   4. What have I done?
        (Balatro)
-   4. When you dont have
+   5. When you dont have
        stereo audio #ads
-   5. Relax, I'll handle
-       it (Super Auto Pets)
 
 # Slovakia
    1. Renata Kliska —
