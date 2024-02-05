@@ -2,44 +2,20 @@
 Monday, February 05
 Weather: 6° - 6°
 
-	Unless we are the most
-     ungrateful creatures in the
-     world, we shall regard these
-     noblest of men, the founders
-     of divine schools of
-     thought, as having been born
-     for us, and having prepared
-     life for us: we are led by
-     the labour of others to
-     behold most beautiful things
-     which have been brought out
-     of darkness into light: we
-     are not shut out from any
-     period, we can make our way
-     into every subject, and, if
-     only we can summon up
-     sufficient strength of mind
-     to overstep the narrow limit
-     of human weakness, we have a
-     vast extent of time wherein
-     to disport ourselves: we may
-     argue with Socrates, doubt
-     with Carneades, repose with
-     Epicurus, overcome human
-     nature with the Stoics,
-     exceed it with the Cynic(1).
+	Pleasure is not the
+     reward or the cause of
+     virtue, but comes in
+     addition to it; nor do we
+     choose virtue because she
+     gives us pleasure, but she
+     gives us pleasure also if we
+     choose her.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@ScuderiaFerrari]
-       “The black is gone, the
-       white is back”
-   2. Most Recent WDC
-       From Each Current F1
-       Team
-   3. [@ErikvHaren]
+   1. [@ErikvHaren]
        NEWS: Red Bull has
        launched an independent
        investigation after
@@ -52,84 +28,91 @@ Weather: 6° - 6°
        Telegraaf: "We take this
        very seriously." Horner
        himself denies it.
-   4. In 2024, Lewis
-       Hamilton and Mercedes
-       will become the first
-       driver-team partnership
-       to complete 12
-       consecutive F1 seasons
-       together. [pic -
-       Autosport]
-   5. [Charles Leclerc
-       via Instagram] Some
-       shots were gooooood.
-       Some others were very
-       baaaad. But I enjoyed it
-       anyway
+   2. Most Recent WDC
+       From Each Current F1
+       Team
+   3. Williams 2024 vs
+       2023
+   4. Williams has a new
+       steering wheel
+   5. [F1-Insider]
+       According to
+       F1-Insider's
+       information, the
+       (Horner) rumors emerged
+       during the Hahnenkamm
+       ski race in Kitzbühel.
+       Various Formula 1
+       decision-makers were
+       also there as guests,
+       such as McLaren boss Zak
+       Brown and Mercedes team
+       boss Toto Wolff.
 
 # Gaming
-   1. We preview
-       Fallout: Factions, from
-       the designer of
-       Necromunda
-   2. Matthew Vaughn is
-       out to turn Argylle’s
-       post-credits scene into
-       a franchise
-   3. True Detective:
-       Night Country’s dead are
-       screaming louder than
-       the living
-   4. If you liked
-       Hazbin Hotel, here’s
-       what you should watch
-       next
-   5. John Cena had
-       plans for Peacemaker —
-       then James Gunn said
-       ‘throw all that away’
+   1. Halo season 2, the
+       Super Bowl, and more new
+       TV this week
+   2. Game of Thrones’
+       canceled prequel spinoff
+       gets a very surprising
+       reveal
+   3. The Kodansha
+       Humble bundle is the
+       perfect manga starter
+       kit for $25
+   4. Palworld is the
+       culmination of every
+       game I’ve ever loved
+   5. Save your Eddies
+       with this bundle of
+       classic and revised
+       Cyberpunk texts
 
 # HackerNews
-   1. Deno in 2023
+   1. Show HN: Atopile –
+       Design circuit boards
+       with code
    2. Show HN:
        Natural-SQL-7B, a strong
-       open-source text-to-SQL
-       model
-   3. Gin, Television,
-       and Social Surplus
-       (2008)
-   4. Programming in
-       1969, by Emilk
-   5. Running
-       Open-Source AI Models
-       Locally with Ruby
+       text-to-SQL model
+   3. Bootstrap or VC?
+       [video]
+   4. Out-of-bounds read
+       and write in the glibc's
+       qsort()
+   5. Weaveworks is
+       shutting down
 
 # NL
-   1. Gene brought the
-       heat this week (Jackbox)
-   2. We may never lose
-       again (Balatro)
-   3. I'm learning a lot
-       about a lot (Super Auto
-       Pets)
-   4. Bro knows his
-       lords and ladies
-       (Jackbox)
-   5. What have I done?
+   1. I had too many
+       fellas and they all was
+       crisp (Super Auto Pets)
+   2. Bro got the holo
+       rookie Jim Joker PSA 10
        (Balatro)
+   3. As long as there's
+       no scorpions, I'm good
+       (Super Auto Pets)
+   4. Gene brought the
+       heat this week (Jackbox)
+   5. We may never lose
+       again (Balatro)
 
 # Slovakia
-   1. Mysterious crosses
-       raise eyebrows of
-       Lučenec inhabitants
+   1. Fancy a silent and
+       extreme adventure? How
+       mysterious crosses will
+       help you
    2. He came to study,
        ended up in hospital.
        Slovak empathy towards
        Colombian student
-   3. President Čaputová
-       honors American singer
-       for contributions to
-       freedom in Slovakia
+   3. 'At the right
+       moment, she gave us all
+       optimism and courage':
+       President Čaputová
+       honours US singer
    4. Private school
        pioneers call for
        teaching overhaul
@@ -138,26 +121,29 @@ Weather: 6° - 6°
        is now imminent
 
 # Space
-   1. 'Halo' Season 2
+   1. SpaceX rolls out
+       Falcon 9 rocket to
+       launch NASA's
+       ocean-studying PACE
+       satellite on Feb. 6
+       (photos)
+   2. Solar maximum is
+       coming, but we won't
+       know it happened until 7
+       months after it's over
+   3. NASA Ingenuity
+       Mars helicopter, broken
+       and alone, spotted by
+       Perseverance rover on
+       Martian dune (photo,
+       video)
+   4. Earth isn't the
+       only planet with
+       seasons, but they can
+       look wildly different on
+       other worlds
+   5. 'Halo' Season 2
        charges back onto
        Paramount Plus this week
        with plenty to prove
-   2. Scientists find
-       black hole powering a
-       molecular gas fountain
-       in the ancient universe
-   3. Hubble Space
-       Telescope spots a cosmic
-       'tug of war' between
-       galaxies that could lead
-       to a collision (image)
-   4. NASA's PACE
-       satellite will study
-       Earth's tiniest
-       mysteries from space:
-       Watch it launch live
-       Feb. 6
-   5. Total solar
-       eclipse 2024: Live
-       updates
 
