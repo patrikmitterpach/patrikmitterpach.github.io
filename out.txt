@@ -1,38 +1,46 @@
 -- Daily Times --
-Sunday, February 04
+Monday, February 05
 Weather: 6° - 6°
 
-	Public opinion is a weak
-     tyrant compared with our own
-     private opinion.
-           ~ Henry David Thoreau
+	Yet who would say that
+     nature has dealt grudgingly
+     with the minds of women, and
+     stunted their virtues?
+     Believe me, they have the
+     same intellectual power as
+     men, and the same capacity
+     for honourable and generous
+     action.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Bono, You Look
-       Good in Red too!
-   2. Bono, Christian
+   1. Bono, Christian
        and Geri Horner on
        January 27, 2024 at the
        Royal Artillery Hunt
        Point-to-Point races
        (Credits: Robert
        Wakeham)
-   3. [Off Topic]
-       Reminder that you don't
-       have to wait until next
-       year to witness a
-       motorsport titan in his
-       first season with an
-       Italian machinery
-   4. [@ScuderiaFerrari]
+   2. [@ScuderiaFerrari]
        “The black is gone, the
        white is back”
-   5. Edited FW24 press
+   3. Most Recent WDC
+       From Each Current F1
+       Team
+   4. Edited FW24 press
        photo - notably thin
        nose and additional
        white in livery?
+   5. In 2024, Lewis
+       Hamilton and Mercedes
+       will become the first
+       driver-team partnership
+       to complete 12
+       consecutive F1 seasons
+       together. [pic -
+       Autosport]
 
 # Gaming
    1. If you liked
@@ -51,78 +59,77 @@ Weather: 6° - 6°
        Star Rail 2.0 release?
 
 # HackerNews
-   1. Browser extensions
-       are underrated: the
-       promise of hackable
-       software (2019)
-   2. Why Gödel, Escher,
-       Bach is the most
-       influential book in my
-       life
-   3. Beyond
-       Self-Attention: How a
-       Small Language Model
-       Predicts the Next Token
-   4. Compiling Rust Is
-       Testing
-   5. How the Codpiece
-       Flopped
+   1. Deno in 2023
+   2. Gin, Television,
+       and Social Surplus
+       (2008)
+   3. Zellij – A
+       terminal workspace with
+       batteries included (tmux
+       alternative)
+   4. Running
+       Open-Source AI Models
+       Locally with Ruby
+   5. Parisians vote in
+       favour of tripling
+       parking costs for SUVs
 
 # NL
-   1. We may never lose
+   1. Gene brought the
+       heat this week (Jackbox)
+   2. We may never lose
        again (Balatro)
-   2. I'm learning a lot
+   3. I'm learning a lot
        about a lot (Super Auto
        Pets)
-   3. Bro knows his
+   4. Bro knows his
        lords and ladies
        (Jackbox)
-   4. What have I done?
+   5. What have I done?
        (Balatro)
-   5. When you dont have
-       stereo audio #ads
 
 # Slovakia
-   1. Renata Kliska —
+   1. Private school
+       pioneers call for
+       teaching overhaul
+   2. Last Week: Passage
+       of Fico’s legal changes
+       is now imminent
+   3. Renata Kliska —
        Shining bright with the
        Fashion Oscar de la Moda
        in Rome
-   2. Balans bistro,
+   4. Balans bistro,
        Bratislava: "Clever
        recipes which left me
        feeling properly fed" -
        restaurant review
-   3. News digest:
+   5. News digest:
        Slovak expats are
        watching the situation
        back home, says Čaputová
        in US
-   4. Slovaks fear
-       renting their flats to
-       foreigners, survey shows
-   5. Replica of first
-       Slovak-made car goes on
-       display near where the
-       original was built
 
 # Space
-   1. Major 'magnetic
+   1. NASA's PACE
+       satellite will study
+       Earth's tiniest
+       mysteries from space:
+       Watch it launch live
+       Feb. 6
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. Major 'magnetic
        anomaly' discovered deep
        below New Zealand's Lake
        Rotorua
-   2. SLIM lander's
+   4. SLIM lander's
        precise 'moon sniper'
        tech will lend itself to
        future lunar missions
-   3. SpaceX to launch
+   5. SpaceX to launch
        NASA's PACE
        ocean-monitoring
        satellite this week
-   4. This Week In Space
-       podcast: Episode 96 —
-       It's Space TV!
-   5. Ghostly plasma
-       loops linger on the sun
-       after massive solar
-       explosion (photos)
 
