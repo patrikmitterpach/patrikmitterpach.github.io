@@ -2,38 +2,57 @@
 Monday, February 05
 Weather: 6° - 6°
 
-	Yet who would say that
-     nature has dealt grudgingly
-     with the minds of women, and
-     stunted their virtues?
-     Believe me, they have the
-     same intellectual power as
-     men, and the same capacity
-     for honourable and generous
-     action.
+	Unless we are the most
+     ungrateful creatures in the
+     world, we shall regard these
+     noblest of men, the founders
+     of divine schools of
+     thought, as having been born
+     for us, and having prepared
+     life for us: we are led by
+     the labour of others to
+     behold most beautiful things
+     which have been brought out
+     of darkness into light: we
+     are not shut out from any
+     period, we can make our way
+     into every subject, and, if
+     only we can summon up
+     sufficient strength of mind
+     to overstep the narrow limit
+     of human weakness, we have a
+     vast extent of time wherein
+     to disport ourselves: we may
+     argue with Socrates, doubt
+     with Carneades, repose with
+     Epicurus, overcome human
+     nature with the Stoics,
+     exceed it with the Cynic(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Bono, Christian
-       and Geri Horner on
-       January 27, 2024 at the
-       Royal Artillery Hunt
-       Point-to-Point races
-       (Credits: Robert
-       Wakeham)
-   2. [@ScuderiaFerrari]
+   1. [@ScuderiaFerrari]
        “The black is gone, the
        white is back”
-   3. Most Recent WDC
+   2. Most Recent WDC
        From Each Current F1
        Team
-   4. Edited FW24 press
-       photo - notably thin
-       nose and additional
-       white in livery?
-   5. In 2024, Lewis
+   3. [@ErikvHaren]
+       NEWS: Red Bull has
+       launched an independent
+       investigation after
+       allegations of
+       inappropriate behavior
+       by team boss Christian
+       Horner. The company
+       confirmed this after
+       questions from De
+       Telegraaf: "We take this
+       very seriously." Horner
+       himself denies it.
+   4. In 2024, Lewis
        Hamilton and Mercedes
        will become the first
        driver-team partnership
@@ -41,38 +60,49 @@ Weather: 6° - 6°
        consecutive F1 seasons
        together. [pic -
        Autosport]
+   5. [Charles Leclerc
+       via Instagram] Some
+       shots were gooooood.
+       Some others were very
+       baaaad. But I enjoyed it
+       anyway
 
 # Gaming
-   1. If you liked
+   1. We preview
+       Fallout: Factions, from
+       the designer of
+       Necromunda
+   2. Matthew Vaughn is
+       out to turn Argylle’s
+       post-credits scene into
+       a franchise
+   3. True Detective:
+       Night Country’s dead are
+       screaming louder than
+       the living
+   4. If you liked
        Hazbin Hotel, here’s
        what you should watch
        next
-   2. John Cena had
+   5. John Cena had
        plans for Peacemaker —
        then James Gunn said
        ‘throw all that away’
-   3. The best movies to
-       watch after a breakup
-   4. Pokémon Go Chansey
-       Community Day guide
-   5. When does Honkai:
-       Star Rail 2.0 release?
 
 # HackerNews
    1. Deno in 2023
-   2. Gin, Television,
+   2. Show HN:
+       Natural-SQL-7B, a strong
+       open-source text-to-SQL
+       model
+   3. Gin, Television,
        and Social Surplus
        (2008)
-   3. Zellij – A
-       terminal workspace with
-       batteries included (tmux
-       alternative)
-   4. Running
+   4. Programming in
+       1969, by Emilk
+   5. Running
        Open-Source AI Models
        Locally with Ruby
-   5. Parisians vote in
-       favour of tripling
-       parking costs for SUVs
 
 # NL
    1. Gene brought the
@@ -89,47 +119,45 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Private school
+   1. Mysterious crosses
+       raise eyebrows of
+       Lučenec inhabitants
+   2. He came to study,
+       ended up in hospital.
+       Slovak empathy towards
+       Colombian student
+   3. President Čaputová
+       honors American singer
+       for contributions to
+       freedom in Slovakia
+   4. Private school
        pioneers call for
        teaching overhaul
-   2. Last Week: Passage
+   5. Last Week: Passage
        of Fico’s legal changes
        is now imminent
-   3. Renata Kliska —
-       Shining bright with the
-       Fashion Oscar de la Moda
-       in Rome
-   4. Balans bistro,
-       Bratislava: "Clever
-       recipes which left me
-       feeling properly fed" -
-       restaurant review
-   5. News digest:
-       Slovak expats are
-       watching the situation
-       back home, says Čaputová
-       in US
 
 # Space
-   1. NASA's PACE
+   1. 'Halo' Season 2
+       charges back onto
+       Paramount Plus this week
+       with plenty to prove
+   2. Scientists find
+       black hole powering a
+       molecular gas fountain
+       in the ancient universe
+   3. Hubble Space
+       Telescope spots a cosmic
+       'tug of war' between
+       galaxies that could lead
+       to a collision (image)
+   4. NASA's PACE
        satellite will study
        Earth's tiniest
        mysteries from space:
        Watch it launch live
        Feb. 6
-   2. Total solar
+   5. Total solar
        eclipse 2024: Live
        updates
-   3. Major 'magnetic
-       anomaly' discovered deep
-       below New Zealand's Lake
-       Rotorua
-   4. SLIM lander's
-       precise 'moon sniper'
-       tech will lend itself to
-       future lunar missions
-   5. SpaceX to launch
-       NASA's PACE
-       ocean-monitoring
-       satellite this week
 
