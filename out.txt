@@ -1,16 +1,20 @@
 -- Daily Times --
-Monday, February 05
+Tuesday, February 06
 Weather: 6° - 6°
 
-	Pleasure is not the
-     reward or the cause of
-     virtue, but comes in
-     addition to it; nor do we
-     choose virtue because she
-     gives us pleasure, but she
-     gives us pleasure also if we
-     choose her.
-                        ~ Seneca
+	“I must not fear. Fear
+     is the mind-killer. Fear is
+     the little-death that brings
+     total obliteration. I will
+     face my fear. I will permit
+     it to pass over me and
+     through me. And when it has
+     gone past I will turn the
+     inner eye to see its path.
+     Where the fear has gone
+     there will be nothing. Only
+     I will remain.”
+                 ~ Frank Herbert
 
 
 -- News --
@@ -28,122 +32,105 @@ Weather: 6° - 6°
        Telegraaf: "We take this
        very seriously." Horner
        himself denies it.
-   2. Most Recent WDC
-       From Each Current F1
-       Team
-   3. Williams 2024 vs
+   2. Williams 2024 vs
        2023
+   3. Formula 1 |
+       Introducing....the Kick
+       Sauber C44!!
    4. Williams has a new
        steering wheel
-   5. [F1-Insider]
-       According to
-       F1-Insider's
-       information, the
-       (Horner) rumors emerged
-       during the Hahnenkamm
-       ski race in Kitzbühel.
-       Various Formula 1
-       decision-makers were
-       also there as guests,
-       such as McLaren boss Zak
-       Brown and Mercedes team
-       boss Toto Wolff.
+   5. Sauber/Alfa Racing
+       Suits 2023 vs 2024
 
 # Gaming
-   1. Halo season 2, the
-       Super Bowl, and more new
-       TV this week
-   2. Game of Thrones’
-       canceled prequel spinoff
-       gets a very surprising
-       reveal
-   3. The Kodansha
-       Humble bundle is the
-       perfect manga starter
-       kit for $25
-   4. Palworld is the
-       culmination of every
-       game I’ve ever loved
-   5. Save your Eddies
-       with this bundle of
-       classic and revised
-       Cyberpunk texts
+   1. Palworld players
+       are building some
+       impressive bases
+   2. What happens to
+       Batman in Suicide Squad:
+       Kill the Justice League?
+   3. Honkai: Star Rail
+       codes for February 2024
+   4. (Mostly terrible)
+       CGI cats in movies,
+       ranked
+   5. I found a use for
+       the Dune popcorn bucket
+       — but not what you
+       think!
 
 # HackerNews
-   1. Show HN: Atopile –
+   1. Relativistic
+       Spaceship
+   2. Show HN: Atopile –
        Design circuit boards
        with code
-   2. Show HN:
-       Natural-SQL-7B, a strong
-       text-to-SQL model
-   3. Bootstrap or VC?
-       [video]
-   4. Out-of-bounds read
-       and write in the glibc's
-       qsort()
-   5. Weaveworks is
-       shutting down
+   3. Vesuvius Challenge
+       2023 Grand Prize
+       awarded: we can read the
+       first scroll
+   4. Want to build a
+       sequencer? 454.bio opens
+       up their plans
+   5. Show HN: CLI for
+       generating PDFs for
+       offline reading
 
 # NL
-   1. I had too many
+   1. No one has ever
+       been this rich (Balatro)
+   2. I had too many
        fellas and they all was
        crisp (Super Auto Pets)
-   2. Bro got the holo
+   3. Bro got the holo
        rookie Jim Joker PSA 10
        (Balatro)
-   3. As long as there's
+   4. As long as there's
        no scorpions, I'm good
        (Super Auto Pets)
-   4. Gene brought the
+   5. Gene brought the
        heat this week (Jackbox)
-   5. We may never lose
-       again (Balatro)
 
 # Slovakia
-   1. Fancy a silent and
+   1. News digest: What
+       distinguishes state and
+       private schools today
+   2. Fancy a silent and
        extreme adventure? How
        mysterious crosses will
        help you
-   2. He came to study,
+   3. He came to study,
        ended up in hospital.
        Slovak empathy towards
        Colombian student
-   3. 'At the right
+   4. 'At the right
        moment, she gave us all
        optimism and courage':
        President Čaputová
        honours US singer
-   4. Private school
+   5. Private school
        pioneers call for
        teaching overhaul
-   5. Last Week: Passage
-       of Fico’s legal changes
-       is now imminent
 
 # Space
-   1. SpaceX rolls out
+   1. Where do cosmic
+       rays come from?
+   2. New NASA
+       Collection by Stomp
+       Rocket takes off for
+       kid-powered flight
+   3. 879 days! Russian
+       cosmonaut breaks record
+       for total time spent in
+       space
+   4. SpaceX rolls out
        Falcon 9 rocket to
        launch NASA's
        ocean-studying PACE
        satellite on Feb. 6
        (photos)
-   2. Solar maximum is
+   5. Solar maximum is
        coming, but we won't
        know it happened until 7
        months after it's over
-   3. NASA Ingenuity
-       Mars helicopter, broken
-       and alone, spotted by
-       Perseverance rover on
-       Martian dune (photo,
-       video)
-   4. Earth isn't the
-       only planet with
-       seasons, but they can
-       look wildly different on
-       other worlds
-   5. 'Halo' Season 2
-       charges back onto
-       Paramount Plus this week
-       with plenty to prove
 
