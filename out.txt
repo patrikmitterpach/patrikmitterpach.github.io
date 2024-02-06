@@ -2,132 +2,142 @@
 Tuesday, February 06
 Weather: 6° - 6°
 
-	Yet who would say that
-     nature has dealt grudgingly
-     with the minds of women, and
-     stunted their virtues?
-     Believe me, they have the
-     same intellectual power as
-     men, and the same capacity
-     for honourable and generous
-     action.
+	My riches belong to me,
+     you belong to your riches.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@ErikvHaren]
-       NEWS: Red Bull has
-       launched an independent
-       investigation after
-       allegations of
-       inappropriate behavior
-       by team boss Christian
-       Horner. The company
-       confirmed this after
-       questions from De
-       Telegraaf: "We take this
-       very seriously." Horner
-       himself denies it.
-   2. Formula 1 |
+   1. Formula 1 |
        Introducing....the Kick
        Sauber C44!!
-   3. Williams 2024 vs
-       2023
-   4. Williams has a new
-       steering wheel
-   5. Sauber/Alfa Racing
-       Suits 2023 vs 2024
+   2. [@joesaward] It
+       has long been believed
+       that Christian Horner
+       and Adrian Newey have
+       contracts that protect
+       one another. If one
+       leaves the other can as
+       well. This has never
+       been confirmed - but it
+       makes for an interesting
+       dynamic if something was
+       to happen to Horner
+   3. Sauber's C44
+       Livery in the person.
+       PC: Racefans
+   4. Christian Horner
+       has ‘lost support’,
+       Jonathan Wheatley ‘could
+       take over’
+   5. [Carlos Sainz via
+       Instagram] After a full
+       year of work and
+       dedication, CS55 Racing
+       is a reality! I am so
+       happy to present to you
+       this project l’ve done
+       together with OTK Kart
+       Group, whom I raced with
+       when I was a kid!
+       Looking forward to
+       seeing it on track!
 
 # Gaming
-   1. Palworld players
-       are building some
-       impressive bases
-   2. What happens to
-       Batman in Suicide Squad:
-       Kill the Justice League?
-   3. Honkai: Star Rail
-       codes for February 2024
-   4. (Mostly terrible)
-       CGI cats in movies,
-       ranked
-   5. I found a use for
-       the Dune popcorn bucket
-       — but not what you
-       think!
+   1. Genshin Impact
+       hackers sued in Canadian
+       court
+   2. Resident Evil 3
+       comes to Game Pass in
+       February, a great chaser
+       for the RE2 remake
+   3. Legend in the Mist
+       has a wild new ruleset
+       where words are more
+       powerful than numbers
+   4. Tencent reportedly
+       making an Elden Ring
+       mobile game
+   5. Let Master Chief
+       himself explain why Halo
+       season 2 is better than
+       season 1
 
 # HackerNews
-   1. Relativistic
-       Spaceship
-   2. My business card
-       runs Linux (and Ultrix),
-       yours can too
-   3. Show HN: Atopile –
-       Design circuit boards
-       with code
-   4. Vesuvius Challenge
-       2023 Grand Prize
-       awarded: we can read the
-       first scroll
-   5. Want to build a
-       sequencer? 454.bio opens
-       up their plans
+   1. Oceans May Have
+       Already Seen 1.7°C of
+       Warming
+   2. Better Call GPT,
+       Comparing Large Language
+       Models Against Lawyers
+       [pdf]
+   3. Command Line
+       Interface Guidelines
+   4. NetBox.dev: the
+       source of truth for
+       everything on your
+       network
+   5. Runs on your
+       OpenWrt box: AdGuard
+       Home is network-wide
+       blocking ads and
+       tracking
 
 # NL
-   1. No one has ever
+   1. As long as there's
+       one scorpion...I'm good
+       (Super Auto Pets)
+   2. I wish I hadn't
+       said anything... #shorts
+   3. No one has ever
        been this rich (Balatro)
-   2. I had too many
+   4. I had too many
        fellas and they all was
        crisp (Super Auto Pets)
-   3. Bro got the holo
+   5. Bro got the holo
        rookie Jim Joker PSA 10
        (Balatro)
-   4. As long as there's
-       no scorpions, I'm good
-       (Super Auto Pets)
-   5. Gene brought the
-       heat this week (Jackbox)
 
 # Slovakia
-   1. News digest: What
+   1. A Ukrainian who
+       teaches children the
+       love of sports
+   2. Hungarian students
+       in Slovakia face serious
+       problems
+   3. News digest: What
        distinguishes state and
        private schools today
-   2. Fancy a silent and
+   4. Fancy a silent and
        extreme adventure? How
        mysterious crosses will
        help you
-   3. He came to study,
+   5. He came to study,
        ended up in hospital.
        Slovak empathy towards
        Colombian student
-   4. 'At the right
-       moment, she gave us all
-       optimism and courage':
-       President Čaputová
-       honours US singer
-   5. Private school
-       pioneers call for
-       teaching overhaul
 
 # Space
-   1. Where do cosmic
-       rays come from?
-   2. New NASA
-       Collection by Stomp
-       Rocket takes off for
-       kid-powered flight
-   3. 879 days! Russian
-       cosmonaut breaks record
-       for total time spent in
-       space
-   4. SpaceX rolls out
-       Falcon 9 rocket to
-       launch NASA's
-       ocean-studying PACE
-       satellite on Feb. 6
-       (photos)
-   5. Solar maximum is
-       coming, but we won't
-       know it happened until 7
-       months after it's over
+   1. NASA exoplanet
+       telescope discovers
+       'super-Earth' in its
+       star's Goldilocks zone
+   2. Watch the sun spit
+       out colossal plasma
+       plume during powerful
+       solar flare eruption
+       (video)
+   3. Zoozve — the
+       strange 'moon' of Venus
+       that earned its name by
+       accident
+   4. Best budget
+       binoculars 2024: Cheap
+       but high-quality models
+   5. 1st look at
+       asteroid Bennu samples
+       suggests space rock may
+       even be 'a fragment of
+       an ancient ocean world'
 
