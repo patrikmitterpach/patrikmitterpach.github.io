@@ -2,19 +2,16 @@
 Tuesday, February 06
 Weather: 6° - 6°
 
-	“I must not fear. Fear
-     is the mind-killer. Fear is
-     the little-death that brings
-     total obliteration. I will
-     face my fear. I will permit
-     it to pass over me and
-     through me. And when it has
-     gone past I will turn the
-     inner eye to see its path.
-     Where the fear has gone
-     there will be nothing. Only
-     I will remain.”
-                 ~ Frank Herbert
+	Yet who would say that
+     nature has dealt grudgingly
+     with the minds of women, and
+     stunted their virtues?
+     Believe me, they have the
+     same intellectual power as
+     men, and the same capacity
+     for honourable and generous
+     action.
+                        ~ Seneca
 
 
 -- News --
@@ -32,11 +29,11 @@ Weather: 6° - 6°
        Telegraaf: "We take this
        very seriously." Horner
        himself denies it.
-   2. Williams 2024 vs
-       2023
-   3. Formula 1 |
+   2. Formula 1 |
        Introducing....the Kick
        Sauber C44!!
+   3. Williams 2024 vs
+       2023
    4. Williams has a new
        steering wheel
    5. Sauber/Alfa Racing
@@ -62,19 +59,19 @@ Weather: 6° - 6°
 # HackerNews
    1. Relativistic
        Spaceship
-   2. Show HN: Atopile –
+   2. My business card
+       runs Linux (and Ultrix),
+       yours can too
+   3. Show HN: Atopile –
        Design circuit boards
        with code
-   3. Vesuvius Challenge
+   4. Vesuvius Challenge
        2023 Grand Prize
        awarded: we can read the
        first scroll
-   4. Want to build a
+   5. Want to build a
        sequencer? 454.bio opens
        up their plans
-   5. Show HN: CLI for
-       generating PDFs for
-       offline reading
 
 # NL
    1. No one has ever
