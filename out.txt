@@ -1,149 +1,132 @@
 -- Daily Times --
-Tuesday, February 06
+Wednesday, February 07
 Weather: 6° - 6°
 
-	To live happily, then,
-     is the same thing as to live
-     according to Natur(1).
+	Can heights be reached
+     by a level path?
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Formula 1 |
-       Introducing....the Kick
-       Sauber C44!!
-   2. [@joesaward] It
-       has long been believed
-       that Christian Horner
-       and Adrian Newey have
-       contracts that protect
-       one another. If one
-       leaves the other can as
-       well. This has never
-       been confirmed - but it
-       makes for an interesting
-       dynamic if something was
-       to happen to Horner
-   3. Christian Horner
-       has ‘lost support’,
-       Jonathan Wheatley ‘could
-       take over’
-   4. Sauber's C44
-       Livery in the person.
-       PC: Racefans
-   5. Swiss Gaming
-       Commission has opened
-       proceedings against
-       Sauber: Gambling
-       provider Stake does not
-       have a license in
-       Switzerland and is
-       therefore illegal
+   1. F1 2024 "Colorful"
+       Liveries
+   2. Happy Birthday to
+       Pierre Gasly, the Grand
+       Prix winner and 4-time
+       Podium sitter turns 28
+       today!
+   3. The fact that the
+       story first leaked in
+       the Netherlands of all
+       places is probably no
+       coincidence. Behind the
+       scenes in Formula 1
+       there are whispers that
+       the personal
+       relationship between
+       Horner and Jos
+       Verstappen is badly
+       damaged.
+   4. 2024 Alpine A524
+   5. A reminder of the
+       glorious variety of
+       liveries we had on the
+       2018 grid.
 
 # Gaming
-   1. Homeworld 3’s demo
-       has me feeling slightly
-       concerned about the RTS
-       legend
-   2. Our pal Brian
-       David Gilbert joins
-       Dropout’s Um, Actually
-       for upcoming season
-   3. The old best
-       Hitman game is the best
-       new Hitman game but not
-       the new best Hitman game
-   4. PlayStation Plus’
-       February free games
-       include Square Enix’s
-       foam party and roller
-       derby murder
-   5. Sonic creator is
-       behind Toei’s ‘most
-       ambitious’ anime feature
-       ever
+   1. The Moana TV show
+       has been reworked into a
+       movie, coming this year
+   2. Disney invests
+       $1.5B in Fortnite maker
+       Epic Games
+   3. Valentine’s Day
+       2024: 10 gift ideas that
+       we won’t take
+       responsibility for if it
+       backfires
+   4. An Xbox
+       multiplatform plan
+       shouldn’t be surprising
+       fans as much as it is
+   5. You can buy A24’s
+       Stop Making Sense
+       restoration on 4K, and
+       nothing is better than
+       that
 
 # HackerNews
-   1. Bluesky and the AT
-       Protocol: Usable
-       decentralized social
-       media
-   2. Command line
-       interface guidelines
-       (2021)
-   3. "Fake Chinese
-       income" mortgages fuel
-       Toronto real estate
-       bubble: HSBC bank leaks
-   4. NetBox: a source
-       of truth for everything
-       on your network
-   5. The world is
-       awful. The world is much
-       better. The world can be
-       much better
+   1. A search engine in
+       80 lines of Python
+   2. A Conspiracy to
+       Kill IE6
+   3. Microsoft's
+       Adaptive Cards
+   4. Explore
+       interesting places
+       nearby listed on
+       Wikipedia
+   5. TSMC to build
+       second Japan chip
+       factory
 
 # NL
-   1. Still not as
-       dangerous as driving in
-       Vancouver in the snow
+   1. This video will
+       make you mad (Super Auto
+       Pets)
+   2. Dicey Dungeons
+       meets Slay the Spire?
+       (Die in the Dungeon)
+   3. Where we're going,
+       we don't need roads
        (Pacific Drive)
-   2. As long as there's
-       one scorpion...I'm good
-       (Super Auto Pets)
-   3. I wish I hadn't
-       said anything... #shorts
-   4. No one has ever
-       been this rich (Balatro)
-   5. I had too many
-       fellas and they all was
-       crisp (Super Auto Pets)
+   4. That's an awfully
+       hot flower pot (Balatro)
+   5. ARE YOU STEPPING?
+       #shorts
 
 # Slovakia
-   1. Adrenaline event
-       being prepared in
-       Chopok, its organisers
-       promising spectacular
-       entertainment
-   2. Slovakia breaks
-       its record in
-       electricity generated
-       from nuclear power
-   3. 'High-performing'
-       PM and ministers
-       increase their salaries
-       through a simple decree
-   4. A Ukrainian who
-       teaches children the
-       love of sports
-   5. Hungarian students
-       in Slovakia face serious
-       problems
+   1. News digest:
+       Government mulls
+       inter-state complaint
+       over Slovak's death in
+       Belgium
+   2. Water pipe
+       accident helps find
+       missing gate of Trnava
+       fortification
+   3. Socialist building
+       stuck in past may
+       undergo reconstruction
+   4. Petržalka Hill -
+       and asbestos - starts to
+       disappear
+   5. Slovak ex-prime
+       minister: Russia needs
+       to see Europe's strength
 
 # Space
-   1. Asteroid 2024 BX1
-       fragments confirmed to
-       be rare meteorites as
-       old as the solar system
-       itself
-   2. NASA's Juno probe
-       snaps outstanding photos
-       of Jupiter's volcanic
-       moon Io during close
-       flyby
-   3. Virgin Galactic
-       mothership loses
-       alignment pin during
-       space plane launch, FAA
-       investigating
-   4. NASA exoplanet
-       telescope discovers
-       'super-Earth' in its
-       star's Goldilocks zone
-   5. Powerful solar
-       flare unleashes colossal
-       plasma plume, sparks
-       radio blackouts across
-       South Pacific (video)
+   1. 1st look: Mace
+       Windu protects a
+       galactic secret in
+       Marvel Comics' new solo
+       'Star Wars' series
+   2. Upcoming solar
+       maximum may help solve
+       the sun's gamma-ray
+       puzzle
+   3. Surprise! Baby
+       exoplanets might look
+       like Smarties candies
+       rather than spheres
+   4. New film
+       'Spacewoman' to
+       celebrate NASA's Eileen
+       Collins, 1st woman space
+       commander and pilot
+   5. Here's what it's
+       like taking a VR
+       spacewalk with the
+       Canadian Space Agency
 
