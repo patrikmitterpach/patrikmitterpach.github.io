@@ -1,127 +1,132 @@
 -- Daily Times --
-Friday, February 09
+Saturday, February 10
 Weather: 6° - 6°
 
-	Often a man who is very
-     old in years has nothing
-     beyond his age by which he
-     can prove that he has lived
-     a long time.”
+	Should Nature recall
+     what she previously
+     entrusted us with, let us
+     say to her also: ‘Take back
+     my spirit, which is better
+     than when you gave it me: I
+     do not shuffle or hang back.
+     Of my own free will I am
+     ready to return what you
+     gave me before I could
+     think: take me away.’
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. New 2024 Toro
-       Rosso racing suits
-   2. [Silverstone] TEN.
-       MORE. YEARS. We're
-       delighted to announce
-       Silverstone will remain
-       on the F1 calendar until
-       at least 2034!
-   3. 2024 Visa Cash App
-       RB Car
-   4. [@SkySportsF1]"I'm
-       still a Mercedes junior
-       driver, that's no secret
-       to anyone" Esteban Ocon
-       on his "strong" Mercedes
-       links and the 2025
-       driver market
-   5. Anyone Nostalgic??
+   1. Daniel Ricciardo
+       and Yuki Tsunoda with
+       Kendrick Lamar
+   2. New Ferrari Race
+       Suits for 2024
+   3. Kick Sauber C44 on
+       track in Barcelona for
+       its shakedown
+   4. Horner hearing
+       today in London. Verdict
+       not expected until next
+       week.
+   5. Christian Horner:
+       Hearing into Red Bull
+       team boss ends without
+       resolution
 
 # Gaming
-   1. Abbott Elementary,
-       and all sitcoms, should
-       ditch the mockumentary
-   2. All Zelda: Tears
-       of the Kingdom amiibo
-       rewards and unlocks list
-   3. Where to buy
-       Legend of Zelda amiibo
-   4. How to make money
-       in GTA Online
-   5. Dragonlance author
-       confirms Joe
-       Manganiello’s secret TV
-       project is dead
+   1. True Detective:
+       Night Country episode 5
+       solves one mystery and
+       opens up a few more
+   2. American Fiction,
+       The Marvels, and every
+       new movie to watch at
+       home this weekend
+   3. The next Predator
+       movie already sounds
+       like a great direction
+       for the franchise
+   4. Fortnite TMNT
+       event quest schedule and
+       Cowabunga rewards
+   5. Hideo Kojima says
+       Metal Gear fans and a
+       health scare inspired
+       his new game Physint
 
 # HackerNews
-   1. Permutation City
-   2. OpenAI
-       compatibility
-   3. What's new in the
-       Postgres 16 query
-       planner
-   4. I accidentally
-       Blender VSE
-   5. Russian troops use
-       Starlink licensed and
-       imported from Dubai
+   1. Almost every
+       infrastructure decision
+       I endorse or regret
+   2. Mixed reality gone
+       in Windows 11 Insider
+       Preview Build 26052
+   3. Building the
+       DirectX shader compiler
+       better than Microsoft?
+   4. Power of small
+       optimizations
+   5. BirdLingo: A
+       birdsong learning game
 
 # NL
-   1. Close only counts
+   1. No one knows Tom
+       like me (Miscellaneous)
+   2. I'm getting
+       bullied for my flushes
+       (Balatro)
+   3. Is this a joke to
+       you? (Jackbox)
+   4. They say ads are
+       based on your browsing
+       history... #shorts
+   5. Close only counts
        in horseshoes (Balatro)
-   2. Bro is boosted out
-       of his gourd (Die in the
-       Dungeon)
-   3. How many bagels is
-       too many? (Super Auto
-       Pets)
-   4. So yeah, I'm
-       thinking I'm washed
-       (Jackbox)
-   5. The damage one
-       whoopie cushion can do
-       #shorts
 
 # Slovakia
-   1. These students
+   1. News digest:
+       Railway transport in
+       western Slovakia is in
+       big trouble, union warns
+   2. Report: Gangs of
+       school pupils are
+       attacking people in
+       eastern Slovak towns
+   3. Globsec,
+       Slovakia's biggest
+       high-level annual event,
+       may quit Bratislava
+   4. Wild boars in
+       Bratislava are hunted
+       from high stands, those
+       in city are problematic
+   5. These students
        launched a business
        based on wool – and won
        awards
-   2. Weekend: With
-       Fašiangy in full swing,
-       check out what your town
-       has to offer
-   3. News digest: Smer
-       changes the Penal Code.
-       Now it's the
-       Constitutional Court's
-       turn
-   4. Judge sees no
-       crime in public
-       war-approving posts.
-       Pro-Russian pensioner is
-       free for now
-   5. The first step to
-       becoming an urban
-       centre? Move the cattle
-       market outside of town
 
 # Space
-   1. 20 people in
-       space! Humanity quietly
-       tied a record last month
-   2. Relive SpaceX
-       Starship's epic 2nd test
-       flight in newly released
-       NASA footage (video)
-   3. Donated
-       Renaissance-era
-       astronomy book surprises
-       university with hidden
-       text
-   4. Did monster black
-       holes or galaxies come
-       first? The James Webb
-       Space Telescope may have
-       a surprise answer
-   5. 'It takes courage
-       to make the right
-       decision:' Artemis 2
-       astronaut explains why
-       moon mission was delayed
-       to 2025 (exclusive)
+   1. Mars helicopter
+       Ingenuity's final
+       resting place named
+       after 'Undying Lands' in
+       'Lord of the Rings'
+   2. How Earth's new
+       Rubin Observatory will
+       usher in the next era of
+       asteroid space missions
+   3. See SpaceX's
+       breathtaking launch of
+       NASA's PACE satellite
+       (photos)
+   4. Hubble Space
+       Telescope tells a starry
+       'tail' of 12 mingling
+       galaxies
+   5. Celestron
+       AstroMaster LT 70AZ
+       beginner telescope is
+       now under $60
 
