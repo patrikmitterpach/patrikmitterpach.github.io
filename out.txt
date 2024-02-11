@@ -1,89 +1,104 @@
 -- Daily Times --
-Saturday, February 10
+Sunday, February 11
 Weather: 6° - 6°
 
-	Should Nature recall
-     what she previously
-     entrusted us with, let us
-     say to her also: ‘Take back
-     my spirit, which is better
-     than when you gave it me: I
-     do not shuffle or hang back.
-     Of my own free will I am
-     ready to return what you
-     gave me before I could
-     think: take me away.’
+	In this course of life
+     there await you many good
+     things, such as love and
+     practice of the virtues,
+     forgetfulness of passions,
+     knowledge of how to live and
+     die, deep repose. The
+     position of all busy men is
+     unhappy, but most unhappy of
+     all is that of those who do
+     not even labour at their own
+     affairs, but have to
+     regulate their rest by
+     another man’s sleep, their
+     walk by another man’s pace,
+     and whose very love and
+     hate, the freest things in
+     the world, are at another’s
+     bidding. If such men wish to
+     know how short their lives
+     are, let them think how
+     small a fraction of them is
+     their own.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Daniel Ricciardo
-       and Yuki Tsunoda with
-       Kendrick Lamar
-   2. New Ferrari Race
+   1. Ferrari Pit Crew
        Suits for 2024
-   3. Kick Sauber C44 on
-       track in Barcelona for
-       its shakedown
-   4. Horner hearing
-       today in London. Verdict
-       not expected until next
-       week.
-   5. Christian Horner:
-       Hearing into Red Bull
-       team boss ends without
-       resolution
+   2. [Charles Leclerc]
+       New season. New suit.
+       It’s a beautyyyyy
+   3. This season's
+       Formula 3 grid is
+       filled! I made a guide
+       to the teams and drivers
+       competing this year. Who
+       do you think will come
+       out on top?
+   4. Total Entry Fees
+       For Each Team In 2024
+   5. Stake F1 Team |
+       Wishing everyone a
+       prosperous and
+       fulfilling Year of the
+       Dragon!
 
 # Gaming
-   1. True Detective:
+   1. Adult Swim’s Ninja
+       Kamui is a brutal,
+       fast-paced revenge
+       thriller
+   2. From Taylor to
+       trailers, here are
+       Polygon’s Super Bowl
+       predictions
+   3. The first great
+       game of 2024 is already
+       on sale at Target
+   4. The best thrillers
+       to watch on Netflix this
+       February
+   5. True Detective:
        Night Country episode 5
        solves one mystery and
        opens up a few more
-   2. American Fiction,
-       The Marvels, and every
-       new movie to watch at
-       home this weekend
-   3. The next Predator
-       movie already sounds
-       like a great direction
-       for the franchise
-   4. Fortnite TMNT
-       event quest schedule and
-       Cowabunga rewards
-   5. Hideo Kojima says
-       Metal Gear fans and a
-       health scare inspired
-       his new game Physint
 
 # HackerNews
-   1. Almost every
-       infrastructure decision
-       I endorse or regret
-   2. Mixed reality gone
-       in Windows 11 Insider
-       Preview Build 26052
-   3. Building the
-       DirectX shader compiler
-       better than Microsoft?
-   4. Power of small
-       optimizations
-   5. BirdLingo: A
-       birdsong learning game
+   1. Show HN:
+       Multi-monitor KVM using
+       just a USB switch
+   2. Show HN: Tweening
+       web visualisation, in
+       Rust – (WASM)
+   3. Keycloak SSO with
+       Docker Compose and Nginx
+   4. I Know What Your
+       Password Was Last Summer
+   5. Getting into
+       Robotics as a Software
+       Engineer
 
 # NL
-   1. No one knows Tom
-       like me (Miscellaneous)
-   2. I'm getting
-       bullied for my flushes
-       (Balatro)
-   3. Is this a joke to
-       you? (Jackbox)
-   4. They say ads are
-       based on your browsing
-       history... #shorts
-   5. Close only counts
-       in horseshoes (Balatro)
+   1. That's what you
+       get when you let your
+       hearts win (Balatro)
+   2. I hate amoebas,
+       dude (Super Auto Pets)
+   3. Throwing like Mark
+       Buehrle (Balatro)
+   4. I couldn't stay
+       away for a week
+       (Jackbox)
+   5. New update!! This
+       is not a drill!! (Super
+       Auto Pets)
 
 # Slovakia
    1. News digest:
@@ -108,25 +123,27 @@ Weather: 6° - 6°
        awards
 
 # Space
-   1. Mars helicopter
-       Ingenuity's final
-       resting place named
-       after 'Undying Lands' in
-       'Lord of the Rings'
-   2. How Earth's new
-       Rubin Observatory will
-       usher in the next era of
-       asteroid space missions
-   3. See SpaceX's
-       breathtaking launch of
-       NASA's PACE satellite
+   1. Intuitive Machines
+       moon lander to carry
+       tiny NASA cameras to
+       study lunar surface
+       (video)
+   2. Cosmic Super Bowl?
+       The Milky Way's black
+       hole is shaping
+       spacetime into a
+       football
+   3. New 'Judas' game
+       trailer teases a
+       dystopian sci-fi romp in
+       outer space
+   4. NASA is 'learning
+       to listen to the X-59'
+       by simulating sonic
+       thumps with fighter jets
        (photos)
-   4. Hubble Space
-       Telescope tells a starry
-       'tail' of 12 mingling
-       galaxies
-   5. Celestron
-       AstroMaster LT 70AZ
-       beginner telescope is
-       now under $60
+   5. This Week In Space
+       podcast: Episode 97 —
+       Europa Clipper - Attempt
+       No Landing There?
 
