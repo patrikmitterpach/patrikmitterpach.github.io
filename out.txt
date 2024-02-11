@@ -2,103 +2,83 @@
 Sunday, February 11
 Weather: 6° - 6°
 
-	In this course of life
-     there await you many good
-     things, such as love and
-     practice of the virtues,
-     forgetfulness of passions,
-     knowledge of how to live and
-     die, deep repose. The
-     position of all busy men is
-     unhappy, but most unhappy of
-     all is that of those who do
-     not even labour at their own
-     affairs, but have to
-     regulate their rest by
-     another man’s sleep, their
-     walk by another man’s pace,
-     and whose very love and
-     hate, the freest things in
-     the world, are at another’s
-     bidding. If such men wish to
-     know how short their lives
-     are, let them think how
-     small a fraction of them is
-     their own.
-                        ~ Seneca
+	Someone driving a
+     $100,000 car might be
+     wealthy. But the only data
+     point you have about their
+     wealth is that they have
+     $100,000 less than they did
+     before they bought the car
+     (or $100,000 more in debt).
+     That’s all you know about
+     them.
+                 ~ Morgan Housel
 
 
 -- News --
 # Formula1
-   1. Ferrari Pit Crew
-       Suits for 2024
-   2. [Charles Leclerc]
-       New season. New suit.
-       It’s a beautyyyyy
-   3. This season's
-       Formula 3 grid is
-       filled! I made a guide
-       to the teams and drivers
-       competing this year. Who
-       do you think will come
-       out on top?
-   4. Total Entry Fees
+   1. WDC in 1 picture
+       (Alain Prost Instagram)
+   2. F1 | Number of
+       races by class of 2024
+   3. Total Entry Fees
        For Each Team In 2024
-   5. Stake F1 Team |
-       Wishing everyone a
-       prosperous and
-       fulfilling Year of the
-       Dragon!
+   4. Bottas's most
+       recent Instagram post
+   5. Alpine F1 team
+       didn’t wait for Hamilton
+       move to start driver
+       talks
 
 # Gaming
-   1. Adult Swim’s Ninja
+   1. What time does
+       Apex Legends Season 20
+       Breakout release?
+   2. The post-Super
+       Bowl show Tracker is the
+       most 2024 procedural
+       imaginable
+   3. Adult Swim’s Ninja
        Kamui is a brutal,
        fast-paced revenge
        thriller
-   2. From Taylor to
+   4. From Taylor to
        trailers, here are
        Polygon’s Super Bowl
        predictions
-   3. The first great
+   5. The first great
        game of 2024 is already
        on sale at Target
-   4. The best thrillers
-       to watch on Netflix this
-       February
-   5. True Detective:
-       Night Country episode 5
-       solves one mystery and
-       opens up a few more
 
 # HackerNews
-   1. Show HN:
-       Multi-monitor KVM using
-       just a USB switch
-   2. Show HN: Tweening
-       web visualisation, in
-       Rust – (WASM)
-   3. Keycloak SSO with
-       Docker Compose and Nginx
-   4. I Know What Your
-       Password Was Last Summer
-   5. Getting into
-       Robotics as a Software
-       Engineer
+   1. I designed a cube
+       that balances itself on
+       a corner
+   2. 100%
+       User-Supported
+   3. Cross My Heart – A
+       Frogger Demake in 256
+       Bytes of HTML/JS
+   4. RLHF a LLM in <50
+       lines of Python
+   5. Javalin – a simple
+       web framework for Java
+       and Kotlin
 
 # NL
-   1. That's what you
+   1. Northernlion as a
+       medieval streamer...
+       #shorts
+   2. That's what you
        get when you let your
        hearts win (Balatro)
-   2. I hate amoebas,
+   3. I hate amoebas,
        dude (Super Auto Pets)
-   3. Throwing like Mark
+   4. Throwing like Mark
        Buehrle (Balatro)
-   4. I couldn't stay
+   5. I couldn't stay
        away for a week
        (Jackbox)
-   5. New update!! This
-       is not a drill!! (Super
-       Auto Pets)
 
 # Slovakia
    1. News digest:
@@ -123,27 +103,30 @@ Weather: 6° - 6°
        awards
 
 # Space
-   1. Intuitive Machines
+   1. How to watch
+       SpaceX launch the
+       private Intuitive
+       Machines moon lander
+       IM-1 on Feb. 14 live
+       online
+   2. It's good! Space
+       station astronauts toss
+       football in zero-g for
+       Super Bowl 2024 (video)
+   3. World's 1st
+       fault-tolerant quantum
+       computer launching this
+       year ahead of a
+       10,000-qubit machine in
+       2026
+   4. Intuitive Machines
        moon lander to carry
        tiny NASA cameras to
        study lunar surface
        (video)
-   2. Cosmic Super Bowl?
+   5. Cosmic Super Bowl?
        The Milky Way's black
        hole is shaping
        spacetime into a
        football
-   3. New 'Judas' game
-       trailer teases a
-       dystopian sci-fi romp in
-       outer space
-   4. NASA is 'learning
-       to listen to the X-59'
-       by simulating sonic
-       thumps with fighter jets
-       (photos)
-   5. This Week In Space
-       podcast: Episode 97 —
-       Europa Clipper - Attempt
-       No Landing There?
 
