@@ -1,132 +1,124 @@
 -- Daily Times --
-Sunday, February 11
+Monday, February 12
 Weather: 6° - 6°
 
-	How far happier is he
-     who is indebted to no man
-     for anything except for what
-     he can deprive himself of
-     with the greatest ease!
+	Too much pleasure is
+     hurtful: but with virtue we
+     need fear no excess of any
+     kind, because moderation is
+     contained in virtue herself.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. WDC in 1 picture
-       (Alain Prost Instagram)
-   2. F1 | Number of
-       races by class of 2024
-   3. Bottas's most
+   1. Bottas's most
        recent Instagram post
-   4. Total Entry Fees
-       For Each Team In 2024
-   5. Alpine F1 team
-       didn’t wait for Hamilton
-       move to start driver
-       talks
+   2. Michael Schumacher
+       at Fiorano, pre season
+       1998
+   3. Ritomo Miyata’s
+       Toyota livery for F2
+   4. 2024 Aston Martin
+       AMR24
+   5. 2024 Ferrari Team
+       Kit
 
 # Gaming
-   1. The best arctic
-       horror stories to watch
-       after True Detective:
-       Night Country
-   2. What time does
-       Apex Legends Season 20
-       Breakout release?
-   3. The post-Super
-       Bowl show Tracker is the
-       most 2024 procedural
-       imaginable
-   4. Adult Swim’s Ninja
-       Kamui is a brutal,
-       fast-paced revenge
-       thriller
-   5. From Taylor to
-       trailers, here are
-       Polygon’s Super Bowl
-       predictions
+   1. Charlie Kaufman’s
+       movies are radical
+       therapy
+   2. Everything we know
+       about ‘Switch 2,’
+       Nintendo’s next-gen
+       console
+   3. Nickelodeon’s
+       SpongeBob-themed Super
+       Bowl might be the best
+       way to watch, at this
+       point
+   4. Fortnite TMNT
+       event quest schedule and
+       Cowabunga rewards
+   5. Deadpool 2’s
+       mid-credits scene is
+       super important for
+       Deadpool & Wolverine
 
 # HackerNews
-   1. I designed a cube
+   1. The Ultraviolet
+       Myth
+   2. AMD Funded a
+       Drop-In CUDA
+       Implementation Built on
+       ROCm: It's Now
+       Open-Source
+   3. Cloudflare defeats
+       patent troll Sable at
+       trial
+   4. Kalman Filter
+       Explained Simply
+   5. I designed a cube
        that balances itself on
        a corner
-   2. Cross My Heart – A
-       Frogger Demake in 256
-       Bytes of HTML/JS
-   3. RLHF a LLM in <50
-       lines of Python
-   4. Javalin – a simple
-       web framework for Java
-       and Kotlin
-   5. Show HN:
-       Multi-monitor KVM using
-       just a USB switch
 
 # NL
-   1. His mom was kind
-       of crazy for that one
-       (Balatro)
-   2. They're having a
-       Dle off...AGAIN
-       (Miscellaneous ft.
-       DumbDog)
-   3. They really struck
-       gold with Quiplash
-       (Jackbox)
-   4. Northernlion as a
-       medieval streamer...
+   1. How to save a life
        #shorts
-   5. That's what you
-       get when you let your
-       hearts win (Balatro)
+   2. Tarot or not
+       tarot, that is the
+       question (Balatro)
+   3. There's a lot to
+       grasp here (Super Auto
+       Pets)
+   4. Spreading
+       intergalactic democracy
+       one orbital strike at a
+       time (Helldivers 2)
+   5. They need a
+       seniors division (Super
+       Auto Pets)
 
 # Slovakia
-   1. News digest:
+   1. Slovak battles
+       rains and drought to
+       bring unearth Maya
+       history
+   2. Why are you
+       helping rapists? Fico’s
+       government faces some
+       awkward questions
+   3. News digest:
        Railway transport in
        western Slovakia is in
        big trouble, union warns
-   2. Report: Gangs of
+   4. Report: Gangs of
        school pupils are
        attacking people in
        eastern Slovak towns
-   3. Globsec,
+   5. Globsec,
        Slovakia's biggest
        high-level annual event,
        may quit Bratislava
-   4. Wild boars in
-       Bratislava are hunted
-       from high stands, those
-       in city are problematic
-   5. These students
-       launched a business
-       based on wool – and won
-       awards
 
 # Space
-   1. How to watch
-       SpaceX launch the
-       private Intuitive
-       Machines moon lander
-       IM-1 on Feb. 14 live
-       online
-   2. It's good! Space
-       station astronauts toss
-       football in zero-g for
-       Super Bowl 2024 (video)
-   3. World's 1st
-       fault-tolerant quantum
-       computer launching this
-       year ahead of a
-       10,000-qubit machine in
-       2026
-   4. Intuitive Machines
-       moon lander to carry
-       tiny NASA cameras to
-       study lunar surface
-       (video)
-   5. Cosmic Super Bowl?
-       The Milky Way's black
-       hole is shaping
-       spacetime into a
-       football
+   1. Solar eclipse on
+       Mars! Perseverance rover
+       sees Martian moon Phobos
+       cross the sun in epic
+       video
+   2. Young Mars had
+       active volcanoes near a
+       mile-deep lake. Could
+       life have thrived there?
+   3. The mystery of the
+       missing super-Earths and
+       mini-Neptunes may
+       finally be solved
+   4. What would happen
+       if you moved at the
+       speed of light?
+   5. A star's extreme
+       outburst could be
+       tormenting baby planets
 
