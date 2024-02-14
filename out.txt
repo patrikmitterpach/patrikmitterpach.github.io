@@ -1,120 +1,137 @@
 -- Daily Times --
-Monday, February 12
+Wednesday, February 14
 Weather: 6° - 6°
 
-	Men who cannot succeed
-     themselves wish everyone
-     else to be ruined.
+	It is above all things
+     necessary to form a true
+     estimate of oneself, because
+     as a rule we think that we
+     can do more than we are
+     able: one man is led too far
+     through confidence in his
+     eloquence, another demands
+     more from his estate than it
+     can produce, another burdens
+     a weakly body with some
+     toilsome duty.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Michael Schumacher
-       at Fiorano, pre season
-       1998
-   2. Anti-leak measures
-       from Ferrari
-   3. 2024 Ferrari Team
-       Kit
-   4. 2024 Aston Martin
-       AMR24
-   5. Ritomo Miyata’s
-       Toyota livery for F2
+   1. 2024 Mercedes W15
+       E Performance
+   2. Sainz admits
+       losing Ferrari seat to
+       Hamilton "was a bit of a
+       surprise"
+   3. Mercedes F1 Team
+       for 2024
+   4. Vasseur made "the
+       most difficult calls" to
+       Sainz and Wolff after
+       Hamilton deal
+   5. [f1-insider.com]
+       Red Bull: Horner
+       continues to deny
+       allegations
 
 # Gaming
-   1. All flying mounts
-       in Palworld, and where
-       to find them
-   2. The best Pals to
-       keep at your base in
-       Palworld
-   3. Skull and Bones’
-       open beta shows a great
-       pirate ship game sunk by
-       scope
-   4. True Detective:
-       Night Country creator’s
-       breakout horror film
-       will ruin you
-   5. How to get high
-       quality Pal oil in
-       Palworld
+   1. No matter what
+       happens next, unionizing
+       at ZeniMax worked
+   2. One-season romance
+       anime to watch with your
+       partner this Valentine’s
+       Day
+   3. PlayStation won’t
+       release any major
+       first-party games before
+       March 2025
+   4. Mario vs. Donkey
+       Kong is fine, but
+       Nintendo remade the
+       wrong game
+   5. How to find and
+       kill Chargers in
+       Helldivers 2
 
 # HackerNews
-   1. US rail safety
-       legislation stalled one
-       year after East
-       Palestine Ohio disaster
-   2. VDPA: Support for
-       block devices in Linux
-       and QEMU
-   3. The Ultraviolet
-       Myth
-   4. Chicago
-       Underground Pedway [pdf]
-   5. FCC gets tough:
-       Telcos must now tell you
-       when your personal info
-       is stolen
+   1. European Court of
+       Human Rights bans
+       weakening of secure
+       end-to-endencryption
+   2. Enhancing the
+       Factorio experience with
+       SAT solvers
+   3. The Golden Age of
+       Cordless Power Tools
+   4. What made Earth a
+       giant snowball 700M
+       years ago? Scientists
+       have an answer
+   5. The Argument over
+       a Long-Standing Autism
+       Intervention
 
 # NL
-   1. They're in my head
-       about the flushes, bro
+   1. Don't you toss
+       that minefield down
+       there (Helldivers 2)
+   2. The trailer for
+       the teaser for the
+       trailer (Miscellaneous)
+   3. Call me Nacci the
+       way I be fibbin
        (Balatro)
-   2. How to save a life
-       #shorts
-   3. Tarot or not
-       tarot, that is the
-       question (Balatro)
-   4. There's a lot to
-       grasp here (Super Auto
-       Pets)
-   5. Spreading
-       intergalactic democracy
-       one orbital strike at a
-       time (Helldivers 2)
+   4. There's a first
+       time for everything
+       (Balatro)
+   5. Joke's on you I've
+       got another frickin head
+       (Super Auto Pets)
 
 # Slovakia
-   1. News digest: More
-       international travellers
-       visit Slovakia (but it's
-       not what it used to be)
-   2. A Slovak museum
-       offers audio guides but
-       no WiFi to visitors
-   3. Fico announces a
-       big investment
-       revolution. Meanwhile,
-       his minister backpedals
-   4. Bratislava air
-       poses risk to people,
-       German activists say
-   5. Slovak battles
-       rains and drought to
-       bring unearth Maya
-       history
+   1. He threatened to
+       kill prosecutor,
+       attempted to discredit
+       judge. Fico wants him as
+       secret service chief
+   2. Yacht building,
+       villa. See the top 10
+       most expensive
+       Bratislava buildings for
+       sale
+   3. News digest: A
+       warning letter to Fico
+       govt
+   4. Fico cabinet takes
+       revenge on chief
+       hygienist for pandemic
+       management
+   5. Dell Slovakia
+       sacks trade union
+       officials, faces
+       accusation of using
+       'brute force'
 
 # Space
-   1. Greece signs
-       Artemis Accords for
-       responsible moon
-       exploration
-   2. See new trailer
-       for NatGeo's 'The Space
-       Race' documentary
-       saluting Black
-       astronauts (video)
-   3. Canadian astronaut
-       reveals Indigenous art
-       patch for Artemis 2 moon
-       mission
-   4. Orbital resonance
-       — the striking
-       gravitational dance done
-       by planets with aligning
-       orbits
-   5. Everything we know
-       about Warhammer 40K:
-       Space Marine 2
+   1. Fire but no
+       brimstone: Where is the
+       universe's missing
+       sulfur?
+   2. SpaceX launching
+       22 Starlink satellites
+       from California tonight
+   3. Best solar viewing
+       kit 2024: Observe the
+       April 8 solar eclipse
+   4. The moon and
+       Jupiter go on a
+       Valentine's Day date in
+       the night sky tonight
+   5. SpaceX launching
+       secret national security
+       mission for US Space
+       Force today
 
