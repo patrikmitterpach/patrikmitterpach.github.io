@@ -2,63 +2,61 @@
 Friday, February 16
 Weather: 6° - 6°
 
-	He is happy who in his
-     present circumstances,
-     whatever they may be, is
-     satisfied and on friendly
-     terms with the conditions of
-     his life.
+	when his last day
+     arrives, the wise man will
+     not hang back, but will walk
+     with a steady step to meet
+     death.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. RB20 leaks ahead
-       of official reveal.
-   2. Formula One Cars
+   1. Formula One Cars
        of 2024
+   2. RB20 leaks ahead
+       of official reveal.
    3. 2024 Red Bull RB20
-   4. [Charles Leclerc
-       on Instagram] Charles
-       announcing release of
-       new music
-   5. Alpine F1 Team |
-       Comparing all the angles
-       of A523 and A524
+   4. RB20 vertical
+       s-duct
+   5. Gary Anderson: Red
+       Bull RB20 is a holy s**t
+       moment for rivals
 
 # Gaming
-   1. All Persona 3
+   1. How to get coal in
+       Palworld
+   2. Baldur’s Gate 3’s
+       anticipated kissing
+       patch is finally out
+   3. The story behind
+       Avatar’s bending designs
+       still rules, nearly 20
+       years later
+   4. All Persona 3
        Reload classroom answers
        and questions
-   2. 7 tips and tricks
+   5. 7 tips and tricks
        before starting Deep
        Rock Galactic: Survivor
-   3. Deep Rock
-       Galactic: Survivor’s
-       auto-shooter gameplay
-       has me yearning for the
-       mines
-   4. Don’t worry, Xbox
-       is staying in the
-       hardware game
-   5. How to get and
-       farm ore in Palworld
 
 # HackerNews
-   1. Sora: Creating
-       video from text
-   2. Magika: AI powered
+   1. Guix on the
+       Framework 13 AMD
+   2. Data Structures as
+       Topological Spaces
+       (2002) [pdf]
+   3. The Emacsen
+       family, the design of an
+       Emacs and the importance
+       of Lisp (2023)
+   4. Kagi Changelog
+       2/13: Faster and more
+       accurate instant answers
+       and Wikipedia page
+   5. Magika: AI powered
        fast and efficient file
        type identification
-   3. It Was 33 Years
-       Ago Today: Happy
-       Birthday Lemmings
-   4. Video generation
-       models as world
-       simulators
-   5. Our
-       next-generation model:
-       Gemini 1.5
 
 # NL
    1. The most five
@@ -76,44 +74,48 @@ Weather: 6° - 6°
        #shorts
 
 # Slovakia
-   1. News digest:
-       Šimečka's comment about
-       'cowardly Slovak nation'
-       angers Smer
-   2. "For tickets to
-       Russia to see beloved
-       Putin": People poke fun
-       at Danko via bank
-       account
-   3. Slovak firm's
-       solution helps sign
-       contracts cheaply and
-       quickly
-   4. Smer files
-       complaint against
-       journalist, attacks two
-       others
-   5. Top 10 events in
-       Bratislava for
-       foreigners
+   1. In a bold step by
+       President Čaputová, she
+       will sign but challenge
+       new law
+   2. Presidential
+       election poll suggests
+       race is tightening
+   3. One had a luxury
+       holiday, the other was
+       on a budget: Two Irish
+       celebs discover
+       Bratislava
+   4. Weekend: Nigerian
+       Rapper makes beat out of
+       Slovak folk song, drops
+       a hit
+   5. Hiking Jánošíkove
+       Diery: A walk in the
+       park, then a rush of
+       adrenaline
 
 # Space
-   1. Save 30% on the
-       absolutely massive Lego
-       Marvel Hulkbuster
-   2. Saturn's ocean
-       moon Titan may not be
-       able to support life
-       after all
-   3. China eyes May
-       2024 launch for 1st-ever
-       lunar sample-return
-       mission to moon's far
-       side
-   4. Everything we know
-       about 'Spaceman'
-   5. Private Odysseus
-       lunar lander heads for
-       the moon after SpaceX
-       launch
+   1. SpaceX and NASA
+       say Crew-8 astronauts
+       won't launch to ISS
+       until March 1 after
+       private moonshot
+   2. How to photograph
+       a solar eclipse with a
+       smartphone 2024 — 8 tips
+       from an expert
+   3. See the moon meet
+       up with the Seven
+       Sisters of the Pleiades
+       tonight
+   4. Could the solar
+       system be teeming with
+       interstellar objects?
+       We'll soon find out
+       (op-ed)
+   5. Watch Japan launch
+       its H3 rocket on
+       return-to-flight mission
+       tonight
 
