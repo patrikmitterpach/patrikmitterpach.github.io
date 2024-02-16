@@ -1,28 +1,26 @@
 -- Daily Times --
-Friday, February 16
+Saturday, February 17
 Weather: 6° - 6°
 
-	The good man differs
-     from a god in time alone.
-                        ~ Seneca
+	The single most
+     remarkable and defining
+     moment of the past 500 years
+     came at 05:29:45 on 16 July
+     1945. At that precise
+     second, American scientists
+     detonated the first atomic
+     bomb at Alamogordo, New
+     Mexico. From that point
+     onward, humankind had the
+     capability not only to
+     change the course of
+     history, but to end it.
+             ~ Yuval Noah Harari
 
 
 -- News --
 # Formula1
-   1. Formula One Cars
-       of 2024
-   2. 2024 Red Bull RB20
-   3. [ErikvHaren] Team
-       boss Christian Horner of
-       Red Bull Racing is
-       accused of sexual
-       misconduct, according to
-       reports and documents.
-       On February 3, lawyers
-       for Brit (50) offered
-       the reporter to settle
-       for £650,000.
-   4. The employee, who
+   1. The employee, who
        is currently on sick
        leave, wants to take
        legal action in England
@@ -36,51 +34,74 @@ Weather: 6° - 6°
        She is said to have
        already applied for
        legal action.
-   5. RB20 vertical
-       s-duct
+   2. [ErikvHaren] Team
+       boss Christian Horner of
+       Red Bull Racing is
+       accused of sexual
+       misconduct, according to
+       reports and documents.
+       On February 3, lawyers
+       for Brit (50) offered
+       the reporter to settle
+       for £650,000.
+   3. Teams have arrived
+       at Bahrain ahead of
+       Testing & GP next week
+   4. [Scuderia Ferrari]
+       Admin got so caught up
+       in the shot we chose the
+       wrong take
+   5. Verstappen and
+       Horner praise Hamilton's
+       "brave" switch to
+       Ferrari
 
 # Gaming
-   1. Where to watch the
+   1. Oppenheimer,
+       Thanksgiving on Netflix,
+       The Iron Claw, and every
+       new movie to watch this
+       weekend
+   2. Nintendo’s
+       next-gen console
+       reportedly delayed to
+       2025
+   3. Where to watch the
        entire Pokémon anime
-   2. How to get sulfur
+   4. How to get sulfur
        in Palworld
-   3. How to get pure
+   5. How to get pure
        quartz in Palworld
-   4. The 25 best movies
-       on Netflix right now
-   5. Sonic the Hedgehog
-       dressed as Shadow broke
-       my brain
 
 # HackerNews
    1. My sixth year as a
        bootstrapped founder
-   2. Training LLMs to
-       generate text with
-       citations via
-       fine-grained rewards
-   3. Learning about
-       Debuggers
-   4. The Emacsen
-       family, the design of an
-       Emacs and the importance
-       of Lisp (2023)
-   5. Guix on the
-       Framework 13 AMD
+   2. Show HN:
+       Driftmania – an open
+       source PICO-8 racing
+       game
+   3. Coding in Vision
+       Pro
+   4. Plastic industry
+       knew recycling was a
+       farce for decades
+   5. The seventh most
+       popular easily
+       understood unsolved
+       problem on MathOverflow
 
 # NL
-   1. This joker is
+   1. Do you know where
+       this food comes from?
+   2. This is for John
+       Connor (Helldivers 2)
+   3. You just gotta
+       persevere (Gartic Phone)
+   4. This joker is
        wicked (Balatro)
-   2. The rap battles
+   5. The rap battles
        got me antagonizing
        people #shorts
-   3. The power of
-       Murmel (Super Auto Pets)
-   4. The most five
-       starred a mission has
-       ever been (Helldivers 2)
-   5. I've been training
-       for this (Gartic Phone)
 
 # Slovakia
    1. News digest: No
@@ -105,28 +126,26 @@ Weather: 6° - 6°
        a hit
 
 # Space
-   1. ISS astronauts
+   1. NASA's OSIRIS-REx
+       mission more than
+       doubles asteroid Bennu
+       sample return goal
+   2. Watch Russian
+       Progress cargo ship
+       arrive at the ISS early
+       Feb. 17
+   3. ISS astronauts
        show what it's like to
        capture a spacecraft
        with a robotic arm
        (video)
-   2. Watch India launch
+   4. Watch India launch
        powerful weather
        satellite to orbit on
        Feb. 17
-   3. Russia's nuclear
+   5. Russia's nuclear
        anti-satellite weapon
        poses 'no immediate
        threat' to Earth, White
        House says
-   4. Get ready for the
-       2024 total solar eclipse
-       with Space.com with our
-       'Eclipses' bookazine
-   5. Amateur
-       astronomers can make
-       breathtaking
-       discoveries. This new
-       photobook on Kickstarter
-       shows how
 
