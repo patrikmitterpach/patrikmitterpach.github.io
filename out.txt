@@ -1,137 +1,119 @@
 -- Daily Times --
-Wednesday, February 14
+Friday, February 16
 Weather: 6° - 6°
 
-	It is above all things
-     necessary to form a true
-     estimate of oneself, because
-     as a rule we think that we
-     can do more than we are
-     able: one man is led too far
-     through confidence in his
-     eloquence, another demands
-     more from his estate than it
-     can produce, another burdens
-     a weakly body with some
-     toilsome duty.
+	He is happy who in his
+     present circumstances,
+     whatever they may be, is
+     satisfied and on friendly
+     terms with the conditions of
+     his life.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. 2024 Mercedes W15
-       E Performance
-   2. Sainz admits
-       losing Ferrari seat to
-       Hamilton "was a bit of a
-       surprise"
-   3. Mercedes F1 Team
-       for 2024
-   4. Vasseur made "the
-       most difficult calls" to
-       Sainz and Wolff after
-       Hamilton deal
-   5. [f1-insider.com]
-       Red Bull: Horner
-       continues to deny
-       allegations
+   1. RB20 leaks ahead
+       of official reveal.
+   2. Formula One Cars
+       of 2024
+   3. 2024 Red Bull RB20
+   4. [Charles Leclerc
+       on Instagram] Charles
+       announcing release of
+       new music
+   5. Alpine F1 Team |
+       Comparing all the angles
+       of A523 and A524
 
 # Gaming
-   1. No matter what
-       happens next, unionizing
-       at ZeniMax worked
-   2. One-season romance
-       anime to watch with your
-       partner this Valentine’s
-       Day
-   3. PlayStation won’t
-       release any major
-       first-party games before
-       March 2025
-   4. Mario vs. Donkey
-       Kong is fine, but
-       Nintendo remade the
-       wrong game
-   5. How to find and
-       kill Chargers in
-       Helldivers 2
+   1. All Persona 3
+       Reload classroom answers
+       and questions
+   2. 7 tips and tricks
+       before starting Deep
+       Rock Galactic: Survivor
+   3. Deep Rock
+       Galactic: Survivor’s
+       auto-shooter gameplay
+       has me yearning for the
+       mines
+   4. Don’t worry, Xbox
+       is staying in the
+       hardware game
+   5. How to get and
+       farm ore in Palworld
 
 # HackerNews
-   1. European Court of
-       Human Rights bans
-       weakening of secure
-       end-to-endencryption
-   2. Enhancing the
-       Factorio experience with
-       SAT solvers
-   3. The Golden Age of
-       Cordless Power Tools
-   4. What made Earth a
-       giant snowball 700M
-       years ago? Scientists
-       have an answer
-   5. The Argument over
-       a Long-Standing Autism
-       Intervention
+   1. Sora: Creating
+       video from text
+   2. Magika: AI powered
+       fast and efficient file
+       type identification
+   3. It Was 33 Years
+       Ago Today: Happy
+       Birthday Lemmings
+   4. Video generation
+       models as world
+       simulators
+   5. Our
+       next-generation model:
+       Gemini 1.5
 
 # NL
-   1. Don't you toss
-       that minefield down
-       there (Helldivers 2)
-   2. The trailer for
-       the teaser for the
-       trailer (Miscellaneous)
-   3. Call me Nacci the
-       way I be fibbin
-       (Balatro)
-   4. There's a first
-       time for everything
-       (Balatro)
-   5. Joke's on you I've
-       got another frickin head
-       (Super Auto Pets)
+   1. The most five
+       starred a mission has
+       ever been (Helldivers 2)
+   2. I've been training
+       for this (Gartic Phone)
+   3. Finding out if I'm
+       truly twisted...
+   4. Listen bucko, I'm
+       the one with the shiny
+       banana (Balatro)
+   5. POV: it's the
+       summer before college
+       #shorts
 
 # Slovakia
-   1. He threatened to
-       kill prosecutor,
-       attempted to discredit
-       judge. Fico wants him as
-       secret service chief
-   2. Yacht building,
-       villa. See the top 10
-       most expensive
-       Bratislava buildings for
-       sale
-   3. News digest: A
-       warning letter to Fico
-       govt
-   4. Fico cabinet takes
-       revenge on chief
-       hygienist for pandemic
-       management
-   5. Dell Slovakia
-       sacks trade union
-       officials, faces
-       accusation of using
-       'brute force'
+   1. News digest:
+       Šimečka's comment about
+       'cowardly Slovak nation'
+       angers Smer
+   2. "For tickets to
+       Russia to see beloved
+       Putin": People poke fun
+       at Danko via bank
+       account
+   3. Slovak firm's
+       solution helps sign
+       contracts cheaply and
+       quickly
+   4. Smer files
+       complaint against
+       journalist, attacks two
+       others
+   5. Top 10 events in
+       Bratislava for
+       foreigners
 
 # Space
-   1. Fire but no
-       brimstone: Where is the
-       universe's missing
-       sulfur?
-   2. SpaceX launching
-       22 Starlink satellites
-       from California tonight
-   3. Best solar viewing
-       kit 2024: Observe the
-       April 8 solar eclipse
-   4. The moon and
-       Jupiter go on a
-       Valentine's Day date in
-       the night sky tonight
-   5. SpaceX launching
-       secret national security
-       mission for US Space
-       Force today
+   1. Save 30% on the
+       absolutely massive Lego
+       Marvel Hulkbuster
+   2. Saturn's ocean
+       moon Titan may not be
+       able to support life
+       after all
+   3. China eyes May
+       2024 launch for 1st-ever
+       lunar sample-return
+       mission to moon's far
+       side
+   4. Everything we know
+       about 'Spaceman'
+   5. Private Odysseus
+       lunar lander heads for
+       the moon after SpaceX
+       launch
 
