@@ -2,20 +2,16 @@
 Saturday, February 17
 Weather: 6° - 6°
 
-	The single most
-     remarkable and defining
-     moment of the past 500 years
-     came at 05:29:45 on 16 July
-     1945. At that precise
-     second, American scientists
-     detonated the first atomic
-     bomb at Alamogordo, New
-     Mexico. From that point
-     onward, humankind had the
-     capability not only to
-     change the course of
-     history, but to end it.
-             ~ Yuval Noah Harari
+	Now Fortune does not
+     give virtue; therefore she
+     does not take it away.
+     Virtue is free, inviolable,
+     not to be moved, not to be
+     shaken, and so hardened
+     against misfortunes that she
+     cannot be bent, let alone
+     overcome by them.
+                        ~ Seneca
 
 
 -- News --
@@ -47,14 +43,27 @@ Weather: 6° - 6°
    3. Teams have arrived
        at Bahrain ahead of
        Testing & GP next week
-   4. [Scuderia Ferrari]
-       Admin got so caught up
-       in the shot we chose the
-       wrong take
-   5. Verstappen and
-       Horner praise Hamilton's
-       "brave" switch to
-       Ferrari
+   4. Horner is rumored
+       to have been offered an
+       opportunity to get out
+       of the matter without
+       losing face at the end
+       of last year + he's
+       taken legal action
+       against De Telegraaf
+   5. [Jenna Fryer] Red
+       Bull investigation into
+       Christian Horner,
+       upcoming engine partner
+       Ford says it is awaiting
+       the findings. Mark
+       Rushbrook of Ford says
+       "as a family company
+       that holds itself to
+       very high standards of
+       behavior and integrity,
+       we expect the same from
+       our partners."
 
 # Gaming
    1. Oppenheimer,
@@ -74,21 +83,22 @@ Weather: 6° - 6°
        quartz in Palworld
 
 # HackerNews
-   1. My sixth year as a
-       bootstrapped founder
-   2. Show HN:
-       Driftmania – an open
-       source PICO-8 racing
-       game
-   3. Coding in Vision
-       Pro
-   4. Plastic industry
-       knew recycling was a
-       farce for decades
-   5. The seventh most
-       popular easily
-       understood unsolved
-       problem on MathOverflow
+   1. Considerations for
+       a long-running Raspberry
+       Pi
+   2. Spnec fast-tracks
+       ₱200B solar farm in
+       Central Luzon
+   3. "Stolen" radio
+       tower missing for at
+       least a year
+   4. Automated Unit
+       Test Improvement Using
+       Large Language Models at
+       Meta
+   5. From engineer to
+       manager: what I love,
+       what I hate
 
 # NL
    1. Do you know where
@@ -126,26 +136,23 @@ Weather: 6° - 6°
        a hit
 
 # Space
-   1. NASA's OSIRIS-REx
-       mission more than
-       doubles asteroid Bennu
-       sample return goal
-   2. Watch Russian
-       Progress cargo ship
-       arrive at the ISS early
-       Feb. 17
-   3. ISS astronauts
-       show what it's like to
-       capture a spacecraft
-       with a robotic arm
-       (video)
-   4. Watch India launch
-       powerful weather
-       satellite to orbit on
-       Feb. 17
-   5. Russia's nuclear
-       anti-satellite weapon
-       poses 'no immediate
-       threat' to Earth, White
-       House says
+   1. Solar eclipse jam:
+       How to avoid getting
+       stuck in traffic on
+       April 8, 2024
+   2. Japan's new H3
+       rocket reaches orbit for
+       1st time (video)
+   3. Last chance! Grab
+       the Lego Marvel Black
+       Panther bust for 40% off
+   4. NASA has more than
+       twice the asteroid Bennu
+       samples it could have
+       hoped for from
+       OSIRIS-REx probe
+   5. Russia's Progress
+       87 cargo ship arrives at
+       International Space
+       Station
 
