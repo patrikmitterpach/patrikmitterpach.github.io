@@ -2,15 +2,12 @@
 Saturday, February 17
 Weather: 6° - 6°
 
-	Now Fortune does not
-     give virtue; therefore she
-     does not take it away.
-     Virtue is free, inviolable,
-     not to be moved, not to be
-     shaken, and so hardened
-     against misfortunes that she
-     cannot be bent, let alone
-     overcome by them.
+	In the same spirit in
+     which we deal with boys, the
+     wise man deals with all
+     those whose childhood still
+     endures after their youth is
+     past and their hair is grey.
                         ~ Seneca
 
 
@@ -30,20 +27,7 @@ Weather: 6° - 6°
        She is said to have
        already applied for
        legal action.
-   2. [ErikvHaren] Team
-       boss Christian Horner of
-       Red Bull Racing is
-       accused of sexual
-       misconduct, according to
-       reports and documents.
-       On February 3, lawyers
-       for Brit (50) offered
-       the reporter to settle
-       for £650,000.
-   3. Teams have arrived
-       at Bahrain ahead of
-       Testing & GP next week
-   4. Horner is rumored
+   2. Horner is rumored
        to have been offered an
        opportunity to get out
        of the matter without
@@ -51,7 +35,7 @@ Weather: 6° - 6°
        of last year + he's
        taken legal action
        against De Telegraaf
-   5. [Jenna Fryer] Red
+   3. [Jenna Fryer] Red
        Bull investigation into
        Christian Horner,
        upcoming engine partner
@@ -64,41 +48,48 @@ Weather: 6° - 6°
        behavior and integrity,
        we expect the same from
        our partners."
+   4. Verstappen would
+       “never say never” to
+       Hamilton-style Ferrari
+       F1 move
+   5. Aston Martin
+       Safety Car has arrived
+       at Bahrain
 
 # Gaming
-   1. Oppenheimer,
+   1. The best sci-fi
+       movies to watch on
+       Netflix this February
+   2. The best
+       President’s Day deals
+   3. Oppenheimer,
        Thanksgiving on Netflix,
        The Iron Claw, and every
        new movie to watch this
        weekend
-   2. Nintendo’s
+   4. Nintendo’s
        next-gen console
        reportedly delayed to
        2025
-   3. Where to watch the
-       entire Pokémon anime
-   4. How to get sulfur
-       in Palworld
-   5. How to get pure
-       quartz in Palworld
+   5. Watching all of
+       the Pokémon anime is
+       actually a streaming-era
+       nightmare
 
 # HackerNews
-   1. Considerations for
+   1. So Long, and
+       Thanks for All the Bytes
+   2. Considerations for
        a long-running Raspberry
        Pi
-   2. Spnec fast-tracks
-       ₱200B solar farm in
-       Central Luzon
-   3. "Stolen" radio
-       tower missing for at
-       least a year
-   4. Automated Unit
-       Test Improvement Using
-       Large Language Models at
-       Meta
-   5. From engineer to
-       manager: what I love,
-       what I hate
+   3. We Have to Start
+       Over: From Atom to Zed
+   4. The game theory of
+       seduction and marriage
+       with Jane Austen
+   5. Greenmask:
+       PostgreSQL Dump and
+       Obfuscation Tool
 
 # NL
    1. Do you know where
@@ -136,23 +127,27 @@ Weather: 6° - 6°
        a hit
 
 # Space
-   1. Solar eclipse jam:
-       How to avoid getting
-       stuck in traffic on
-       April 8, 2024
-   2. Japan's new H3
-       rocket reaches orbit for
-       1st time (video)
-   3. Last chance! Grab
-       the Lego Marvel Black
-       Panther bust for 40% off
-   4. NASA has more than
-       twice the asteroid Bennu
-       samples it could have
-       hoped for from
-       OSIRIS-REx probe
-   5. Russia's Progress
-       87 cargo ship arrives at
-       International Space
-       Station
+   1. This Week In Space
+       podcast: Episode 98 —
+       Inside NASA with Pam
+       Melroy
+   2. Uruguay signs
+       Artemis Accords for
+       responsible space
+       exploration
+   3. Get a sneak peek
+       inside the Artemis 2
+       spacecraft that will fly
+       astronauts to the moon
+       for the 1st time in 50
+       years (photos)
+   4. Blue Origin's New
+       Glenn rocket simulator
+       seen on launchpad from
+       space (photos)
+   5. NASA's Voyager 1
+       glitch has scientists
+       sad yet hopeful:
+       'Voyager 2 is still
+       going strong'
 
