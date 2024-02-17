@@ -1,35 +1,20 @@
 -- Daily Times --
-Saturday, February 17
+Sunday, February 18
 Weather: 6° - 6°
 
-	He who fears death will
-     never act as becomes a
-     living man: but he who knows
-     that this fate was laid upon
-     him as soon as he was
-     conceived will live
-     according to it, and by this
-     strength of mind will gain
-     this further advantage, that
-     nothing can befall him
-     unexpectedl(1).
+	Reflect, then, how much
+     less a grief it is never to
+     have had any money than to
+     have lost it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Horner is rumored
-       to have been offered an
-       opportunity to get out
-       of the matter without
-       losing face at the end
-       of last year + he's
-       taken legal action
-       against De Telegraaf
-   2. Aston Martin
+   1. Aston Martin
        Safety Car has arrived
        at Bahrain
-   3. [Autosport] Red
+   2. [Autosport] Red
        Bull is poised to
        further replicate
        previous Mercedes F1 car
@@ -38,6 +23,13 @@ Weather: 6° - 6°
        ‘zeropod’-style concept
        with its first major
        upgrade of 2024
+   3. [autosport] 1992
+       F1 drivers' champion
+       Nigel Mansell says Lewis
+       Hamilton's age will play
+       no part in whether he is
+       competitive with Ferrari
+       in 2025
    4. Red Bull seek
        quick end to Christian
        Horner inquiry amid new
@@ -46,57 +38,58 @@ Weather: 6° - 6°
        Helmets for 2024
 
 # Gaming
-   1. ‘It’s not easy to
+   1. Frank Herbert
+       always thought Star Wars
+       was a Dune ripoff
+   2. ‘It’s not easy to
        be told you’re in love’:
        How Don’t Nod reinvented
        the video game love
        story
-   2. I have one big
+   3. I have one big
        question about Madame
        Web’s villain Ezekiel
        (and a million small
        ones)
-   3. The best sci-fi
+   4. The best sci-fi
        movies to watch on
        Netflix this February
-   4. The best
+   5. The best
        President’s Day deals
-   5. Oppenheimer,
-       Thanksgiving on Netflix,
-       The Iron Claw, and every
-       new movie to watch this
-       weekend
 
 # HackerNews
-   1. Headphone and Amp
+   1. My Notes on
+       Gitlab's Postgres Schema
+       Design (2022)
+   2. The World of
+       Yakuza Fan Magazines
+   3. Headphone and Amp
        Impedance (2011)
-   2. So Long, and
-       Thanks for All the Bytes
-   3. Ollama is now
-       available on Windows in
-       preview
-   4. The Ute Tribe will
-       construct one of the
-       largest solar farms in
-       the US
-   5. Show HN:
-       macOS-cross-compiler –
-       Compile binaries for
-       macOS on Linux
+   4. JSR first
+       impressions: a
+       JavaScript package
+       manager by the Deno team
+   5. OS-Copilot:
+       Towards Generalist
+       Computer Agents with
+       Self-Improvement
 
 # NL
-   1. Did we just
+   1. The AI needed to
+       be put in its place
+       (Jackbox)
+   2. Apollo took down
+       the whole grid
+       (Helldivers 2)
+   3. The connections
+       god has logged on
+       (Miscellaneous)
+   4. Did we just
        discover the strongest
        joker (Balatro)
-   2. What's an opinion
+   5. What's an opinion
        about games that gets
        you like this #shorts
-   3. Do you know where
-       this food comes from?
-   4. This is for John
-       Connor (Helldivers 2)
-   5. You just gotta
-       persevere (Gartic Phone)
 
 # Slovakia
    1. News digest: No
@@ -116,32 +109,30 @@ Weather: 6° - 6°
        celebs discover
        Bratislava
    5. Weekend: Nigerian
-       Rapper makes beat out of
+       rapper makes beat out of
        Slovak folk song, drops
        a hit
 
 # Space
-   1. This Week In Space
+   1. Private Odysseus
+       moon lander beams home
+       1st photos from space
+   2. This Week In Space
        podcast: Episode 98 —
        Inside NASA with Pam
        Melroy
-   2. Uruguay signs
+   3. Uruguay signs
        Artemis Accords for
        responsible space
        exploration
-   3. Get a sneak peek
+   4. Get a sneak peek
        inside the Artemis 2
        spacecraft that will fly
        astronauts to the moon
        for the 1st time in 50
        years (photos)
-   4. Blue Origin's New
+   5. Blue Origin's New
        Glenn rocket simulator
        seen on launchpad from
        space (photos)
-   5. NASA's Voyager 1
-       glitch has scientists
-       sad yet hopeful:
-       'Voyager 2 is still
-       going strong'
 
