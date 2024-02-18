@@ -2,94 +2,92 @@
 Sunday, February 18
 Weather: 6° - 6°
 
-	Reflect, then, how much
-     less a grief it is never to
-     have had any money than to
-     have lost it.
-                        ~ Seneca
+	“Choose a sound
+     financial lifestyle. Start
+     early and invest regularly.
+     Know what you’re buying.
+     Preserve your buying power.
+     Keep costs and taxes low.
+     Diversify your stock
+     portfolio [and diversify
+     your stock risk with a bond
+     portfolio].”
+~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
 
 
 -- News --
 # Formula1
-   1. Aston Martin
-       Safety Car has arrived
-       at Bahrain
-   2. [Autosport] Red
-       Bull is poised to
-       further replicate
-       previous Mercedes F1 car
-       designs by moving more
-       towards a
-       ‘zeropod’-style concept
-       with its first major
-       upgrade of 2024
-   3. [autosport] 1992
-       F1 drivers' champion
-       Nigel Mansell says Lewis
-       Hamilton's age will play
-       no part in whether he is
-       competitive with Ferrari
-       in 2025
-   4. Red Bull seek
-       quick end to Christian
-       Horner inquiry amid new
-       claims
-   5. Formula 1 | Driver
-       Helmets for 2024
+   1. Tsunoda: New RB F1
+       car already feels like a
+       "really big step"
+   2. Mark Hughes on the
+       extent of Adrian Newey's
+       role in Red Bull's
+       recent success
+   3. Fernando Alonso is
+       Ready
+   4. 2024 Mercedes AMG
+       Petronas Race Suit
+   5. Front end and
+       sidepods of the AMR24
+       from their silverstone
+       breakdown, via Matt
+       Armstrong's Youtube
+       channel
 
 # Gaming
-   1. Frank Herbert
+   1. With the Switch 2
+       on the way, is it a bad
+       idea to buy the regular
+       Switch?
+   2. Frank Herbert
        always thought Star Wars
        was a Dune ripoff
-   2. ‘It’s not easy to
+   3. ‘It’s not easy to
        be told you’re in love’:
        How Don’t Nod reinvented
        the video game love
        story
-   3. I have one big
+   4. I have one big
        question about Madame
        Web’s villain Ezekiel
        (and a million small
        ones)
-   4. The best sci-fi
+   5. The best sci-fi
        movies to watch on
        Netflix this February
-   5. The best
-       President’s Day deals
 
 # HackerNews
-   1. My Notes on
-       Gitlab's Postgres Schema
-       Design (2022)
-   2. The World of
-       Yakuza Fan Magazines
-   3. Headphone and Amp
-       Impedance (2011)
-   4. JSR first
-       impressions: a
-       JavaScript package
-       manager by the Deno team
-   5. OS-Copilot:
-       Towards Generalist
-       Computer Agents with
-       Self-Improvement
+   1. Access over
+       181,000 USGS Historical
+       Topographic Maps
+   2. I taught the Iliad
+       to Chinese teenagers
+   3. A small Rust
+       binary indeed (2022)
+   4. CorsixTH:
+       Open-source clone of
+       Theme Hospital
+   5. A random dungeon
+       generator that fits on a
+       business card
 
 # NL
-   1. The AI needed to
+   1. I'm gonna level
+       with you Mr MacFarlane
+       #shorts
+   2. The AI needed to
        be put in its place
        (Jackbox)
-   2. Apollo took down
+   3. Apollo took down
        the whole grid
        (Helldivers 2)
-   3. The connections
+   4. The connections
        god has logged on
        (Miscellaneous)
-   4. Did we just
+   5. Did we just
        discover the strongest
        joker (Balatro)
-   5. What's an opinion
-       about games that gets
-       you like this #shorts
 
 # Slovakia
    1. News digest: No
@@ -114,25 +112,29 @@ Weather: 6° - 6°
        a hit
 
 # Space
-   1. Private Odysseus
+   1. Our universe is
+       merging with 'baby
+       universes', causing it
+       to expand, new
+       theoretical study
+       suggests
+   2. Watch trailer for
+       'Space: The Longest
+       Goodbye,' new film
+       exploring astronaut
+       mental health (video)
+   3. I put Abisko's
+       'cloud-busting weapon'
+       to the test during a
+       Sweden northern lights
+       adventure and was not
+       disappointed
+   4. Rocket Lab
+       launches ADRAS-J space
+       junk inspection
+       satellite for Astroscale
+       (video)
+   5. Private Odysseus
        moon lander beams home
        1st photos from space
-   2. This Week In Space
-       podcast: Episode 98 —
-       Inside NASA with Pam
-       Melroy
-   3. Uruguay signs
-       Artemis Accords for
-       responsible space
-       exploration
-   4. Get a sneak peek
-       inside the Artemis 2
-       spacecraft that will fly
-       astronauts to the moon
-       for the 1st time in 50
-       years (photos)
-   5. Blue Origin's New
-       Glenn rocket simulator
-       seen on launchpad from
-       space (photos)
 
