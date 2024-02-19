@@ -2,77 +2,70 @@
 Monday, February 19
 Weather: 6° - 6°
 
-	It does not matter what
-     you bear, but how you bear
-     it.
-                        ~ Seneca
+	In the long run men hit
+     only what they aim at.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
    1. [@lewishamilton on
        Instagram] Im ready...
-   2. Fernando Alonso is
-       Ready
-   3. Mark Hughes on the
-       extent of Adrian Newey's
-       role in Red Bull's
-       recent success
-   4. Different engine
-       covers tester by Ferrari
-       for SF-24
-   5. [Andrew Benson] F1
-       statement on Horner
-       allegations: “We have
-       noted Red Bull has
-       instigated an
-       independent
-       investigation into
-       internal allegations at
-       Red Bull Racing. We hope
-       matter will be clarified
-       at earliest opportunity,
-       after a fair & thorough
-       process. Will not
-       comment further at this
-       time”
+   2. Rosberg denies
+       rumors of a return to
+       Mercedes but does
+       mention his and Lewis's
+       relationship has been
+       mended since 2016
+   3. Throwback to 2009
+       when sandstorm
+       intervened during pre
+       season testing at
+       Bahrain
+   4. Lewis Hamilton
+       with Anna Wintour
+       (editor in chief of
+       Vogue) at London Fashion
+       Week
+   5. Cadillac's IMSA
+       Success Makes F1
+       Rejection Look Even
+       Worse
 
 # Gaming
-   1. Bandle Tale is the
+   1. Helldivers 2 has
+       more than doubled its
+       Steam audience in a week
+   2. True Detective
+       always secretly wished
+       for a happy ending
+   3. Bandle Tale is the
        lower-stakes League of
        Legends story we all
        deserve
-   2. Even True
+   4. Even True
        Detective: Night
        Country’s answers have
        mysteries
-   3. The best way to
+   5. The best way to
        rewatch Avatar: The Last
        Airbender is jumping
        right to season 2
-   4. Minigames are
-       everywhere, but devs
-       have their reasons
-   5. With the Switch 2
-       on the way, is it a bad
-       idea to buy the regular
-       Switch?
 
 # HackerNews
-   1. Castle Engine –
-       Free open-source
-       cross-platform 3D/2D
-       game engine using Pascal
-   2. Biologists
-       discover four new
-       octopus species
-   3. The day I canceled
-       my Spotify subscription
-   4. Diseconomies of
-       scale in fraud, spam,
-       support, and moderation
-   5. A Plea for Lean
-       Software (1995)
+   1. Show HN: htmz – a
+       low power tool for HTML
+   2. Union,
+       intersection,
+       difference, and more are
+       coming to JavaScript
+       Sets
+   3. Show HN: PRQL in
+       PostgreSQL
+   4. Porting to GCC 14:
+       C language issues
+   5. Groq runs Mixtral
+       8x7B-32k with 500 T/s
 
 # NL
    1. They're gonna boot
@@ -91,51 +84,46 @@ Weather: 6° - 6°
        (Helldivers 2)
 
 # Slovakia
-   1. Last Week: Rule of
+   1. It all started
+       with a suitcase or how a
+       Slovak found his
+       relative in Argentina
+   2. Last Week: Rule of
        law still a burning
        question as coalition
        drops another bomb
-   2. News digest: No
+   3. News digest: No
        veto by Čaputová, but
        law changes will face
        constitutional challenge
-   3. In a bold step by
+   4. In a bold step by
        President Čaputová, she
        will sign but challenge
        new law
-   4. Presidential
+   5. Presidential
        election poll suggests
        race is tightening
-   5. One had a luxury
-       holiday, the other was
-       on a budget: Two Irish
-       celebs discover
-       Bratislava
 
 # Space
-   1. Our universe is
-       merging with 'baby
-       universes', causing it
-       to expand, new
-       theoretical study
-       suggests
-   2. Watch trailer for
-       'Space: The Longest
-       Goodbye,' new film
-       exploring astronaut
-       mental health (video)
-   3. I put Abisko's
-       'cloud-busting weapon'
-       to the test during a
-       Sweden northern lights
-       adventure and was not
-       disappointed
-   4. Rocket Lab
-       launches ADRAS-J space
-       junk inspection
-       satellite for Astroscale
-       (video)
-   5. Private Odysseus
-       moon lander beams home
-       1st photos from space
+   1. Brightest quasar
+       ever seen is powered by
+       black hole that eats a
+       'sun a day'
+   2. Build your own
+       moon base and explore
+       the lunar surface in
+       'Moonshot' (video)
+   3. NASA's twin
+       spacecraft will go to
+       the ends of the Earth to
+       combat climate change
+   4. Varda's 1st
+       in-space manufacturing
+       capsule to land in Utah
+       this week
+   5. Big, doomed
+       satellite seen from
+       space as it tumbles
+       towards a fiery reentry
+       on Feb. 21 (photos)
 
