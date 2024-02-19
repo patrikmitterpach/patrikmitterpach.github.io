@@ -1,64 +1,78 @@
 -- Daily Times --
-Sunday, February 18
+Monday, February 19
 Weather: 6° - 6°
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
+	It does not matter what
+     you bear, but how you bear
+     it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Fernando Alonso is
+   1. [@lewishamilton on
+       Instagram] Im ready...
+   2. Fernando Alonso is
        Ready
-   2. Mark Hughes on the
+   3. Mark Hughes on the
        extent of Adrian Newey's
        role in Red Bull's
        recent success
-   3. 2024 Mercedes AMG
-       Petronas Race Suit
-   4. [@lewishamilton on
-       Instagram] Im ready...
-   5. Different engine
+   4. Different engine
        covers tester by Ferrari
        for SF-24
+   5. [Andrew Benson] F1
+       statement on Horner
+       allegations: “We have
+       noted Red Bull has
+       instigated an
+       independent
+       investigation into
+       internal allegations at
+       Red Bull Racing. We hope
+       matter will be clarified
+       at earliest opportunity,
+       after a fair & thorough
+       process. Will not
+       comment further at this
+       time”
 
 # Gaming
-   1. The best way to
+   1. Bandle Tale is the
+       lower-stakes League of
+       Legends story we all
+       deserve
+   2. Even True
+       Detective: Night
+       Country’s answers have
+       mysteries
+   3. The best way to
        rewatch Avatar: The Last
        Airbender is jumping
        right to season 2
-   2. Minigames are
+   4. Minigames are
        everywhere, but devs
        have their reasons
-   3. With the Switch 2
+   5. With the Switch 2
        on the way, is it a bad
        idea to buy the regular
        Switch?
-   4. Frank Herbert
-       always thought Star Wars
-       was a Dune ripoff
-   5. ‘It’s not easy to
-       be told you’re in love’:
-       How Don’t Nod reinvented
-       the video game love
-       story
 
 # HackerNews
-   1. Ancient Rome's
-       failed building projects
-   2. RoR Debugbar
-   3. USGS Historical
-       Topographic Maps
-   4. A random dungeon
-       generator that fits on a
-       business card (2019)
-   5. Everything is a
-       linear model
+   1. Castle Engine –
+       Free open-source
+       cross-platform 3D/2D
+       game engine using Pascal
+   2. Biologists
+       discover four new
+       octopus species
+   3. The day I canceled
+       my Spotify subscription
+   4. Diseconomies of
+       scale in fraud, spam,
+       support, and moderation
+   5. A Plea for Lean
+       Software (1995)
 
 # NL
    1. They're gonna boot
@@ -77,26 +91,26 @@ Weather: 6° - 6°
        (Helldivers 2)
 
 # Slovakia
-   1. News digest: No
+   1. Last Week: Rule of
+       law still a burning
+       question as coalition
+       drops another bomb
+   2. News digest: No
        veto by Čaputová, but
        law changes will face
        constitutional challenge
-   2. In a bold step by
+   3. In a bold step by
        President Čaputová, she
        will sign but challenge
        new law
-   3. Presidential
+   4. Presidential
        election poll suggests
        race is tightening
-   4. One had a luxury
+   5. One had a luxury
        holiday, the other was
        on a budget: Two Irish
        celebs discover
        Bratislava
-   5. Weekend: Nigerian
-       rapper makes beat out of
-       Slovak folk song, drops
-       a hit
 
 # Space
    1. Our universe is
