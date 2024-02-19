@@ -2,9 +2,12 @@
 Monday, February 19
 Weather: 6° - 6°
 
-	In the long run men hit
-     only what they aim at.
-           ~ Henry David Thoreau
+	There is a way to
+     approach life so that when
+     asked, “Your money or your
+     life?” you say, “I’ll take
+     both, thank you.”
+                   ~ Vicki Robin
 
 
 -- News --
@@ -33,97 +36,94 @@ Weather: 6° - 6°
        Worse
 
 # Gaming
-   1. Helldivers 2 has
+   1. Rick’s Walking
+       Dead spinoff, Netflix’s
+       live-action Avatar, and
+       more new TV this week
+   2. What’s going on
+       with all these video
+       game industry layoffs?
+   3. Helldivers 2 has
        more than doubled its
        Steam audience in a week
-   2. True Detective
+   4. True Detective
        always secretly wished
        for a happy ending
-   3. Bandle Tale is the
+   5. Bandle Tale is the
        lower-stakes League of
        Legends story we all
        deserve
-   4. Even True
-       Detective: Night
-       Country’s answers have
-       mysteries
-   5. The best way to
-       rewatch Avatar: The Last
-       Airbender is jumping
-       right to season 2
 
 # HackerNews
-   1. Show HN: htmz – a
+   1. My productivity
+       app is a never-ending
+       .txt file
+   2. Latest GPT-4
+       training data updated to
+       December 2023
+   3. Show HN: htmz – a
        low power tool for HTML
-   2. Union,
-       intersection,
-       difference, and more are
-       coming to JavaScript
-       Sets
-   3. Show HN: PRQL in
-       PostgreSQL
-   4. Porting to GCC 14:
-       C language issues
-   5. Groq runs Mixtral
-       8x7B-32k with 500 T/s
+   4. Big media
+       publishers are
+       inundating the web with
+       subpar product
+       recommendations
+   5. Hono on Cloudflare
+       Workers is 3x faster
+       than alternatives
 
 # NL
-   1. They're gonna boot
-       me from the group...
-       (Helldivers 2)
-   2. I brought the rock
-       to the aliens (Jackbox)
-   3. I'm gonna level
-       with you Mr MacFarlane
+   1. The demo may never
+       stop me again (Balatro)
+   2. One day I'm gonna
+       learn how to read
+       (Miscellaneous)
+   3. whyyyyyyyyyyyyyyyy
        #shorts
-   4. The AI needed to
-       be put in its place
-       (Jackbox)
-   5. Apollo took down
-       the whole grid
+   4. Is the pegasus a
+       stealth goat? (Super
+       Auto Pets)
+   5. They're gonna boot
+       me from the group...
        (Helldivers 2)
 
 # Slovakia
-   1. It all started
+   1. Popular in Poland,
+       but can Slovaks also
+       fall for Blik?
+   2. News digest:
+       Tractors out. Divided
+       farmers kick off
+       protests
+   3. Slovak man drives
+       a car celebrating
+       Moscow, sparks outrage
+   4. Slovak climber
+       dies in Argentina, local
+       media report
+   5. It all started
        with a suitcase or how a
        Slovak found his
        relative in Argentina
-   2. Last Week: Rule of
-       law still a burning
-       question as coalition
-       drops another bomb
-   3. News digest: No
-       veto by Čaputová, but
-       law changes will face
-       constitutional challenge
-   4. In a bold step by
-       President Čaputová, she
-       will sign but challenge
-       new law
-   5. Presidential
-       election poll suggests
-       race is tightening
 
 # Space
-   1. Brightest quasar
+   1. South Pole
+       Telescope has a
+       'treasure map' to the
+       secrets of dark matter
+   2. Major X-ray sky
+       survey could relieve
+       crisis surrounding the
+       universe's 'lumpiness'
+   3. For this dead
+       star, 72 years is a
+       single Earth day
+   4. Star Trek's Seven
+       of Nine returns in new
+       novel 'Picard: Firewall'
+       (exclusive)
+   5. Brightest quasar
        ever seen is powered by
        black hole that eats a
        'sun a day'
-   2. Build your own
-       moon base and explore
-       the lunar surface in
-       'Moonshot' (video)
-   3. NASA's twin
-       spacecraft will go to
-       the ends of the Earth to
-       combat climate change
-   4. Varda's 1st
-       in-space manufacturing
-       capsule to land in Utah
-       this week
-   5. Big, doomed
-       satellite seen from
-       space as it tumbles
-       towards a fiery reentry
-       on Feb. 21 (photos)
 
