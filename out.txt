@@ -1,129 +1,124 @@
 -- Daily Times --
-Monday, February 19
+Tuesday, February 20
 Weather: 6° - 6°
 
-	There is a way to
-     approach life so that when
-     asked, “Your money or your
-     life?” you say, “I’ll take
-     both, thank you.”
-                   ~ Vicki Robin
+	Do you ask what I seek
+     from virtue? I answer,
+     Herself: for she has nothing
+     better; she is her own
+     rewar(1).
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@lewishamilton on
-       Instagram] Im ready...
-   2. Rosberg denies
-       rumors of a return to
-       Mercedes but does
-       mention his and Lewis's
-       relationship has been
-       mended since 2016
-   3. Throwback to 2009
-       when sandstorm
-       intervened during pre
-       season testing at
-       Bahrain
-   4. Lewis Hamilton
-       with Anna Wintour
-       (editor in chief of
-       Vogue) at London Fashion
-       Week
-   5. Cadillac's IMSA
-       Success Makes F1
-       Rejection Look Even
-       Worse
+   1. WhatsApp has
+       started its sponsorship
+       with Mercedes. The radio
+       button will will feature
+       the app logo
+   2. New Official
+       Driver Portraits for
+       2024
+   3. Found in Melborune
+   4. Fernando Alonso
+       Evolution 2021-2024
+   5. Team's tyre
+       selections for Testing
 
 # Gaming
-   1. Rick’s Walking
-       Dead spinoff, Netflix’s
-       live-action Avatar, and
-       more new TV this week
-   2. What’s going on
-       with all these video
-       game industry layoffs?
-   3. Helldivers 2 has
-       more than doubled its
-       Steam audience in a week
-   4. True Detective
-       always secretly wished
-       for a happy ending
-   5. Bandle Tale is the
-       lower-stakes League of
-       Legends story we all
-       deserve
+   1. Magic’s megaton
+       reveal of Ravages of War
+       sets this Fallout set
+       apart
+   2. Pokémon Go
+       ‘Glimmers of Gratitude’
+       Shiny Shaymin Masterwork
+       Research guide
+   3. Lady Gaga’s
+       finally coming to
+       Fortnite
+   4. Fortnite TMNT
+       event quest schedule and
+       Cowabunga rewards
+   5. Get a $75 Dell
+       gift card when you buy a
+       Switch OLED
 
 # HackerNews
-   1. My productivity
-       app is a never-ending
-       .txt file
-   2. Latest GPT-4
-       training data updated to
-       December 2023
-   3. Show HN: htmz – a
-       low power tool for HTML
-   4. Big media
-       publishers are
-       inundating the web with
-       subpar product
-       recommendations
-   5. Hono on Cloudflare
-       Workers is 3x faster
-       than alternatives
+   1. Keep your phone
+       number private with
+       Signal usernames
+   2. SSDs have become
+       fast, except in the
+       cloud
+   3. Let's Build the
+       GPT Tokenizer [video]
+   4. Saturn's largest
+       moon most likely
+       uninhabitable
+   5. Launch HN: Dart
+       (YC W22) – Project
+       management with
+       automatic report
+       generation
 
 # NL
-   1. The demo may never
-       stop me again (Balatro)
-   2. One day I'm gonna
-       learn how to read
-       (Miscellaneous)
-   3. whyyyyyyyyyyyyyyyy
-       #shorts
-   4. Is the pegasus a
-       stealth goat? (Super
+   1. That's why they
+       call me Mister Glass
+       (Balatro)
+   2. The new animals
+       are fun guys, maybe you
+       should try them (Super
        Auto Pets)
-   5. They're gonna boot
-       me from the group...
-       (Helldivers 2)
+   3. young, dumb, and
+       full of pulchritude
+       #shorts
+   4. BALATRO RELEASE
+       DAY GET IN HERE
+       (Balatro)
+   5. The demo may never
+       stop me again (Balatro)
 
 # Slovakia
-   1. Popular in Poland,
+   1. News digest:
+       Minister's plan to
+       rewrite whistleblowing
+       bill again
+   2. The house from the
+       cult Slovak movie still
+       attracts people today.
+       It hardly changed its
+       original form
+   3. Pellegrini can’t
+       be sure he will win
+       election race, poll
+       shows
+   4. Are Slovaks losing
+       investment literacy?
+   5. Popular in Poland,
        but can Slovaks also
        fall for Blik?
-   2. News digest:
-       Tractors out. Divided
-       farmers kick off
-       protests
-   3. Slovak man drives
-       a car celebrating
-       Moscow, sparks outrage
-   4. Slovak climber
-       dies in Argentina, local
-       media report
-   5. It all started
-       with a suitcase or how a
-       Slovak found his
-       relative in Argentina
 
 # Space
-   1. South Pole
-       Telescope has a
-       'treasure map' to the
-       secrets of dark matter
-   2. Major X-ray sky
-       survey could relieve
-       crisis surrounding the
-       universe's 'lumpiness'
-   3. For this dead
-       star, 72 years is a
-       single Earth day
-   4. Star Trek's Seven
-       of Nine returns in new
-       novel 'Picard: Firewall'
-       (exclusive)
-   5. Brightest quasar
-       ever seen is powered by
-       black hole that eats a
-       'sun a day'
+   1. Everything we know
+       about '3 Body Problem'
+   2. Former Disney TV
+       star Bridgit Mendler
+       co-founds satellite
+       'data highway' startup
+   3. Intuitive
+       Machines' private
+       Odysseus moon lander on
+       track for Feb. 22 lunar
+       landing
+   4. Studying lake
+       deposits in Idaho could
+       give scientists insight
+       into ancient traces of
+       life on Mars
+   5. These supernovas
+       are whipping up a storm,
+       contributing to cosmic
+       life and death
 
