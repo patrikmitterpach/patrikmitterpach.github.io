@@ -1,67 +1,63 @@
 -- Daily Times --
-Tuesday, February 20
+Wednesday, February 21
 Weather: 6° - 6°
 
-	Do you ask what I seek
-     from virtue? I answer,
-     Herself: for she has nothing
-     better; she is her own
-     rewar(1).
+	The wise man will not
+     allow a single ill-won penny
+     to cross his threshold.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. WhatsApp has
-       started its sponsorship
-       with Mercedes. The radio
-       button will will feature
-       the app logo
-   2. New Official
-       Driver Portraits for
-       2024
-   3. Found in Melborune
-   4. Fernando Alonso
-       Evolution 2021-2024
-   5. Team's tyre
+   1. [Decalspotters]
+       The sponsor incomings
+       and outgoings for the 10
+       teams ahead of 2024
+       pre-season testing
+   2. Team's tyre
        selections for Testing
+   3. [Nicolas
+       Carpentiers] The 2024 F1
+       suspension
+       configurations
+   4. F1 Teams Social
+       Media Followers
+   5. Mercedes AMG
+       Petronas F1 Team |
+       That’s day one for the
+       team complete in Bahrain
 
 # Gaming
-   1. Magic’s megaton
-       reveal of Ravages of War
-       sets this Fallout set
-       apart
-   2. Pokémon Go
-       ‘Glimmers of Gratitude’
-       Shiny Shaymin Masterwork
+   1. How to unlock the
+       Gold Saucer in FFXIV
+   2. Magic’s first
+       Fallout Commander
+       decklist preview is for
+       Scrappy Survivors
+   3. Elden Ring: Shadow
+       of the Erdtree’s first
+       trailer drops Wednesday
+   4. Kingmakers has the
+       best twist on medieval
+       warfare ever
+   5. Pokémon Go ‘Road
+       to Sinnoh’ event, Timed
        Research guide
-   3. Lady Gaga’s
-       finally coming to
-       Fortnite
-   4. Fortnite TMNT
-       event quest schedule and
-       Cowabunga rewards
-   5. Get a $75 Dell
-       gift card when you buy a
-       Switch OLED
 
 # HackerNews
-   1. Keep your phone
-       number private with
-       Signal usernames
-   2. SSDs have become
-       fast, except in the
-       cloud
-   3. Let's Build the
-       GPT Tokenizer [video]
-   4. Saturn's largest
-       moon most likely
-       uninhabitable
-   5. Launch HN: Dart
-       (YC W22) – Project
-       management with
-       automatic report
-       generation
+   1. BT Tower is to be
+       turned into a HOTEL
+   2. Kagi Sidekick
+       (alpha)
+   3. LaTeX and Neovim
+       for technical
+       note-taking
+   4. LED Matrix
+       Earrings
+   5. Japan bets $67B to
+       become a global chip
+       powerhouse once again
 
 # NL
    1. That's why they
@@ -81,44 +77,42 @@ Weather: 6° - 6°
        stop me again (Balatro)
 
 # Slovakia
-   1. News digest:
+   1. We’ll never be
+       silent. We have a
+       commitment to Ján Kuciak
+   2. News digest:
        Minister's plan to
        rewrite whistleblowing
        bill again
-   2. The house from the
-       cult Slovak movie still
-       attracts people today.
-       It hardly changed its
-       original form
-   3. Pellegrini can’t
+   3. It hardly changed
+       its original form. The
+       house from the cult 1958
+       Slovak film still
+       attracts people.
+   4. Pellegrini can’t
        be sure he will win
        election race, poll
        shows
-   4. Are Slovaks losing
+   5. Are Slovaks losing
        investment literacy?
-   5. Popular in Poland,
-       but can Slovaks also
-       fall for Blik?
 
 # Space
-   1. Everything we know
+   1. An asteroid will
+       hit Earth at some point.
+       What can we do about it?
+   2. Scientists say 2
+       solar system dwarf
+       planets may harbor
+       underground oceans
+   3. Firefly
+       Aerospace's Alpha rocket
+       put a satellite in the
+       wrong orbit in December.
+       Now we know why.
+   4. Sian Proctor on
+       her legacy of being the
+       1st Black woman to pilot
+       a spacecraft
+   5. Everything we know
        about '3 Body Problem'
-   2. Former Disney TV
-       star Bridgit Mendler
-       co-founds satellite
-       'data highway' startup
-   3. Intuitive
-       Machines' private
-       Odysseus moon lander on
-       track for Feb. 22 lunar
-       landing
-   4. Studying lake
-       deposits in Idaho could
-       give scientists insight
-       into ancient traces of
-       life on Mars
-   5. These supernovas
-       are whipping up a storm,
-       contributing to cosmic
-       life and death
 
