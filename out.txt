@@ -2,62 +2,68 @@
 Wednesday, February 21
 Weather: 6° - 6°
 
-	The wise man will not
-     allow a single ill-won penny
-     to cross his threshold.
+	Consider in the first
+     place how many more poor
+     people there are than rich,
+     and yet you will not find
+     that they are sadder or more
+     anxious than the rich: nay,
+     I am not sure that they are
+     not happier, because they
+     have fewer things to
+     distract their minds.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Decalspotters]
-       The sponsor incomings
-       and outgoings for the 10
-       teams ahead of 2024
-       pre-season testing
-   2. Team's tyre
-       selections for Testing
-   3. [Nicolas
-       Carpentiers] The 2024 F1
-       suspension
-       configurations
-   4. F1 Teams Social
+   1. Season 6 episode
+       descriptions
+   2. Good look at the
+       RB20 intake
+   3. F1 Teams Social
        Media Followers
-   5. Mercedes AMG
+   4. Mercedes AMG
        Petronas F1 Team |
        That’s day one for the
        team complete in Bahrain
+   5. RB20: Are this
+       also some kind of
+       inlets?
 
 # Gaming
-   1. How to unlock the
+   1. Fallout’s Scrappy
+       Survivors deck takes
+       Magic’s Commander format
+       to new heights
+   2. Helldivers 2 will
+       soon kick AFK squatters
+   3. How to unlock the
        Gold Saucer in FFXIV
-   2. Magic’s first
+   4. Magic’s first
        Fallout Commander
        decklist preview is for
        Scrappy Survivors
-   3. Elden Ring: Shadow
+   5. Elden Ring: Shadow
        of the Erdtree’s first
        trailer drops Wednesday
-   4. Kingmakers has the
-       best twist on medieval
-       warfare ever
-   5. Pokémon Go ‘Road
-       to Sinnoh’ event, Timed
-       Research guide
 
 # HackerNews
-   1. BT Tower is to be
-       turned into a HOTEL
-   2. Kagi Sidekick
-       (alpha)
-   3. LaTeX and Neovim
-       for technical
-       note-taking
-   4. LED Matrix
-       Earrings
-   5. Japan bets $67B to
-       become a global chip
-       powerhouse once again
+   1. Gemma: New Open
+       Models
+   2. Pijul is a free
+       and open source (GPL2)
+       distributed version
+       control system
+   3. XL: An Extensible
+       Programming Language
+   4. Launch HN: Retell
+       AI (YC W24) –
+       Conversational Speech
+       API for Your LLM
+   5. Stop postponing
+       things by embracing the
+       mess
 
 # NL
    1. That's why they
@@ -77,42 +83,44 @@ Weather: 6° - 6°
        stop me again (Balatro)
 
 # Slovakia
-   1. We’ll never be
+   1. Fraud in a
+       butterfly
+   2. We’ll never be
        silent. We have a
        commitment to Ján Kuciak
-   2. News digest:
+   3. News digest:
        Minister's plan to
        rewrite whistleblowing
        bill again
-   3. It hardly changed
+   4. It hardly changed
        its original form. The
        house from the cult 1958
        Slovak film still
        attracts people.
-   4. Pellegrini can’t
+   5. Pellegrini can’t
        be sure he will win
        election race, poll
        shows
-   5. Are Slovaks losing
-       investment literacy?
 
 # Space
-   1. An asteroid will
+   1. See the sun's
+       surface rage as solar
+       maximum approaches
+       (photo)
+   2. NASA brings back
+       retro 'worm' logo for
+       upcoming Artemis 2 moon
+       mission
+   3. An asteroid will
        hit Earth at some point.
        What can we do about it?
-   2. Scientists say 2
+   4. Scientists say 2
        solar system dwarf
        planets may harbor
        underground oceans
-   3. Firefly
+   5. Firefly
        Aerospace's Alpha rocket
        put a satellite in the
        wrong orbit in December.
        Now we know why.
-   4. Sian Proctor on
-       her legacy of being the
-       1st Black woman to pilot
-       a spacecraft
-   5. Everything we know
-       about '3 Body Problem'
 
