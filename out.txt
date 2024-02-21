@@ -2,125 +2,129 @@
 Wednesday, February 21
 Weather: 6° - 6°
 
-	Consider in the first
-     place how many more poor
-     people there are than rich,
-     and yet you will not find
-     that they are sadder or more
-     anxious than the rich: nay,
-     I am not sure that they are
-     not happier, because they
-     have fewer things to
-     distract their minds.
+	Let my mind be contained
+     within itself and improve
+     itself: let it take no part
+     with other men’s affairs,
+     and do nothing which depends
+     on the approval of other(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Season 6 episode
-       descriptions
-   2. Good look at the
+   1. GP's reaction to
+       Max going 0.822s faster
+       than P2
+   2. Toto Wolff and
+       Checho Perez having a
+       chat in the paddock
+   3. Good look at the
        RB20 intake
-   3. F1 Teams Social
-       Media Followers
-   4. Mercedes AMG
-       Petronas F1 Team |
-       That’s day one for the
-       team complete in Bahrain
-   5. RB20: Are this
-       also some kind of
-       inlets?
+   4. Season 6 episode
+       descriptions
+   5. Finnish F1 report:
+       "Horner's getting
+       released. Only a matter
+       of details before made
+       public."
 
 # Gaming
-   1. Fallout’s Scrappy
-       Survivors deck takes
-       Magic’s Commander format
-       to new heights
-   2. Helldivers 2 will
-       soon kick AFK squatters
-   3. How to unlock the
-       Gold Saucer in FFXIV
-   4. Magic’s first
-       Fallout Commander
-       decklist preview is for
-       Scrappy Survivors
-   5. Elden Ring: Shadow
-       of the Erdtree’s first
-       trailer drops Wednesday
+   1. What class and
+       Mastery should you play
+       in Last Epoch?
+   2. How to play the
+       Xbox FFXIV open beta
+   3. Dune 2 is every
+       bit as great as the
+       first movie promised it
+       would be
+   4. The Borderlands
+       movie looks surprisingly
+       good and a lot like
+       Borderlands
+   5. All the biggest
+       announcements from
+       Nintendo’s February 2024
+       Partner Direct
 
 # HackerNews
    1. Gemma: New Open
        Models
-   2. Pijul is a free
-       and open source (GPL2)
-       distributed version
-       control system
-   3. XL: An Extensible
-       Programming Language
-   4. Launch HN: Retell
+   2. Insecure vehicles
+       should be banned, not
+       security tools like the
+       Flipper Zero
+   3. iMessage with PQ3
+       Cryptographic Protocol
+   4. Encoding
+       tic-tac-toe in 15 bits
+   5. Launch HN: Retell
        AI (YC W24) –
        Conversational Speech
        API for Your LLM
-   5. Stop postponing
-       things by embracing the
-       mess
 
 # NL
-   1. That's why they
+   1. To go even further
+       beyond (Balatro)
+   2. That's why they
        call me Mister Glass
        (Balatro)
-   2. The new animals
+   3. The new animals
        are fun guys, maybe you
        should try them (Super
        Auto Pets)
-   3. young, dumb, and
+   4. young, dumb, and
        full of pulchritude
        #shorts
-   4. BALATRO RELEASE
+   5. BALATRO RELEASE
        DAY GET IN HERE
        (Balatro)
-   5. The demo may never
-       stop me again (Balatro)
 
 # Slovakia
-   1. Fraud in a
-       butterfly
-   2. We’ll never be
-       silent. We have a
-       commitment to Ján Kuciak
-   3. News digest:
-       Minister's plan to
-       rewrite whistleblowing
-       bill again
-   4. It hardly changed
-       its original form. The
-       house from the cult 1958
-       Slovak film still
-       attracts people.
-   5. Pellegrini can’t
-       be sure he will win
-       election race, poll
-       shows
+   1. Yes, a Dutch
+       surgeon oversees ING’s
+       Bratislava service
+       centre
+   2. Kuciak case: What
+       prosecutors have said in
+       their appeal to the
+       Supreme Court
+   3. Slovakia marks
+       Kuciak anniversary, but
+       Fico administration
+       ignores it
+   4. Ashtray with
+       oldest depiction in
+       Central Europe of
+       two-wheeled cart with
+       sled on display
+   5. Driving and
+       parking in Old Town
+       centre to change
 
 # Space
-   1. See the sun's
-       surface rage as solar
-       maximum approaches
-       (photo)
-   2. NASA brings back
-       retro 'worm' logo for
-       upcoming Artemis 2 moon
-       mission
-   3. An asteroid will
-       hit Earth at some point.
-       What can we do about it?
-   4. Scientists say 2
-       solar system dwarf
-       planets may harbor
-       underground oceans
-   5. Firefly
-       Aerospace's Alpha rocket
-       put a satellite in the
-       wrong orbit in December.
-       Now we know why.
+   1. Intuitive
+       Machines' Odysseus
+       lander is aiming for a
+       crater near the moon's
+       south pole. Here's why
+   2. NASA's new UVEX
+       mission will explore the
+       ultraviolet universe
+   3. Intuitive
+       Machines' private
+       Odysseus probe snaps 1st
+       moon photo, enters lunar
+       orbit ahead of historic
+       landing attempt
+   4. James Webb Space
+       Telescope finds neutron
+       star mergers forge gold
+       in the cosmos: 'It was
+       thrilling'
+   5. Must-see astronaut
+       thriller 'Constellation'
+       lifts off today at Apple
+       TV+
 
