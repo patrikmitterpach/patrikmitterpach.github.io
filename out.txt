@@ -2,45 +2,50 @@
 Saturday, February 24
 Weather: 6° - 6°
 
-	We are born to a
-     comfortable position enough,
-     if we do not afterwards lose
-     it: the aim of Nature has
-     been to enable us to live
-     well without needing a vast
-     apparatus to enable us to do
-     so: every man is able by
-     himself to make himself
-     happy.
-                        ~ Seneca
+	Then, before I knew it,
+     two things happened. One:
+     the young South African Jody
+     Scheckter, who had just
+     started driving for the
+     McLaren team, lost control
+     of his car in the quick
+     Woodcote corner, causing a
+     huge pile-up. It was one of
+     the biggest crashes there
+     had ever been in Formula
+     One, and it happened right
+     before my very eyes. And
+     two: I dropped my burger
+     from the shock of it.
+                  ~ Adrian Newey
 
 
 -- News --
 # Formula1
    1. And that's all
        folks!
-   2. [@AlbertFabrega]
-       Adrian Newey under the
-       car checking the damage
-       caused by the drain
-       cover. Passion and full
-       commitment
-   3. It seems that the
-       community has
-       successfully bullied
-       Alpine to change their
-       f*****g car
-   4. Albert Fabrega |
+   2. Albert Fabrega |
        Flow-viz shower for the
        McLaren.
-   5. [Mercedes AMG F1
-       Team] If we had a nickel
-       for every time a drain
-       came loose during
-       testing, we’d have two
-       nickels, which isn’t a
-       lot, but it’s weird that
-       it’s happened twice
+   3. Last race where
+       each of the current F1
+       drivers have been lapped
+   4. Alonso: 19 drivers
+       already know they won't
+       win 2024 F1 title
+   5. [The Race] Lewis
+       Hamilton and Mercedes
+       have done a huge amount
+       of diversity and
+       inclusion work together,
+       and Hamilton's already
+       spoken to Ferrari
+       chairman John Elkann
+       about what his new team
+       needs to do on that
+       front, saying Ferrari is
+       "super excited to get on
+       and work on it"
 
 # Gaming
    1. Pokémon Go Tour
@@ -68,18 +73,15 @@ Weather: 6° - 6°
 # HackerNews
    1. GPT in 500 Lines
        of SQL
-   2. Meta's new
-       LLM-based test generator
-       is a sneak peek to the
-       future of development
-   3. Show HN: OK-Robot:
-       open, modular home robot
-       framework for
-       pick-and-drop anywhere
-   4. Generative Models:
-       What do they know? Do
-       they know things? Let's
-       find out
+   2. Power Metal: is it
+       really about dragons?
+       (2018)
+   3. Ten years of
+       remembering every day
+       that passes
+   4. Geospatial Nix –
+       create, use and deploy
+       today
    5. Shoes makes
        building little
        graphical programs for
@@ -126,26 +128,25 @@ Weather: 6° - 6°
        attraction
 
 # Space
-   1. Intuitive
+   1. Is it time for
+       moon laws? 1st private
+       lunar landing emphasizes
+       the need for new policy
+   2. Intuitive
        Machines' Odysseus
        lander tipped over on
        the moon during 'spicy'
        lunar landing
-   2. Kerbal Space
+   3. Kerbal Space
        Program, ULA announce
        winners of Vulcan rocket
        challenge (exclusive)
-   3. Blue Origin's New
+   4. Blue Origin's New
        Glenn rocket rises on
        launch pad ahead of
        debut liftoff (photo)
-   4. 3 tiny new moons
+   5. 3 tiny new moons
        found around Uranus and
        Neptune — and one is
        exceptionally tiny
-   5. Intuitive
-       Machines' Odysseus moon
-       lander didn't deploy
-       camera during historic
-       descent
 
