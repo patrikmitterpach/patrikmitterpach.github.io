@@ -1,127 +1,153 @@
 -- Daily Times --
-Wednesday, February 21
+Saturday, February 24
 Weather: 6° - 6°
 
-	There are three kinds of
-     life, and it is a stock
-     question which of the three
-     is the best: the first is
-     devoted to pleasure, the
-     second to contemplation, the
-     third to action.
+	Those men whom you
+     regard as fortunate, if you
+     could see, not their outward
+     show, but their hidden life,
+     are really unhappy, mean,
+     and base, ornamented on the
+     outside like the walls of
+     their houses: that good
+     fortune of theirs is not
+     sound and genuine: it is
+     only a veneer, and that a
+     thin one.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. GP's reaction to
-       Max going 0.822s faster
-       than P2
-   2. Toto Wolff and
-       Checho Perez having a
-       chat in the paddock
-   3. Finnish F1 report:
-       "Horner's getting
-       released. Only a matter
-       of details before made
-       public."
-   4. Good look at the
-       RB20 intake
-   5. Season 6 episode
-       descriptions
+   1. And that's all
+       folks!
+   2. [@AlbertFabrega]
+       Adrian Newey under the
+       car checking the damage
+       caused by the drain
+       cover. Passion and full
+       commitment
+   3. It seems that the
+       community has
+       successfully bullied
+       Alpine to change their
+       f*****g car
+   4. Albert Fabrega |
+       Flow-viz shower for the
+       McLaren.
+   5. [Mercedes AMG F1
+       Team] If we had a nickel
+       for every time a drain
+       came loose during
+       testing, we’d have two
+       nickels, which isn’t a
+       lot, but it’s weird that
+       it’s happened twice
 
 # Gaming
-   1. All the new video
-       games launching in 2024
-   2. Even Lego Fortnite
-       loves a fishing minigame
-   3. Brandon Sanderson
-       will bring his next
-       project to Kickstarter
-       competitor Backerkit
-   4. Jim Henson’s kids
-       explain why Dark Crystal
-       and Labyrinth would
-       never get made today
-   5. Netflix’s
-       live-action Avatar isn’t
-       the only Last Airbender
-       project that’s on the
-       way
+   1. Pokémon Go Tour
+       Sinnoh event, habitat
+       times, and Special
+       Research guide
+   2. Mean Girls, The
+       Zone of Interest,
+       Netflix’s Mea Culpa, and
+       every new movie to watch
+       this weekend
+   3. Lorcana’s Into the
+       Inklands is almost here,
+       but you’ll need request
+       an invite to pre-order
+   4. A Game of Thrones
+       movie trilogy was
+       blocked by HBO, say
+       showrunners
+   5. Believe it! A
+       live-action Naruto is on
+       the way from the
+       director of Shang-Chi
 
 # HackerNews
-   1. The killer app of
-       Gemini Pro 1.5 is video
-   2. Gemma: New Open
-       Models
-   3. An Introduction to
-       the Theory and Practice
-       of Poker
-   4. ASML dethrones
-       Applied Materials,
-       becomes largest fab tool
-       maker
-   5. Neural Network
-       Diffusion
+   1. GPT in 500 Lines
+       of SQL
+   2. Meta's new
+       LLM-based test generator
+       is a sneak peek to the
+       future of development
+   3. Show HN: OK-Robot:
+       open, modular home robot
+       framework for
+       pick-and-drop anywhere
+   4. Generative Models:
+       What do they know? Do
+       they know things? Let's
+       find out
+   5. Shoes makes
+       building little
+       graphical programs for
+       Mac, Windows, Linux
+       simple
 
 # NL
-   1. My neighbors must
-       hate me (Balatro)
-   2. To go even further
-       beyond (Balatro)
-   3. That's why they
-       call me Mister Glass
+   1. Iterating the
+       chibbonacci sequence
        (Balatro)
-   4. The new animals
-       are fun guys, maybe you
-       should try them (Super
-       Auto Pets)
-   5. young, dumb, and
-       full of pulchritude
-       #shorts
+   2. When did I learn
+       to shoot? (Fortnite w/
+       DanGheesling)
+   3. every game should
+       be dark souls #shorts
+       #gaming #darksouls
+   4. First Balatro runs
+       on launch day (Balatro)
+   5. We bring a sort of
+       dad vibe the function
+       sorely lacks (Fortnite
+       w/ DanGheesling)
 
 # Slovakia
-   1. News digest: Fico
-       skips minute of silence
-       for Kuciak
-   2. Yes, a Dutch
-       surgeon oversees ING’s
-       Bratislava service
-       centre
-   3. Kuciak case: What
-       prosecutors have said in
-       their appeal to the
-       Supreme Court
-   4. Slovakia marks
-       Kuciak anniversary, but
-       Fico administration
-       ignores it
-   5. Ashtray with
-       oldest depiction in
-       Central Europe of
-       two-wheeled cart with
-       sled on display
+   1. News digest: SaS
+       calls for Navalny death
+       probe, queries Slovak
+       foreign policy
+   2. Report: EU to lift
+       sanctions against
+       pro-Russian Slovak Jozef
+       Hambálek
+   3. Slovak
+       hydroelectric plants
+       achieve record-breaking
+       performance
+   4. Weekend: What to
+       do over spring break?
+       Put helmet on and walk
+       in mine tunnel
+   5. Slovak romance
+       goes global as New York
+       TImes reports on famous
+       attraction
 
 # Space
-   1. Delta Air Lines
-       wants to fly you through
-       the 2024 total solar
-       eclipse from 30,000 feet
-       in the sky
-   2. Private capsule
-       comes back to Earth with
-       space-grown antiviral
-       drug aboard
-   3. Bus-sized European
-       satellite crashes to
-       Earth over Pacific Ocean
-   4. Scientists create
-       5 new isotopes to learn
-       how neutron star
-       collisions forge gold
-   5. Intuitive
+   1. Intuitive
        Machines' Odysseus
-       lander is aiming for a
-       crater near the moon's
-       south pole. Here's why
+       lander tipped over on
+       the moon during 'spicy'
+       lunar landing
+   2. Kerbal Space
+       Program, ULA announce
+       winners of Vulcan rocket
+       challenge (exclusive)
+   3. Blue Origin's New
+       Glenn rocket rises on
+       launch pad ahead of
+       debut liftoff (photo)
+   4. 3 tiny new moons
+       found around Uranus and
+       Neptune — and one is
+       exceptionally tiny
+   5. Intuitive
+       Machines' Odysseus moon
+       lander didn't deploy
+       camera during historic
+       descent
 
