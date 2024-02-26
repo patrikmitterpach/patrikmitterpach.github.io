@@ -1,152 +1,134 @@
 -- Daily Times --
-Saturday, February 24
+Monday, February 26
 Weather: 6° - 6°
 
-	Then, before I knew it,
-     two things happened. One:
-     the young South African Jody
-     Scheckter, who had just
-     started driving for the
-     McLaren team, lost control
-     of his car in the quick
-     Woodcote corner, causing a
-     huge pile-up. It was one of
-     the biggest crashes there
-     had ever been in Formula
-     One, and it happened right
-     before my very eyes. And
-     two: I dropped my burger
-     from the shock of it.
-                  ~ Adrian Newey
+	Often a man who is very
+     old in years has nothing
+     beyond his age by which he
+     can prove that he has lived
+     a long time.”
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. And that's all
-       folks!
-   2. Albert Fabrega |
-       Flow-viz shower for the
-       McLaren.
-   3. Last race where
-       each of the current F1
-       drivers have been lapped
-   4. Alonso: 19 drivers
-       already know they won't
-       win 2024 F1 title
-   5. [The Race] Lewis
-       Hamilton and Mercedes
-       have done a huge amount
-       of diversity and
-       inclusion work together,
-       and Hamilton's already
-       spoken to Ferrari
-       chairman John Elkann
-       about what his new team
-       needs to do on that
-       front, saying Ferrari is
-       "super excited to get on
-       and work on it"
+   1. With the Bahrain
+       GP in a week, the
+       19-year unbeaten lap
+       record for the circuit
+       is still being held by
+       Pedro de la Rosa.
+       Literally.
+   2. List of the
+       pecking order as
+       mentioned by the F1
+       pundits.
+   3. Oscar Piastri on X
+   4. Alex Albon on
+       Lewis Hamilton: “He is
+       just as [big as], if not
+       bigger than, the sport.”
+   5. AP Jenna Fryer:
+       CEO of Ford Demands Red
+       Bull Resolution of
+       Investigation into
+       Christian Horner
 
 # Gaming
-   1. Pokémon Go Tour
-       Sinnoh event, habitat
-       times, and Special
-       Research guide
-   2. Mean Girls, The
-       Zone of Interest,
-       Netflix’s Mea Culpa, and
-       every new movie to watch
-       this weekend
-   3. Lorcana’s Into the
-       Inklands is almost here,
-       but you’ll need request
-       an invite to pre-order
-   4. A Game of Thrones
-       movie trilogy was
-       blocked by HBO, say
-       showrunners
-   5. Believe it! A
-       live-action Naruto is on
-       the way from the
-       director of Shang-Chi
+   1. Dune’s music is a
+       mélange that folds time
+       and space
+   2. 10 of the best
+       platforming games that
+       don’t star Mario
+   3. Avatar: The Last
+       Airbender took anime
+       seriously when few shows
+       did
+   4. The best Final
+       Fantasy games to play
+       before Rebirth
+   5. 10 animated shows
+       to watch after you’ve
+       finished your Avatar:
+       The Last Airbender
+       rewatch
 
 # HackerNews
-   1. GPT in 500 Lines
-       of SQL
-   2. Power Metal: is it
-       really about dragons?
-       (2018)
-   3. Ten years of
-       remembering every day
-       that passes
-   4. Geospatial Nix –
-       create, use and deploy
-       today
-   5. Shoes makes
-       building little
-       graphical programs for
-       Mac, Windows, Linux
-       simple
+   1. Home Screen
+       Advantage
+   2. A History of the
+       TTY
+   3. New car buying
+       guide: the algorithm
+       (2021)
+   4. Frugly vs.
+       Freemium
+   5. PID Without a PhD
+       (2016) [pdf]
 
 # NL
-   1. Iterating the
-       chibbonacci sequence
+   1. These guys HATE
+       cavemen (Jackbox)
+   2. There will never
+       be another weekend like
+       this one Miscellaneous
+   3. And this cat is
+       supposed to be lucky
        (Balatro)
-   2. When did I learn
-       to shoot? (Fortnite w/
-       DanGheesling)
-   3. every game should
-       be dark souls #shorts
-       #gaming #darksouls
-   4. First Balatro runs
-       on launch day (Balatro)
-   5. We bring a sort of
-       dad vibe the function
-       sorely lacks (Fortnite
-       w/ DanGheesling)
+   4. Is your best hand
+       seriously a Lvl 0?
+       (Balatro)
+   5. calling in a
+       resupply #helldivers2
+       #gaming #shorts
 
 # Slovakia
-   1. News digest: SaS
+   1. Slovaks and
+       Ukrainians go to Norway
+       to earn money. Russians
+       go to Ukraine to kill.
+   2. News digest: SaS
        calls for Navalny death
        probe, queries Slovak
        foreign policy
-   2. Report: EU to lift
+   3. Report: EU to lift
        sanctions against
        pro-Russian Slovak Jozef
        Hambálek
-   3. Slovak
+   4. Slovak
        hydroelectric plants
        achieve record-breaking
        performance
-   4. Weekend: What to
+   5. Weekend: What to
        do over spring break?
        Put helmet on and walk
        in mine tunnel
-   5. Slovak romance
-       goes global as New York
-       TImes reports on famous
-       attraction
 
 # Space
-   1. Is it time for
-       moon laws? 1st private
-       lunar landing emphasizes
-       the need for new policy
-   2. Intuitive
-       Machines' Odysseus
-       lander tipped over on
-       the moon during 'spicy'
-       lunar landing
-   3. Kerbal Space
-       Program, ULA announce
-       winners of Vulcan rocket
-       challenge (exclusive)
-   4. Blue Origin's New
-       Glenn rocket rises on
-       launch pad ahead of
-       debut liftoff (photo)
-   5. 3 tiny new moons
-       found around Uranus and
-       Neptune — and one is
-       exceptionally tiny
+   1. SpaceX, NASA 'go'
+       to launch Crew-8
+       astronaut mission to ISS
+       on March 1
+   2. ISS astronauts
+       witness 'spectacular'
+       auroras from space
+       (photos)
+   3. James Webb
+       telescope finds ancient
+       galaxy larger than our
+       Milky Way, and it's
+       threatening to upend
+       cosmology
+   4. 'A wonderful
+       spectacle': Photographer
+       snaps rare solar
+       eruption as 'magnetic
+       noose' strangles the
+       sun's south pole
+   5. Artemis 2 moon
+       astronauts will enjoy
+       maple cream cookies and
+       smoked salmon thanks to
+       Canada
 
