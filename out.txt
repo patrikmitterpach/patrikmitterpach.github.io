@@ -2,81 +2,70 @@
 Tuesday, February 27
 Weather: 6° - 6°
 
-	Riches, I say, are not a
-     good thing; for if they
-     were, they would make men
-     goo(1).
+	Can heights be reached
+     by a level path?
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Going into the
-       75th season, what is
-       your favorite F1 photo
-       of all time?
-   2. Unwanted F1
+   1. Unwanted F1
        Records That Could Be
        Broken in 2024
-   3. Max on whether he
-       thinks it'll be a
-       dominant year: Hard to
-       say, I don't know what
-       the others are running.
-       From our side, it's just
-       very positive. I think
-       it's a fast car but you
-       can't tell how fast
-       compared to the rest.
-       That we will of course
-       see next week in Q3.
-       Hopefully. If we make it
-       to Q3! Heh
-   4. Hamilton didn’t
+   2. Hamilton didn’t
        tell parents about
        Ferrari F1 switch until
        announcement day
-   5. Formula 1
-       employees in Bahrain
-       turned away because of
-       rainbow flag
-       (Formel-1-Mitarbeiter in
-       Bahrain wegen
-       Regenbogen-Flagge
-       abgewiesen)
+   3. Mateschitz had a
+       contract with the 51%
+       Thai owners, which gave
+       him free rein to make
+       various operational
+       decisions, including
+       making personnel
+       decisions independently.
+       This agreement was not
+       transferred to the
+       heirs, thus CH's
+       suspension or dismissal
+       is not possible without
+       the consent of the
+       Thai's
+   4. Kimi Raikkonen's
+       "Mclaren gets stopped by
+       police" photoshoot
+   5. [Lando Norris via
+       IG] Getting warmed up..
 
 # Gaming
-   1. How to play Last
-       Epoch in offline mode
-   2. We need to talk
-       about the ending of All
-       of Us Strangers
-   3. What class and
-       Mastery should you play
-       in Last Epoch?
-   4. Stardew Valley’s
-       anticipated 1.6 update
-       coming in March
-   5. What will Switch
-       2’s gimmick be?
+   1. The best movies of
+       2024 so far
+   2. Lofi Girl and
+       Synthwave Boy just got
+       new streams
+   3. Pokémon is getting
+       a whole new way to
+       collect cards virtually
+   4. A new Pokémon
+       Legends game is coming
+       to Switch in 2025
+   5. Everything
+       announced during Pokémon
+       Day 2024’s Pokémon
+       Presents
 
 # HackerNews
-   1. Blender Open
-       Movies. Featuring all
-       the production files,
-       assets, and artwork
-   2. I turned my
+   1. Ant Geopolitics
+   2. Easter eggs on
+       Swiss maps
+   3. Boeing Missing Key
+       Elements of Safety
+       Culture: FAA Report
+   4. I turned my
        open-source project into
        a full-time business
-   3. Berlin TYPE: The
-       official type for the
-       city of Berlin
-   4. Rapier is a set of
-       2D and 3D physics
-       engines written in Rust
-   5. Balancing
-       Optimization While
-       Coding
+   5. Blazer: Business
+       Intelligence Made Simple
 
 # NL
    1. On the cob?
@@ -94,46 +83,44 @@ Weather: 6° - 6°
        cavemen (Jackbox)
 
 # Slovakia
-   1. It’s easier to
+   1. Not the best of
+       times
+   2. It’s easier to
        work with Ukrainians
        than Israelis and
        Spaniards. They pay on
        time, says a Slovak CEO.
-   2. Enthusiast
+   3. Enthusiast
        discovers
        50-million-year-old
        oyster in Liptov
-   3. Putin's war gets
+   4. Putin's war gets
        the worst out of Fico
-   4. News digest:
+   5. News digest:
        Explaining PM Fico's
        fear inducing words
        about Paris meeting
-   5. Explainer: Will
-       Slovak soldiers fight in
-       Ukraine? Why Fico is
-       lying about Paris summit
 
 # Space
-   1. Cooperation on the
+   1. Radar images
+       reveal damage on
+       Europe's doomed ERS-2
+       satellite during final
+       orbits
+   2. Radar could help
+       scientists find
+       potentially threatening
+       asteroids. Here's how
+   3. SpaceX rolls out
+       rocket, capsule for
+       Crew-8 astronaut launch
+       (photos)
+   4. SpaceX Crew-8
+       astronauts eager for
+       launch to ISS on March
+       1: 'Things surprise you,
+       but we're ready'
+   5. Cooperation on the
        moon: Are the Artemis
        Accords enough?
-   2. Total solar
-       eclipse 2024: Live
-       updates
-   3. FAA closes
-       investigation into
-       explosive 2nd flight of
-       SpaceX's Starship
-       megarocket
-   4. Intuitive
-       Machines' historic moon
-       landing builds momentum
-       for Artemis, astronaut
-       Tracy C. Dyson says
-       (exclusive)
-   5. President Biden
-       congratulates Intuitive
-       Machines on historic
-       moon landing
 
