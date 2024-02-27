@@ -1,34 +1,24 @@
 -- Daily Times --
-Monday, February 26
+Tuesday, February 27
 Weather: 6° - 6°
 
-	When you rave against
-     Heaven, I do not say that
-     you commit sacrilege, but
-     you waste your time.
+	Riches, I say, are not a
+     good thing; for if they
+     were, they would make men
+     goo(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Who wants to be a
-       Millionaire? £125k
-       question
-   2. Going into the
+   1. Going into the
        75th season, what is
        your favorite F1 photo
        of all time?
-   3. [@F1] The wait is
-       over... IT'S RACE WEEK!
-   4. Formula 1
-       employees in Bahrain
-       turned away because of
-       rainbow flag
-       (Formel-1-Mitarbeiter in
-       Bahrain wegen
-       Regenbogen-Flagge
-       abgewiesen)
-   5. Max on whether he
+   2. Unwanted F1
+       Records That Could Be
+       Broken in 2024
+   3. Max on whether he
        thinks it'll be a
        dominant year: Hard to
        say, I don't know what
@@ -42,99 +32,108 @@ Weather: 6° - 6°
        see next week in Q3.
        Hopefully. If we make it
        to Q3! Heh
+   4. Hamilton didn’t
+       tell parents about
+       Ferrari F1 switch until
+       announcement day
+   5. Formula 1
+       employees in Bahrain
+       turned away because of
+       rainbow flag
+       (Formel-1-Mitarbeiter in
+       Bahrain wegen
+       Regenbogen-Flagge
+       abgewiesen)
 
 # Gaming
-   1. Stardew Valley’s
+   1. How to play Last
+       Epoch in offline mode
+   2. We need to talk
+       about the ending of All
+       of Us Strangers
+   3. What class and
+       Mastery should you play
+       in Last Epoch?
+   4. Stardew Valley’s
        anticipated 1.6 update
        coming in March
-   2. What will Switch
+   5. What will Switch
        2’s gimmick be?
-   3. How many Dune
-       movies will there be?
-   4. Netflix’s Octopus
-       Murders, Shōgun, and
-       more of the best new TV
-       this week
-   5. The latest (and
-       greatest) Like a Dragon
-       game is already $30 off
 
 # HackerNews
-   1. How to find the
-       AWS account ID of any S3
-       bucket
-   2. Apache Superset
-   3. Ryzen Z1's Tiny
-       iGPU
-   4. A bad day at the
-       office
-   5. Show HN:
-       AboutIdeasNow – search
-       /about, /ideas, /now
-       pages of 7k+ personal
-       sites
+   1. Blender Open
+       Movies. Featuring all
+       the production files,
+       assets, and artwork
+   2. I turned my
+       open-source project into
+       a full-time business
+   3. Berlin TYPE: The
+       official type for the
+       city of Berlin
+   4. Rapier is a set of
+       2D and 3D physics
+       engines written in Rust
+   5. Balancing
+       Optimization While
+       Coding
 
 # NL
-   1. You can actually
+   1. On the cob?
+       (Jackbox)
+   2. You can actually
        see the steam coming off
        his head (Balatro)
-   2. Never tell me the
+   3. Never tell me the
        odds please (Balatro)
-   3. bro hit me with
+   4. bro hit me with
        the pennsylvania
        backseating #gaming
        #balatro #shorts
-   4. These guys HATE
+   5. These guys HATE
        cavemen (Jackbox)
-   5. There will never
-       be another weekend like
-       this one Miscellaneous
 
 # Slovakia
-   1. Putin's war gets
+   1. It’s easier to
+       work with Ukrainians
+       than Israelis and
+       Spaniards. They pay on
+       time, says a Slovak CEO.
+   2. Enthusiast
+       discovers
+       50-million-year-old
+       oyster in Liptov
+   3. Putin's war gets
        the worst out of Fico
-   2. News digest:
+   4. News digest:
        Explaining PM Fico's
        fear inducing words
        about Paris meeting
-   3. Explainer: Will
+   5. Explainer: Will
        Slovak soldiers fight in
        Ukraine? Why Fico is
        lying about Paris summit
-   4. Slovak-Malian
-       couple has trouble
-       living together, blames
-       Slovak embassy in Kenya
-   5. Slovak NHL
-       player's contract
-       terminated after
-       controversial Instagram
-       video
 
 # Space
-   1. Ingenuity Mars
-       helicopter snapped rotor
-       blade during hard
-       landing last month
-       (video, photo)
-   2. It's alive! JAXA's
-       SLIM moon lander sends
-       home new photos after
-       surviving frigid lunar
-       night
-   3. Zombie star earns
-       metal scar while chewing
-       its own planets:
-       'Nothing like this has
-       been seen before'
-   4. Gravitational
-       anomalies reveal
-       seamount 3 times the
-       height of world's
-       tallest building
-   5. Intuitive
-       Machines' Odysseus moon
-       lander beams home 1st
-       photos from lunar
-       surface
+   1. Cooperation on the
+       moon: Are the Artemis
+       Accords enough?
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. FAA closes
+       investigation into
+       explosive 2nd flight of
+       SpaceX's Starship
+       megarocket
+   4. Intuitive
+       Machines' historic moon
+       landing builds momentum
+       for Artemis, astronaut
+       Tracy C. Dyson says
+       (exclusive)
+   5. President Biden
+       congratulates Intuitive
+       Machines on historic
+       moon landing
 
