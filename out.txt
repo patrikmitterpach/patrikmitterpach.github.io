@@ -1,126 +1,140 @@
 -- Daily Times --
-Tuesday, February 27
+Thursday, February 29
 Weather: 6° - 6°
 
-	Can heights be reached
-     by a level path?
+	“We live a small part
+     only of our live(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Unwanted F1
-       Records That Could Be
-       Broken in 2024
-   2. Hamilton didn’t
-       tell parents about
-       Ferrari F1 switch until
-       announcement day
-   3. Mateschitz had a
-       contract with the 51%
-       Thai owners, which gave
-       him free rein to make
-       various operational
-       decisions, including
-       making personnel
-       decisions independently.
-       This agreement was not
-       transferred to the
-       heirs, thus CH's
-       suspension or dismissal
-       is not possible without
-       the consent of the
-       Thai's
-   4. Kimi Raikkonen's
-       "Mclaren gets stopped by
-       police" photoshoot
-   5. [Lando Norris via
-       IG] Getting warmed up..
+   1. Red Bull RB20
+       sidepod without cover
+   2. 2024 Bahrain GP -
+       FP1 Classification
+   3. [Sky Sports F1]
+       Karun Chandhok on Carlos
+       Sainz: “I don’t think
+       Carlos wants to go to
+       Audi. By the time he
+       gets a contender in
+       2029, he’ll be 38.”
+       “This is his prime. If I
+       was his manager, I would
+       be sending Toto Wolff
+       every metric and
+       spreadsheet of why
+       Carlos is equal to
+       Charles Leclerc.”
+   4. [Arunvignesh
+       Lakshmikanthan] (RB
+       engineer) I believed in
+       him (Horner)! It’s hard
+       to see him at debrief
+       yesterday. The pain in
+       his eyes and the damage
+       has been done already!
+       But super happy that the
+       whole factory cheered
+       and applauded for him
+       when he said he’ll
+       bounce back!
+   5. Christian Horner
+       arriving at the paddock
+       to resume his normal
+       duties (@Kymillman)
 
 # Gaming
-   1. The best movies of
-       2024 so far
-   2. Lofi Girl and
-       Synthwave Boy just got
-       new streams
-   3. Pokémon is getting
-       a whole new way to
-       collect cards virtually
-   4. A new Pokémon
-       Legends game is coming
-       to Switch in 2025
-   5. Everything
-       announced during Pokémon
-       Day 2024’s Pokémon
-       Presents
+   1. New pages from
+       Dune: Part 2’s gorgeous
+       art book showcase the
+       movie’s epic scope
+   2. How do you
+       pronounce Balatro? We
+       asked the developer
+   3. Best Buy swings in
+       with the best PS5
+       console deal we’ve seen
+       this year
+   4. Not sure what
+       movie to watch this
+       weekend? Leave a
+       comment, we’ll help
+   5. The first
+       Discworld RPG in nearly
+       three decades is on the
+       way from Modiphius
 
 # HackerNews
-   1. Ant Geopolitics
-   2. Easter eggs on
-       Swiss maps
-   3. Boeing Missing Key
-       Elements of Safety
-       Culture: FAA Report
-   4. I turned my
-       open-source project into
-       a full-time business
-   5. Blazer: Business
-       Intelligence Made Simple
+   1. A lock-free
+       ring-buffer with
+       contiguous reservations
+       (2019)
+   2. Memory Safe TLS
+       Library Now Has AWS
+       Crypto and FIPS
+   3. Unearthing the
+       Oldest Forest on Earth
+   4. The KDE desktop
+       gets an overhaul with
+       Plasma 6
+   5. Show HN: We Built
+       the Fastest Spreadsheet
 
 # NL
-   1. On the cob?
+   1. Connections will
+       not give me the mind
+       virus (Miscellaneous)
+   2. Maybe I'm not the
+       right guy to be giving
+       advice (Balatro)
+   3. Money is on sale,
+       folks (Balatro)
+   4. Legendary joker
+       spotted (Balatro)
+   5. On the cob?
        (Jackbox)
-   2. You can actually
-       see the steam coming off
-       his head (Balatro)
-   3. Never tell me the
-       odds please (Balatro)
-   4. bro hit me with
-       the pennsylvania
-       backseating #gaming
-       #balatro #shorts
-   5. These guys HATE
-       cavemen (Jackbox)
 
 # Slovakia
-   1. Not the best of
-       times
-   2. It’s easier to
-       work with Ukrainians
-       than Israelis and
-       Spaniards. They pay on
-       time, says a Slovak CEO.
-   3. Enthusiast
-       discovers
-       50-million-year-old
-       oyster in Liptov
-   4. Putin's war gets
-       the worst out of Fico
-   5. News digest:
-       Explaining PM Fico's
-       fear inducing words
-       about Paris meeting
+   1. Slovak academics:
+       don’t underestimate
+       yourselves, says leading
+       glass researcher
+   2. Top 10 events in
+       Bratislava for
+       foreigners
+   3. The business
+       service sector is eager
+       to get new roles and
+       competences
+   4. 3 things to do in
+       Bratislava for free in
+       the next seven days
+   5. Palace under Nitra
+       Castle restored to
+       former glory
 
 # Space
-   1. Radar images
-       reveal damage on
-       Europe's doomed ERS-2
-       satellite during final
-       orbits
-   2. Radar could help
-       scientists find
-       potentially threatening
-       asteroids. Here's how
-   3. SpaceX rolls out
-       rocket, capsule for
-       Crew-8 astronaut launch
-       (photos)
-   4. SpaceX Crew-8
-       astronauts eager for
-       launch to ISS on March
-       1: 'Things surprise you,
-       but we're ready'
-   5. Cooperation on the
-       moon: Are the Artemis
-       Accords enough?
+   1. SpaceX launches
+       Leap Day Starlink
+       satellites into orbit,
+       lands rocket at sea
+       (video)
+   2. Magic secrets on
+       the moon: Q&A with David
+       Copperfield (exclusive)
+   3. 'Axion stars' that
+       went boom after the Big
+       Bang could shed light on
+       dark matter
+   4. Air is leaking
+       from a Russian ISS
+       module, but 'no impact
+       to crew,' NASA says
+   5. Get to the choppa!
+       Artemis 2 moon
+       astronauts practice
+       splashdown with U.S.
+       Navy (images, video)
 
