@@ -2,18 +2,39 @@
 Thursday, February 29
 Weather: 6° - 6°
 
-	“We live a small part
-     only of our live(1).
+	Those men whom you
+     regard as fortunate, if you
+     could see, not their outward
+     show, but their hidden life,
+     are really unhappy, mean,
+     and base, ornamented on the
+     outside like the walls of
+     their houses: that good
+     fortune of theirs is not
+     sound and genuine: it is
+     only a veneer, and that a
+     thin one.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Red Bull RB20
-       sidepod without cover
+   1. [Jenna Fryer] A
+       Google drive containing
+       all the “Christian
+       Horner evidence” has
+       just been emailed from
+       an anonymous account to
+       hundreds of journalists
    2. 2024 Bahrain GP -
        FP1 Classification
-   3. [Sky Sports F1]
+   3. F1 | Max
+       Verstappen sets the
+       early pace but...
+       “Everything is ******
+       miles off” says the
+       Dutchman
+   4. [Sky Sports F1]
        Karun Chandhok on Carlos
        Sainz: “I don’t think
        Carlos wants to go to
@@ -27,114 +48,101 @@ Weather: 6° - 6°
        spreadsheet of why
        Carlos is equal to
        Charles Leclerc.”
-   4. [Arunvignesh
-       Lakshmikanthan] (RB
-       engineer) I believed in
-       him (Horner)! It’s hard
-       to see him at debrief
-       yesterday. The pain in
-       his eyes and the damage
-       has been done already!
-       But super happy that the
-       whole factory cheered
-       and applauded for him
-       when he said he’ll
-       bounce back!
    5. Christian Horner
        arriving at the paddock
        to resume his normal
        duties (@Kymillman)
 
 # Gaming
-   1. New pages from
-       Dune: Part 2’s gorgeous
-       art book showcase the
-       movie’s epic scope
-   2. How do you
-       pronounce Balatro? We
-       asked the developer
-   3. Best Buy swings in
-       with the best PS5
-       console deal we’ve seen
-       this year
-   4. Not sure what
-       movie to watch this
-       weekend? Leave a
-       comment, we’ll help
-   5. The first
-       Discworld RPG in nearly
-       three decades is on the
-       way from Modiphius
+   1. Pretty wild that
+       this mini nuke replica
+       is allowed to be mailed
+   2. It’s time to
+       upgrade your PS5, PC, or
+       Steam Deck SSD. We’ve
+       found the best deals
+   3. The best PC gaming
+       monitor of 2024 is here
+       (sorry to your wallet)
+   4. Post-credit
+       scenes, sequel teases,
+       and everything else you
+       need to know about Dune
+       2
+   5. 17 games to play
+       after Elden Ring while
+       you wait for Shadow of
+       the Erdtree
 
 # HackerNews
-   1. A lock-free
+   1. GGUF, the Long Way
+       Around
+   2. Serving my blog
+       posts as Linux manual
+       pages
+   3. Ask HN: Did you
+       encounter any leap year
+       bugs today?
+   4. A lock-free
        ring-buffer with
        contiguous reservations
        (2019)
-   2. Memory Safe TLS
-       Library Now Has AWS
-       Crypto and FIPS
-   3. Unearthing the
-       Oldest Forest on Earth
-   4. The KDE desktop
-       gets an overhaul with
-       Plasma 6
-   5. Show HN: We Built
-       the Fastest Spreadsheet
+   5. Antarctic English
 
 # NL
-   1. Connections will
+   1. The game has been
+       out for 2 days, am I
+       washed (Balatro)
+   2. Friendship ended
+       with Stencil joker
+       (Balatro)
+   3. Connections will
        not give me the mind
        virus (Miscellaneous)
-   2. Maybe I'm not the
+   4. Maybe I'm not the
        right guy to be giving
        advice (Balatro)
-   3. Money is on sale,
+   5. Money is on sale,
        folks (Balatro)
-   4. Legendary joker
-       spotted (Balatro)
-   5. On the cob?
-       (Jackbox)
 
 # Slovakia
-   1. Slovak academics:
+   1. Stories of Slovaks
+       who have not given up on
+       Ukraine
+   2. Slovak academics:
        don’t underestimate
        yourselves, says leading
        glass researcher
-   2. Top 10 events in
+   3. Top 10 events in
        Bratislava for
        foreigners
-   3. The business
+   4. The business
        service sector is eager
        to get new roles and
        competences
-   4. 3 things to do in
+   5. 3 things to do in
        Bratislava for free in
        the next seven days
-   5. Palace under Nitra
-       Castle restored to
-       former glory
 
 # Space
-   1. SpaceX launches
+   1. SpaceX Starship
+       docking system readies
+       for moon missions in
+       tests with NASA
+   2. Richard Truly,
+       space shuttle astronaut
+       and NASA administrator,
+       dies at 86
+   3. James Webb Space
+       Telescope reveals how
+       stellar blasts of
+       radiation stunt planet
+       birth
+   4. Everything we know
+       about Dune: Awakening
+   5. SpaceX launches
        Leap Day Starlink
        satellites into orbit,
        lands rocket at sea
        (video)
-   2. Magic secrets on
-       the moon: Q&A with David
-       Copperfield (exclusive)
-   3. 'Axion stars' that
-       went boom after the Big
-       Bang could shed light on
-       dark matter
-   4. Air is leaking
-       from a Russian ISS
-       module, but 'no impact
-       to crew,' NASA says
-   5. Get to the choppa!
-       Artemis 2 moon
-       astronauts practice
-       splashdown with U.S.
-       Navy (images, video)
 
