@@ -1,17 +1,12 @@
 -- Daily Times --
-Sunday, March 03
+Monday, March 04
 Weather: 6° - 6°
 
-	How late it is to begin
-     life just when we have to be
-     leaving it! What a foolish
-     forgetfulness of our
-     mortality, to put off
-     wholesome counsels until our
-     fiftieth or sixtieth year,
-     and to choose that our lives
-     shall begin at a point which
-     few of us ever reach.
+	Too much pleasure is
+     hurtful: but with virtue we
+     need fear no excess of any
+     kind, because moderation is
+     contained in virtue herself.
                         ~ Seneca
 
 
@@ -29,16 +24,16 @@ Weather: 6° - 6°
        it means nothing to me.
        Unless we’re in the
        points, who cares?
-   2. Sainz looking for
-       his team after finishing
-       3rd but can't find them.
+   2. Toto with Jos
+       Verstappen in the
+       paddock today
    3. Jos Verstappen:
        Red Bull F1 team risks
        being “torn apart” if
        Horner stays
-   4. Toto with Jos
-       Verstappen in the
-       paddock today
+   4. Charles Leclerc’s
+       new Ferrari Daytona SP3
+       arriving in Monaco.
    5. [F1-Insider] Jos
        Verstappen and Toto
        Wolff have been seen
@@ -70,37 +65,36 @@ Weather: 6° - 6°
        Year
 
 # HackerNews
-   1. Better PC cooling
-       with Python and Grafana
-   2. "AI will cure
-       cancer" misunderstands
-       both AI and medicine
-   3. A kids' novel
-       inspired me to simulate
-       a gene drive on 86M
-       genealogy profiles
-   4. Bug in
-       reader/writer locks in
-       Windows API
-   5. Show HN: Hancho –
-       A simple and pleasant
-       build system in ~500
-       lines of Python
+   1. Please, Enough
+       with the Dead
+       Butterflies (2017)
+   2. CSS for printing
+       to paper
+   3. Commerce
+       Department Proposes
+       Imposing "Know Your
+       Customer" on IaaS
+       Providers
+   4. Using a solar oven
+       as a radiant
+       refrigerator at night
+   5. Interesting ideas
+       in Observable Framework
 
 # NL
-   1. The triple crown
+   1. You've never seen
+       a banana like this, I
+       guarantee it (Balatro)
+   2. The triple crown
        of legendaries (Balatro)
-   2. nothing but
+   3. nothing but
        respect for flight
        attendants #shorts
        #gaming
-   3. Where did it all
+   4. Where did it all
        go wrong? (Balatro)
-   4. The luckiest build
+   5. The luckiest build
        of all-time (Balatro)
-   5. why italian food
-       is goated #shorts
-       #gaming
 
 # Slovakia
    1. Foreign Minister
