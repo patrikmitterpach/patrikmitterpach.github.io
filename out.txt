@@ -1,140 +1,146 @@
 -- Daily Times --
-Saturday, March 02
+Sunday, March 03
 Weather: 6° - 6°
 
-	We are born to a
-     comfortable position enough,
-     if we do not afterwards lose
-     it: the aim of Nature has
-     been to enable us to live
-     well without needing a vast
-     apparatus to enable us to do
-     so: every man is able by
-     himself to make himself
-     happy.
+	How late it is to begin
+     life just when we have to be
+     leaving it! What a foolish
+     forgetfulness of our
+     mortality, to put off
+     wholesome counsels until our
+     fiftieth or sixtieth year,
+     and to choose that our lives
+     shall begin at a point which
+     few of us ever reach.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. At the end of Q1
-       there were Redbull
-       mechanics helping Alpine
-       cool the car.
-   2. [grosjeanromain]
-       Went for a walk to visit
-       the Phoenix corner
-   3. Max Verstappen
-       takes pole position for
-       the 2024 Bahrain Grand
-       Prix
-   4. Leclerc’s Q2 time
-       would have given him
-       pole position Leclerc in
-       Q2: 1’29.165 Verstappen
-       in Q3: 1’29.179
-       (@AutoSport)
-   5. [Matt Lawton]
-       Christian Horner’s wife,
-       Geri, is in Bahrain.
-       Arrived last night and
-       due to be at the race
-       tomorrow. Standing by
-       him amid rumours of a
-       second bombshell email
-       landing later today.
+   1. Ricciardo":
+       “Whether I’m 13th or
+       14th, I don’t know if
+       any driver cares about
+       that but I don’t, So if
+       the team said let him
+       [Yuki] back by before
+       the finish line, I
+       would’ve done it because
+       it means nothing to me.
+       Unless we’re in the
+       points, who cares?
+   2. Sainz looking for
+       his team after finishing
+       3rd but can't find them.
+   3. Jos Verstappen:
+       Red Bull F1 team risks
+       being “torn apart” if
+       Horner stays
+   4. Toto with Jos
+       Verstappen in the
+       paddock today
+   5. [F1-Insider] Jos
+       Verstappen and Toto
+       Wolff have been seen
+       talking in the paddock.
+       When Wolff was asked if
+       Max might join Mercedes
+       replacing Hamilton, he
+       replied: "Everything is
+       possible."
 
 # Gaming
-   1. Poor Things,
-       Aquaman 2, Netflix’s
-       Spaceman, and every new
-       movie to watch this
-       weekend
-   2. Final Fantasy 8 is
-       the best, area man
-       claims
-   3. How to beat Mohg,
-       Lord of Blood, in Elden
-       Ring
-   4. How to access
-       Elden Ring’s Shadow of
-       the Erdtree DLC
-   5. How to get the
-       Quetzalcoatl Talon in
-       FF7 Rebirth
+   1. Final Fantasy 7
+       Rebirth is basically a
+       Chadley simulator
+   2. Last Epoch is the
+       not-Diablo game every
+       generation must have
+   3. With the Automaton
+       invasion, Helldivers 2
+       proved failure is part
+       of the point
+   4. Dive into the
+       Dune: Adventures in the
+       Imperium TTRPG for just
+       $18
+   5. Anime Awards 2024
+       names Jujutsu Kaisen
+       season 2 Anime of the
+       Year
 
 # HackerNews
-   1. Ente: Open-Source,
-       E2E Encrypted, Google
-       Photos Alternative
-   2. Could Modified
-       Gravity Kill Planet
-       Nine?
-   3. Use KeePassXC to
-       sign your Git commits
-   4. R: Introduction to
-       Data Science
-   5. Microsoft
-       Security-101:
-       Open-Source curriculum
+   1. Better PC cooling
+       with Python and Grafana
+   2. "AI will cure
+       cancer" misunderstands
+       both AI and medicine
+   3. A kids' novel
+       inspired me to simulate
+       a gene drive on 86M
+       genealogy profiles
+   4. Bug in
+       reader/writer locks in
+       Windows API
+   5. Show HN: Hancho –
+       A simple and pleasant
+       build system in ~500
+       lines of Python
 
 # NL
-   1. He got the
-       polychrome dome
-       (Balatro)
-   2. I'm going to
-       revolutionize the
-       restaurant industry
-       (Miscellaneous)
-   3. you can READ??
-       #shorts
-   4. Is steel the real
-       deal? (Balatro)
-   5. The game has been
-       out for 2 days, am I
-       washed (Balatro)
+   1. The triple crown
+       of legendaries (Balatro)
+   2. nothing but
+       respect for flight
+       attendants #shorts
+       #gaming
+   3. Where did it all
+       go wrong? (Balatro)
+   4. The luckiest build
+       of all-time (Balatro)
+   5. why italian food
+       is goated #shorts
+       #gaming
 
 # Slovakia
-   1. Unveiling the
+   1. Foreign Minister
+       Blanár shakes hands with
+       Russian counterpart
+       Lavrov in Turkey
+   2. Unveiling the
        heart of giving: IWCB
        Charity Committee's
        compassionate
        initiatives
-   2. News digest:
+   3. News digest:
        Slovakia takes receipt
        of the first of its F-16
        fighter jets
-   3. New business
+   4. New business
        ranking highlights
        Slovakia's
        'changemakers'
-   4. Slovakia, facing
+   5. Slovakia, facing
        labour shortages, is to
        allow more visas for
        foreign workers
-   5. An unusual hobby:
-       The American with 3,000
-       Slovak and Czech folk
-       dresses
 
 # Space
-   1. Watch private
-       space capsule's
-       blistering return to
-       Earth in amazing onboard
-       video
-   2. Holy Stone HS720R
-       drone review
-   3. Heaviest pair of
-       black holes ever seen
-       weighs 28 billion times
-       more than the sun
-   4. Will NASA be able
-       to return Mars samples
-       to Earth? New audit
-       raises doubts
-   5. Adam Sandler's
-       'Spaceman' used NASA
-       artifacts to create
-       sci-fi film's spaceship
+   1. Photographing the
+       northern lights with the
+       Sony A7R V
+   2. This iPhone app
+       can find the Milky Way's
+       monster black hole from
+       anywhere
+   3. NASA's ice-hunting
+       VIPER moon rover getting
+       ready to slither to the
+       launch pad
+   4. Bwine F7GB2 drone
+       review
+   5. Can Antarctica
+       serve as a model for
+       international
+       cooperation on the moon?
 
