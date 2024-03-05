@@ -1,142 +1,152 @@
 -- Daily Times --
-Monday, March 04
+Tuesday, March 05
 Weather: 6° - 6°
 
-	when his last day
-     arrives, the wise man will
-     not hang back, but will walk
-     with a steady step to meet
-     death.
+	In this course of life
+     there await you many good
+     things, such as love and
+     practice of the virtues,
+     forgetfulness of passions,
+     knowledge of how to live and
+     die, deep repose. The
+     position of all busy men is
+     unhappy, but most unhappy of
+     all is that of those who do
+     not even labour at their own
+     affairs, but have to
+     regulate their rest by
+     another man’s sleep, their
+     walk by another man’s pace,
+     and whose very love and
+     hate, the freest things in
+     the world, are at another’s
+     bidding. If such men wish to
+     know how short their lives
+     are, let them think how
+     small a fraction of them is
+     their own.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Charles Leclerc’s
-       new Ferrari Daytona SP3
-       arriving in Monaco.
-   2. [BBC.com] Max
-       Verstappen had been
-       asked by Mohammed Ben
-       Sulayem, the president
-       of F1’s governing body
-       the FIA, to back Horner
-       publicly.
-   3. Max Verstappen now
-       holds the record for the
-       most consecutive points
-       scored in F1, breaking
-       Lewis Hamilton’s record
-       [via - @VerstappenCOM]
-   4. The 2024 Bahrain
-       GP was the lowest rated
-       Bahrain GP since 2014
-       (according to a Racefans
-       poll) and also had the
-       fewest Overtakes of a
-       Bahrain GP since 2014,
-       the 2023 race was
-       second-last in both of
-       these metrics.
-   5. Red Bull stick by
-       Christian Horner for now
-       despite Jos Verstappen
-       outburst
+   1. The amount of
+       misinformation has been
+       insane in the last 48h
+   2. Mohammed Ben
+       Sulayem: FIA President
+       under investigation for
+       alleged attempt to
+       interfere over F1 race
+   3. [F1Insider.com]
+       Max’s contract with Red
+       Bull is void if Helmut
+       Marko retires or leaves
+       Red Bull. Marko notes he
+       “will not stand in the
+       way of Max”
+   4. Christian Horner
+       meets Max Verstappen's
+       agent for face-to-face
+       talks amid rising
+       tensions at Red Bull
+   5. [F1-Insider.com]
+       Gerhard Berger sums it
+       up best. The Tyrolean
+       was in Bahrain and was
+       able to watch the comedy
+       from the front row. His
+       impression: “As of now:
+       Horner stays, Helmut
+       Marko and Adrian Newey
+       quit and Max goes to
+       Mercedes.”
 
 # Gaming
-   1. Final Fantasy 7
-       Rebirth is basically a
-       Chadley simulator
-   2. Last Epoch is the
-       not-Diablo game every
-       generation must have
-   3. With the Automaton
-       invasion, Helldivers 2
-       proved failure is part
-       of the point
-   4. Dive into the
-       Dune: Adventures in the
-       Imperium TTRPG for just
-       $18
-   5. Anime Awards 2024
-       names Jujutsu Kaisen
-       season 2 Anime of the
-       Year
+   1. Can Pawmi be shiny
+       in Pokémon Go?
+   2. The full 2024
+       Oscar nominations list —
+       and predictions for who
+       wins
+   3. Nintendo wins
+       $2.4M in Switch emulator
+       lawsuit, Yuzu to shut
+       down
+   4. When does Modern
+       Warfare 3 season 2
+       Reloaded release?
+   5. Final Fantasy 7
+       Rebirth weapons guide
 
 # HackerNews
-   1. French Court
-       Issues Damages Award for
-       Violation of GPL
-   2. The Singapore
-       Airlines Concorde: The
-       full story
-   3. The Theorist Who
-       Sees Math in Art, Music
-       and Writing
-   4. Motion blur all
-       the way down (2022)
-   5. Apple hit with
-       over 1.8B euro EU
-       antitrust fine in
-       Spotify case
+   1. Radicle:
+       Open-Source,
+       Peer-to-Peer, GitHub
+       Alternative
+   2. Show HN: 3 years
+       and 1M users later, I
+       just open-sourced my
+       "Internet OS"
+   3. Stable Diffusion
+       3: Research Paper
+   4. How I keep myself
+       alive using Golang
+   5. I spend £8,500 a
+       year to live on a train
 
 # NL
-   1. You've never seen
+   1. I'm not built to
+       be a speedrunner
+       (Balatro)
+   2. They said I don't
+       know games
+       (Miscellaneous)
+   3. The hand of a
+       lifetime (Balatro)
+   4. why NYT
+       connections will never
+       break me #shorts #gaming
+   5. You've never seen
        a banana like this, I
        guarantee it (Balatro)
-   2. The triple crown
-       of legendaries (Balatro)
-   3. nothing but
-       respect for flight
-       attendants #shorts
-       #gaming
-   4. Where did it all
-       go wrong? (Balatro)
-   5. The luckiest build
-       of all-time (Balatro)
 
 # Slovakia
-   1. Foreign Minister
-       Blanár shakes hands with
-       Russian counterpart
-       Lavrov in Turkey
-   2. Unveiling the
-       heart of giving: IWCB
-       Charity Committee's
-       compassionate
-       initiatives
-   3. News digest:
-       Slovakia takes receipt
-       of the first of its F-16
-       fighter jets
-   4. New business
-       ranking highlights
-       Slovakia's
-       'changemakers'
-   5. Slovakia, facing
-       labour shortages, is to
-       allow more visas for
-       foreign workers
+   1. News digest: Italy
+       takes back its
+       air-defence system in
+       Slovakia
+   2. Runaway locomotive
+       passes 17 kilometres
+       before stopping
+   3. British ambassador
+       explains to Slovak PM
+       why he's wrong
+   4. Last Week: How
+       much hate can we take?
+   5. Slovakia could
+       become a European hub
+       for ESG reporting
 
 # Space
-   1. The James Webb
-       Space Telescope's
-       targets over the next
-       year include black
-       holes, exomoons, dark
-       energy — and more
+   1. Scientists made a
+       'digital twin' of Earth
+       to simulate possible
+       natural disasters
    2. Total solar
        eclipse 2024: Live
        updates
-   3. SpaceX launches
-       Crew-8 astronaut mission
-       to International Space
-       Station for NASA (video)
-   4. Photographing the
-       northern lights with the
-       Sony A7R V
-   5. This iPhone app
-       can find the Milky Way's
-       monster black hole from
-       anywhere
+   3. SpaceX Crew-8
+       astronaut mission: Live
+       updates
+   4. NASA's next
+       astronaut class
+       graduates March 5, and
+       you can watch it live
+       (video)
+   5. 'Star Wars
+       Battlefront Classic
+       Collection' blasts its
+       way into our galaxy on
+       March 14
 
