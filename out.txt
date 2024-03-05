@@ -2,151 +2,142 @@
 Tuesday, March 05
 Weather: 6° - 6°
 
-	In this course of life
-     there await you many good
-     things, such as love and
-     practice of the virtues,
-     forgetfulness of passions,
-     knowledge of how to live and
-     die, deep repose. The
-     position of all busy men is
-     unhappy, but most unhappy of
-     all is that of those who do
-     not even labour at their own
-     affairs, but have to
-     regulate their rest by
-     another man’s sleep, their
-     walk by another man’s pace,
-     and whose very love and
-     hate, the freest things in
-     the world, are at another’s
-     bidding. If such men wish to
-     know how short their lives
-     are, let them think how
-     small a fraction of them is
-     their own.
+	If one always follows
+     the precepts of one man, one
+     ceases to be a debater and
+     becomes a partisan. Would
+     that all things were already
+     known, that truth were
+     unveiled and recognized, and
+     that none of our doctrines
+     required modification!
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. The amount of
-       misinformation has been
-       insane in the last 48h
-   2. Mohammed Ben
-       Sulayem: FIA President
-       under investigation for
-       alleged attempt to
-       interfere over F1 race
-   3. [F1Insider.com]
-       Max’s contract with Red
-       Bull is void if Helmut
-       Marko retires or leaves
-       Red Bull. Marko notes he
-       “will not stand in the
-       way of Max”
-   4. Christian Horner
+   1. [Julianne
+       Cerasoli] One more layer
+       is the harsh reality of
+       F1. If Horner falls, it
+       won't be because of what
+       he did or didn't do with
+       that employee. It will
+       be because they want his
+       head. This does nothing
+       to incentivise women to
+       denounce behaviour of
+       this kind.
+   2. Christian Horner
        meets Max Verstappen's
        agent for face-to-face
        talks amid rising
        tensions at Red Bull
-   5. [F1-Insider.com]
-       Gerhard Berger sums it
-       up best. The Tyrolean
-       was in Bahrain and was
-       able to watch the comedy
-       from the front row. His
-       impression: “As of now:
-       Horner stays, Helmut
-       Marko and Adrian Newey
-       quit and Max goes to
-       Mercedes.”
+   3. Mohammed Ben
+       Sulayem: FIA president
+       allegedly told officials
+       not to certify Las Vegas
+       GP
+   4. Mark Hughes: This
+       is the beginning of the
+       end of Red Bull
+       domination
+   5. ‘I was convinced
+       he would have this
+       reaction’ – Vasseur
+       praises Sainz’s Bahrain
+       performance after losing
+       Ferrari seat
 
 # Gaming
-   1. Can Pawmi be shiny
-       in Pokémon Go?
-   2. The full 2024
-       Oscar nominations list —
-       and predictions for who
-       wins
-   3. Nintendo wins
-       $2.4M in Switch emulator
-       lawsuit, Yuzu to shut
-       down
-   4. When does Modern
-       Warfare 3 season 2
-       Reloaded release?
-   5. Final Fantasy 7
-       Rebirth weapons guide
+   1. The banned trans
+       Joker movie finally has
+       a trailer and a
+       theatrical release
+   2. Riding sandworms
+       in 4DX is cool as hell,
+       but the rest of the
+       flick is a bit rough in
+       motion
+   3. How to evolve
+       Charcadet in Pokémon Go
+   4. Marvel Snap
+       Spotlight Cache schedule
+       for March 2024
+   5. 9 great horror
+       movies currently
+       haunting Netflix
 
 # HackerNews
-   1. Radicle:
+   1. Launch HN:
+       Greptile (YC W24) - RAG
+       on codebases that
+       actually works
+   2. How to generate
+       uniformly random points
+       on n-spheres and in
+       n-balls
+   3. Adding Systemd to
+       PostmarketOS
+   4. Kagi and Wolfram
+   5. Radicle:
        Open-Source,
        Peer-to-Peer, GitHub
        Alternative
-   2. Show HN: 3 years
-       and 1M users later, I
-       just open-sourced my
-       "Internet OS"
-   3. Stable Diffusion
-       3: Research Paper
-   4. How I keep myself
-       alive using Golang
-   5. I spend £8,500 a
-       year to live on a train
 
 # NL
-   1. I'm not built to
+   1. The rainbow Joe
+       Joker PSA 10 rookie
+       (Balatro)
+   2. she got me again
+       #shorts #gaming
+   3. I'm not built to
        be a speedrunner
        (Balatro)
-   2. They said I don't
+   4. They said I don't
        know games
        (Miscellaneous)
-   3. The hand of a
+   5. The hand of a
        lifetime (Balatro)
-   4. why NYT
-       connections will never
-       break me #shorts #gaming
-   5. You've never seen
-       a banana like this, I
-       guarantee it (Balatro)
 
 # Slovakia
-   1. News digest: Italy
+   1. Slovakia’s top
+       court hinders Fico’s
+       effort to change Penal
+       Code in his favour
+   2. News digest: Italy
        takes back its
        air-defence system in
        Slovakia
-   2. Runaway locomotive
+   3. Runaway locomotive
        passes 17 kilometres
        before stopping
-   3. British ambassador
+   4. British ambassador
        explains to Slovak PM
        why he's wrong
-   4. Last Week: How
+   5. Last Week: How
        much hate can we take?
-   5. Slovakia could
-       become a European hub
-       for ESG reporting
 
 # Space
-   1. Scientists made a
-       'digital twin' of Earth
-       to simulate possible
-       natural disasters
-   2. Total solar
-       eclipse 2024: Live
-       updates
-   3. SpaceX Crew-8
-       astronaut mission: Live
-       updates
-   4. NASA's next
-       astronaut class
-       graduates March 5, and
-       you can watch it live
+   1. NASA graduates new
+       astronaut class as it
+       begins recruiting for
+       more
+   2. Watch Chinese
+       astronauts fix Tiangong
+       space station solar wing
+       in 8-hour spacewalk
        (video)
-   5. 'Star Wars
-       Battlefront Classic
-       Collection' blasts its
-       way into our galaxy on
-       March 14
+   3. Jupiter's ocean
+       moon Europa may have
+       less oxygen than we
+       thought
+   4. NASA's tiny
+       CAPSTONE probe
+       celebrates 450 days in
+       orbit around the moon
+   5. Disney Plus UK
+       streaming deal: £1.99
+       for the first three
+       months
 
