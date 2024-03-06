@@ -1,143 +1,155 @@
 -- Daily Times --
-Tuesday, March 05
+Wednesday, March 06
 Weather: 6° - 6°
 
-	If one always follows
-     the precepts of one man, one
-     ceases to be a debater and
-     becomes a partisan. Would
-     that all things were already
-     known, that truth were
-     unveiled and recognized, and
-     that none of our doctrines
-     required modification!
-                        ~ Seneca
+	The single most
+     remarkable and defining
+     moment of the past 500 years
+     came at 05:29:45 on 16 July
+     1945. At that precise
+     second, American scientists
+     detonated the first atomic
+     bomb at Alamogordo, New
+     Mexico. From that point
+     onward, humankind had the
+     capability not only to
+     change the course of
+     history, but to end it.
+             ~ Yuval Noah Harari
 
 
 -- News --
 # Formula1
-   1. [Julianne
-       Cerasoli] One more layer
-       is the harsh reality of
-       F1. If Horner falls, it
-       won't be because of what
-       he did or didn't do with
-       that employee. It will
-       be because they want his
-       head. This does nothing
-       to incentivise women to
-       denounce behaviour of
-       this kind.
-   2. Christian Horner
-       meets Max Verstappen's
-       agent for face-to-face
-       talks amid rising
-       tensions at Red Bull
-   3. Mohammed Ben
-       Sulayem: FIA president
-       allegedly told officials
-       not to certify Las Vegas
-       GP
-   4. Mark Hughes: This
-       is the beginning of the
-       end of Red Bull
-       domination
-   5. ‘I was convinced
-       he would have this
-       reaction’ – Vasseur
-       praises Sainz’s Bahrain
-       performance after losing
-       Ferrari seat
+   1. [F1 Academy] It’s
+       disheartening to see the
+       amount of sexist
+       comments under the F1
+       Academy car lineup post
+   2. A socialist writer
+       skewered the Formula One
+       scene. Then her article
+       vanished.
+   3. [ChrisMedlandF1]
+       Red Bull has announced a
+       long-term partnership
+       with Castore, calling it
+       "record-breaking" and
+       "the largest ever
+       apparel partnership in
+       F1 pertaining to
+       longevity and value"
+       It's worth "in excess of
+       $200 million"
+   4. [Luke Smith] The
+       FIA has confirmed its
+       compliance officer has
+       "received a report
+       detailing potential
+       allegations involving
+       certain members of its
+       governing bodies." Says
+       the the Compliance
+       Department is "assessing
+       these concerns... " to
+       ensure that due process
+       is meticulously
+       followed."
+   5. From a hand drawn
+       Silverstone map I did
+       last year
 
 # Gaming
-   1. The banned trans
-       Joker movie finally has
-       a trailer and a
-       theatrical release
-   2. Riding sandworms
-       in 4DX is cool as hell,
-       but the rest of the
-       flick is a bit rough in
-       motion
-   3. How to evolve
-       Charcadet in Pokémon Go
-   4. Marvel Snap
-       Spotlight Cache schedule
-       for March 2024
-   5. 9 great horror
-       movies currently
-       haunting Netflix
+   1. Dune: Part Two is
+       really Zendaya’s movie
+   2. What time does
+       Fortnite Chapter 5
+       Season 2 start?
+   3. How to permanently
+       unlock Destiny 2’s new
+       hoverboard vehicle
+   4. All PlayStation
+       trophies in Final
+       Fantasy 7 Rebirth
+   5. Dragon’s Dogma 2
+       doesn’t care if you’re
+       new, it’ll still kick
+       your ass
 
 # HackerNews
-   1. Launch HN:
-       Greptile (YC W24) - RAG
-       on codebases that
-       actually works
-   2. How to generate
-       uniformly random points
-       on n-spheres and in
-       n-balls
-   3. Adding Systemd to
-       PostmarketOS
-   4. Kagi and Wolfram
-   5. Radicle:
-       Open-Source,
-       Peer-to-Peer, GitHub
-       Alternative
+   1. Dada, an
+       Experiement by the
+       Creators of Rust
+   2. Pg_vectorize: The
+       simplest way to do
+       vector search and RAG on
+       Postgres
+   3. YaCy, a
+       distributed Web Search
+       Engine, based on a
+       peer-to-peer network
+   4. Leaving LinkedIn
+   5. Network Tunneling
+       with QEMU
 
 # NL
-   1. The rainbow Joe
+   1. The only thing
+       that matters is your
+       high score (Balatro)
+   2. The rainbow Joe
        Joker PSA 10 rookie
        (Balatro)
-   2. she got me again
+   3. she got me again
        #shorts #gaming
-   3. I'm not built to
+   4. I'm not built to
        be a speedrunner
        (Balatro)
-   4. They said I don't
+   5. They said I don't
        know games
        (Miscellaneous)
-   5. The hand of a
-       lifetime (Balatro)
 
 # Slovakia
-   1. Slovakia’s top
-       court hinders Fico’s
-       effort to change Penal
-       Code in his favour
-   2. News digest: Italy
-       takes back its
-       air-defence system in
-       Slovakia
-   3. Runaway locomotive
-       passes 17 kilometres
-       before stopping
-   4. British ambassador
-       explains to Slovak PM
-       why he's wrong
-   5. Last Week: How
-       much hate can we take?
+   1. Famous tourist
+       cars no longer allowed
+       in Bratislava's historic
+       centre
+   2. News digest:
+       Fico's back-up plan to
+       remove Constitutional
+       Court Chief Justice
+   3. Archaeologists
+       unearth the body of a
+       WWII soldier
+   4. Fico threatens
+       Constitutional Court
+       chair with dismissal
+   5. Eurostat wants
+       Fico to explain former
+       Statistics Office head's
+       ousting
 
 # Space
-   1. NASA graduates new
-       astronaut class as it
-       begins recruiting for
-       more
-   2. Watch Chinese
-       astronauts fix Tiangong
-       space station solar wing
-       in 8-hour spacewalk
-       (video)
-   3. Jupiter's ocean
-       moon Europa may have
-       less oxygen than we
-       thought
-   4. NASA's tiny
-       CAPSTONE probe
-       celebrates 450 days in
-       orbit around the moon
-   5. Disney Plus UK
-       streaming deal: £1.99
-       for the first three
-       months
+   1. Rare 11th-century
+       star chart reveals
+       complex history of
+       Islamic, Jewish and
+       Christian astronomy
+   2. 'Constellation'
+       creators on ghostly
+       voices and piecing
+       together a satisfying
+       sci-fi puzzle
+       (exclusive)
+   3. Is it time for a
+       new Outer Space Treaty?
+       Reports of Russian
+       nuclear space weapon
+       raise questions
+   4. Total solar
+       eclipse 2024: Live
+       updates
+   5. Asteroid Apophis
+       will swing past Earth in
+       2029 — could a space
+       rock collision make it
+       hit us?
 
