@@ -2,35 +2,23 @@
 Thursday, March 07
 Weather: 6° - 6°
 
-	In this course of life
-     there await you many good
-     things, such as love and
-     practice of the virtues,
-     forgetfulness of passions,
-     knowledge of how to live and
-     die, deep repose. The
-     position of all busy men is
-     unhappy, but most unhappy of
-     all is that of those who do
-     not even labour at their own
-     affairs, but have to
-     regulate their rest by
-     another man’s sleep, their
-     walk by another man’s pace,
-     and whose very love and
-     hate, the freest things in
-     the world, are at another’s
-     bidding. If such men wish to
-     know how short their lives
-     are, let them think how
-     small a fraction of them is
-     their own.
+	Let us believe nothing
+     unless it forces itself upon
+     our sight and is
+     unmistakable, and let us
+     reprove ourselves for being
+     too ready to believe, as
+     often as our suspicions
+     prove t(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Philip Duncan]
+   1. Lewis Hamilton at
+       his Press Conference
+       Today
+   2. [Philip Duncan]
        Verstappen was asked if
        his father regretted his
        comments: “I have not
@@ -43,64 +31,55 @@ Weather: 6° - 6°
        see myself in F1 without
        them (his father and
        manager) by my side.”
-   2. Lewis Hamilton at
-       his Press Conference
-       Today
-   3. Telegraaf
-       journalist Erik van
-       Haren in the Red Bull
-       hospitality suite ahead
-       of the F1 Grand Prix of
-       Saudi Arabia
-   4. Yuki Tsunoda
-       arriving at the track
-       today
-   5. Driver names
-       written in English and
-       Arabic above the garage
-       in pitlane ahead of the
-       2024 Saudi Arabian Grand
-       Prix (Image Source: Kym
-       Illman/Getty Images)
+   3. Hamilton: F1 has
+       reached a “pivotal
+       moment” after off-track
+       controversies
+   4. [Telegraph Sport]
+       Christian Horner accuser
+       suspended by Red Bull
+   5. Qiddiya - isn't
+       there a danger cars
+       would fall down?
 
 # Gaming
-   1. Nintendo surprise
+   1. What can modern
+       TCGs learn from the
+       long-dead Dune:
+       Collectible Card Game?
+   2. Celebrate Mario
+       Day with some deals on
+       Switch games and other
+       cool stuff
+   3. Not sure what
+       movie to watch this
+       weekend? Leave a
+       comment, we’ll help
+   4. New Fallout
+       trailer gives us our
+       best look yet at Walton
+       Goggins’ fascinating
+       Ghoul
+   5. Nintendo surprise
        dropped a Princess
        Peach: Showtime! demo
-   2. Warner Bros. is
-       killing Red vs. Blue
-       production company
-       Rooster Teeth
-   3. How to beat Fort
-       Condor in FF7 Rebirth
-   4. How to get Focus
-       Activity Packages in
-       Destiny 2
-   5. This iPhone
-       controller that works
-       natively with PS5 Remote
-       Play is $30 off
 
 # HackerNews
-   1. Nikon to Acquire
-       US Cinema Camera
-       Manufacturer Red.com,
-       LLC
-   2. GTK: On fractional
-       scales, fonts and
-       hinting
-   3. FDA clears first
-       over-the-counter
-       continuous glucose
-       monitor
-   4. Detect when your
-       installed Chrome
-       extensions have changed
-       owners
-   5. Visual Studio 2022
-       – 17.10 Preview 1:
-       Productivity, Debugging,
-       Diagnostics
+   1. Eloquent
+       JavaScript 4th edition
+       (2024)
+   2. Hurried Thoughts:
+       You're Wrong About
+       Tidal-Locking
+   3. Autogenerating a
+       Book Series from Three
+       Years of iMessages
+   4. The Magic of Bird
+       Brains
+   5. Plastic Found
+       Inside More Than 50% of
+       Plaques from Clogged
+       Arteries
 
 # NL
    1. You know how to
@@ -119,43 +98,43 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Bratislava creates
+   1. Ways to skin a
+       Slovak: Lies, damn lies
+       and (re)klamy
+   2. Bratislava creates
        its own service centre,
        with good results
-   2. Shared service
+   3. Shared service
        centres to be created in
        least developed regions
-   3. Foreign Ministry
+   4. 3 things to do in
+       Bratislava for free in
+       the next seven days
+   5. Foreign Ministry
        summons Dutch Ambassador
        Gabriella Sancisi over
        Prague event
-   4. News digest:
-       Activists warn of
-       excessive logging,
-       authorities reject
-       claims
-   5. Cheap stays in
-       mountains proving big
-       hit
 
 # Space
-   1. NASA taps Nikon
-       cameras to help Artemis
-       astronauts photograph
-       the moon
-   2. 'Constellation'
-       season 1 episode 5
-       review: Less paranoia,
-       more reveals
-   3. April 8 total
-       solar eclipse boosts
-       ticket sales for United
-       Airlines
-   4. Fly me to the
-       moon: NASA accepting
-       astronaut applications
-       (video)
-   5. SpaceX eyes March
-       14 for 3rd Starship test
-       flight
+   1. Big, dead
+       satellite's crash was a
+       space-junk wakeup call,
+       experts say
+   2. Satellite snaps
+       eerily circular holes in
+       the clouds above
+       Florida. What caused
+       them?
+   3. 6 reasons why the
+       2024 total solar eclipse
+       could be the best
+       eclipse for hundreds of
+       years
+   4. NASA launches its
+       1st official tabletop
+       roleplaying game
+       campaign
+   5. SpaceX to push the
+       envelope on 3rd Starship
+       test flight
 
