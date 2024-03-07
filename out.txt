@@ -1,40 +1,36 @@
 -- Daily Times --
-Wednesday, March 06
+Thursday, March 07
 Weather: 6° - 6°
 
-	I see young men, my
-     townsmen, whose misfortune
-     it is to have inherited
-     farms, houses, barns,
-     cattle, and farming tools;
-     for these are more easily
-     acquired than got rid of.
-           ~ Henry David Thoreau
+	In this course of life
+     there await you many good
+     things, such as love and
+     practice of the virtues,
+     forgetfulness of passions,
+     knowledge of how to live and
+     die, deep repose. The
+     position of all busy men is
+     unhappy, but most unhappy of
+     all is that of those who do
+     not even labour at their own
+     affairs, but have to
+     regulate their rest by
+     another man’s sleep, their
+     walk by another man’s pace,
+     and whose very love and
+     hate, the freest things in
+     the world, are at another’s
+     bidding. If such men wish to
+     know how short their lives
+     are, let them think how
+     small a fraction of them is
+     their own.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. A socialist writer
-       skewered the Formula One
-       scene. Then her article
-       vanished.
-   2. Telegraaf
-       journalist Erik van
-       Haren in the Red Bull
-       hospitality suite ahead
-       of the F1 Grand Prix of
-       Saudi Arabia
-   3. Driver names
-       written in English and
-       Arabic above the garage
-       in pitlane ahead of the
-       2024 Saudi Arabian Grand
-       Prix (Image Source: Kym
-       Illman/Getty Images)
-   4. Yuki Tsunoda
-       arriving at the track
-       today
-   5. [Philip Duncan]
+   1. [Philip Duncan]
        Verstappen was asked if
        his father regretted his
        comments: “I have not
@@ -47,42 +43,64 @@ Weather: 6° - 6°
        see myself in F1 without
        them (his father and
        manager) by my side.”
+   2. Lewis Hamilton at
+       his Press Conference
+       Today
+   3. Telegraaf
+       journalist Erik van
+       Haren in the Red Bull
+       hospitality suite ahead
+       of the F1 Grand Prix of
+       Saudi Arabia
+   4. Yuki Tsunoda
+       arriving at the track
+       today
+   5. Driver names
+       written in English and
+       Arabic above the garage
+       in pitlane ahead of the
+       2024 Saudi Arabian Grand
+       Prix (Image Source: Kym
+       Illman/Getty Images)
 
 # Gaming
-   1. How to beat Fort
+   1. Nintendo surprise
+       dropped a Princess
+       Peach: Showtime! demo
+   2. Warner Bros. is
+       killing Red vs. Blue
+       production company
+       Rooster Teeth
+   3. How to beat Fort
        Condor in FF7 Rebirth
-   2. How to get Focus
+   4. How to get Focus
        Activity Packages in
        Destiny 2
-   3. This iPhone
+   5. This iPhone
        controller that works
        natively with PS5 Remote
        Play is $30 off
-   4. The best action
-       movies of the year so
-       far
-   5. The Thaumaturge is
-       an ambitious, compelling
-       RPG that’s a diamond in
-       the rough
 
 # HackerNews
-   1. FDA clears first
+   1. Nikon to Acquire
+       US Cinema Camera
+       Manufacturer Red.com,
+       LLC
+   2. GTK: On fractional
+       scales, fonts and
+       hinting
+   3. FDA clears first
        over-the-counter
        continuous glucose
        monitor
-   2. Detect when your
+   4. Detect when your
        installed Chrome
        extensions have changed
        owners
-   3. Training LLMs from
-       ground zero as a startup
-   4. Show HN: Elodin –
-       A better framework for
-       physics simulation
-   5. Generating a 3D
-       map with OpenStreetMap
-       and A-Frame
+   5. Visual Studio 2022
+       – 17.10 Preview 1:
+       Productivity, Debugging,
+       Diagnostics
 
 # NL
    1. You know how to
@@ -101,24 +119,24 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Foreign Ministry
+   1. Bratislava creates
+       its own service centre,
+       with good results
+   2. Shared service
+       centres to be created in
+       least developed regions
+   3. Foreign Ministry
        summons Dutch Ambassador
        Gabriella Sancisi over
        Prague event
-   2. News digest:
+   4. News digest:
        Activists warn of
        excessive logging,
        authorities reject
        claims
-   3. Cheap stays in
+   5. Cheap stays in
        mountains proving big
        hit
-   4. Three kilometres
-       of cable stolen from
-       Košice steelworks
-   5. Court rejects Eset
-       lawsuit over Smer
-       politician's claims
 
 # Space
    1. NASA taps Nikon
