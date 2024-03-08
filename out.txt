@@ -1,130 +1,152 @@
 -- Daily Times --
-Thursday, March 07
+Friday, March 08
 Weather: 6° - 6°
 
-	Often a man who is very
-     old in years has nothing
-     beyond his age by which he
-     can prove that he has lived
-     a long time.”
+	In the same spirit in
+     which we deal with boys, the
+     wise man deals with all
+     those whose childhood still
+     endures after their youth is
+     past and their hair is grey.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lewis Hamilton at
-       his Press Conference
-       Today
-   2. [Telegraph Sport]
-       Christian Horner accuser
-       suspended by Red Bull
-   3. Qiddiya - isn't
-       there a danger cars
-       would fall down?
-   4. [BBC Sport] Red
-       Bull suspend woman who
-       accused Christian Horner
-       of inappropriate
-       behaviour
-   5. RB has marked
-       International Womens Day
-       with a message on its
-       car, plus the names of
-       the team’s female
-       employees (@Samarth
-       Kanal)
+   1. [BBC]: "BBC Sport
+       has learned that the
+       reason given by Red Bull
+       to the employee (about
+       her suspension) was that
+       she had been dishonest."
+   2. [Ibrahim
+       Al-Zubaidi] Spaniard
+       Carlos Sainz will not
+       participate in the Saudi
+       Arabian Grand Prix of
+       2024,due to the
+       deterioration of his
+       health condition. He is
+       now in the hospital to
+       undergo an appendix
+       operation, which was the
+       cause of his illness
+       during the two days.
+   3. [JennaFryer] Red
+       Bull has consistently
+       looked terrible
+       throughout this with
+       zero transparency.
+       Multiple team partners,
+       the FIA and F1 requested
+       the investigation report
+       and were denied by Red
+       Bull.
+   4. Alex Albon on
+       X(Twitter)
+   5. [Philip Duncan]
+       Horner: “My wife has
+       been hugely supportive,
+       as has my family, but
+       the intrusion on my
+       family is now enough,
+       and we need to move
+       forward and focus on
+       what we are here for. It
+       is time now to focus on
+       why we are here which is
+       to go Formula One
+       racing.”
 
 # Gaming
-   1. The best Switch
-       deals
-   2. Inside Out 2
-       trailer introduces a
-       hodgepodge of new
-       emotions and a million
-       worldbuilding questions
-   3. ‘From Whence Life
-       Flows’ walkthrough and
-       lifespring locations in
-       FF7 Rebirth
-   4. Why Spaceman’s
-       director cast Adam
-       Sandler in a heavy
-       dramatic role: ‘This is
-       about me, very much’
-   5. Helldivers 2 is
-       getting more electric in
-       its first new battle
-       pass
+   1. Warner Bros. is
+       now erasing games as it
+       plans to delist Adult
+       Swim-published titles
+   2. Dragon Ball
+       creator Akira Toriyama
+       dies at 68
+   3. Star Wars:
+       Unlimited is available
+       starting today. Here’s
+       where to buy it
+   4. Cluckin’ Bell
+       Farms Raid missions and
+       rewards in GTA Online
+   5. Star Wars:
+       Unlimited can make you a
+       deck builder overnight
 
 # HackerNews
-   1. The Pile is a 825
-       GiB diverse, open-source
-       language modelling data
-       set
-   2. You cannot simply
-       publicly access private
-       secure links, can you?
-   3. Eloquent
-       JavaScript 4th edition
-       (2024)
-   4. Launch HN: SiLogy
-       (YC W24) – Chip design
-       and verification in the
-       cloud
-   5. How do computers
-       calculate sine?
+   1. Home Lab Beginners
+       guide
+   2. Fishing for oil
+       and meat drives
+       extinction of deepwater
+       sharks and rays
+   3. Build Initramfs
+       Rootless
+   4. Airbus electric
+       air taxi makes its debut
+   5. Fine tune a 70B
+       language model at home
 
 # NL
-   1. Controller support
+   1. He is beginning to
+       believe (Balatro)
+   2. Controller support
        for the dles when?
        (Miscellaneous)
-   2. The man has lost
+   3. The man has lost
        his mind (Balatro)
-   3. nice jacket
+   4. nice jacket
        #shorts #gaming
-   4. You know how to
+   5. You know how to
        make an omelet right?
-       (Balatro)
-   5. Well...this is
-       embarrassing...
        (Balatro)
 
 # Slovakia
-   1. Slovakia's foreign
-       policy makes Czech PM
-       defer joint meetings
-       with Slovak cabinet
-   2. Hundreds of
-       unexploded WWII mines
-       uncovered in Bratislava
-   3. Ways to skin a
-       Slovak: Lies, damn lies
-       and (re)klamy
-   4. Bratislava creates
-       its own service centre,
-       with good results
-   5. Shared service
-       centres to be created in
-       least developed regions
+   1. News digest: It
+       might be Women's Day,
+       but it's not all roses
+       in Slovakia
+   2. Stuff 'happens': A
+       light-fingered professor
+       walked off with a
+       painting
+   3. An iconic
+       athletics hall is
+       changing, to become the
+       National Padel Center.
+   4. The Slovak
+       scientist climbing
+       Earth's highest peaks –
+       to research
+       extraterrestrial life
+   5. Weekend: Do you
+       want to see how Lego
+       robots fight?
 
 # Space
-   1. Paul Dano on his
-       'Spaceman' role voicing
-       an ancient alien spider
-       (exclusive)
-   2. NASA high-altitude
-       balloon breaks agency
-       flight record
-   3. NASA's James Webb
-       Space Telescope mission
-       — Live updates
-   4. Big, dead
-       satellite's crash was a
-       space-junk wakeup call,
-       experts say
-   5. Satellite snaps
-       eerily circular holes in
-       the clouds above
-       Florida. What caused
-       them?
+   1. 'Space: The
+       Longest Goodbye' is an
+       intimate glimpse at how
+       astronauts cope with
+       isolation (review)
+   2. Strangely
+       fluctuating jet deepens
+       mystery of Jupiter's
+       Great Blue Spot
+   3. Oldest 'dead'
+       galaxy ever seen defies
+       current models of the
+       ancient universe
+   4. SpaceX employee
+       sues company for alleged
+       sexual discrimination,
+       retaliation
+   5. 5,800 pounds of
+       batteries tossed off the
+       ISS in 2021 will fall to
+       Earth today
 
