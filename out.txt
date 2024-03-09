@@ -1,111 +1,109 @@
 -- Daily Times --
-Friday, March 08
+Saturday, March 09
 Weather: 6° - 6°
 
-	In the same spirit in
-     which we deal with boys, the
-     wise man deals with all
-     those whose childhood still
-     endures after their youth is
-     past and their hair is grey.
+	You may, then, boldly
+     declare that the highest
+     good is singleness of mind:
+     for where agreement and
+     unity are, there must the
+     virtues b(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Ibrahim
-       Al-Zubaidi] Spaniard
-       Carlos Sainz will not
-       participate in the Saudi
-       Arabian Grand Prix of
-       2024,due to the
-       deterioration of his
-       health condition. He is
-       now in the hospital to
-       undergo an appendix
-       operation, which was the
-       cause of his illness
-       during the two days.
-   2. Alex Albon on
-       X(Twitter)
-   3. [BBC]: "BBC Sport
-       has learned that the
-       reason given by Red Bull
-       to the employee (about
-       her suspension) was that
-       she had been dishonest."
-   4. [Chris Medland]
-       Well, there goes 2025's
-       stat of 'Lewis Hamilton
-       becomes first British
-       driver to race for
-       Ferrari in F1 in a
-       quarter of a century'
-   5. [Scuderia Ferrari]
-       Carlos Sainz has been
-       diagnosed with
-       appendicitis and will
-       require surgery. As from
-       FP3 and for the rest of
-       this weekend, he will be
-       replaced by reserve
-       driver Oliver Bearman.
-       Oliver will therefore
-       take no further part in
-       this round of the F2
-       Championship.
+   1. Daniel in parc
+       ferme post qualifying
+       after being outqualified
+       by teammate Yuki
+   2. [ErikvHaren] Max
+       Verstappen crystal
+       clear: “I cannot
+       continue without Helmut
+       Marko... Unworkable
+       situation if Helmut had
+       to leave.”
+   3. [Carlos Sainz]
+       Underwent a smooth
+       operation today and I’m
+       feeling much better!
+       Thank you for all your
+       kind messages and to
+       everyone that has looked
+       after me these days here
+       in Saudi, specially at
+       the King Fahad Armed
+       Forces Hospital. THANK
+       YOU
+   4. [Erik Van Haren]
+       Unrest again today at
+       Red Bull. Top advisor
+       Helmut Marko just told
+       ORF that there is a
+       'theoretical
+       possibility' that he
+       will be suspended by Red
+       Bull. He cannot say with
+       certainty whether he
+       will be there at the
+       next Grand Prix in
+       Australia.
+   5. [Sky Sport F1]
+       "Dr. Helmut Marko is
+       about to leave Red Bull"
 
 # Gaming
-   1. Aquaria answers,
-       ‘which anime character
-       would win RuPaul’s Drag
-       Race?’
-   2. What are the new
-       map and weapon loot pool
-       changes in Fortnite
-       Chapter 5 Season 2?
-   3. Artists,
-       animators, musicians,
-       and creators pay tribute
-       to Dragon Ball’s Akira
-       Toriyama
-   4. The book Poor
-       Things is based on is
-       even stranger than the
-       film
-   5. DC Comics’ newest
-       standalone book looks
-       like actual magic
+   1. 3 Body Problem is
+       the kind of TV epic we
+       need
+   2. 600 Activision QA
+       workers unionize,
+       Microsoft voluntarily
+       recognizes
+   3. Netflix’s Damsel,
+       Poor Things, Wonka, and
+       every new movie to watch
+       this weekend
+   4. When does Fortnite
+       downtime end and Chapter
+       5 Season 2 start?
+   5. How to import your
+       Character Creator Arisen
+       and Main Pawn into
+       Dragon’s Dogma 2
 
 # HackerNews
-   1. Show HN: Hatchet –
+   1. Anomalous
+       contribution to galactic
+       rotation curves due to
+       stochastic spacetime
+   2. SuperC: Parsing
+       All of C by Taming the
+       Preprocessor [pdf]
+   3. A helicopter and
+       boats to perform a rare
+       ceremony at the Tower of
+       London
+   4. Show HN: Hatchet –
        Open-source distributed
        task queue
-   2. Show HN:
-       Wallstreetlocal – View
-       investments from
-       America's biggest
-       companies
-   3. Epic says Apple
-       will reinstate developer
-       account
-   4. Home Lab Beginners
-       guide
-   5. Build Initramfs
-       Rootless
+   5. Chiplet IP
+       Standards Are Just the
+       Beginning
 
 # NL
-   1. How eggy got his
+   1. You gotta be
+       kidding me (Balatro)
+   2. How eggy got his
        groove back (Balatro)
-   2. that's what you
+   3. that's what you
        get #shorts #gaming
-   3. He is beginning to
+   4. He is beginning to
        believe (Balatro)
-   4. Controller support
+   5. Controller support
        for the dles when?
        (Miscellaneous)
-   5. The man has lost
-       his mind (Balatro)
 
 # Slovakia
    1. Winter hiking in
@@ -131,30 +129,24 @@ Weather: 6° - 6°
        extraterrestrial life
 
 # Space
-   1. Pentagon UFO
-       office finds 'no
-       empirical evidence' for
-       alien technology in new
-       report
-   2. These Lego Ideas
-       SLS rocket, Kerbal Space
-       Program and 'The
-       Martian' concepts are
-       incredible, and we hope
-       they get made
-   3. Here's how to see
-       'horned' comet
-       12P/Pons-Brooks in the
-       night sky this month
-       (video)
-   4. NASA astronaut
-       Tracy C. Dyson
-       'super-pumped' for 3rd
-       space mission (exclusive
-       video)
-   5. 'Space: The
-       Longest Goodbye' is an
-       intimate glimpse at how
-       astronauts cope with
-       isolation (review)
+   1. Benro Tortoise 24C
+       tripod and GX30 head
+       review
+   2. Pentagon UFO
+       office developing
+       'Gremlin' sensors to
+       help identify anomalies
+       in orbit
+   3. 'Star Wars'
+       salutes Women's History
+       Month with Ahsoka Tano,
+       Mon Mothma and more
+   4. '3 Body Problem:'
+       Watch final trailer for
+       Netflix's alien invasion
+       saga (video)
+   5. Save 33% on
+       ISO-certified solar
+       glasses ahead of April 8
+       total solar eclipse
 
