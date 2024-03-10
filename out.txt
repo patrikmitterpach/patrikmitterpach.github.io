@@ -2,18 +2,17 @@
 Sunday, March 10
 Weather: 6° - 6°
 
-	Those men whom you
-     regard as fortunate, if you
-     could see, not their outward
-     show, but their hidden life,
-     are really unhappy, mean,
-     and base, ornamented on the
-     outside like the walls of
-     their houses: that good
-     fortune of theirs is not
-     sound and genuine: it is
-     only a veneer, and that a
-     thin one.
+	It is unpleasant,
+     burdensome, and covers one
+     with shame to have to say,
+     “Give me.” You should spare
+     your friends, and those whom
+     you wish to make your
+     friends, from having to do
+     this; however quick he may
+     be, a man gives too late who
+     gives what he has been asked
+     fo(1).
                         ~ Seneca
 
 
@@ -52,54 +51,56 @@ Weather: 6° - 6°
        @OllieBearman
 
 # Gaming
-   1. Netlix’s The
+   1. Akira Toriyama
+       gave us gaming’s most
+       perfect character design
+   2. Netlix’s The
        Gentlemen lets Guy
        Ritchie get back to
        basics and perfect his
        vibe
-   2. Final Fantasy 7
+   3. Final Fantasy 7
        Rebirth showed a scene
        that fans have wanted
        for 26 years
-   3. The best thrillers
+   4. The best thrillers
        to watch on Netflix this
        March
-   4. 2024’s best deal
+   5. 2024’s best deal
        on the PlayStation 5
        just got better
-   5. 3 Body Problem is
-       the kind of TV epic we
-       need
 
 # HackerNews
-   1. S3 is files, but
+   1. Ask HN: Did you
+       turn off Google activity
+       tracking?
+   2. Yi: Open
+       Foundation Models by
+       01.ai
+   3. A Copy of a Copy
+       of a Copy: The Story of
+       FDA Medical Device
+       Clearances
+   4. S3 is files, but
        not a filesystem
-   2. Bell Labs: An
-       Institute of Creative
-       Technology (2015)
-   3. Bruno: Fast and
-       Git-friendly open-source
-       API client (Postman
-       alternative)
-   4. Stylized image
-       binning algorithm, for
-       the web
-   5. Using LLMs to
-       Generate Fuzzers
+   5. Tenstorrent
+       unveils Grayskull, its
+       RISC-V answer to GPUs
 
 # NL
-   1. Is campfire the
+   1. we used to be a
+       proper society #shorts
+       #gaming
+   2. Is campfire the
        best joker in the game?
        (Balatro)
-   2. how to win
+   3. how to win
        arguments with your chat
        #shorts #gaming
-   3. You gotta be
+   4. You gotta be
        kidding me (Balatro)
-   4. How eggy got his
+   5. How eggy got his
        groove back (Balatro)
-   5. that's what you
-       get #shorts #gaming
 
 # Slovakia
    1. Winter hiking in
@@ -125,24 +126,22 @@ Weather: 6° - 6°
        extraterrestrial life
 
 # Space
-   1. Why astronomers
+   1. Best laptops for
+       astronomers 2024: Link
+       up telescopes and edit
+       astrophotographs
+   2. New UAE astronauts
+       prepare for Ramadan and
+       family reunions: report
+   3. The new moon lets
+       the winter
+       constellations shine
+       tonight
+   4. Why astronomers
        are worried about 2
        major telescopes right
        now
-   2. A chronology of
+   5. A chronology of
        the April 8 total solar
        eclipse
-   3. 10 things you
-       probably didn't know
-       about the 2024 total
-       solar eclipse
-   4. The next chapter
-       of lunar exploration
-       could forever change the
-       moon — and our
-       relationship to it
-       (op-ed)
-   5. This Week In Space
-       podcast: Episode 101 —
-       Nukes in Space
 
