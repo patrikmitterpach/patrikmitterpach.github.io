@@ -1,56 +1,52 @@
 -- Daily Times --
-Saturday, March 09
+Sunday, March 10
 Weather: 6° - 6°
 
-	Yet who would say that
-     nature has dealt grudgingly
-     with the minds of women, and
-     stunted their virtues?
-     Believe me, they have the
-     same intellectual power as
-     men, and the same capacity
-     for honourable and generous
-     action.
+	Those men whom you
+     regard as fortunate, if you
+     could see, not their outward
+     show, but their hidden life,
+     are really unhappy, mean,
+     and base, ornamented on the
+     outside like the walls of
+     their houses: that good
+     fortune of theirs is not
+     sound and genuine: it is
+     only a veneer, and that a
+     thin one.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [RTL] Horner is
-       said to have drawn a
-       clear line in the sand
-       and ensured that the
-       employee in question can
-       no longer be near him.
-       According to RTL's
-       information, he is said
-       to have paid her a
-       severance payment of
-       700,000 euros. Red Bull
-       is said to have
-       increased the sum to one
-       million.
-   2. [Carlos Sainz]
-       Underwent a smooth
-       operation today and I’m
-       feeling much better!
-       Thank you for all your
-       kind messages and to
-       everyone that has looked
-       after me these days here
-       in Saudi, specially at
-       the King Fahad Armed
-       Forces Hospital. THANK
-       YOU
-   3. Max was up until
-       4am on Iracing
-   4. "We're missing our
-       old mascot anyway. Then
-       we'll just take Helmut.
-       He's the right age. He
-       doesn't have a red cap,
-       but then he'll come to
-       us," grins Wolff.
+   1. Bearman's Headrest
+       at the End of Race
+   2. Ayao Komatsu: Once
+       we got the penalty for
+       Kevin, there was no way
+       to get the points, so we
+       made the gap to ensure
+       that Nico could get the
+       points. A good team
+       effort. We are just
+       fighting for P10, and
+       there are eight drivers
+       going for it, so it's
+       like a win for the team.
+       (Via skysports)
+   3. [espnf1] Lewis
+       Hamilton waiting for
+       Ollie Bearman to get out
+       of his car so he can
+       congratulate him on a
+       brilliant drive on his
+       F1 debut
+   4. Ollie Bearman: "I
+       got a message from one
+       of my hero, Sebastian
+       Vettel, which was really
+       really nice, before the
+       race"
    5. [Formula 1] POINTS
        ON DEBUT!!!! P7 for
        @OllieBearman
@@ -76,22 +72,20 @@ Weather: 6° - 6°
        need
 
 # HackerNews
-   1. Bruno: Fast and
+   1. S3 is files, but
+       not a filesystem
+   2. Bell Labs: An
+       Institute of Creative
+       Technology (2015)
+   3. Bruno: Fast and
        Git-friendly open-source
        API client (Postman
        alternative)
-   2. Monodraw
-   3. Cystic fibrosis
-       breakthrough has given
-       patients a chance to
-       live longer
-   4. How We Bypassed
-       Safari 17's Advanced
-       Audio Fingerprinting
-       Protection
-   5. Show HN: React
-       Geiger – performance
-       profiling using sound
+   4. Stylized image
+       binning algorithm, for
+       the web
+   5. Using LLMs to
+       Generate Fuzzers
 
 # NL
    1. Is campfire the
@@ -131,24 +125,24 @@ Weather: 6° - 6°
        extraterrestrial life
 
 # Space
-   1. 10 things you
+   1. Why astronomers
+       are worried about 2
+       major telescopes right
+       now
+   2. A chronology of
+       the April 8 total solar
+       eclipse
+   3. 10 things you
        probably didn't know
        about the 2024 total
        solar eclipse
-   2. The next chapter
+   4. The next chapter
        of lunar exploration
        could forever change the
        moon — and our
        relationship to it
        (op-ed)
-   3. This Week In Space
+   5. This Week In Space
        podcast: Episode 101 —
        Nukes in Space
-   4. NASA, Boeing delay
-       Starliner capsule's 1st
-       astronaut launch to
-       early May
-   5. Benro Tortoise 24C
-       tripod and GX30 head
-       review
 
