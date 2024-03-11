@@ -2,130 +2,137 @@
 Monday, March 11
 Weather: 6° - 6°
 
-	Know then that every
-     station of life is
-     transitory, and that what
-     has ever happened to anybody
-     may happen to you also.
+	Let my mind be contained
+     within itself and improve
+     itself: let it take no part
+     with other men’s affairs,
+     and do nothing which depends
+     on the approval of other(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Saudi Arabia GP
-       had 25 Overtakes.
-       Bearman did Most
-       Overtakes. Full Data in
-       Post.
-   2. [@ErikvHaren]
-       German media, F1-Insider
-       and Motorsport-Total,
-       reported on Sunday that
-       Red Bull's Thai major
-       shareholder may now have
-       changed his mind and
-       would like to fire
-       Christian Horner.
-   3. Vasseur: Bearman's
-       mistake-free F1 Saudi
-       Arabian GP so good it's
-       "unrealistic"
-   4. Mercedes
-       disappointment: Wolff
-       speaks of 'big problem'
-       while Hamilton questions
-       the W15 concept
-   5. [Thomas Maher]
-       Suggestions that
-       Christian Horner is set
-       to be axed before
-       Australia are nonsense
-       rumour-mongering, I'm
-       reliably informed.
+   1. Aussie Aussie
+       (honorary) Aussie
+       [Australian GP
+       posters/banners with all
+       three australians on the
+       grid]
+   2. Red Bull will not
+       “force” Verstappen to
+       stay if he wants out
+   3. [Grandprix.com.au]
+       In the pit lane chaos,
+       Ricciardo’s tyres were
+       about to be fitted to
+       the wrong side of his
+       car before the team
+       realised the mistake,
+       and a jack failure meant
+       Ricciardo spent more
+       than a minute in the
+       pits before rejoining in
+       last place
+   4. [Vox.com] The real
+       scandal in Formula 1 is
+       its attitude toward
+       women
+   5. Haas: Bearman
+       deserves F1 chance, but
+       2025 seat not a given
 
 # Gaming
-   1. The biggest
-       moments from the 2024
-       Oscars
-   2. Christopher Nolan
-       finally won an Oscar
-   3. The Oscars’ I’m
-       Just Ken live
-       performance was much
-       more than Kennough
-   4. Jimmy Kimmel’s
-       Oscars monologue ended
-       on a moment of union
-       solidarity
-   5. The end of
-       Netflix’s dragon movie
-       Damsel makes it worth
-       watching
+   1. All Card Carnival
+       solutions in Costa del
+       Sol in FF7 Rebirth
+   2. Queen’s Blood card
+       list in FF7 Rebirth
+   3. Fortnite Chapter 5
+       Season 2 Battle Pass
+       skins list, including
+       Zeus, Hades, and
+       Aphrodite
+   4. Dragon’s Dogma 2
+       pre-orders at Best Buy
+       include a Steelbook case
+   5. The Ghostbusters
+       are coming to Destiny 2
+       ahead of the new movie
 
 # HackerNews
-   1. How to Write a
-       (Lisp) Interpreter (In
-       Python) (2010)
-   2. Maybe Functions
-   3. Monte-Carlo graph
-       search from first
-       principles
-   4. Speech and
-       Language Processing (3rd
-       ed. draft)
-   5. How the Devteam
-       Conquered the iPhone
+   1. JSON Canvas – An
+       open file format for
+       infinite canvas data
+   2. Launch HN: Onedoc
+       (YC W24) – A better way
+       to create PDFs
+   3. Diffusion models
+       from scratch, from a new
+       theoretical perspective
+   4. Show HN: Prompts
+       as (WASM) Programs
+   5. Speedometer 3.0: A
+       shared browser benchmark
+       for web application
+       responsiveness
 
 # NL
-   1. The stakes are not
+   1. WE'RE SO BACK
+       (Balatro)
+   2. The stakes are not
        messing around (Balatro)
-   2. we used to be a
+   3. we used to be a
        proper society #shorts
        #gaming
-   3. Is campfire the
+   4. Is campfire the
        best joker in the game?
        (Balatro)
-   4. how to win
+   5. how to win
        arguments with your chat
        #shorts #gaming
-   5. You gotta be
-       kidding me (Balatro)
 
 # Slovakia
-   1. Who are the 2024
+   1. Construction of
+       the forgotten junction
+       to test drivers' nerves
+   2. One Slovak company
+       in new Financial Times'
+       list of fastest-growing
+       businesses
+   3. The unique
+       microfarm whose
+       vegetables were eaten by
+       Presidents Čaputová and
+       Zelensky
+   4. Who are the 2024
        presidential election
        candidates?
-   2. Winter hiking in
+   5. Winter hiking in
        the Tatras: A dramatic
        change from the trails
        of summer
-   3. News digest: It
-       might be Women's Day,
-       but it's not all roses
-       in Slovakia
-   4. Stuff 'happens': A
-       light-fingered professor
-       walked off with a
-       painting
-   5. An iconic
-       athletics hall is
-       changing, to become the
-       National Padel Center.
 
 # Space
-   1. What is the
-       smallest known planet?
-   2. Total solar
-       eclipse 2024: Live
+   1. Wander into the
+       wasteland for Prime
+       Video's live-action
+       'Fallout' series
+       (trailer)
+   2. NASA chief Bill
+       Nelson promises a
+       'fight' for agency's
+       2025 budget request
+   3. The James Webb
+       Space Telescope hones in
+       on star-forming region
+       in the Triangulum Galaxy
+       (images)
+   4. What will it be
+       like to experience the
+       total solar eclipse
+       2024?
+   5. International
+       Space Station: Live
        updates
-   3. SpaceX launches 23
-       Starlink satellites from
-       California in 2nd leg of
-       spaceflight doubleheader
-   4. SpaceX launches 23
-       Starlink satellites from
-       Florida (video)
-   5. Benro Rhino 24C
-       Two Series travel tripod
-       and VX25 head review
 
