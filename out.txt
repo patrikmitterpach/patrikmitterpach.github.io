@@ -1,89 +1,80 @@
 -- Daily Times --
-Sunday, March 10
+Monday, March 11
 Weather: 6° - 6°
 
-	Those men lead the
-     shortest and unhappiest
-     lives who forget the past,
-     neglect the present, and
-     dread the futur(1).
+	Know then that every
+     station of life is
+     transitory, and that what
+     has ever happened to anybody
+     may happen to you also.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Ayao Komatsu: Once
-       we got the penalty for
-       Kevin, there was no way
-       to get the points, so we
-       made the gap to ensure
-       that Nico could get the
-       points. A good team
-       effort. We are just
-       fighting for P10, and
-       there are eight drivers
-       going for it, so it's
-       like a win for the team.
-       (Via skysports)
-   2. [espnf1] Lewis
-       Hamilton waiting for
-       Ollie Bearman to get out
-       of his car so he can
-       congratulate him on a
-       brilliant drive on his
-       F1 debut
-   3. Ollie Bearman: "I
-       got a message from one
-       of my hero, Sebastian
-       Vettel, which was really
-       really nice, before the
-       race"
-   4. Crazy pic… [via
-       Lewis Hamilton IG Story]
-   5. Saudi Arabia GP
+   1. Saudi Arabia GP
        had 25 Overtakes.
        Bearman did Most
        Overtakes. Full Data in
        Post.
+   2. [@ErikvHaren]
+       German media, F1-Insider
+       and Motorsport-Total,
+       reported on Sunday that
+       Red Bull's Thai major
+       shareholder may now have
+       changed his mind and
+       would like to fire
+       Christian Horner.
+   3. Vasseur: Bearman's
+       mistake-free F1 Saudi
+       Arabian GP so good it's
+       "unrealistic"
+   4. Mercedes
+       disappointment: Wolff
+       speaks of 'big problem'
+       while Hamilton questions
+       the W15 concept
+   5. [Thomas Maher]
+       Suggestions that
+       Christian Horner is set
+       to be axed before
+       Australia are nonsense
+       rumour-mongering, I'm
+       reliably informed.
 
 # Gaming
-   1. Final Fantasy 7
-       Rebirth has no right
-       being this funny
-   2. Akira Toriyama
-       gave us gaming’s most
-       perfect character design
-   3. Netlix’s The
-       Gentlemen lets Guy
-       Ritchie get back to
-       basics and perfect his
-       vibe
-   4. Final Fantasy 7
-       Rebirth showed a scene
-       that fans have wanted
-       for 26 years
-   5. The best thrillers
-       to watch on Netflix this
-       March
+   1. The biggest
+       moments from the 2024
+       Oscars
+   2. Christopher Nolan
+       finally won an Oscar
+   3. The Oscars’ I’m
+       Just Ken live
+       performance was much
+       more than Kennough
+   4. Jimmy Kimmel’s
+       Oscars monologue ended
+       on a moment of union
+       solidarity
+   5. The end of
+       Netflix’s dragon movie
+       Damsel makes it worth
+       watching
 
 # HackerNews
-   1. Rebuilding
-       Memchess.com from Its
-       Archive
-   2. Show HN:
-       Timelock.dev – Send a
-       secret into the future
-       using timelock
-       encryption
-   3. The Fashion Police
-       in 16th-century Italy
-   4. DBeaver –
-       open-source database
-       client
-   5. Moore on Moore –
-       The past, present and
-       uncertain future of
-       Moore's Law
+   1. How to Write a
+       (Lisp) Interpreter (In
+       Python) (2010)
+   2. Maybe Functions
+   3. Monte-Carlo graph
+       search from first
+       principles
+   4. Speech and
+       Language Processing (3rd
+       ed. draft)
+   5. How the Devteam
+       Conquered the iPhone
 
 # NL
    1. The stakes are not
@@ -101,45 +92,40 @@ Weather: 6° - 6°
        kidding me (Balatro)
 
 # Slovakia
-   1. Winter hiking in
+   1. Who are the 2024
+       presidential election
+       candidates?
+   2. Winter hiking in
        the Tatras: A dramatic
        change from the trails
        of summer
-   2. News digest: It
+   3. News digest: It
        might be Women's Day,
        but it's not all roses
        in Slovakia
-   3. Stuff 'happens': A
+   4. Stuff 'happens': A
        light-fingered professor
        walked off with a
        painting
-   4. An iconic
+   5. An iconic
        athletics hall is
        changing, to become the
        National Padel Center.
-   5. The Slovak
-       scientist climbing
-       Earth's highest peaks –
-       to research
-       extraterrestrial life
 
 # Space
-   1. Benro Rhino 24C
+   1. What is the
+       smallest known planet?
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. SpaceX launches 23
+       Starlink satellites from
+       California in 2nd leg of
+       spaceflight doubleheader
+   4. SpaceX launches 23
+       Starlink satellites from
+       Florida (video)
+   5. Benro Rhino 24C
        Two Series travel tripod
        and VX25 head review
-   2. Best laptops for
-       astronomers 2024: Link
-       up telescopes and edit
-       astrophotographs
-   3. New UAE astronauts
-       prepare for Ramadan and
-       family reunions: report
-   4. The new moon lets
-       the winter
-       constellations shine
-       tonight
-   5. Why astronomers
-       are worried about 2
-       major telescopes right
-       now
 
