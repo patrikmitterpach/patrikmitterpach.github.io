@@ -1,138 +1,140 @@
 -- Daily Times --
-Monday, March 11
+Saturday, March 16
 Weather: 6° - 6°
 
-	Let my mind be contained
-     within itself and improve
-     itself: let it take no part
-     with other men’s affairs,
-     and do nothing which depends
-     on the approval of other(1).
+	Reflect, then, how much
+     less a grief it is never to
+     have had any money than to
+     have lost it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Aussie Aussie
-       (honorary) Aussie
-       [Australian GP
-       posters/banners with all
-       three australians on the
-       grid]
-   2. Red Bull will not
-       “force” Verstappen to
-       stay if he wants out
-   3. [Grandprix.com.au]
-       In the pit lane chaos,
-       Ricciardo’s tyres were
-       about to be fitted to
-       the wrong side of his
-       car before the team
-       realised the mistake,
-       and a jack failure meant
-       Ricciardo spent more
-       than a minute in the
-       pits before rejoining in
-       last place
-   4. [Vox.com] The real
-       scandal in Formula 1 is
-       its attitude toward
-       women
-   5. Haas: Bearman
-       deserves F1 chance, but
-       2025 seat not a given
+   1. [Marca] Ferrari's
+       new star Oliver Bearman
+       failed his UK driving
+       test despite Saudi
+       Arabian GP heroics after
+       receiving a 'major'
+       fault for his "response
+       to traffic lights"
+   2. [@F1] 9 years ago
+       today, the F1 grid
+       gained two impressive
+       talents. Carlos Sainz
+       and Max Verstappen made
+       their debuts with
+       Scuderia Toro Rosso at
+       the 2015 Australian
+       Grand Prix.
+   3. Dutch newswebsite
+       nu.nl made an overview
+       of the Red Bull power
+       struggle (link in
+       comments)
+   4. [Erik van Haren] A
+       lot of discussions were
+       held within Red Bull
+       (Racing) last week to
+       calm things down, with
+       22 races still to go.
+       The employee who accused
+       team boss Horner has now
+       decided to appeal.
+   5. Ferrari dissolves
+       reserves: Adami
+       alongside Hamilton in
+       2025
 
 # Gaming
-   1. All Card Carnival
-       solutions in Costa del
-       Sol in FF7 Rebirth
-   2. Queen’s Blood card
+   1. Pokémon Go Litten
+       Community Day guide
+   2. Taylor Swift: The
+       Eras Tour, Netflix’s
+       Irish Wish, Madame Web,
+       and every new movie to
+       watch this weekend
+   3. Queen’s Blood card
        list in FF7 Rebirth
-   3. Fortnite Chapter 5
-       Season 2 Battle Pass
-       skins list, including
-       Zeus, Hades, and
-       Aphrodite
-   4. Dragon’s Dogma 2
-       pre-orders at Best Buy
-       include a Steelbook case
-   5. The Ghostbusters
-       are coming to Destiny 2
-       ahead of the new movie
+   4. How to get
+       Sprigatito through
+       Mystery Gift in Pokémon
+       Scarlet and Violet
+   5. All the Scream 7
+       news so far, including
+       its new director
 
 # HackerNews
-   1. JSON Canvas – An
-       open file format for
-       infinite canvas data
-   2. Launch HN: Onedoc
-       (YC W24) – A better way
-       to create PDFs
-   3. Diffusion models
-       from scratch, from a new
-       theoretical perspective
-   4. Show HN: Prompts
-       as (WASM) Programs
-   5. Speedometer 3.0: A
-       shared browser benchmark
-       for web application
-       responsiveness
+   1. Brain Waves Appear
+       to Wash Out Waste During
+       Sleep
+   2. Self-Printing
+       Machine Code (2005)
+   3. On clock faces, 4
+       is Expressed as IIII,
+       not IV
+   4. Algorithms for
+       Modern Hardware
+   5. Show HN: deptry
+       0.14.0 – detect unused
+       Python dependencies up
+       to 10 times faster
 
 # NL
-   1. WE'RE SO BACK
-       (Balatro)
-   2. The stakes are not
-       messing around (Balatro)
-   3. we used to be a
-       proper society #shorts
-       #gaming
-   4. Is campfire the
-       best joker in the game?
-       (Balatro)
-   5. how to win
-       arguments with your chat
-       #shorts #gaming
+   1. He was kind of
+       spitting about bees
+       though (Jackbox)
+   2. They yassified my
+       favorite joker (Balatro)
+   3. The role of the
+       comedian (A Difficult
+       Game About Climbing)
+   4. Chiblee won...by a
+       lot (Jackbox)
+   5. From the sea I
+       came; to the sea I
+       return (A Difficult Game
+       About Climbing)
 
 # Slovakia
-   1. Construction of
-       the forgotten junction
-       to test drivers' nerves
-   2. One Slovak company
-       in new Financial Times'
-       list of fastest-growing
-       businesses
-   3. The unique
-       microfarm whose
-       vegetables were eaten by
-       Presidents Čaputová and
-       Zelensky
-   4. Who are the 2024
-       presidential election
-       candidates?
-   5. Winter hiking in
-       the Tatras: A dramatic
-       change from the trails
-       of summer
+   1. News digest:
+       Danko's crash ruled a
+       misdemeanour, but video
+       still 'cannot' be
+       released
+   2. Already? Warm
+       weather brings first
+       mosquitoes to Bratislava
+   3. Strewth, mate!
+       There's a wallaby in the
+       High Tatras
+   4. Journalists: We
+       stand by our RTVS
+       colleagues
+   5. Weekend: Sending
+       light signals, Lord of
+       the Rings style
 
 # Space
-   1. Wander into the
-       wasteland for Prime
-       Video's live-action
-       'Fallout' series
-       (trailer)
-   2. NASA chief Bill
-       Nelson promises a
-       'fight' for agency's
-       2025 budget request
-   3. The James Webb
-       Space Telescope hones in
-       on star-forming region
-       in the Triangulum Galaxy
-       (images)
-   4. What will it be
-       like to experience the
-       total solar eclipse
-       2024?
-   5. International
-       Space Station: Live
-       updates
+   1. Hubble Telescope
+       spies stormy weather and
+       a shrinking Great Red
+       Spot on Jupiter (video)
+   2. Artemis 2 moon
+       astronauts celebrate
+       engine test for future
+       lunar missions (video)
+   3. FAA to oversee
+       investigation of SpaceX
+       Starship's 3rd test
+       flight
+   4. Debris from
+       burning satellites could
+       be affecting Earth's
+       magnetic field
+   5. Scientists reveal
+       never-before-seen map of
+       the Milky Way's central
+       engine (image)
 
