@@ -1,17 +1,30 @@
 -- Daily Times --
-Saturday, March 16
+Sunday, March 17
 Weather: 6° - 6°
 
-	Consider in the first
-     place how many more poor
-     people there are than rich,
-     and yet you will not find
-     that they are sadder or more
-     anxious than the rich: nay,
-     I am not sure that they are
-     not happier, because they
-     have fewer things to
-     distract their minds.
+	In this course of life
+     there await you many good
+     things, such as love and
+     practice of the virtues,
+     forgetfulness of passions,
+     knowledge of how to live and
+     die, deep repose. The
+     position of all busy men is
+     unhappy, but most unhappy of
+     all is that of those who do
+     not even labour at their own
+     affairs, but have to
+     regulate their rest by
+     another man’s sleep, their
+     walk by another man’s pace,
+     and whose very love and
+     hate, the freest things in
+     the world, are at another’s
+     bidding. If such men wish to
+     know how short their lives
+     are, let them think how
+     small a fraction of them is
+     their own.
                         ~ Seneca
 
 
@@ -28,13 +41,13 @@ Weather: 6° - 6°
        complaint with FIA about
        his behaviour - BBC
        Sport
-   4. F1-75 absolutely
-       melting Acqua Minerali
-       (Imola)
-   5. Vowles being
+   4. Vowles being
        patient with Sargeant
        but expects to see
        "progress"
+   5. Mercedes Benz AMG
+       F1 Team | Back home in
+       Malaysia
 
 # Gaming
    1. Potion event
@@ -56,21 +69,18 @@ Weather: 6° - 6°
        Netflix this March
 
 # HackerNews
-   1. How web bloat
+   1. The return of the
+       frame pointers
+   2. How web bloat
        impacts users with slow
        devices
-   2. Gut
-       bacteria–derived
-       serotonin promotes
-       immune tolerance in
-       early life
-   3. Fuzzing Ladybird
-       with tools from Google
-       Project Zero
-   4. How to Win Friends
-       and Hustle People
-   5. Parsing URLs in
-       Python
+   3. How Microchips
+       Work
+   4. Debloat non-rooted
+       Android devices
+   5. LLM4Decompile:
+       Decompiling Binary Code
+       with LLM
 
 # NL
    1. You never make the
@@ -108,26 +118,24 @@ Weather: 6° - 6°
        the Rings style
 
 # Space
-   1. Mercury slammed by
+   1. NASA's 'Snap It!'
+       computer game teaches
+       kids about solar
+       eclipses
+   2. Mercury slammed by
        gargantuan eruption from
        the sun's hidden far
        side, possibly
        triggering 'X-ray
        auroras'
-   2. This Week In Space
+   3. This Week In Space
        podcast: Episode 102 — A
        New Volcano on Mars!
-   3. '3 Body Problem:'
+   4. '3 Body Problem:'
        How Netflix's sci-fi
        saga employs the famous
        Wow! SETI signal
-   4. Solar eclipse 2024
+   5. Solar eclipse 2024
        weather prospects: Q&A
        with an expert
-   5. New NASA
-       astronauts celebrate
-       moon missions, private
-       space stations as they
-       get ready for liftoff
-       (exclusive)
 
