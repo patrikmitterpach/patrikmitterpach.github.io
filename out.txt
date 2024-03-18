@@ -1,146 +1,132 @@
 -- Daily Times --
-Sunday, March 17
+Monday, March 18
 Weather: 6° - 6°
 
-	While all excesses are
-     hurtful, excess of comfort
-     is the most hurtful of all;
-     it affects the brain; it
-     leads men’s minds into vain
-     imaginings; it spreads a
-     thick cloud over the
-     boundaries of truth and
-     falsehood.
-                        ~ Seneca
+	Public opinion is a weak
+     tyrant compared with our own
+     private opinion.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. Lewis signing a
-       Ferrari cap (That smile)
-   2. Have you ever peed
-       in your seat? | Max:
-       Luckily not! One time
-       [in F3] I was very
-       close. I was watching
-       DTM, I almost forgot to
-       get ready for my race. I
-       ran back to get into my
-       suit & helmet while all
-       the cars were already
-       lining up to the grid
-       and I jumped in the car
-       while having to go to
-       the toilet
-   3. The 1st thing Max
-       does when getting to his
-       hotel: It's unpacking my
-       laptop & making sure my
-       wifi is working. Most of
-       the time you get into a
-       discussion with the
-       hotel because they’re
-       like "Sir, we don’t have
-       faster wifi". I’m like
-       "I’m pretty sure you
-       have" Like a 1 hour
-       discussion
-       [@teamredlinesim]
-   4. The official
-       promotional photo for
-       the Formula 1 Rolex
-       Australian Grand Prix
-       2024
-   5. Norris says next
-       generation F1 cars must
-       address driver comfort
-       issues
+   1. Max weaves through
+       a cartoonish pileup in
+       iRacing unscathed
+   2. Interviewer: Apart
+       from you, who do you
+       believe is the most
+       naturally talented
+       driver? Esteban: Charles
+       Leclerc and Max
+       Verstappen. [...]
+       Esteban: I’ve raced with
+       them since well Charles
+       2005, Max 2010. And it
+       doesn’t matter what
+       conditions we were, you
+       know, always neck and
+       neck or in the top 3
+   3. Australian GP Race
+       Week [F1 Experiences]
+   4. TIL 98% of the 110
+       000 daily attendees at
+       the Dutch GP arrived by
+       foot, bicycle, or public
+       transport
+   5. It's RACE WEEK in
+       the land down under
 
 # Gaming
-   1. Manhunt’s greatest
-       strength is letting
-       Abraham Lincoln just be
-       a bro
-   2. How 2024 became
-       the year of open-world
-       survival crafting games
-   3. Potion event
+   1. Buy 1 board game
+       at Target and get
+       another for 50% off
+   2. Steam Families
+       adds way more features
+       for those who share
+       their game libraries
+   3. Save $20 on
+       pre-orders for Princess
+       Peach Showtime!
+   4. Potion event
        recipes and market news
        list for Genshin Impact
-   4. Does your keyboard
-       make your wrists hurt? A
-       split keyboard may help
-       you like it helped me
-   5. I played 43
-       legendary psychedelic
-       games in a row and now
-       my brain is a puddle
+   5. What is going on
+       with WB Games’ strategy?
 
 # HackerNews
-   1. When Armor Met
-       Lips
-   2. Superiority (1951)
-   3. Nanofont3x4:
-       Smallest readable 3x4
-       font with lowercase
-   4. 2600.network
-       Dialup Service
-   5. Optimize CSS with
-       SAT Solving
+   1. YouTube now
+       requires to label their
+       realistic-looking videos
+       made using AI
+   2. Stability.ai –
+       Introducing Stable Video
+       3D
+   3. Show HN: Extend
+       Zigbee sensor range with
+       LoRaWAN
+   4. RP2040 Boot
+       Sequence
+   5. Show HN: Next-Gen
+       AI Training:
+       LLM-RLHF-Tuning with PPO
+       and DPO
 
 # NL
-   1. You never make the
+   1. Stencil, my
+       nemesis (Balatro)
+   2. You never make the
        first jump (A Difficult
        Game About Climbing)
-   2. The GOAT of being
+   3. The GOAT of being
        carried in Balatro
        (Balatro)
-   3. Bro played high
+   4. Bro played high
        card 57 times (Balatro)
-   4. You never make the
+   5. You never make the
        first jump (A Difficult
        Game About Climbing)
-   5. It really does
-       look like a chicken
-       (Balatro)
 
 # Slovakia
-   1. News digest:
-       Danko's crash ruled a
-       misdemeanour, but video
-       still 'cannot' be
-       released
-   2. Already? Warm
-       weather brings first
-       mosquitoes to Bratislava
-   3. Strewth, mate!
-       There's a wallaby in the
-       High Tatras
-   4. Journalists: We
-       stand by our RTVS
-       colleagues
-   5. Weekend: Sending
-       light signals, Lord of
-       the Rings style
+   1. News digest: One
+       less presidential
+       hopeful ahead of
+       Saturday election
+   2. Government to
+       strengthen trade union
+       position following
+       sacking in Dell
+   3. Belarusian
+       national dead after bear
+       chase, another bear runs
+       through town centre
+   4. Last Week: With
+       Fico or against Fico?
+       Slovakia is about to
+       vote for its next
+       president
+   5. Future jobs: Being
+       an excellent programmer
+       will not be enough
 
 # Space
-   1. Sony FE 16-35mm
-       f/2.8 GM II vs Canon RF
-       15-35mm f/2.8 L IS USM
-   2. Sleeping
-       subduction zone could
-       awaken and form a new
-       'Ring of Fire' that
-       swallows the Atlantic
-       Ocean
-   3. Lego Creator
-       3-in-1 Space Astronaut
-       review
-   4. Who are the
-       Witches of Dathomir in
-       'Star Wars'?
-   5. NASA's 'Snap It!'
-       computer game teaches
-       kids about solar
-       eclipses
+   1. Track the April 8
+       total solar eclipse with
+       SkySafari, now 80% off
+   2. Bad news for life
+       on Mars? Red Planet's
+       wet epoch may have been
+       shorter than we thought
+   3. New NASA
+       astronauts 'thrilled' to
+       see 1st Boeing Starliner
+       crew launch in May
+       (exclusive)
+   4. Scientists may
+       finally know why this
+       infamous supernova wears
+       a 'string of pearls'
+   5. SpaceX's Starship
+       will go interstellar
+       someday, Elon Musk says
 
