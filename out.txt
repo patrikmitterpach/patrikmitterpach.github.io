@@ -1,11 +1,14 @@
 -- Daily Times --
-Monday, March 18
+Tuesday, March 19
 Weather: 6° - 6°
 
-	Public opinion is a weak
-     tyrant compared with our own
-     private opinion.
-           ~ Henry David Thoreau
+	Let my mind be contained
+     within itself and improve
+     itself: let it take no part
+     with other men’s affairs,
+     and do nothing which depends
+     on the approval of other(1).
+                        ~ Seneca
 
 
 -- News --
@@ -13,64 +16,58 @@ Weather: 6° - 6°
    1. Max weaves through
        a cartoonish pileup in
        iRacing unscathed
-   2. Interviewer: Apart
-       from you, who do you
-       believe is the most
-       naturally talented
-       driver? Esteban: Charles
-       Leclerc and Max
-       Verstappen. [...]
-       Esteban: I’ve raced with
-       them since well Charles
-       2005, Max 2010. And it
-       doesn’t matter what
-       conditions we were, you
-       know, always neck and
-       neck or in the top 3
-   3. Australian GP Race
-       Week [F1 Experiences]
-   4. TIL 98% of the 110
+   2. F2 vs. F1 neck
+       strength comparison:
+       Bearman vs. Leclerc in
+       lap 41 [Jeddah 2024]
+   3. TIL 98% of the 110
        000 daily attendees at
        the Dutch GP arrived by
        foot, bicycle, or public
        transport
-   5. It's RACE WEEK in
-       the land down under
+   4. Where do you think
+       Danny Ric will finish
+       this weekend?
+   5. F1 2024: Former
+       world champion says
+       Daniel Ricciardo is
+       ‘treading water’ ahead
+       of the Australian GP
 
 # Gaming
-   1. Buy 1 board game
+   1. MrBeast has a TV
+       deal with Amazon’s Prime
+       Video to produce a
+       record-breaking TV game
+       show
+   2. Buy 1 board game
        at Target and get
        another for 50% off
-   2. Steam Families
+   3. Steam Families
        adds way more features
        for those who share
        their game libraries
-   3. Save $20 on
+   4. Save $20 on
        pre-orders for Princess
        Peach Showtime!
-   4. Potion event
+   5. Potion event
        recipes and market news
        list for Genshin Impact
-   5. What is going on
-       with WB Games’ strategy?
 
 # HackerNews
-   1. YouTube now
-       requires to label their
-       realistic-looking videos
-       made using AI
-   2. Stability.ai –
-       Introducing Stable Video
-       3D
-   3. Show HN: Extend
-       Zigbee sensor range with
-       LoRaWAN
-   4. RP2040 Boot
-       Sequence
-   5. Show HN: Next-Gen
-       AI Training:
-       LLM-RLHF-Tuning with PPO
-       and DPO
+   1. BootLogo: Logo
+       language in 508 bytes of
+       x86 machine code
+   2. The Timeless
+       Parable of Mr. Market
+   3. Gaining kernel
+       code execution on an
+       MTE-enabled Pixel 8
+   4. Garnet – A new
+       remote cache-store from
+       Microsoft Research
+   5. 20 Years of "Not
+       Even Wrong"
 
 # NL
    1. Stencil, my
@@ -88,45 +85,42 @@ Weather: 6° - 6°
        Game About Climbing)
 
 # Slovakia
-   1. News digest: One
+   1. Navigating HR
+       transformations
+   2. Investors having
+       problems trusting
+       Slovakia under PM Robert
+       Fico's government
+   3. Popular wooden
+       latrine under the Tatra
+       summit gone, ecological
+       variant to replace it
+   4. News digest: One
        less presidential
        hopeful ahead of
        Saturday election
-   2. Government to
+   5. Government to
        strengthen trade union
        position following
-       sacking in Dell
-   3. Belarusian
-       national dead after bear
-       chase, another bear runs
-       through town centre
-   4. Last Week: With
-       Fico or against Fico?
-       Slovakia is about to
-       vote for its next
-       president
-   5. Future jobs: Being
-       an excellent programmer
-       will not be enough
+       controversial sacking in
+       Dell
 
 # Space
-   1. Track the April 8
+   1. Euclid 'dark
+       universe' telescope gets
+       de-iced from a million
+       miles away
+   2. NASA's James Webb
+       Space Telescope mission
+       — Live updates
+   3. SpaceX launches 22
+       Starlink satellites from
+       California in dusky
+       evening liftoff
+   4. Marvel Comics' new
+       series celebrates Boba
+       Fett's Mandalorian dad
+   5. Track the April 8
        total solar eclipse with
        SkySafari, now 80% off
-   2. Bad news for life
-       on Mars? Red Planet's
-       wet epoch may have been
-       shorter than we thought
-   3. New NASA
-       astronauts 'thrilled' to
-       see 1st Boeing Starliner
-       crew launch in May
-       (exclusive)
-   4. Scientists may
-       finally know why this
-       infamous supernova wears
-       a 'string of pearls'
-   5. SpaceX's Starship
-       will go interstellar
-       someday, Elon Musk says
 
