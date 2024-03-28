@@ -2,152 +2,135 @@
 Thursday, March 28
 Weather: 6° - 6°
 
-	Unless we are the most
-     ungrateful creatures in the
-     world, we shall regard these
-     noblest of men, the founders
-     of divine schools of
-     thought, as having been born
-     for us, and having prepared
-     life for us: we are led by
-     the labour of others to
-     behold most beautiful things
-     which have been brought out
-     of darkness into light: we
-     are not shut out from any
-     period, we can make our way
-     into every subject, and, if
-     only we can summon up
-     sufficient strength of mind
-     to overstep the narrow limit
-     of human weakness, we have a
-     vast extent of time wherein
-     to disport ourselves: we may
-     argue with Socrates, doubt
-     with Carneades, repose with
-     Epicurus, overcome human
-     nature with the Stoics,
-     exceed it with the Cynic(1).
+	I have accepted all the
+     gifts of wealth, high
+     office, and influence, which
+     she has so bountifully
+     bestowed upon me, in such a
+     manner that she can take
+     them back again without
+     disturbing me: I have kept a
+     great distance between them
+     and myself: and therefore
+     she has taken them, not
+     painfully torn them away
+     from m(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Jeppe H. Olesen]
-       Hearing that several
-       current Mercedes
-       partners are "shopping
-       around" as a result of
-       the relatively
-       lacklustre results in
-       recent seasons, and
-       losing their most
-       marketable asset, Lewis
-       Hamilton, to Ferrari in
-       2025. +
-   2. [racefans] F1’s
-       2026 cars will have
-       1,000 horsepower, less
-       downforce and weight –
-       Pat Symonds
-   3. Australia 2024
-       Power Rankings
-   4. Wolff told
-       Hamilton he’ll have to
-       ‘picture our rear wing’
-       from F1 2025
-   5. How time flies.
-       Here is my photo of Max
-       Verstappen in his RB15 5
-       years ago and his RB20
-       just last weekend. Both
-       shots taken at the same
-       corner.
+   1. Formula 1 Flag
+       Guide
+   2. Nico Hülkenberg
+       collaborating with
+       Verstappen.com to sell
+       merchandise
+   3. Social media
+       manager messed up one
+       too many times
+   4. Ferrari driver
+       Leclerc opens an
+       ice-cream shop in Milan
+       with the historical
+       founders of Grom?
+   5. Ferrari success at
+       Australian GP showed Red
+       Bull will make mistakes
+       under pressure, says
+       team boss Fred Vasseur
 
 # Gaming
-   1. Don’t Starve is
-       getting a board game
-       spin-off
-   2. How to get to
-       Agamen Volcanic Island
-       in Dragon’s Dogma 2
-   3. LG’s tried and
-       true 27-inch 1440p
-       gaming monitor is $210
-   4. Honkai: Star Rail
-       Penacony treasure chests
-       locations and map
-   5. All pawn
-       specializations in
+   1. Dropout’s new show
+       Smartypants is bringing
+       PowerPoint parties to
+       your screen
+   2. The best
+       accessories for your
+       Steam Deck OLED and LCD
+   3. You can’t trust
        Dragon’s Dogma 2
+   4. Where to find all
+       origami birds in Honkai:
+       Star Rail
+   5. Crusader Kings 3’s
+       new plagues absolutely
+       rocked my royal house
 
 # HackerNews
-   1. ST-DOS
-   2. Writing Gnome Apps
-       with Swift
-   3. What things are
-       happening in ML that we
-       can't hear oer the din
-       of LLMs?
-   4. What is DECT-2020
-       New Radio (NR), and how
-       big a deal is it?
-   5. Endlessh-go: a
-       Golang SSH tarpit that
-       traps bots/scanners
+   1. NotepadNext – a
+       cross-platform,
+       reimplementation of
+       Notepad++
+   2. AI21 Labs Unveils
+       Jamba: The First
+       Production-Grade
+       Mamba-Based AI Model
+   3. Sam Bankman-Fried
+       sentenced to 25 years in
+       prison
+   4. Launch HN: Eggnog
+       (YC W24) – AI videos
+       with consistent
+       characters
+   5. LLMs use a
+       surprisingly simple
+       mechanism to retrieve
+       some stored knowledge
 
 # NL
-   1. Until someone
+   1. Hemomancer
+       (Balatro)
+   2. Until someone
        makes a better banana
        (Balatro)
-   2. This video
+   3. This video
        contains some tragedy (A
        Difficult Game About
        Climbing)
-   3. The invisible
+   4. The invisible
        man... (Jackbox)
-   4. We're Costco Guys,
+   5. We're Costco Guys,
        Of Course We Swing on
        Girders (A Difficult
        Game About Climbing)
-   5. The one in four
-       hundred chance (Balatro)
 
 # Slovakia
-   1. 3 things to do in
+   1. Top 10 events in
+       Bratislava for
+       foreigners
+   2. This year's
+       Bratislava Coronation
+       Days will taste of
+       carrot and mandarin
+   3. 3 things to do in
        Bratislava for free in
        the next seven days
-   2. News digest: NATO
+   4. News digest: NATO
        commander praises
        Slovakia during visit
-   3. Shops to close
+   5. Shops to close
        during Easter, but there
        are exceptions
-   4. No tram in
-       Petržalka this year
-   5. Monument to Krav
-       Maga creator unveiled in
-       Bratislava
 
 # Space
-   1. Future Mars plane
-       could help solve Red
-       Planet methane mystery
-       (exclusive)
-   2. Total solar
+   1. 365 days of
+       satellite images show
+       Earth's seasons changing
+       from space (video)
+   2. Still alive!
+       Japan's SLIM moon lander
+       survives its 2nd lunar
+       night (photo)
+   3. Total solar
        eclipse 2024: Live
        updates
-   3. Stardust particle
-       locked in meteorite
-       holds secrets of a
-       star's explosive death
-   4. Overlooked Apollo
-       data from the 1970s
-       reveals huge record of
-       'hidden' moonquakes
-   5. Supermassive black
-       hole’s mysterious
-       hiccups' likely caused
-       by neighboring black
-       hole's 'punches'
+   4. Lego Education
+       Eclipse Collection
+       teaches students about
+       April 8 total solar
+       eclipse
+   5. SpaceX to launch
+       22 Starlink satellites
+       from California tonight
 
