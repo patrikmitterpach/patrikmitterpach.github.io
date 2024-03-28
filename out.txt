@@ -14,18 +14,7 @@ Weather: 6° - 6°
 # Formula1
    1. Someone forgot to
        change accounts
-   2. [OT] Keanu Reeves’
-       firearms trainer says
-       Lewis Hamilton is one of
-       the most naturally
-       gifted shooters he’s
-       ever seen - "if I had
-       him more often...he'd be
-       the best that's ever
-       held a gun"
-   3. Posters I found at
-       Nagoya station
-   4. [Jeppe H. Olesen]
+   2. [Jeppe H. Olesen]
        Hearing that several
        current Mercedes
        partners are "shopping
@@ -37,6 +26,10 @@ Weather: 6° - 6°
        marketable asset, Lewis
        Hamilton, to Ferrari in
        2025. +
+   3. Posters I found at
+       Nagoya station
+   4. Australia 2024
+       Power Rankings
    5. Wolff told
        Hamilton he’ll have to
        ‘picture our rear wing’
@@ -62,17 +55,16 @@ Weather: 6° - 6°
 # HackerNews
    1. Writing Gnome Apps
        with Swift
-   2. Digital wallets
-       and the "only Apple Pay
-       does this" mythology
-   3. DBRX: A new open
-       LLM
-   4. Want to start a
-       startup? Meet all the YC
-       partners in Boston – Apr
-       20th
-   5. Windows 3.1 Style
-       Clock
+   2. ST-DOS
+   3. The Pentagon's
+       Silicon Valley Problem
+   4. BeagleY-AI: a 4
+       TOPS-capable $70 board
+       from Beagleboard
+   5. Launch HN:
+       PointOne (YC W24) –
+       Automated time tracking
+       for lawyers
 
 # NL
    1. Until someone
@@ -109,25 +101,25 @@ Weather: 6° - 6°
        the economy needs them
 
 # Space
-   1. Overlooked Apollo
+   1. Stardust particle
+       locked in meteorite
+       holds secrets of a
+       star's explosive death
+   2. Overlooked Apollo
        data from the 1970s
        reveals huge record of
        'hidden' moonquakes
-   2. Supermassive black
+   3. Supermassive black
        hole’s mysterious
        hiccups' likely caused
        by neighboring black
        hole's 'punches'
-   3. 'Vampire' neutron
+   4. 'Vampire' neutron
        star blasts are related
        to jets traveling at
        near-light speeds
-   4. Tragic Baltimore
+   5. Tragic Baltimore
        bridge collapse
        aftermath seen from
        space (satellite photos)
-   5. NASA is super
-       stoked for the 2024
-       total solar eclipse and
-       hopes you are, too.
 
