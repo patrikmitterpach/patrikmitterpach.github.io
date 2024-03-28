@@ -2,19 +2,38 @@
 Thursday, March 28
 Weather: 6° - 6°
 
-	The wise man will not be
-     angry with sinners. Why not?
-     Because he knows that no one
-     is born wise, but becomes
-     s(1).
+	Unless we are the most
+     ungrateful creatures in the
+     world, we shall regard these
+     noblest of men, the founders
+     of divine schools of
+     thought, as having been born
+     for us, and having prepared
+     life for us: we are led by
+     the labour of others to
+     behold most beautiful things
+     which have been brought out
+     of darkness into light: we
+     are not shut out from any
+     period, we can make our way
+     into every subject, and, if
+     only we can summon up
+     sufficient strength of mind
+     to overstep the narrow limit
+     of human weakness, we have a
+     vast extent of time wherein
+     to disport ourselves: we may
+     argue with Socrates, doubt
+     with Carneades, repose with
+     Epicurus, overcome human
+     nature with the Stoics,
+     exceed it with the Cynic(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Someone forgot to
-       change accounts
-   2. [Jeppe H. Olesen]
+   1. [Jeppe H. Olesen]
        Hearing that several
        current Mercedes
        partners are "shopping
@@ -26,14 +45,24 @@ Weather: 6° - 6°
        marketable asset, Lewis
        Hamilton, to Ferrari in
        2025. +
-   3. Posters I found at
-       Nagoya station
-   4. Australia 2024
+   2. [racefans] F1’s
+       2026 cars will have
+       1,000 horsepower, less
+       downforce and weight –
+       Pat Symonds
+   3. Australia 2024
        Power Rankings
-   5. Wolff told
+   4. Wolff told
        Hamilton he’ll have to
        ‘picture our rear wing’
        from F1 2025
+   5. How time flies.
+       Here is my photo of Max
+       Verstappen in his RB15 5
+       years ago and his RB20
+       just last weekend. Both
+       shots taken at the same
+       corner.
 
 # Gaming
    1. Don’t Starve is
@@ -53,18 +82,19 @@ Weather: 6° - 6°
        Dragon’s Dogma 2
 
 # HackerNews
-   1. Writing Gnome Apps
+   1. ST-DOS
+   2. Writing Gnome Apps
        with Swift
-   2. ST-DOS
-   3. The Pentagon's
-       Silicon Valley Problem
-   4. BeagleY-AI: a 4
-       TOPS-capable $70 board
-       from Beagleboard
-   5. Launch HN:
-       PointOne (YC W24) –
-       Automated time tracking
-       for lawyers
+   3. What things are
+       happening in ML that we
+       can't hear oer the din
+       of LLMs?
+   4. What is DECT-2020
+       New Radio (NR), and how
+       big a deal is it?
+   5. Endlessh-go: a
+       Golang SSH tarpit that
+       traps bots/scanners
 
 # NL
    1. Until someone
@@ -84,42 +114,40 @@ Weather: 6° - 6°
        hundred chance (Balatro)
 
 # Slovakia
-   1. News digest: NATO
+   1. 3 things to do in
+       Bratislava for free in
+       the next seven days
+   2. News digest: NATO
        commander praises
        Slovakia during visit
-   2. Shops to close
+   3. Shops to close
        during Easter, but there
        are exceptions
-   3. No tram in
+   4. No tram in
        Petržalka this year
-   4. Monument to Krav
+   5. Monument to Krav
        Maga creator unveiled in
        Bratislava
-   5. Ukrainians do not
-       take jobs from Slovak,
-       are more educated and
-       the economy needs them
 
 # Space
-   1. Stardust particle
+   1. Future Mars plane
+       could help solve Red
+       Planet methane mystery
+       (exclusive)
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. Stardust particle
        locked in meteorite
        holds secrets of a
        star's explosive death
-   2. Overlooked Apollo
+   4. Overlooked Apollo
        data from the 1970s
        reveals huge record of
        'hidden' moonquakes
-   3. Supermassive black
+   5. Supermassive black
        hole’s mysterious
        hiccups' likely caused
        by neighboring black
        hole's 'punches'
-   4. 'Vampire' neutron
-       star blasts are related
-       to jets traveling at
-       near-light speeds
-   5. Tragic Baltimore
-       bridge collapse
-       aftermath seen from
-       space (satellite photos)
 
