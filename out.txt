@@ -1,84 +1,79 @@
 -- Daily Times --
-Thursday, March 28
+Friday, March 29
 Weather: 6° - 6°
 
-	The single most
-     remarkable and defining
-     moment of the past 500 years
-     came at 05:29:45 on 16 July
-     1945. At that precise
-     second, American scientists
-     detonated the first atomic
-     bomb at Alamogordo, New
-     Mexico. From that point
-     onward, humankind had the
-     capability not only to
-     change the course of
-     history, but to end it.
-             ~ Yuval Noah Harari
+	Someone driving a
+     $100,000 car might be
+     wealthy. But the only data
+     point you have about their
+     wealth is that they have
+     $100,000 less than they did
+     before they bought the car
+     (or $100,000 more in debt).
+     That’s all you know about
+     them.
+                 ~ Morgan Housel
 
 
 -- News --
 # Formula1
-   1. Nico Hülkenberg
-       collaborating with
-       Verstappen.com to sell
-       merchandise
-   2. One of the coolest
+   1. One of the coolest
        camera angles they've
        ever used in F1
-   3. Lance Stroll
+   2. Lance Stroll
        wished a fond farewell
        to his Race Engineer Ben
        Michell after the #AusGP
-   4. Ferrari driver
-       Leclerc opens an
-       ice-cream shop in Milan
-       with the historical
-       founders of Grom?
-   5. The race in Imola
+   3. The race in Imola
        will be called "FORMULA
        1 MSC CRUISES GRAN
        PREMIO DEL MADE IN ITALY
        E DELL'EMILIA-ROMAGNA
        2024" this year
+   4. Nico Hülkenberg
+       collaborating with
+       Verstappen.com to sell
+       merchandise
+   5. Ferrari success at
+       Australian GP showed Red
+       Bull will make mistakes
+       under pressure, says
+       team boss Fred Vasseur
 
 # Gaming
-   1. All Sphinx riddles
+   1. What to know about
+       the MonsterVerse before
+       Godzilla x Kong: The New
+       Empire
+   2. All Sphinx riddles
        and solutions in
        Dragon’s Dogma 2
-   2. Where to get
+   3. Where to get
        portcrystals in Dragon’s
        Dogma 2 and the best
        locations to place them
-   3. Chani is the real
+   4. Chani is the real
        protagonist of Dune:
        Part Two
-   4. Embracer has sold
+   5. Embracer has sold
        Gearbox — and
        Borderlands — to
        Take-Two for $460M
-   5. Deep Sky is an
-       IMAX adventure that
-       should unite humanity
 
 # HackerNews
-   1. You can't leak
-       users' data if you don't
-       hold it
-   2. Why are so many
-       people being hit with £5
-       fines for 'counterfeit'
-       stamps?
-   3. Literacy in the
-       U.S. has fallen to 79%,
-       down from 96% in the
-       late 1980's
-   4. Jamba:
-       Production-grade
-       Mamba-based AI model
-   5. Can Xerox's PARC
-       find new life with SRI?
+   1. Arraymancer – Deep
+       Learning Nim Library
+   2. The race to
+       replace Redis
+   3. Doom Captcha
+       (2021)
+   4. Math writing is
+       dull when it neglects
+       the human dimension
+   5. The Apple
+       Jonathan: A 1980s
+       concept computer that
+       never shipped
 
 # NL
    1. It's Super Auto
@@ -100,23 +95,24 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. News digest:
+   1. Weekend: Slovak
+       Easter is upon us, here
+       are tips for cooking and
+       understanding traditions
+   2. Where would
+       Slovakia be without
+       NATO? Look at Ukraine,
+       experts say
+   3. News digest:
        Whoah! Bratislava
        airport unveils summer
        flight plan
-   2. Slovaks fear
+   4. Slovaks fear
        Russia. Why is then
        support for NATO poor?
-   3. RegioJet connects
+   5. RegioJet connects
        Ukrainian city with
        Prague via Slovakia
-   4. Top 10 events in
-       Bratislava for
-       foreigners
-   5. This year's
-       Bratislava Coronation
-       Days will taste of
-       carrot and mandarin
 
 # Space
    1. Life as we know it
