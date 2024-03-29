@@ -2,17 +2,9 @@
 Friday, March 29
 Weather: 6° - 6°
 
-	Someone driving a
-     $100,000 car might be
-     wealthy. But the only data
-     point you have about their
-     wealth is that they have
-     $100,000 less than they did
-     before they bought the car
-     (or $100,000 more in debt).
-     That’s all you know about
-     them.
-                 ~ Morgan Housel
+	In the long run men hit
+     only what they aim at.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -30,10 +22,9 @@ Weather: 6° - 6°
        PREMIO DEL MADE IN ITALY
        E DELL'EMILIA-ROMAGNA
        2024" this year
-   4. Nico Hülkenberg
-       collaborating with
-       Verstappen.com to sell
-       merchandise
+   4. Sargeant taking a
+       short vacation in Bali
+       after the Australian GP
    5. Ferrari success at
        Australian GP showed Red
        Bull will make mistakes
@@ -61,19 +52,20 @@ Weather: 6° - 6°
        Take-Two for $460M
 
 # HackerNews
-   1. Arraymancer – Deep
-       Learning Nim Library
-   2. The race to
-       replace Redis
-   3. Doom Captcha
+   1. PostgreSQL
+       maintainer Simon Riggs
+       has died in a small
+       airplane crash
+   2. Managing Linux
+       Servers with Cockpit
+   3. The Great
+       Migration from MongoDB
+       to PostgreSQL
+   4. OpenVoice:
+       Versatile Instant Voice
+       Cloning
+   5. Doom Captcha
        (2021)
-   4. Math writing is
-       dull when it neglects
-       the human dimension
-   5. The Apple
-       Jonathan: A 1980s
-       concept computer that
-       never shipped
 
 # NL
    1. It's Super Auto
@@ -95,44 +87,47 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Weekend: Slovak
+   1. Dubbed “Štefánik
+       in a skirt”, the
+       remarkable Slovak who
+       helped her homeland in
+       war
+   2. Weekend: Slovak
        Easter is upon us, here
        are tips for cooking and
        understanding traditions
-   2. Where would
+   3. Where would
        Slovakia be without
        NATO? Look at Ukraine,
        experts say
-   3. News digest:
+   4. News digest:
        Whoah! Bratislava
        airport unveils summer
        flight plan
-   4. Slovaks fear
+   5. Slovaks fear
        Russia. Why is then
        support for NATO poor?
-   5. RegioJet connects
-       Ukrainian city with
-       Prague via Slovakia
 
 # Space
-   1. Life as we know it
+   1. NASA's Lucy
+       asteroid-hopping
+       spacecraft pins down
+       ages of 1st asteroid
+       targets
+   2. Life as we know it
        could exist on Venus,
        new experiment reveals
-   2. Final launch of
+   3. Final launch of
        Delta IV Heavy rocket
        scrubbed late in
        countdown
-   3. Giant Mars
+   4. Giant Mars
        asteroid impact creates
        vast field of
        destruction with 2
        billion craters
-   4. 365 days of
+   5. 365 days of
        satellite images show
        Earth's seasons changing
        from space (video)
-   5. Still alive!
-       Japan's SLIM moon lander
-       survives its 2nd lunar
-       night (photo)
 
