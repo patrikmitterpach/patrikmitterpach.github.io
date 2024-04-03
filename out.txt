@@ -2,139 +2,132 @@
 Wednesday, April 03
 Weather: 6° - 6°
 
-	He who fears death will
-     never act as becomes a
-     living man: but he who knows
-     that this fate was laid upon
-     him as soon as he was
-     conceived will live
-     according to it, and by this
-     strength of mind will gain
-     this further advantage, that
-     nothing can befall him
-     unexpectedl(1).
+	If one always follows
+     the precepts of one man, one
+     ceases to be a debater and
+     becomes a partisan. Would
+     that all things were already
+     known, that truth were
+     unveiled and recognized, and
+     that none of our doctrines
+     required modification!
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Red Bull to
-       introduce sizable
-       upgrade package at
-       Japanese GP
-   2. Side by side
-       overhead comparison
-       between RB20-SF24 and
-       W15 (source F1_GRESTY
-       IG)
-   3. What is the
+   1. What is the
        weakest F1 grid of all
        time?
-   4. Some of the cars
-       Fernando Alonso drove in
-       his career from his
-       Museum in Oviedo
-   5. Toto Wolff:
-       Mercedes boss cancels
-       plan to skip Japanese GP
-       amid team's poor start
-       to 2024 F1 season
+   2. [@KayBurley] F1 is
+       an "old fashioned
+       business" and needs to
+       improve for women Here's
+       Sebastian Vettel on how
+       women are treated in the
+       sport
+   3. McLaren | A first
+       of its kind and ready to
+       hit the track in Suzuka!
+   4. [OT] Japan issues
+       evacuation advisory for
+       Okinawa areas after
+       earthquake, tsunami
+   5. Who was the last
+       successful driver who
+       was gleefully not fit?
 
 # Gaming
-   1. Wyrmspan,
-       successor to bestselling
-       Wingspan, doesn’t stray
-       far
-   2. You can watch the
-       solar eclipse on Twitch
-       or in Fortnite, thanks
-       to NASA
-   3. American Horror
-       Story: Delicate is back
-       to do what AHS does best
-   4. Destiny 2 is
-       getting its two best
-       missions back before The
-       Final Shape
-   5. Mission Talita is
-       a Grand Theft Auto mod
-       meant to stop
-       trafficking
+   1. A new Matrix movie
+       is coming from the
+       director of Cabin in the
+       Woods
+   2. The must-watch
+       anime to look out for in
+       spring 2024
+   3. 3 Body Problem’s
+       VR tech got a big
+       glow-up from the books
+   4. In 8 years,
+       Stardew Valley never
+       lost sight of its core
+       philosophy
+   5. You can finally
+       play the real Suika Game
+       on iOS
 
 # HackerNews
-   1. PyTorch Library
-       for Running LLM on Intel
-       CPU and GPU
-   2. LiveView Is Best
-       with Svelte
-   3. Show HN: Goralim -
-       a rate limiting pkg for
-       Go to handle distributed
-       workloads
-   4. The Solution of
-       the Zodiac Killer's
-       340-Character Cipher
-   5. The Rise and Fall
-       of 3M's Floppy Disk
+   1. Tips for Linking
+       Shell Companies to Their
+       Secret Owners
+   2. The ancient world
+       before computers had
+       stacks or heaps
+   3. Jpegli: A New JPEG
+       Coding Library
+   4. The Texas
+       Triangle: A rising
+       megaregion unlike all
+       others
+   5. Improvements to
+       static analysis in GCC
+       14
 
 # NL
-   1. for the gamers
+   1. The mid vid pivot
+       (Balatro)
+   2. for the gamers
        #shorts #gaming
-   2. We will get them
+   3. We will get them
        next time (A Difficult
        Game About Climbing)
-   3. Is Fortune Teller
+   4. Is Fortune Teller
        the best common joker?
        (Balatro)
-   4. people can
+   5. people can
        change...but not you
        #gaming #shorts
-   5. Just getting our
-       reps in (A Difficult
-       Game About Climbing)
 
 # Slovakia
-   1. Promising
+   1. News digest: Polls
+       point to tight election
+   2. Opposition party
+       wants law change so both
+       spouses, children, can
+       have joint surnames
+   3. Prague-based
+       pro-Russian web that
+       hosted Slovak
+       politicians blocked
+   4. Promising
        biathlete hails from
        what locals call
        'cursed' valley
-   2. News digest: For
+   5. News digest: For
        Pellegrini, Tuesday was
        a nightmare
-   3. Chandelier torn
-       down with bucket: Easter
-       calls for its bill
-   4. From ‘foreign
-       agents’ to
-       ‘organisations with
-       foreign support’:
-       Coalition party submits
-       anti-NGO bill
-   5. Slovak actress
-       facing verbal harassment
-       after minister's Easter
-       attack on public
-       broadcaster
 
 # Space
-   1. China plans to
-       catch its reusable
-       rockets with
-       constricting wires
-       (video)
-   2. New moon phase on
-       April 8 will bring on
-       the 2024 total solar
-       eclipse
-   3. NASA to pick new
-       moon car for Artemis
-       astronauts today: Watch
-       it live
-   4. Boeing's 1st
-       Starliner astronaut
-       launch delayed again, to
-       May 6
-   5. Total solar
-       eclipse 2024: Live
-       updates
+   1. The world's
+       largest digital camera
+       is ready to investigate
+       the dark universe
+   2. Mysterious object
+       that crashed through
+       Florida home was likely
+       space junk from the
+       International Space
+       Station
+   3. Thousands of
+       strange white rocks
+       found on Mars. Will they
+       ever be brought to
+       Earth?
+   4. Last minute solar
+       eclipse deal: Celestron
+       solar telescope now $30
+       off
+   5. Why I’m staying
+       home for the April 8
+       solar eclipse
 
