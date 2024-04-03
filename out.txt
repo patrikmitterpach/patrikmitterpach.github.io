@@ -1,133 +1,140 @@
 -- Daily Times --
-Friday, March 29
+Wednesday, April 03
 Weather: 6° - 6°
 
-	In the long run men hit
-     only what they aim at.
-           ~ Henry David Thoreau
+	He who fears death will
+     never act as becomes a
+     living man: but he who knows
+     that this fate was laid upon
+     him as soon as he was
+     conceived will live
+     according to it, and by this
+     strength of mind will gain
+     this further advantage, that
+     nothing can befall him
+     unexpectedl(1).
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. One of the coolest
-       camera angles they've
-       ever used in F1
-   2. Lance Stroll
-       wished a fond farewell
-       to his Race Engineer Ben
-       Michell after the #AusGP
-   3. The race in Imola
-       will be called "FORMULA
-       1 MSC CRUISES GRAN
-       PREMIO DEL MADE IN ITALY
-       E DELL'EMILIA-ROMAGNA
-       2024" this year
-   4. Sargeant taking a
-       short vacation in Bali
-       after the Australian GP
-   5. Ferrari success at
-       Australian GP showed Red
-       Bull will make mistakes
-       under pressure, says
-       team boss Fred Vasseur
+   1. Red Bull to
+       introduce sizable
+       upgrade package at
+       Japanese GP
+   2. Side by side
+       overhead comparison
+       between RB20-SF24 and
+       W15 (source F1_GRESTY
+       IG)
+   3. What is the
+       weakest F1 grid of all
+       time?
+   4. Some of the cars
+       Fernando Alonso drove in
+       his career from his
+       Museum in Oviedo
+   5. Toto Wolff:
+       Mercedes boss cancels
+       plan to skip Japanese GP
+       amid team's poor start
+       to 2024 F1 season
 
 # Gaming
-   1. What to know about
-       the MonsterVerse before
-       Godzilla x Kong: The New
-       Empire
-   2. All Sphinx riddles
-       and solutions in
-       Dragon’s Dogma 2
-   3. Where to get
-       portcrystals in Dragon’s
-       Dogma 2 and the best
-       locations to place them
-   4. Chani is the real
-       protagonist of Dune:
-       Part Two
-   5. Embracer has sold
-       Gearbox — and
-       Borderlands — to
-       Take-Two for $460M
+   1. Wyrmspan,
+       successor to bestselling
+       Wingspan, doesn’t stray
+       far
+   2. You can watch the
+       solar eclipse on Twitch
+       or in Fortnite, thanks
+       to NASA
+   3. American Horror
+       Story: Delicate is back
+       to do what AHS does best
+   4. Destiny 2 is
+       getting its two best
+       missions back before The
+       Final Shape
+   5. Mission Talita is
+       a Grand Theft Auto mod
+       meant to stop
+       trafficking
 
 # HackerNews
-   1. PostgreSQL
-       maintainer Simon Riggs
-       has died in a small
-       airplane crash
-   2. Managing Linux
-       Servers with Cockpit
-   3. The Great
-       Migration from MongoDB
-       to PostgreSQL
-   4. OpenVoice:
-       Versatile Instant Voice
-       Cloning
-   5. Doom Captcha
-       (2021)
+   1. PyTorch Library
+       for Running LLM on Intel
+       CPU and GPU
+   2. LiveView Is Best
+       with Svelte
+   3. Show HN: Goralim -
+       a rate limiting pkg for
+       Go to handle distributed
+       workloads
+   4. The Solution of
+       the Zodiac Killer's
+       340-Character Cipher
+   5. The Rise and Fall
+       of 3M's Floppy Disk
 
 # NL
-   1. It's Super Auto
-       Pets meets Pokemon???
-       (Kadomon: Hyper Auto
-       Battles #ad)
-   2. World's number one
-       fibbage player?
-       (Jackbox)
-   3. Get it twisted,
-       you should build around
-       your first joker
-       (Balatro)
-   4. It's not the same
-       man, and it's not the
-       same girder (A Difficult
+   1. for the gamers
+       #shorts #gaming
+   2. We will get them
+       next time (A Difficult
        Game About Climbing)
-   5. Hemomancer
+   3. Is Fortune Teller
+       the best common joker?
        (Balatro)
+   4. people can
+       change...but not you
+       #gaming #shorts
+   5. Just getting our
+       reps in (A Difficult
+       Game About Climbing)
 
 # Slovakia
-   1. Dubbed “Štefánik
-       in a skirt”, the
-       remarkable Slovak who
-       helped her homeland in
-       war
-   2. Weekend: Slovak
-       Easter is upon us, here
-       are tips for cooking and
-       understanding traditions
-   3. Where would
-       Slovakia be without
-       NATO? Look at Ukraine,
-       experts say
-   4. News digest:
-       Whoah! Bratislava
-       airport unveils summer
-       flight plan
-   5. Slovaks fear
-       Russia. Why is then
-       support for NATO poor?
+   1. Promising
+       biathlete hails from
+       what locals call
+       'cursed' valley
+   2. News digest: For
+       Pellegrini, Tuesday was
+       a nightmare
+   3. Chandelier torn
+       down with bucket: Easter
+       calls for its bill
+   4. From ‘foreign
+       agents’ to
+       ‘organisations with
+       foreign support’:
+       Coalition party submits
+       anti-NGO bill
+   5. Slovak actress
+       facing verbal harassment
+       after minister's Easter
+       attack on public
+       broadcaster
 
 # Space
-   1. NASA's Lucy
-       asteroid-hopping
-       spacecraft pins down
-       ages of 1st asteroid
-       targets
-   2. Life as we know it
-       could exist on Venus,
-       new experiment reveals
-   3. Final launch of
-       Delta IV Heavy rocket
-       scrubbed late in
-       countdown
-   4. Giant Mars
-       asteroid impact creates
-       vast field of
-       destruction with 2
-       billion craters
-   5. 365 days of
-       satellite images show
-       Earth's seasons changing
-       from space (video)
+   1. China plans to
+       catch its reusable
+       rockets with
+       constricting wires
+       (video)
+   2. New moon phase on
+       April 8 will bring on
+       the 2024 total solar
+       eclipse
+   3. NASA to pick new
+       moon car for Artemis
+       astronauts today: Watch
+       it live
+   4. Boeing's 1st
+       Starliner astronaut
+       launch delayed again, to
+       May 6
+   5. Total solar
+       eclipse 2024: Live
+       updates
 
