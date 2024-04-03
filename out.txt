@@ -1,92 +1,97 @@
 -- Daily Times --
-Wednesday, April 03
+Thursday, April 04
 Weather: 6° - 6°
 
-	If one always follows
-     the precepts of one man, one
-     ceases to be a debater and
-     becomes a partisan. Would
-     that all things were already
-     known, that truth were
-     unveiled and recognized, and
-     that none of our doctrines
-     required modification!
+	Now Fortune does not
+     give virtue; therefore she
+     does not take it away.
+     Virtue is free, inviolable,
+     not to be moved, not to be
+     shaken, and so hardened
+     against misfortunes that she
+     cannot be bent, let alone
+     overcome by them.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. What is the
-       weakest F1 grid of all
-       time?
-   2. [@KayBurley] F1 is
+   1. [@KayBurley] F1 is
        an "old fashioned
        business" and needs to
        improve for women Here's
        Sebastian Vettel on how
        women are treated in the
        sport
-   3. McLaren | A first
+   2. McLaren | A first
        of its kind and ready to
        hit the track in Suzuka!
-   4. [OT] Japan issues
+   3. [OT] Japan issues
        evacuation advisory for
        Okinawa areas after
        earthquake, tsunami
-   5. Who was the last
-       successful driver who
-       was gleefully not fit?
+   4. [OT] Mahaveer
+       Raghunathan named in
+       Aston Martin Driver
+       Academy roster
+   5. [Formula 1] Some
+       iconic looks from Japan
+       over the years, ahead of
+       the driver arrivals
+       tomorrow.
 
 # Gaming
-   1. A new Matrix movie
+   1. ‘Off the Pilfered
+       Path’ quest walkthrough
+       in Dragon’s Dogma 2
+   2. Amazon’s deals on
+       Disney Lorcana could
+       tempt even Scrooge
+       McDuck
+   3. Zelda: Tears of
+       the Kingdom is Uniqlo’s
+       next video game collab
+   4. A new Matrix movie
        is coming from the
        director of Cabin in the
        Woods
-   2. The must-watch
+   5. The must-watch
        anime to look out for in
        spring 2024
-   3. 3 Body Problem’s
-       VR tech got a big
-       glow-up from the books
-   4. In 8 years,
-       Stardew Valley never
-       lost sight of its core
-       philosophy
-   5. You can finally
-       play the real Suika Game
-       on iOS
 
 # HackerNews
-   1. Tips for Linking
-       Shell Companies to Their
-       Secret Owners
-   2. The ancient world
+   1. Tips for linking
+       shell companies to their
+       secret owners
+   2. MOnSter 6502: a
+       working transistor-scale
+       replica of the classic
+       MOS 6502
+   3. Tonal.js:
+       Functional music theory
+       lib
+   4. Pitcairn Island
+       Immigration
+   5. Subroutine calls
+       in the ancient world,
        before computers had
        stacks or heaps
-   3. Jpegli: A New JPEG
-       Coding Library
-   4. The Texas
-       Triangle: A rising
-       megaregion unlike all
-       others
-   5. Improvements to
-       static analysis in GCC
-       14
 
 # NL
-   1. The mid vid pivot
+   1. You have to be zen
+       about this one (A
+       Difficult Game About
+       Climbing)
+   2. The mid vid pivot
        (Balatro)
-   2. for the gamers
+   3. for the gamers
        #shorts #gaming
-   3. We will get them
+   4. We will get them
        next time (A Difficult
        Game About Climbing)
-   4. Is Fortune Teller
+   5. Is Fortune Teller
        the best common joker?
        (Balatro)
-   5. people can
-       change...but not you
-       #gaming #shorts
 
 # Slovakia
    1. News digest: Polls
@@ -108,26 +113,28 @@ Weather: 6° - 6°
        a nightmare
 
 # Space
-   1. The world's
+   1. NASA's Curiosity
+       Mars rover begins
+       exploring possible
+       dried-up Red Planet
+       river
+   2. NASA picks 3
+       companies to design
+       lunar rover for Artemis
+       astronauts to drive on
+       the moon
+   3. 'Star Trek's'
+       Sonequa Martin-Green
+       says goodbye to
+       'Discovery' (exclusive
+       interview excerpt)
+   4. James Webb Space
+       Telescope gets to the
+       heart of a smoking
+       starburst galaxy
+       (images)
+   5. The world's
        largest digital camera
        is ready to investigate
        the dark universe
-   2. Mysterious object
-       that crashed through
-       Florida home was likely
-       space junk from the
-       International Space
-       Station
-   3. Thousands of
-       strange white rocks
-       found on Mars. Will they
-       ever be brought to
-       Earth?
-   4. Last minute solar
-       eclipse deal: Celestron
-       solar telescope now $30
-       off
-   5. Why I’m staying
-       home for the April 8
-       solar eclipse
 
