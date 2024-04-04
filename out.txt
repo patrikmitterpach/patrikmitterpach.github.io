@@ -2,25 +2,19 @@
 Thursday, April 04
 Weather: 6° - 6°
 
-	He who fears death will
-     never act as becomes a
-     living man: but he who knows
-     that this fate was laid upon
-     him as soon as he was
-     conceived will live
-     according to it, and by this
-     strength of mind will gain
-     this further advantage, that
-     nothing can befall him
-     unexpectedl(1).
+	The ancients bade us
+     lead the highest, not the
+     most pleasant life, in order
+     that pleasure might not be
+     the guide but the companion
+     of a right-thinking and
+     honourable mind;
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Guenther Steiner
-       has joined Instagram
-   2. [Chris Medland]
+   1. [Chris Medland]
        Russell says he bumped
        into Alonso in a coffee
        shop in Monaco after the
@@ -28,7 +22,14 @@ Weather: 6° - 6°
        Verstappen jokes: “Did
        you brake test him
        there?!”
-   3. [Will Buxton]
+   2. Guenther Steiner
+       has joined Instagram
+   3. Japanese fans
+       never fail
+   4. [@oscarpiastri]
+       @alpinef1team had my
+       permission for this post
+   5. [Will Buxton]
        Sargeant confirms he
        won’t be driving his
        original car and will
@@ -41,99 +42,98 @@ Weather: 6° - 6°
        that as fix went better
        than expected. No spare
        until Miami.
-   4. Japanese fans
-       never fail
-   5. [@oscarpiastri]
-       @alpinef1team had my
-       permission for this post
 
 # Gaming
-   1. Not sure what
-       movie to watch this
-       weekend? Leave a
-       comment, we’ll help
-   2. Fallout 76 will be
-       free when the Fallout TV
-       show debuts through
-       Amazon Prime
-   3. The best TV of
-       2024 so far
-   4. Forget the
-       watering can — your best
-       Stardew Valley tool is a
-       guidebook
-   5. Star Trek:
-       Discovery is cracking
-       open a box Next Gen
-       closed on purpose
+   1. The Baby Assassins
+       movies revive the dying
+       art of action comedy
+   2. The Dreamcast’s
+       most obscure revival
+       breaks free from VR jail
+   3. Star Wars:
+       Unlimited’s sophomore
+       set delivers with Mando,
+       Dr. Aphra, and Cad Bane
+   4. A hit Bob Marley
+       movie, Sundance,
+       Oscars... How does a
+       big-time director
+       challenge himself?
+   5. Pokémon Go
+       ‘Sizable Surprises’
+       event, Collection
+       Challenge guide
 
 # HackerNews
-   1. Anatomy of a
+   1. HTTP/2
+       Continuation Flood:
+       Technical Details
+   2. Anatomy of a
        credit card rewards
        program
-   2. Kobold letters:
-       Why HTML emails are a
-       risk to your
-       organization
-   3. A podcast about
-       the xz backdoor with the
-       guy who found it
-   4. SableDb – a
-       key/value store that
-       uses RocksDB and Redis
-       API (written in Rust)
-   5. Browse Self-Hosted
-       Software
+   3. Homemade 6 GHz
+       pulse compression radar
+   4. The Design
+       Philosophy of Great
+       Tables (Python)
+   5. The Great American
+       Rail-Trail
 
 # NL
-   1. The doctors used
+   1. It's good to be
+       back (Miscellaneous)
+   2. Don't talk to me
+       about Orange Stake
+       (Balatro)
+   3. The doctors used
        to bring the heat
        #shorts #gaming
-   2. You have to be zen
+   4. You have to be zen
        about this one (A
        Difficult Game About
        Climbing)
-   3. The mid vid pivot
+   5. The mid vid pivot
        (Balatro)
-   4. for the gamers
-       #shorts #gaming
-   5. We will get them
-       next time (A Difficult
-       Game About Climbing)
 
 # Slovakia
-   1. 3 things to do in
+   1. Foodora exits
+       Slovakia
+   2. Košice airport
+       offers flights to
+       Switzerland and Croatia
+   3. PM Fico threatens
+       Supreme Court judges
+       with disciplinary action
+   4. 3 things to do in
        Bratislava for free in
        the next seven days
-   2. Castle in
+   5. Castle in
        mountains has its own
        wailing wall
-   3. Government targets
-       speedier construction of
-       strategic investments
-   4. News digest: Polls
-       point to tight election
-   5. Opposition party
-       wants law change so both
-       spouses, children, can
-       have joint surnames
 
 # Space
-   1. NASA's James Webb
-       Space Telescope mission
-       — Live updates
-   2. What time is the
-       total solar eclipse on
-       April 8?
-   3. Western US
-       residents report the
-       most UFO sightings —
-       what are they actually
-       seeing?
-   4. DJI Mini 4 Pro
-       review
-   5. These 15 solar
-       eclipse beers were
-       brewed to sip in the
-       path of totality
+   1. Blue Origin will
+       launch Ed Dwight, the
+       1st-ever Black astronaut
+       candidate, to space on
+       next New Shepard rocket
+       flight
+   2. NASA will launch
+       rockets into the total
+       solar eclipse on April 8
+   3. I screwed up and
+       missed the solar eclipse
+       in 2017. I won't make
+       that same mistake next
+       week.
+   4. Colors will look
+       different during the
+       April 8 solar eclipse.
+       Here's why
+   5. 'Star Trek:
+       Discovery' season 5
+       episode 2 sows the seeds
+       of seasonal plot threads
+       (Under the Twin Moons
+       recap)
 
