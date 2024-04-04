@@ -1,20 +1,24 @@
 -- Daily Times --
-Thursday, April 04
+Friday, April 05
 Weather: 6° - 6°
 
-	The ancients bade us
-     lead the highest, not the
-     most pleasant life, in order
-     that pleasure might not be
-     the guide but the companion
-     of a right-thinking and
-     honourable mind;
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Chris Medland]
+   1. Japanese fans
+       never fail
+   2. [@oscarpiastri]
+       @alpinef1team had my
+       permission for this post
+   3. [Chris Medland]
        Russell says he bumped
        into Alonso in a coffee
        shop in Monaco after the
@@ -22,13 +26,8 @@ Weather: 6° - 6°
        Verstappen jokes: “Did
        you brake test him
        there?!”
-   2. Guenther Steiner
+   4. Guenther Steiner
        has joined Instagram
-   3. Japanese fans
-       never fail
-   4. [@oscarpiastri]
-       @alpinef1team had my
-       permission for this post
    5. [Will Buxton]
        Sargeant confirms he
        won’t be driving his
@@ -44,96 +43,96 @@ Weather: 6° - 6°
        until Miami.
 
 # Gaming
-   1. The Baby Assassins
-       movies revive the dying
-       art of action comedy
-   2. The Dreamcast’s
-       most obscure revival
-       breaks free from VR jail
-   3. Star Wars:
-       Unlimited’s sophomore
-       set delivers with Mando,
-       Dr. Aphra, and Cad Bane
-   4. A hit Bob Marley
-       movie, Sundance,
-       Oscars... How does a
-       big-time director
-       challenge himself?
-   5. Pokémon Go
-       ‘Sizable Surprises’
-       event, Collection
-       Challenge guide
+   1. How to finish the
+       Unmoored World endgame
+       in Dragon’s Dogma 2
+   2. Who is subjecting
+       us to these things, and
+       why do they hate
+       popcorn?
+   3. How to get high
+       quality Pal oil in
+       Palworld
+   4. How to do
+       Bellanoir raids in
+       Palworld
+   5. How to get and
+       farm ore in Palworld
 
 # HackerNews
-   1. HTTP/2
-       Continuation Flood:
-       Technical Details
-   2. Anatomy of a
+   1. The design
+       philosophy of Great
+       Tables
+   2. Mario meets
+       Pareto: multi-objective
+       optimization of Mario
+       Kart builds
+   3. Anatomy of a
        credit card rewards
        program
-   3. Homemade 6 GHz
-       pulse compression radar
-   4. The Design
-       Philosophy of Great
-       Tables (Python)
-   5. The Great American
-       Rail-Trail
+   4. Understanding and
+       managing the impact of
+       machine learning models
+       on the web
+   5. JetMoE: Reaching
+       LLaMA2 performance with
+       0.1M dollars
 
 # NL
-   1. It's good to be
-       back (Miscellaneous)
-   2. Don't talk to me
-       about Orange Stake
-       (Balatro)
-   3. The doctors used
-       to bring the heat
-       #shorts #gaming
-   4. You have to be zen
-       about this one (A
+   1. I wish I had 3
+       hands (Balatro)
+   2. We're so close (A
        Difficult Game About
        Climbing)
-   5. The mid vid pivot
+   3. It's good to be
+       back (Miscellaneous)
+   4. Don't talk to me
+       about Orange Stake
        (Balatro)
+   5. The doctors used
+       to bring the heat
+       #shorts #gaming
 
 # Slovakia
-   1. Foodora exits
+   1. News digest:
+       Blanár parties at NATO,
+       Fico lambasts the West
+       in Bratislava
+   2. Health Ministry
+       praises transgender care
+       guideline, but scraps it
+       in political trade-off
+   3. Foodora exits
        Slovakia
-   2. Košice airport
+   4. Košice airport
        offers flights to
        Switzerland and Croatia
-   3. PM Fico threatens
+   5. Fico threatens
        Supreme Court judges
        with disciplinary action
-   4. 3 things to do in
-       Bratislava for free in
-       the next seven days
-   5. Castle in
-       mountains has its own
-       wailing wall
 
 # Space
-   1. Blue Origin will
+   1. SpaceX moves Super
+       Heavy booster to pad
+       ahead of 4th Starship
+       flight (photos)
+   2. Ambitious new dark
+       matter-hunting
+       experiment delivers 1st
+       results
+   3. Largest 3D map of
+       our universe could hint
+       that dark energy evolves
+       with time
+   4. China putting
+       finishing touches on
+       seaside spaceport for
+       commercial launches
+       (video)
+   5. Blue Origin will
        launch Ed Dwight, the
        1st-ever Black astronaut
        candidate, to space on
        next New Shepard rocket
        flight
-   2. NASA will launch
-       rockets into the total
-       solar eclipse on April 8
-   3. I screwed up and
-       missed the solar eclipse
-       in 2017. I won't make
-       that same mistake next
-       week.
-   4. Colors will look
-       different during the
-       April 8 solar eclipse.
-       Here's why
-   5. 'Star Trek:
-       Discovery' season 5
-       episode 2 sows the seeds
-       of seasonal plot threads
-       (Under the Twin Moons
-       recap)
 
