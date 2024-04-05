@@ -2,30 +2,31 @@
 Friday, April 05
 Weather: 6° - 6°
 
-	One’s whole life must be
-     spent in learning how to
-     live, and, which may perhaps
-     surprise you more, one’s
-     whole life must be spent in
-     learning how to die.
+	You may, then, boldly
+     declare that the highest
+     good is singleness of mind:
+     for where agreement and
+     unity are, there must the
+     virtues b(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Japanese fans
-       never fail
-   2. [@oscarpiastri]
+   1. [@oscarpiastri]
        @alpinef1team had my
        permission for this post
-   3. Last year at the
+   2. Last year at the
        Japanese GP
-   4. Albert Fabrega |
-       Red Bull added cooling
-       scoops on the RB20
-       sidepods.
-   5. Canada looks ready
+   3. Formula 1 | Logan
+       Sargeant into the
+       barriers | "I'm sorry,
+       man" the Williams driver
+       says to his team
+   4. Canada looks ready
        for F1
+   5. Japanese fan
+       during FP1
 
 # Gaming
    1. How to finish the
@@ -46,20 +47,19 @@ Weather: 6° - 6°
 
 # HackerNews
    1. Mario meets Pareto
-   2. A first look at
-       Europe's alternative
-       iPhone app stores
-   3. The design
-       philosophy of Great
-       Tables
-   4. Plex Asks GitHub
-       to Take Down 'Reshare'
-       Repository over Piracy
-       Fears
-   5. Former University
-       of Iowa hospital
-       employee used fake
-       identity for 35 years
+   2. Language models as
+       compilers: Simulating
+       pseudocode execution
+   3. Tool Use (function
+       calling)
+   4. Understanding and
+       managing the impact of
+       machine learning models
+       on the web
+   5. Understanding
+       Childhood Trauma Can
+       Help Us Be More
+       Resilient
 
 # NL
    1. I wish I had 3
@@ -77,42 +77,46 @@ Weather: 6° - 6°
        #shorts #gaming
 
 # Slovakia
-   1. Top 10 events in
+   1. Scientist aims to
+       be first Slovak woman to
+       climb Everest
+   2. What can you get
+       for £5 in a Bratislava
+       shop? A British
+       influencer's video went
+       viral
+   3. Weekend: Concerts
+       to help you relax ahead
+       of elections
+   4. Top 10 events in
        Bratislava for
        foreigners
-   2. News digest:
+   5. News digest:
        Blanár parties at NATO,
        Fico lambasts the West
        in Bratislava
-   3. Health Ministry
-       praises transgender care
-       guideline, but scraps it
-       in political trade-off
-   4. Foodora exits
-       Slovakia
-   5. Košice airport
-       offers flights to
-       Switzerland and Croatia
 
 # Space
-   1. SpaceX launching
+   1. Top 5 items I
+       recommend to safely
+       observe the sun: Get
+       total solar eclipse
+       ready
+   2. How the supersonic
+       Concorde jet broke the
+       record for the longest
+       total solar eclipse in
+       history
+   3. SpaceX launching
        23 Starlink satellites
        from Florida this
        morning
-   2. Cannibal stars at
+   4. Cannibal stars at
        the heart of the Milky
        Way stay young in a
        gruesome way
-   3. SpaceX moves Super
+   5. SpaceX moves Super
        Heavy booster to pad
        ahead of 4th Starship
        flight (photos)
-   4. Ambitious new dark
-       matter-hunting
-       experiment delivers 1st
-       results
-   5. Largest 3D map of
-       our universe could hint
-       that dark energy evolves
-       with time
 
