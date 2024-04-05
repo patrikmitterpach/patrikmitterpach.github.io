@@ -2,12 +2,12 @@
 Friday, April 05
 Weather: 6° - 6°
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
+	One’s whole life must be
+     spent in learning how to
+     live, and, which may perhaps
+     surprise you more, one’s
+     whole life must be spent in
+     learning how to die.
                         ~ Seneca
 
 
@@ -18,29 +18,14 @@ Weather: 6° - 6°
    2. [@oscarpiastri]
        @alpinef1team had my
        permission for this post
-   3. [Chris Medland]
-       Russell says he bumped
-       into Alonso in a coffee
-       shop in Monaco after the
-       Australian Grand Prix.
-       Verstappen jokes: “Did
-       you brake test him
-       there?!”
-   4. Guenther Steiner
-       has joined Instagram
-   5. [Will Buxton]
-       Sargeant confirms he
-       won’t be driving his
-       original car and will
-       instead be using the
-       repaired Williams
-       chassis, formerly driven
-       by Albon, for this
-       weekend’s race. Doesn’t
-       foresee any issues with
-       that as fix went better
-       than expected. No spare
-       until Miami.
+   3. Last year at the
+       Japanese GP
+   4. Albert Fabrega |
+       Red Bull added cooling
+       scoops on the RB20
+       sidepods.
+   5. Canada looks ready
+       for F1
 
 # Gaming
    1. How to finish the
@@ -60,23 +45,21 @@ Weather: 6° - 6°
        farm ore in Palworld
 
 # HackerNews
-   1. The design
+   1. Mario meets Pareto
+   2. A first look at
+       Europe's alternative
+       iPhone app stores
+   3. The design
        philosophy of Great
        Tables
-   2. Mario meets
-       Pareto: multi-objective
-       optimization of Mario
-       Kart builds
-   3. Anatomy of a
-       credit card rewards
-       program
-   4. Understanding and
-       managing the impact of
-       machine learning models
-       on the web
-   5. JetMoE: Reaching
-       LLaMA2 performance with
-       0.1M dollars
+   4. Plex Asks GitHub
+       to Take Down 'Reshare'
+       Repository over Piracy
+       Fears
+   5. Former University
+       of Iowa hospital
+       employee used fake
+       identity for 35 years
 
 # NL
    1. I wish I had 3
@@ -94,45 +77,42 @@ Weather: 6° - 6°
        #shorts #gaming
 
 # Slovakia
-   1. News digest:
+   1. Top 10 events in
+       Bratislava for
+       foreigners
+   2. News digest:
        Blanár parties at NATO,
        Fico lambasts the West
        in Bratislava
-   2. Health Ministry
+   3. Health Ministry
        praises transgender care
        guideline, but scraps it
        in political trade-off
-   3. Foodora exits
+   4. Foodora exits
        Slovakia
-   4. Košice airport
+   5. Košice airport
        offers flights to
        Switzerland and Croatia
-   5. Fico threatens
-       Supreme Court judges
-       with disciplinary action
 
 # Space
-   1. SpaceX moves Super
+   1. SpaceX launching
+       23 Starlink satellites
+       from Florida this
+       morning
+   2. Cannibal stars at
+       the heart of the Milky
+       Way stay young in a
+       gruesome way
+   3. SpaceX moves Super
        Heavy booster to pad
        ahead of 4th Starship
        flight (photos)
-   2. Ambitious new dark
+   4. Ambitious new dark
        matter-hunting
        experiment delivers 1st
        results
-   3. Largest 3D map of
+   5. Largest 3D map of
        our universe could hint
        that dark energy evolves
        with time
-   4. China putting
-       finishing touches on
-       seaside spaceport for
-       commercial launches
-       (video)
-   5. Blue Origin will
-       launch Ed Dwight, the
-       1st-ever Black astronaut
-       candidate, to space on
-       next New Shepard rocket
-       flight
 
