@@ -2,10 +2,15 @@
 Saturday, April 06
 Weather: 6° - 6°
 
-	Riches, I say, are not a
-     good thing; for if they
-     were, they would make men
-     goo(1).
+	The philosopher may own
+     ample wealth, but will not
+     own wealth that which has
+     been torn from another, or
+     which is stained with
+     another’s blood: his must be
+     obtained without wronging
+     any man, and without its
+     being won by base means;
                         ~ Seneca
 
 
@@ -24,73 +29,75 @@ Weather: 6° - 6°
        them into Formula 1, it
        really has to go to a
        higher level”
-   2. Can someone
-       explain the display on
-       Bottas' steering wheel?
-   3. Sainz begging a
+   2. These radio
+       messages after quali
+       show where Max and Red
+       Bull are compared to
+       others
+   3. Alonso / Stroll
+       track dominance
+   4. Sainz begging a
        gate attendant to allow
        him to enter the paddock
        because he didn't have
        his pass (credit: Kym
        Illman)
-   4. Alonso / Stroll
-       track dominance
-   5. Aston Martin broke
-       the curfew last night.
-       No penalty.
+   5. 2024 Japanese
+       Grand Prix - Qualifying
+       Classification
 
 # Gaming
-   1. The best movies
+   1. Helldivers 2’s
+       comedy comes from
+       propaganda — that’s why
+       it’s so fun
+   2. Apple’s new doc
+       was shot at the perfect
+       time to be absolutely
+       infuriating
+   3. A list of stupid
+       names for the Switch 2
+   4. The best movies
        new to streaming this
        April
-   2. Wish, Netflix’s
+   5. Wish, Netflix’s
        Scoop, The Zone of
        Interest, and every new
        movie to watch this
        weekend
-   3. Best MORS loadout,
-       class build in Modern
-       Warfare 3
-   4. All riftstone
-       locations in Dragon’s
-       Dogma 2
-   5. Monkey Man sets up
-       Dev Patel as an action
-       star — and maybe the
-       anti-Bond
 
 # HackerNews
-   1. 503 days working
-       full-time on FOSS:
-       lessons learned
-   2. An Open Source
+   1. We've saved 98% in
+       cloud costs by writing
+       our own database
+   2. Chisel: A fast
+       TCP/UDP tunnel over HTTP
+   3. PiVPN v4.6.0: The
+       End
+   4. Language Models
+       Are Super Mario:
+       Absorbing Abilities from
+       Homologous Models
+   5. An Open Source
        Tool for Multimodal Fact
        Verification
-   3. NASA spacecraft
-       films crazy vortex while
-       flying through sun's
-       atmosphere
-   4. A History of
-       Source Control Systems:
-       SCCS and RCS
-   5. What I think about
-       when I edit (2019)
 
 # NL
-   1. we're eating the
+   1. May thy knife NOT
+       chip and shatter
+       (Balatro)
+   2. we're eating the
        lord's oranges #gaming
        #shorts
-   2. One in four
+   3. One in four
        chance, huh? (Balatro)
-   3. Progress is a
+   4. Progress is a
        state of mind (A
        Difficult Game About
        Climbing)
-   4. I thought this guy
+   5. I thought this guy
        knew games?
        (Miscellaneous)
-   5. The quest for e
-       (Balatro)
 
 # Slovakia
    1. Discover the
@@ -110,24 +117,24 @@ Weather: 6° - 6°
    5. Speaking clearly
 
 # Space
-   1. William Shatner is
+   1. I'm driving 6
+       hours through New York's
+       Adirondacks to see the
+       2024 total solar eclipse
+       from Potsdam. Here's
+       why.
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. This Week In Space
+       podcast: Episode 105 —
+       Apoc-eclipse 2024!
+   4. Total solar
+       eclipse 2024: Here's the
+       national weather
+       forecast for April 8
+   5. William Shatner is
        beaming in to see the
        2024 total solar eclipse
        from Indiana (video)
-   2. SpaceX fires up
-       huge Super Heavy booster
-       ahead of 4th Starship
-       test flight (photos,
-       video)
-   3. I'm headed to
-       Indiana to prove myself
-       wrong about solar
-       eclipses on April 8
-   4. Total solar
-       eclipse 2024: Live
-       updates
-   5. The April 8 solar
-       eclipse will bring weird
-       sights, sounds and
-       feelings
 
