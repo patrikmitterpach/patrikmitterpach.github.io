@@ -1,50 +1,58 @@
 -- Daily Times --
-Saturday, April 06
+Sunday, April 07
 Weather: 6° - 6°
 
-	The philosopher may own
-     ample wealth, but will not
-     own wealth that which has
-     been torn from another, or
-     which is stained with
-     another’s blood: his must be
-     obtained without wronging
-     any man, and without its
-     being won by base means;
+	Unless we are the most
+     ungrateful creatures in the
+     world, we shall regard these
+     noblest of men, the founders
+     of divine schools of
+     thought, as having been born
+     for us, and having prepared
+     life for us: we are led by
+     the labour of others to
+     behold most beautiful things
+     which have been brought out
+     of darkness into light: we
+     are not shut out from any
+     period, we can make our way
+     into every subject, and, if
+     only we can summon up
+     sufficient strength of mind
+     to overstep the narrow limit
+     of human weakness, we have a
+     vast extent of time wherein
+     to disport ourselves: we may
+     argue with Socrates, doubt
+     with Carneades, repose with
+     Epicurus, overcome human
+     nature with the Stoics,
+     exceed it with the Cynic(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Max Verstappen:
-       “It’s good that Formula
-       1 is now paying extra
-       attention to women in
-       motorsports with F1
-       Academy, although I
-       question how they are
-       doing it. The cars they
-       drive are far too slow.
-       If you ever want to get
-       them into Formula 1, it
-       really has to go to a
-       higher level”
-   2. These radio
+   1. These radio
        messages after quali
        show where Max and Red
        Bull are compared to
        others
-   3. Alonso / Stroll
+   2. Alonso / Stroll
        track dominance
-   4. Sainz begging a
+   3. Sainz begging a
        gate attendant to allow
        him to enter the paddock
        because he didn't have
        his pass (credit: Kym
        Illman)
-   5. 2024 Japanese
+   4. 2024 Japanese
        Grand Prix - Qualifying
        Classification
+   5. [@georgerussell63]
+       Qualifying was tough but
+       meeting this kid cheered
+       me up
 
 # Gaming
    1. Helldivers 2’s
@@ -67,54 +75,58 @@ Weather: 6° - 6°
        weekend
 
 # HackerNews
-   1. We've saved 98% in
-       cloud costs by writing
-       our own database
-   2. Chisel: A fast
+   1. Faces.js, a
+       JavaScript library for
+       generating vector-based
+       cartoon faces
+   2. Tridge Returns to
+       Rsync
+   3. What to do when an
+       airline website doesn't
+       accept your legal name
+   4. Chisel: A fast
        TCP/UDP tunnel over HTTP
-   3. PiVPN v4.6.0: The
-       End
-   4. Language Models
-       Are Super Mario:
-       Absorbing Abilities from
-       Homologous Models
-   5. An Open Source
-       Tool for Multimodal Fact
-       Verification
+   5. A Theory of
+       Composing Protocols
+       (2023)
 
 # NL
-   1. May thy knife NOT
-       chip and shatter
+   1. The hardest
+       challenge ever made
        (Balatro)
-   2. we're eating the
-       lord's oranges #gaming
-       #shorts
-   3. One in four
-       chance, huh? (Balatro)
-   4. Progress is a
-       state of mind (A
+   2. Wake up honey new
+       bullet heaven just
+       dropped (Pathfinder:
+       Gallowspire Survivors
+       #ad)
+   3. You can cut the
+       tension with a knife (A
        Difficult Game About
        Climbing)
-   5. I thought this guy
-       knew games?
+   4. I like to meander
        (Miscellaneous)
+   5. May thy knife NOT
+       chip and shatter
+       (Balatro)
 
 # Slovakia
-   1. Discover the
+   1. Peter Pellegrini
+       elected next Slovak
+       president
+   2. Discover the
        transformative power of
        friendship within the
        IWCB’s dynamic and
        inclusive community
-   2. The communist
+   3. The communist
        grocery store Zdroj
-   3. Korčok or
+   4. Korčok or
        Pellegrini? Slovakia
        votes for president in
        runoff election
-   4. News digest: For
+   5. News digest: For
        some, Slovakia sometimes
        feels like Africa
-   5. Speaking clearly
 
 # Space
    1. I'm driving 6
