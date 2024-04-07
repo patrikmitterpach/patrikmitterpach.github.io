@@ -2,136 +2,145 @@
 Sunday, April 07
 Weather: 6° - 6°
 
-	Public opinion is a weak
-     tyrant compared with our own
-     private opinion.
-           ~ Henry David Thoreau
+	To dodge the submerged
+     iceberg of industrial-scale
+     food production and its side
+     effects, to alter the course
+     of this country and
+     reinvigorate the economy,
+     all I need to do is make you
+     more interested in food. In
+     total, we need to make 20
+     million people more aware of
+     eating. This will lead to
+     changes, starting with
+     breakfast. Then the snowball
+     of consonant decisions takes
+     care of the rest. Stranger
+     things have happened.
+               ~ Timothy Ferriss
 
 
 -- News --
 # Formula1
-   1. These radio
-       messages after quali
-       show where Max and Red
-       Bull are compared to
-       others
-   2. [@georgerussell63]
-       Qualifying was tough but
-       meeting this kid cheered
-       me up
-   3. Perez radio
-       post-quali on a bet -
-       Horner: "You've cost me
-       a few today, great job",
-       Perez: "Now you see how
-       to motivate me",
-       Engineer: "Very nice of
-       you to share that with
-       me and Woody", Perez:
-       "Absolutely. And all the
-       boys"
-   4. MultiViewer's AI
-       not understanding
-       "weighbridge" during the
-       radios leads to some
-       funny results
-   5. "No pace in the
-       car and no pace in
-       myself" admits Stroll
-       after Q1 exit
+   1. Max and Penelope
+       hugging after he won the
+       Japanese GP
+   2. Yuki Tsunoda
+       scores a point at his
+       home race for the first
+       time
+   3. The cameraman knew
+       what he was doing (
+       @espnf1 IG )
+   4. [FD Media 2]
+       Alonso was asked by the
+       spanish press if he was
+       lifting to give Piastri
+       the DRS: "I don't want
+       to answer after
+       Australia because they
+       could disqualify me from
+       the rest of the season."
+   5. Formula 1 |
+       Wholesome. Content.
 
 # Gaming
-   1. The collector
+   1. Fallout: New Vegas
+       endures because of big
+       clunky story swings
+   2. The best limited
+       series to watch on
+       Netflix
+   3. Dragon’s Dogma 2
+       is all about the journey
+       — of figuring out how to
+       even play it
+   4. The collector
        scene that treats
        big-eyed dolls like
        custom gaming PCs
-   2. Helldivers 2’s
+   5. Helldivers 2’s
        comedy comes from
        propaganda — that’s why
        it’s so fun
-   3. Apple’s new doc
-       was shot at the perfect
-       time to be absolutely
-       infuriating
-   4. A list of stupid
-       names for the Switch 2
-   5. The best movies
-       new to streaming this
-       April
 
 # HackerNews
-   1. Is the frequency
-       domain a real place?
-   2. ElephantSQL Is
-       Shutting Down
-   3. WinBtrfs – an
-       open-source btrfs driver
-       for Windows
-   4. Faces.js, a
-       JavaScript library for
-       generating vector-based
-       cartoon faces
-   5. PM2: Production
-       Process Manager with a
-       Built-In Load Balancer
+   1. Mixture-of-Depths:
+       Dynamically allocating
+       compute in transformers
+   2. The lifecycle of a
+       code AI completion
+   3. Blog posts, sorted
+       by sleep
+   4. Did any processor
+       implement an integer
+       square root instruction?
+   5. Google Public
+       DNS's approach to fight
+       against cache poisoning
+       attacks
 
 # NL
-   1. The hardest
-       challenge ever made
+   1. I promise you,
+       this is the run
        (Balatro)
-   2. Wake up honey new
-       bullet heaven just
-       dropped (Pathfinder:
-       Gallowspire Survivors
-       #ad)
-   3. You can cut the
-       tension with a knife (A
+   2. We must conquer
+       the pacifier (A
        Difficult Game About
        Climbing)
-   4. I like to meander
+   3. Why can't I
+       remember this song?
        (Miscellaneous)
-   5. May thy knife NOT
-       chip and shatter
+   4. what if chad
+       kroeger was a cat
+       #shorts #gaming
+   5. The hardest
+       challenge ever made
        (Balatro)
 
 # Slovakia
-   1. Fico has also
+   1. How Pellegrini
+       turned fear, alleged
+       coup and lies into
+       presidential win in two
+       weeks
+   2. Foreign media:
+       Pellegrini's victory
+       will strengthen
+       pro-Russian voices in
+       Central Europe
+   3. Last Week: And
+       then they took the
+       Presidential Palace
+   4. Fico has also
        hijacked the
        Presidential Palace
-   2. Peter Pellegrini
+   5. Peter Pellegrini
        wins Slovak presidential
        election
-   3. Discover the
-       transformative power of
-       friendship within the
-       IWCB’s dynamic and
-       inclusive community
-   4. The communist
-       grocery store Zdroj
-   5. Korčok or
-       Pellegrini? Slovakia
-       votes for president in
-       runoff election
 
 # Space
-   1. I'm driving 6
-       hours through New York's
-       Adirondacks to see the
-       2024 total solar eclipse
-       from Potsdam. Here's
-       why.
-   2. Total solar
-       eclipse 2024: Live
-       updates
-   3. This Week In Space
-       podcast: Episode 105 —
-       Apoc-eclipse 2024!
-   4. Total solar
-       eclipse 2024: Here's the
-       national weather
-       forecast for April 8
-   5. William Shatner is
-       beaming in to see the
-       2024 total solar eclipse
-       from Indiana (video)
+   1. Maya nobility
+       performed bloodletting
+       sacrifices to strengthen
+       a 'dying' sun god during
+       solar eclipses
+   2. Coding the cosmos:
+       Building an app for the
+       total solar eclipse 2024
+       (op-ed)
+   3. SpaceX launching
+       11-satellite Bandwagon
+       rideshare mission
+       tonight (April 7)
+   4. My dogs and I
+       watched the 2017 total
+       solar eclipse, but we
+       won't travel for this
+       one
+   5. White House
+       directs NASA to create a
+       new time zone for the
+       moon
 
