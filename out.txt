@@ -2,33 +2,10 @@
 Sunday, April 07
 Weather: 6° - 6°
 
-	Unless we are the most
-     ungrateful creatures in the
-     world, we shall regard these
-     noblest of men, the founders
-     of divine schools of
-     thought, as having been born
-     for us, and having prepared
-     life for us: we are led by
-     the labour of others to
-     behold most beautiful things
-     which have been brought out
-     of darkness into light: we
-     are not shut out from any
-     period, we can make our way
-     into every subject, and, if
-     only we can summon up
-     sufficient strength of mind
-     to overstep the narrow limit
-     of human weakness, we have a
-     vast extent of time wherein
-     to disport ourselves: we may
-     argue with Socrates, doubt
-     with Carneades, repose with
-     Epicurus, overcome human
-     nature with the Stoics,
-     exceed it with the Cynic(1).
-                        ~ Seneca
+	Public opinion is a weak
+     tyrant compared with our own
+     private opinion.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -38,57 +15,65 @@ Weather: 6° - 6°
        show where Max and Red
        Bull are compared to
        others
-   2. Alonso / Stroll
-       track dominance
-   3. Sainz begging a
-       gate attendant to allow
-       him to enter the paddock
-       because he didn't have
-       his pass (credit: Kym
-       Illman)
-   4. 2024 Japanese
-       Grand Prix - Qualifying
-       Classification
-   5. [@georgerussell63]
+   2. [@georgerussell63]
        Qualifying was tough but
        meeting this kid cheered
        me up
+   3. Perez radio
+       post-quali on a bet -
+       Horner: "You've cost me
+       a few today, great job",
+       Perez: "Now you see how
+       to motivate me",
+       Engineer: "Very nice of
+       you to share that with
+       me and Woody", Perez:
+       "Absolutely. And all the
+       boys"
+   4. MultiViewer's AI
+       not understanding
+       "weighbridge" during the
+       radios leads to some
+       funny results
+   5. "No pace in the
+       car and no pace in
+       myself" admits Stroll
+       after Q1 exit
 
 # Gaming
-   1. Helldivers 2’s
+   1. The collector
+       scene that treats
+       big-eyed dolls like
+       custom gaming PCs
+   2. Helldivers 2’s
        comedy comes from
        propaganda — that’s why
        it’s so fun
-   2. Apple’s new doc
+   3. Apple’s new doc
        was shot at the perfect
        time to be absolutely
        infuriating
-   3. A list of stupid
+   4. A list of stupid
        names for the Switch 2
-   4. The best movies
+   5. The best movies
        new to streaming this
        April
-   5. Wish, Netflix’s
-       Scoop, The Zone of
-       Interest, and every new
-       movie to watch this
-       weekend
 
 # HackerNews
-   1. Faces.js, a
+   1. Is the frequency
+       domain a real place?
+   2. ElephantSQL Is
+       Shutting Down
+   3. WinBtrfs – an
+       open-source btrfs driver
+       for Windows
+   4. Faces.js, a
        JavaScript library for
        generating vector-based
        cartoon faces
-   2. Tridge Returns to
-       Rsync
-   3. What to do when an
-       airline website doesn't
-       accept your legal name
-   4. Chisel: A fast
-       TCP/UDP tunnel over HTTP
-   5. A Theory of
-       Composing Protocols
-       (2023)
+   5. PM2: Production
+       Process Manager with a
+       Built-In Load Balancer
 
 # NL
    1. The hardest
@@ -110,23 +95,23 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Peter Pellegrini
-       elected next Slovak
-       president
-   2. Discover the
+   1. Fico has also
+       hijacked the
+       Presidential Palace
+   2. Peter Pellegrini
+       wins Slovak presidential
+       election
+   3. Discover the
        transformative power of
        friendship within the
        IWCB’s dynamic and
        inclusive community
-   3. The communist
+   4. The communist
        grocery store Zdroj
-   4. Korčok or
+   5. Korčok or
        Pellegrini? Slovakia
        votes for president in
        runoff election
-   5. News digest: For
-       some, Slovakia sometimes
-       feels like Africa
 
 # Space
    1. I'm driving 6
