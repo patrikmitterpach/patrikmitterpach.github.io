@@ -2,121 +2,128 @@
 Tuesday, April 09
 Weather: 6° - 6°
 
-	The ancients bade us
-     lead the highest, not the
-     most pleasant life, in order
-     that pleasure might not be
-     the guide but the companion
-     of a right-thinking and
-     honourable mind;
+	The philosopher may own
+     ample wealth, but will not
+     own wealth that which has
+     been torn from another, or
+     which is stained with
+     another’s blood: his must be
+     obtained without wronging
+     any man, and without its
+     being won by base means;
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Mercedes F1 Team
-       on X(Twitter)
-   2. [Red Bull Racing
-       in reply to Mercedes via
-       IG] are you ok, hun?
-   3. Horner: Perez
-       ‘didn’t look like he had
-       three kids’ with Suzuka
-       F1 130R moves
-   4. [OT] Red Bull
+   1. Out of the 208
+       races since the start of
+       2014, just 3 have not
+       featured Red Bull or
+       Mercedes on the podium
+   2. [OT] Red Bull
        performed a stuntshow
        during the solar
        eclipse!
-   5. Three crashes in
-       two races taking an
-       "enormous" toll on
-       Williams - Vowles
+   3. Japanese GP had 48
+       Overtakes. Ocon
+       Overtaken 13 Times. Full
+       Data in Post.
+   4. Sergio Perez is
+       the only driver yet to
+       be overtaken this season
+       He’s also completed the
+       most overtakes this
+       season with 13 ( source
+       @espnf1 IG)
+   5. Scuderia Ferrari |
+       Charles Leclipse.
 
 # Gaming
-   1. What time does
-       Destiny 2: Into the
-       Light release?
-   2. Can Croagunk be
-       shiny in Pokémon Go?
-   3. FFXIV ocean
-       fishing beginner’s tips
-       and bait list
-   4. Dragon Dogma 2’s
-       cursed endgame is
-       nothing but dessert
-   5. Amazon and
-       Target’s buy 2, get 1
-       free sales include the
-       illustrated Lord of the
-       Rings, D&D, and more
+   1. EA enlists Dead
+       Space remake team to
+       work on next Battlefield
+       game
+   2. Helldivers 2 fans
+       are shaken by the sudden
+       return of Automatons
+   3. What you should
+       spend Tomestones of
+       Poetics on in FFXIV
+   4. Former Destiny
+       leads have a new studio
+       and a new game
+   5. Destiny 2’s Into
+       the Light update adds 12
+       all-timer weapons back
+       to the game
 
 # HackerNews
-   1. Show HN: I made a
-       discrete logic network
-       card
-   2. Sqlime: Online
-       SQLite Playground
-   3. Llm.c – LLM
-       training in simple, pure
-       C/CUDA
-   4. SSSL – Hackless
-       SSL bypass for the Wii U
-   5. How I Tripped Over
-       the Debian Weak Keys
-       Vulnerability
+   1. Intel Gaudi 3 AI
+       Accelerator
+   2. A MySQL compatible
+       database engine written
+       in pure Go
+   3. Cow Magnets
+   4. ScreenAI: A visual
+       LLM for UI and
+       visually-situated
+       language understanding
+   5. Beeper acquired by
+       Automattic
 
 # NL
-   1. The wheel tells no
+   1. The boss is
+       trolling me (Balatro)
+   2. The math ain't
+       mathing (Balatro)
+   3. The wheel tells no
        lies (Jackbox)
-   2. It's actually easy
+   4. It's actually easy
        (when you get the exact
        perfect jokers)
        (Balatro)
-   3. Diamonds are a
+   5. Diamonds are a
        lads best friend
        (Balatro)
-   4. they said it
-       couldn't be done #gaming
-       #shorts
-   5. I can't lie, I was
-       cooking (Jackbox)
 
 # Slovakia
-   1. Navigating the
+   1. Did Hungarians
+       fail Slovakia in the
+       presidential election?
+   2. Anti-Ukrainian
+       billboards pop up in
+       Slovakia
+   3. Fico needs new
+       enemy, says opposition
+       MP. Brussels may be it
+   4. The man whose job
+       is reconnecting families
+       torn apart by time
+   5. Navigating the
        future of work
-   2. Selection of
-       unusual real estate
-       Slovaks sell on
-       advertising websites
-   3. News digest: With
-       Pellegrini elected
-       president, he's giving
-       up several posts
-   4. Smokers and people
-       with sweet tooth to pay
-       more for their vices,
-       consolidation shows
-   5. Small-town feel
-       contributes to
-       Bratislava's reputation
-       of a boring city
 
 # Space
    1. Total solar
-       eclipse: When is the
-       next one in the US?
-   2. Total solar
        eclipse 2024: Live
        updates
-   3. Total solar
-       eclipse 2024 thrills
-       millions across North
-       America (video, photos)
-   4. Total solar
-       eclipse 2024 has begun
-       and here are the first
-       views!
-   5. Total solar
-       eclipse 2024: Pictures
-       from around the web
+   2. These solar
+       eclipse 2024 photos from
+       our readers are
+       absolutely amazing
+       (images, video)
+   3. I proposed to my
+       fiancée under the
+       diamond ring of the 2024
+       total solar eclipse.
+       (She said 'Yes!')
+   4. 'Heavy' history:
+       ULA launches final Delta
+       rocket after 64 years
+       (video, photos)
+   5. Astrobotic to
+       launch mini rover along
+       with NASA's ice-hunting
+       VIPER on next moon
+       mission
 
