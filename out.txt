@@ -1,146 +1,122 @@
 -- Daily Times --
-Sunday, April 07
+Tuesday, April 09
 Weather: 6° - 6°
 
-	To dodge the submerged
-     iceberg of industrial-scale
-     food production and its side
-     effects, to alter the course
-     of this country and
-     reinvigorate the economy,
-     all I need to do is make you
-     more interested in food. In
-     total, we need to make 20
-     million people more aware of
-     eating. This will lead to
-     changes, starting with
-     breakfast. Then the snowball
-     of consonant decisions takes
-     care of the rest. Stranger
-     things have happened.
-               ~ Timothy Ferriss
+	The ancients bade us
+     lead the highest, not the
+     most pleasant life, in order
+     that pleasure might not be
+     the guide but the companion
+     of a right-thinking and
+     honourable mind;
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Max and Penelope
-       hugging after he won the
-       Japanese GP
-   2. Yuki Tsunoda
-       scores a point at his
-       home race for the first
-       time
-   3. The cameraman knew
-       what he was doing (
-       @espnf1 IG )
-   4. [FD Media 2]
-       Alonso was asked by the
-       spanish press if he was
-       lifting to give Piastri
-       the DRS: "I don't want
-       to answer after
-       Australia because they
-       could disqualify me from
-       the rest of the season."
-   5. Formula 1 |
-       Wholesome. Content.
+   1. Mercedes F1 Team
+       on X(Twitter)
+   2. [Red Bull Racing
+       in reply to Mercedes via
+       IG] are you ok, hun?
+   3. Horner: Perez
+       ‘didn’t look like he had
+       three kids’ with Suzuka
+       F1 130R moves
+   4. [OT] Red Bull
+       performed a stuntshow
+       during the solar
+       eclipse!
+   5. Three crashes in
+       two races taking an
+       "enormous" toll on
+       Williams - Vowles
 
 # Gaming
-   1. Fallout: New Vegas
-       endures because of big
-       clunky story swings
-   2. The best limited
-       series to watch on
-       Netflix
-   3. Dragon’s Dogma 2
-       is all about the journey
-       — of figuring out how to
-       even play it
-   4. The collector
-       scene that treats
-       big-eyed dolls like
-       custom gaming PCs
-   5. Helldivers 2’s
-       comedy comes from
-       propaganda — that’s why
-       it’s so fun
+   1. What time does
+       Destiny 2: Into the
+       Light release?
+   2. Can Croagunk be
+       shiny in Pokémon Go?
+   3. FFXIV ocean
+       fishing beginner’s tips
+       and bait list
+   4. Dragon Dogma 2’s
+       cursed endgame is
+       nothing but dessert
+   5. Amazon and
+       Target’s buy 2, get 1
+       free sales include the
+       illustrated Lord of the
+       Rings, D&D, and more
 
 # HackerNews
-   1. Mixture-of-Depths:
-       Dynamically allocating
-       compute in transformers
-   2. The lifecycle of a
-       code AI completion
-   3. Blog posts, sorted
-       by sleep
-   4. Did any processor
-       implement an integer
-       square root instruction?
-   5. Google Public
-       DNS's approach to fight
-       against cache poisoning
-       attacks
+   1. Show HN: I made a
+       discrete logic network
+       card
+   2. Sqlime: Online
+       SQLite Playground
+   3. Llm.c – LLM
+       training in simple, pure
+       C/CUDA
+   4. SSSL – Hackless
+       SSL bypass for the Wii U
+   5. How I Tripped Over
+       the Debian Weak Keys
+       Vulnerability
 
 # NL
-   1. I promise you,
-       this is the run
+   1. The wheel tells no
+       lies (Jackbox)
+   2. It's actually easy
+       (when you get the exact
+       perfect jokers)
        (Balatro)
-   2. We must conquer
-       the pacifier (A
-       Difficult Game About
-       Climbing)
-   3. Why can't I
-       remember this song?
-       (Miscellaneous)
-   4. what if chad
-       kroeger was a cat
-       #shorts #gaming
-   5. The hardest
-       challenge ever made
+   3. Diamonds are a
+       lads best friend
        (Balatro)
+   4. they said it
+       couldn't be done #gaming
+       #shorts
+   5. I can't lie, I was
+       cooking (Jackbox)
 
 # Slovakia
-   1. How Pellegrini
-       turned fear, alleged
-       coup and lies into
-       presidential win in two
-       weeks
-   2. Foreign media:
-       Pellegrini's victory
-       will strengthen
-       pro-Russian voices in
-       Central Europe
-   3. Last Week: And
-       then they took the
-       Presidential Palace
-   4. Fico has also
-       hijacked the
-       Presidential Palace
-   5. Peter Pellegrini
-       wins Slovak presidential
-       election
+   1. Navigating the
+       future of work
+   2. Selection of
+       unusual real estate
+       Slovaks sell on
+       advertising websites
+   3. News digest: With
+       Pellegrini elected
+       president, he's giving
+       up several posts
+   4. Smokers and people
+       with sweet tooth to pay
+       more for their vices,
+       consolidation shows
+   5. Small-town feel
+       contributes to
+       Bratislava's reputation
+       of a boring city
 
 # Space
-   1. Maya nobility
-       performed bloodletting
-       sacrifices to strengthen
-       a 'dying' sun god during
-       solar eclipses
-   2. Coding the cosmos:
-       Building an app for the
-       total solar eclipse 2024
-       (op-ed)
-   3. SpaceX launching
-       11-satellite Bandwagon
-       rideshare mission
-       tonight (April 7)
-   4. My dogs and I
-       watched the 2017 total
-       solar eclipse, but we
-       won't travel for this
-       one
-   5. White House
-       directs NASA to create a
-       new time zone for the
-       moon
+   1. Total solar
+       eclipse: When is the
+       next one in the US?
+   2. Total solar
+       eclipse 2024: Live
+       updates
+   3. Total solar
+       eclipse 2024 thrills
+       millions across North
+       America (video, photos)
+   4. Total solar
+       eclipse 2024 has begun
+       and here are the first
+       views!
+   5. Total solar
+       eclipse 2024: Pictures
+       from around the web
 
