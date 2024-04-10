@@ -2,78 +2,92 @@
 Wednesday, April 10
 Weather: 6° - 6°
 
-	Consider in the first
-     place how many more poor
-     people there are than rich,
-     and yet you will not find
-     that they are sadder or more
-     anxious than the rich: nay,
-     I am not sure that they are
-     not happier, because they
-     have fewer things to
-     distract their minds.
+	Unless we are the most
+     ungrateful creatures in the
+     world, we shall regard these
+     noblest of men, the founders
+     of divine schools of
+     thought, as having been born
+     for us, and having prepared
+     life for us: we are led by
+     the labour of others to
+     behold most beautiful things
+     which have been brought out
+     of darkness into light: we
+     are not shut out from any
+     period, we can make our way
+     into every subject, and, if
+     only we can summon up
+     sufficient strength of mind
+     to overstep the narrow limit
+     of human weakness, we have a
+     vast extent of time wherein
+     to disport ourselves: we may
+     argue with Socrates, doubt
+     with Carneades, repose with
+     Epicurus, overcome human
+     nature with the Stoics,
+     exceed it with the Cynic(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Sergio Perez is
-       the only driver yet to
-       be overtaken this season
-       He’s also completed the
-       most overtakes this
-       season with 13 ( source
-       @espnf1 IG)
-   2. This cameraman
+   1. This cameraman
        also knew what he was
        doing
+   2. Hamilton and
+       Russell head-to-head
+       after four races.
    3. In their final
        joint campaign,
        Ferrari's Leclerc
        searches for form as
        Sainz hits his stride
-   4. Alonso: Japan was
-       “inside the top five”
-       best weekends of F1
-       career
-   5. 2023 vs 2024
-       Japanese GP Racepace
-       improvement. Remarkable
-       step forward by Ferrari
-       over the winter.
+   4. Tsunoda ‘at
+       Verstappen and Alonso’s
+       level’ with Suzuka
+       performance – Marko
+   5. Update from today
+       at Circuit
+       Gilles-Villeneuve (18°C)
 
 # Gaming
-   1. The Joker 2
+   1. Wish finally
+       revives the classic
+       Disney villain — but
+       he’s missing something
+       vital
+   2. What time does the
+       Avatar: Elements event
+       start in Fortnite?
+   3. The Fallout TV
+       series is more like a
+       great sequel to the
+       games than just an
+       adaptation
+   4. The Joker 2
        trailer introduces Lady
        Gaga’s Harley Quinn to
        the hallucinatory stage
-   2. How to finish ‘The
+   5. How to finish ‘The
        Whisper’ and get Whisper
        of the Worm in Destiny 2
-   3. EA enlists Dead
-       Space remake team to
-       work on next Battlefield
-       game
-   4. Helldivers 2 fans
-       are shaken by the sudden
-       return of Automatons
-   5. What you should
-       spend Tomestones of
-       Poetics on in FFXIV
 
 # HackerNews
-   1. Transformer as a
-       General Purpose Computer
-   2. British Placename
-       Mapper
-   3. GPT-4 Turbo with
-       Vision is a step
-       backwards for coding
-   4. Building reliable
-       systems out of
-       unreliable agents
-   5. How deep does life
-       go?
+   1. Double-Entry
+       Bookkeeping as a
+       Directed Graph
+   2. 2023 ACM Turing
+       Prize awarded to Avi
+       Wigderson
+   3. Show HN: Ads-B
+       Visualizer
+   4. Ways of Seeing:
+       Nicholson Baker learns
+       to draw
+   5. Intel's Ambitious
+       Meteor Lake iGPU
 
 # NL
    1. The boss is
@@ -91,42 +105,43 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. News digest: Govt
-       has a problem with the
-       cadastre, why?
-   2. Did Hungarians
-       fail Slovakia in the
-       presidential election?
-   3. Anti-Ukrainian
-       billboards pop up in
-       Slovakia
-   4. Fico needs new
-       enemy, says opposition
-       MP. Brussels may be it
-   5. The man whose job
-       is reconnecting families
-       torn apart by time
+   1. IBM to lay off
+       hundreds in Bratislava
+   2. Six interesting
+       facts from Saturday's
+       presidential election
+   3. Slovak Matters: I
+       don't eat skirts, and
+       other language mishaps
+   4. 10 projects that
+       are changing the face of
+       Bratislava
+   5. No other monument
+       in Bratislava like this,
+       its future uncertain
 
 # Space
-   1. Eclipse 2026: The
-       next total solar eclipse
-       will be Europe's 1st in
-       27 years
-   2. SpaceX launches 23
-       Starlink satellites in
-       nighttime liftoff
-       (photos)
-   3. Satellite views of
-       solar eclipse 2024: See
-       the moon's shadow race
-       across North America
-       (video, photos)
-   4. Total solar
-       eclipse 2024: Live
-       updates
-   5. These solar
-       eclipse 2024 photos from
-       our readers are
-       absolutely amazing
-       (images, video)
+   1. China moving at
+       'breathtaking speed' in
+       final frontier, Space
+       Force says
+   2. Astronauts' photos
+       capture April 8 solar
+       eclipse from Earth orbit
+   3. Thousands of
+       hidden meteorites could
+       be lost forever as they
+       sink in Antarctic ice,
+       taking their cosmic
+       secrets with them
+   4. We finally know
+       why NASA's Voyager 1
+       spacecraft stopped
+       communicating —
+       scientists are working
+       on a fix
+   5. Totality was a
+       total bust for me — but
+       not for the reason you
+       may think
 
