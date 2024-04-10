@@ -2,32 +2,12 @@
 Wednesday, April 10
 Weather: 6° - 6°
 
-	Unless we are the most
-     ungrateful creatures in the
-     world, we shall regard these
-     noblest of men, the founders
-     of divine schools of
-     thought, as having been born
-     for us, and having prepared
-     life for us: we are led by
-     the labour of others to
-     behold most beautiful things
-     which have been brought out
-     of darkness into light: we
-     are not shut out from any
-     period, we can make our way
-     into every subject, and, if
-     only we can summon up
-     sufficient strength of mind
-     to overstep the narrow limit
-     of human weakness, we have a
-     vast extent of time wherein
-     to disport ourselves: we may
-     argue with Socrates, doubt
-     with Carneades, repose with
-     Epicurus, overcome human
-     nature with the Stoics,
-     exceed it with the Cynic(1).
+	He is happy who in his
+     present circumstances,
+     whatever they may be, is
+     satisfied and on friendly
+     terms with the conditions of
+     his life.
                         ~ Seneca
 
 
@@ -39,109 +19,113 @@ Weather: 6° - 6°
    2. Hamilton and
        Russell head-to-head
        after four races.
-   3. In their final
-       joint campaign,
-       Ferrari's Leclerc
-       searches for form as
-       Sainz hits his stride
+   3. F1 actually tested
+       these graphics during
+       the Japanese GP
    4. Tsunoda ‘at
        Verstappen and Alonso’s
        level’ with Suzuka
        performance – Marko
-   5. Update from today
-       at Circuit
-       Gilles-Villeneuve (18°C)
+   5. [Andretti Global]
+       We are proud to announce
+       the opening of a new
+       facility at Silverstone
+       Park, UK. This new
+       48,000 square foot
+       building is an important
+       milestone for Andretti
+       Global, as we embark on
+       the next stage of our
+       preparations to enter
+       the FIA Formula One
+       World Championship.
 
 # Gaming
-   1. Wish finally
-       revives the classic
-       Disney villain — but
-       he’s missing something
-       vital
-   2. What time does the
-       Avatar: Elements event
-       start in Fortnite?
-   3. The Fallout TV
-       series is more like a
-       great sequel to the
-       games than just an
-       adaptation
-   4. The Joker 2
-       trailer introduces Lady
-       Gaga’s Harley Quinn to
-       the hallucinatory stage
-   5. How to finish ‘The
-       Whisper’ and get Whisper
-       of the Worm in Destiny 2
+   1. Mario Kart 8
+       Deluxe and its huge
+       Booster Course Pass are
+       cheaper than ever
+   2. 9 of the biggest
+       announcements from the
+       first Triple-i
+       Initiative showcase
+   3. Dead Cells team’s
+       new roguelike is ...
+       Prince of Persia,
+       actually
+   4. Palworld developer
+       teases the game’s
+       upcoming PvP mode
+   5. How to get Brave
+       weapons plus full
+       release schedule in
+       Destiny 2
 
 # HackerNews
-   1. Double-Entry
-       Bookkeeping as a
-       Directed Graph
-   2. 2023 ACM Turing
-       Prize awarded to Avi
-       Wigderson
-   3. Show HN: Ads-B
-       Visualizer
-   4. Ways of Seeing:
-       Nicholson Baker learns
-       to draw
-   5. Intel's Ambitious
-       Meteor Lake iGPU
+   1. Show HN: Sonauto –
+       a more controllable AI
+       music creator
+   2. Implementation of
+       Google's Griffin
+       Architecture – RNN LLM
+   3. Full forward pass
+       of GPT-2 in one file of
+       pure CUDA
+   4. Code Search Is
+       Hard
+   5. Double-entry
+       bookkeeping as a
+       directed graph
 
 # NL
-   1. The boss is
+   1. OK, FoodGuessr got
+       hands (Miscellaneous)
+   2. The boss is
        trolling me (Balatro)
-   2. The math ain't
+   3. The math ain't
        mathing (Balatro)
-   3. The wheel tells no
+   4. The wheel tells no
        lies (Jackbox)
-   4. It's actually easy
+   5. It's actually easy
        (when you get the exact
        perfect jokers)
        (Balatro)
-   5. Diamonds are a
-       lads best friend
-       (Balatro)
 
 # Slovakia
-   1. IBM to lay off
+   1. News digest:
+       Environment minister
+       dismisses heads of
+       departments, gives
+       little reason
+   2. IBM to lay off
        hundreds in Bratislava
-   2. Six interesting
+   3. Six interesting
        facts from Saturday's
        presidential election
-   3. Slovak Matters: I
+   4. Slovak Matters: I
        don't eat skirts, and
        other language mishaps
-   4. 10 projects that
+   5. 10 projects that
        are changing the face of
        Bratislava
-   5. No other monument
-       in Bratislava like this,
-       its future uncertain
 
 # Space
-   1. China moving at
+   1. Could these big
+       expandable habitats help
+       humanity settle the moon
+       and Mars?
+   2. US needs new space
+       tech or it 'will lose,'
+       Space Force chief says
+   3. What it was like
+       to chase totality in
+       South Texas
+   4. Prime Video's
+       'Fallout' launches into
+       the post-apocalyptic TV
+       frontier (video)
+   5. China moving at
        'breathtaking speed' in
        final frontier, Space
        Force says
-   2. Astronauts' photos
-       capture April 8 solar
-       eclipse from Earth orbit
-   3. Thousands of
-       hidden meteorites could
-       be lost forever as they
-       sink in Antarctic ice,
-       taking their cosmic
-       secrets with them
-   4. We finally know
-       why NASA's Voyager 1
-       spacecraft stopped
-       communicating —
-       scientists are working
-       on a fix
-   5. Totality was a
-       total bust for me — but
-       not for the reason you
-       may think
 
