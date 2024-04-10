@@ -1,16 +1,12 @@
 -- Daily Times --
-Tuesday, April 09
+Wednesday, April 10
 Weather: 6° - 6°
 
-	The philosopher may own
-     ample wealth, but will not
-     own wealth that which has
-     been torn from another, or
-     which is stained with
-     another’s blood: his must be
-     obtained without wronging
-     any man, and without its
-     being won by base means;
+	when his last day
+     arrives, the wise man will
+     not hang back, but will walk
+     with a steady step to meet
+     death.
                         ~ Seneca
 
 
@@ -21,56 +17,60 @@ Weather: 6° - 6°
        2014, just 3 have not
        featured Red Bull or
        Mercedes on the podium
-   2. [OT] Red Bull
-       performed a stuntshow
-       during the solar
-       eclipse!
-   3. Japanese GP had 48
-       Overtakes. Ocon
-       Overtaken 13 Times. Full
-       Data in Post.
-   4. Sergio Perez is
+   2. Sergio Perez is
        the only driver yet to
        be overtaken this season
        He’s also completed the
        most overtakes this
        season with 13 ( source
        @espnf1 IG)
-   5. Scuderia Ferrari |
+   3. Japanese GP had 48
+       Overtakes. Ocon
+       Overtaken 13 Times. Full
+       Data in Post.
+   4. Scuderia Ferrari |
        Charles Leclipse.
+   5. F1’s 2026 active
+       aero plan set for change
+       after alarming simulator
+       findings
 
 # Gaming
-   1. EA enlists Dead
+   1. The Joker 2
+       trailer introduces Lady
+       Gaga’s Harley Quinn to
+       the hallucinatory stage
+   2. How to finish ‘The
+       Whisper’ and get Whisper
+       of the Worm in Destiny 2
+   3. EA enlists Dead
        Space remake team to
        work on next Battlefield
        game
-   2. Helldivers 2 fans
+   4. Helldivers 2 fans
        are shaken by the sudden
        return of Automatons
-   3. What you should
+   5. What you should
        spend Tomestones of
        Poetics on in FFXIV
-   4. Former Destiny
-       leads have a new studio
-       and a new game
-   5. Destiny 2’s Into
-       the Light update adds 12
-       all-timer weapons back
-       to the game
 
 # HackerNews
-   1. Intel Gaudi 3 AI
-       Accelerator
+   1. Meta Used
+       Monolithic Architecture
+       to Ship Threads in Only
+       Five Months
    2. A MySQL compatible
        database engine written
        in pure Go
-   3. Cow Magnets
-   4. ScreenAI: A visual
-       LLM for UI and
-       visually-situated
-       language understanding
-   5. Beeper acquired by
-       Automattic
+   3. A 2-Axis,
+       Multihead Light
+       Positioner
+   4. Show HN: We built
+       PriceLevel to find out
+       what companies pay for
+       SaaS
+   5. Intel Gaudi 3 AI
+       Accelerator
 
 # NL
    1. The boss is
@@ -88,42 +88,43 @@ Weather: 6° - 6°
        (Balatro)
 
 # Slovakia
-   1. Did Hungarians
+   1. News digest: Govt
+       has a problem with the
+       cadastre, why?
+   2. Did Hungarians
        fail Slovakia in the
        presidential election?
-   2. Anti-Ukrainian
+   3. Anti-Ukrainian
        billboards pop up in
        Slovakia
-   3. Fico needs new
+   4. Fico needs new
        enemy, says opposition
        MP. Brussels may be it
-   4. The man whose job
+   5. The man whose job
        is reconnecting families
        torn apart by time
-   5. Navigating the
-       future of work
 
 # Space
-   1. Total solar
+   1. SpaceX launches 23
+       Starlink satellites in
+       nighttime liftoff
+       (photos)
+   2. Satellite views of
+       solar eclipse 2024: See
+       the moon's shadow race
+       across North America
+       (video, photos)
+   3. Total solar
        eclipse 2024: Live
        updates
-   2. These solar
+   4. These solar
        eclipse 2024 photos from
        our readers are
        absolutely amazing
        (images, video)
-   3. I proposed to my
+   5. I proposed to my
        fiancée under the
        diamond ring of the 2024
        total solar eclipse.
        (She said 'Yes!')
-   4. 'Heavy' history:
-       ULA launches final Delta
-       rocket after 64 years
-       (video, photos)
-   5. Astrobotic to
-       launch mini rover along
-       with NASA's ice-hunting
-       VIPER on next moon
-       mission
 
