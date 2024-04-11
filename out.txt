@@ -2,36 +2,45 @@
 Thursday, April 11
 Weather: 6° - 6°
 
-	Every cause depends upon
-     some earlier cause: one long
-     chain of destiny decides all
-     things, public or private.
+	Unless we are the most
+     ungrateful creatures in the
+     world, we shall regard these
+     noblest of men, the founders
+     of divine schools of
+     thought, as having been born
+     for us, and having prepared
+     life for us: we are led by
+     the labour of others to
+     behold most beautiful things
+     which have been brought out
+     of darkness into light: we
+     are not shut out from any
+     period, we can make our way
+     into every subject, and, if
+     only we can summon up
+     sufficient strength of mind
+     to overstep the narrow limit
+     of human weakness, we have a
+     vast extent of time wherein
+     to disport ourselves: we may
+     argue with Socrates, doubt
+     with Carneades, repose with
+     Epicurus, overcome human
+     nature with the Stoics,
+     exceed it with the Cynic(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. F1 actually tested
-       these graphics during
-       the Japanese GP
-   2. Gasly blocking
+   1. Gasly blocking
        Ronaldinho on today's
        PSG Champions League
        game
-   3. [Andretti Global]
-       We are proud to announce
-       the opening of a new
-       facility at Silverstone
-       Park, UK. This new
-       48,000 square foot
-       building is an important
-       milestone for Andretti
-       Global, as we embark on
-       the next stage of our
-       preparations to enter
-       the FIA Formula One
-       World Championship.
-   4. According to Craig
+   2. Aston Martin and
+       Fernando Alonso via
+       Instagram
+   3. According to Craig
        Slater, Andretti plans
        on having 1,100 staff
        working on F1. This
@@ -41,97 +50,102 @@ Weather: 6° - 6°
        with Mercedes, Red Bull
        and Ferrari for
        manpower.
-   5. Andretti planning
-       F2 and F3 entries to
-       promote US talent to F1
-       team
+   4. Aston Martin -
+       Press Release Statement
+   5. Verstappen not a
+       fan of F1's active aero
+       plans for 2026
 
 # Gaming
-   1. Fallout’s violence
-       and gore are part of its
-       charm
-   2. All the Fallout
-       season 2 news we’ve
-       heard so far
-   3. Five Nights at
-       Freddy 2 hitting the big
-       screen next year
-   4. Blizzard announces
-       a remix for one of World
-       of Warcraft’s best
-       expansions
-   5. How to dye your
-       gear in FFXIV
+   1. How to change your
+       vocation in Dragon’s
+       Dogma 2
+   2. Avatar: The Last
+       Airbender creators’
+       first movie finds its
+       Aang
+   3. Fallout’s glimpse
+       of the Enclave is just
+       the beginning
+   4. After Barbie
+       tackled the patriarchy,
+       Margot Robbie’s Monopoly
+       movie could take a shot
+       at capitalism next
+   5. Monarch: Legacy of
+       Monsters gets a season 2
+       (and a few spinoffs)
 
 # HackerNews
-   1. Roll-to-roll
-       fabricated perovskite
-       solar cells under
-       ambient room conditions
-   2. ESA Satellites to
-       Test Razor-Sharp
-       Formation Flying
-   3. AI-generated sad
-       girl with piano performs
-       the text of the MIT
-       License
-   4. Going in circles
-       without a real-time
-       clock
-   5. Aider: AI pair
-       programming in your
-       terminal
+   1. Show HN: I made a
+       new sensor out of 3D
+       printer filament for my
+       PhD
+   2. Quantum Algorithms
+       for Lattice Problems
+   3. Using ClickHouse
+       to scale an events
+       engine
+   4. Vortex: OpenCL
+       compatible RISC-V GPGPU
+   5. The simple beauty
+       of XOR floating point
+       compression
 
 # NL
-   1. These jokers are
+   1. Never doubt the
+       stuntman (Balatro)
+   2. I'll start with
+       the stuffed football
+       (Miscellaneous)
+   3. I fell for the
+       glasses yet again
+       (Balatro)
+   4. These jokers are
        on my permanent record
        (Balatro)
-   2. OK, FoodGuessr got
+   5. OK, FoodGuessr got
        hands (Miscellaneous)
-   3. The boss is
-       trolling me (Balatro)
-   4. The math ain't
-       mathing (Balatro)
-   5. The wheel tells no
-       lies (Jackbox)
 
 # Slovakia
-   1. 3 things to do in
+   1. Newcomers help,
+       low births don't.
+       Population decline in
+       Slovakia hasn't stopped
+   2. Romanian coffee
+       chain announces big
+       plans in Slovakia
+   3. Muráň to help
+       famous ground squirrels
+       with train
+   4. 3 things to do in
        Bratislava for free in
        the next seven days
-   2. Capital begins
+   5. Capital begins
        turning fountains back
        on
-   3. News digest:
-       Environment minister
-       dismisses heads of
-       departments, gives
-       little reason
-   4. IBM to lay off
-       hundreds in Bratislava
-   5. Six interesting
-       facts from Saturday's
-       presidential election
 
 # Space
-   1. Japanese
-       astronauts will join
-       NASA moon landings in
-       return for lunar rover
-   2. Why Peter Higgs
-       leaves a massive legacy
-       in the field of physics
-   3. See Jupiter close
-       to a crescent moon (Mars
-       near Saturn, too) in the
-       'View a Planet Day'
-       night sky
-   4. What happened when
-       the moon 'turned itself
-       inside out' billions of
-       years ago?
-   5. Could these big
-       expandable habitats help
-       humanity settle the moon
-       and Mars?
+   1. A NASA spacecraft
+       spotted something weird
+       orbiting the moon. It
+       was just a lunar
+       neighbor (photos)
+   2. Monster star gains
+       magnetic personality
+       following stellar merger
+   3. Car-sized asteroid
+       is giving Earth a
+       really, really close
+       shave. But don't worry.
+   4. 'Star Wars: Tales
+       of the Empire' sets
+       surprise May the 4th
+       debut on Disney Plus
+       (video)
+   5. Gravitational
+       waves reveal
+       1st-of-its-kind merger
+       between neutron star and
+       mystery object
 
