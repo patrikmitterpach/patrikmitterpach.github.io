@@ -1,96 +1,87 @@
 -- Daily Times --
-Thursday, April 11
+Friday, April 12
 Weather: 6° - 6°
 
-	Unless we are the most
-     ungrateful creatures in the
-     world, we shall regard these
-     noblest of men, the founders
-     of divine schools of
-     thought, as having been born
-     for us, and having prepared
-     life for us: we are led by
-     the labour of others to
-     behold most beautiful things
-     which have been brought out
-     of darkness into light: we
-     are not shut out from any
-     period, we can make our way
-     into every subject, and, if
-     only we can summon up
-     sufficient strength of mind
-     to overstep the narrow limit
-     of human weakness, we have a
-     vast extent of time wherein
-     to disport ourselves: we may
-     argue with Socrates, doubt
-     with Carneades, repose with
-     Epicurus, overcome human
-     nature with the Stoics,
-     exceed it with the Cynic(1).
+	Reflect, then, how much
+     less a grief it is never to
+     have had any money than to
+     have lost it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Gasly blocking
-       Ronaldinho on today's
-       PSG Champions League
-       game
+   1. Aston Martin -
+       Press Release Statement
    2. Aston Martin and
        Fernando Alonso via
        Instagram
-   3. According to Craig
-       Slater, Andretti plans
-       on having 1,100 staff
-       working on F1. This
-       would be around 3-4x
-       Haas' total head count
-       and put Andretti in line
-       with Mercedes, Red Bull
-       and Ferrari for
-       manpower.
-   4. Aston Martin -
-       Press Release Statement
-   5. Verstappen not a
-       fan of F1's active aero
-       plans for 2026
+   3. [F1] BREAKING:
+       Fernando Alonso re-signs
+       at Aston Martin The
+       two-time World Champion
+       has signed a deal to
+       remain at the
+       Silverstone-based outfit
+   4. [@natesaundersF1]
+       Big. Alonso staying with
+       Aston into 26. Likely
+       means Merc are going
+       with F2’s Kimi
+       Antonelli. Sainz to
+       Sauber looks most likely
+       for him now too.
+   5. [@lawrobarretto]
+       Alonso committing to
+       Aston Martin shuts one
+       door for Carlos Sainz.
+       Sources say that leaves
+       Williams and Sauber as
+       the two most likely
+       landing spots for him.
+       Unless Red Bull decide
+       they do want to partner
+       him with Max again
 
 # Gaming
-   1. How to change your
+   1. Deadpool &
+       Wolverine extended look
+       is a swear-filled
+       explanation of a
+       multiversal mission
+   2. Every Easter egg
+       in the Fallout show, in
+       which Easter eggs are
+       very cheeky
+   3. How to change your
        vocation in Dragon’s
        Dogma 2
-   2. Avatar: The Last
+   4. Avatar: The Last
        Airbender creators’
        first movie finds its
        Aang
-   3. Fallout’s glimpse
+   5. Fallout’s glimpse
        of the Enclave is just
        the beginning
-   4. After Barbie
-       tackled the patriarchy,
-       Margot Robbie’s Monopoly
-       movie could take a shot
-       at capitalism next
-   5. Monarch: Legacy of
-       Monsters gets a season 2
-       (and a few spinoffs)
 
 # HackerNews
-   1. Show HN: I made a
-       new sensor out of 3D
-       printer filament for my
-       PhD
-   2. Quantum Algorithms
-       for Lattice Problems
-   3. Using ClickHouse
-       to scale an events
-       engine
-   4. Vortex: OpenCL
-       compatible RISC-V GPGPU
-   5. The simple beauty
-       of XOR floating point
-       compression
+   1. An open source
+       initiative to share and
+       compare heat pump
+       performance data
+   2. Tinygrad: Hacked
+       4090 driver to enable
+       P2P
+   3. Webb – Space
+       Telescope Live. What Is
+       Webb Observing Now?
+   4. Organizing
+       OpenStreetMap Mapping
+       Parties
+   5. Fast, Declarative,
+       Reproduble and
+       Composable Developer
+       Environments Using Nix
 
 # NL
    1. Never doubt the
@@ -108,44 +99,39 @@ Weather: 6° - 6°
        hands (Miscellaneous)
 
 # Slovakia
-   1. Newcomers help,
+   1. How a Slovak
+       doctor helped a small
+       Kenyan hospital
+   2. Weekend:
+       Celebration of jazz,
+       wine and birds
+   3. Top 10 events in
+       Bratislava for
+       foreigners
+   4. News digest: For a
+       while, Fico was
+       pro-Ukraine
+   5. Newcomers help,
        low births don't.
        Population decline in
        Slovakia hasn't stopped
-   2. Romanian coffee
-       chain announces big
-       plans in Slovakia
-   3. Muráň to help
-       famous ground squirrels
-       with train
-   4. 3 things to do in
-       Bratislava for free in
-       the next seven days
-   5. Capital begins
-       turning fountains back
-       on
 
 # Space
-   1. A NASA spacecraft
+   1. DJI Avata 2 drone
+       review
+   2. Scientists
+       identify origin of the
+       'BOAT' — the brightest
+       cosmic blast of all time
+   3. My formal 2024
+       solar eclipse apology
+   4. Achoo! Baby star
+       'sneezes' tell
+       astronomers a lot about
+       their development
+   5. A NASA spacecraft
        spotted something weird
        orbiting the moon. It
        was just a lunar
        neighbor (photos)
-   2. Monster star gains
-       magnetic personality
-       following stellar merger
-   3. Car-sized asteroid
-       is giving Earth a
-       really, really close
-       shave. But don't worry.
-   4. 'Star Wars: Tales
-       of the Empire' sets
-       surprise May the 4th
-       debut on Disney Plus
-       (video)
-   5. Gravitational
-       waves reveal
-       1st-of-its-kind merger
-       between neutron star and
-       mystery object
 
