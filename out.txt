@@ -2,85 +2,98 @@
 Friday, April 12
 Weather: 6° - 6°
 
-	You may, then, boldly
-     declare that the highest
-     good is singleness of mind:
-     for where agreement and
-     unity are, there must the
-     virtues b(1).
+	Let us now pass on to
+     the consideration of
+     property, that most fertile
+     source of human sorrows: for
+     if you compare all the other
+     ills from which we
+     suffer—deaths, sicknesses,
+     fears, regrets, endurance of
+     pains and labours—with those
+     miseries which our money
+     inflicts upon us, the latter
+     will far outweigh all the
+     others. Reflect, then, how
+     much less a grief it is
+     never to have had any money
+     than to have lost i(1).
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Aston Martin -
-       Press Release Statement
-   2. Aston Martin and
-       Fernando Alonso via
-       Instagram
-   3. [F1] BREAKING:
-       Fernando Alonso re-signs
-       at Aston Martin The
-       two-time World Champion
-       has signed a deal to
-       remain at the
-       Silverstone-based outfit
-   4. [@natesaundersF1]
-       Big. Alonso staying with
-       Aston into 26. Likely
-       means Merc are going
-       with F2’s Kimi
-       Antonelli. Sainz to
-       Sauber looks most likely
-       for him now too.
-   5. [@lawrobarretto]
-       Alonso committing to
-       Aston Martin shuts one
-       door for Carlos Sainz.
-       Sources say that leaves
-       Williams and Sauber as
-       the two most likely
-       landing spots for him.
-       Unless Red Bull decide
-       they do want to partner
-       him with Max again
+   1. Took a punt on an
+       F1 Mystery Box
+   2. Zhou Guanyu's
+       helmet for 2024 Chinese
+       Grand Prix
+   3. [Mark Hughes] (In
+       response to a baseless
+       rumor that Hamilton,
+       Leclerc, and Alonso all
+       avoided Verstappen)
+       That’s just plain
+       untrue. Neither Leclerc,
+       Hamilton nor Alonso were
+       offered a place.
+       Hamilton and Alonso both
+       tried and were told no.
+   4. [Mark Hughes] (In
+       response to the rumor
+       about Alonso avoiding
+       Verstappen) No. Because
+       Alonso wasn’t offered
+       the drive. Norris was.
+       There is no place for
+       Alonso at Red Bull with
+       Max there.
+   5. Aston Martin F1
+       Team | "This is the
+       longest contract I ever
+       signed in my career.
+       Something that will keep
+       me linked with Aston
+       Martin for many years to
+       come."
 
 # Gaming
-   1. How to prepare for
-       Elden Ring’s Shadow of
-       the Erdtree DLC
-   2. Genshin Impact
-       version 4.6 livestream
-       codes
-   3. Fallout fans spent
-       years debating who
-       dropped the bombs — then
-       the show made a call
-   4. Stardew Valley 1.6
-       kicked up a mad dash for
-       modders, but they were
-       in good hands
-   5. Deadpool &
-       Wolverine extended look
-       is a swear-filled
-       explanation of a
-       multiversal mission
+   1. Everything Fallout
+       has revealed about the
+       NCR
+   2. Civil War ditches
+       present politics in
+       favor of gripping action
+       and emotion
+   3. Add the cast of
+       the Fallout show to your
+       next game of Wasteland
+       Warfare
+   4. Arcadian’s
+       shocking aliens can’t
+       fix its criminal Nicolas
+       Cage shortage
+   5. The official
+       Unpacking merch is too
+       cute — and meta
 
 # HackerNews
-   1. An open source
-       initiative to share and
-       compare heat pump
-       performance data
-   2. Tinygrad: Hacked
-       4090 driver to enable
-       P2P
-   3. Webb – Space
-       Telescope Live. What Is
-       Webb Observing Now?
-   4. How we built JSR
-   5. There’s a 30-year
-       old dead Rabbit in Seven
-       Sisters tube station
+   1. Ford's Battery
+       Flagship Socked by Mold
+       Sickness, Workers Say
+   2. Show HN: 5 Years
+       Ago I made the Recovery
+       Kit, I just made the RK2
+   3. I'm Peter Roberts,
+       immigration attorney who
+       does work for YC and
+       startups. AMA
+   4. Hacked Nvidia 4090
+       GPU driver to enable P2P
+   5. Show HN: A
+       JavaScript library for
+       data visualization in
+       both SVG and Canvas
 
 # NL
    1. Never doubt the
@@ -98,41 +111,45 @@ Weather: 6° - 6°
        hands (Miscellaneous)
 
 # Slovakia
-   1. Good-samaritan
+   1. News digest:
+       Playing in the Russian
+       KHL? No ice hockey World
+       Cup for you
+   2. Deputy minister's
+       unauthorised flight over
+       protected area sparks
+       debate
+   3. Good-samaritan
        cyclists help save rare
        owl in Slovak Paradise
-   2. Which Slovaks made
+   4. Which Slovaks made
        the ranking of the
        world's wealthiest
        people?
-   3. Pellegrini is a
+   5. Pellegrini is a
        farce of Trump
-   4. How a Slovak
-       doctor helped a small
-       Kenyan hospital
-   5. Weekend:
-       Celebration of jazz,
-       wine and birds
 
 # Space
-   1. SpaceX to launch a
-       Falcon 9 rocket first
-       stage for a record 20th
-       time tonight
-   2. No, you didn't see
-       a solar flare during the
-       total eclipse — but you
-       may have seen something
-       just as special
-   3. Fallout and the
-       Space Age: The
-       franchise's connections
-       and nods to the final
-       frontier
-   4. Sierra Space wants
-       to drop cargo from orbit
-       to anywhere on Earth in
-       90 minutes
-   5. DJI Avata 2 drone
-       review
+   1. Watch an exclusive
+       clip from the CNN'
+       'Space Shuttle Columbia:
+       The Final Flight' finale
+       (video)
+   2. 'Fly Me to the
+       Moon' trailer mixes
+       real-life Apollo history
+       with moon landing hoax
+   3. HALO Space unveils
+       capsule design for
+       stratospheric space
+       'glamping'
+   4. One of the
+       universe's most
+       'extreme' dead stars
+       just sprang back to life
+       unexpectedly
+   5. 'Space Shuttle
+       Columbia: The Final
+       Flight' documentary set
+       to conclude on CNN
 
