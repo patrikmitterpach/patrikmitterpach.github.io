@@ -2,10 +2,12 @@
 Friday, April 12
 Weather: 6° - 6°
 
-	Reflect, then, how much
-     less a grief it is never to
-     have had any money than to
-     have lost it.
+	You may, then, boldly
+     declare that the highest
+     good is singleness of mind:
+     for where agreement and
+     unity are, there must the
+     virtues b(1).
                         ~ Seneca
 
 
@@ -44,25 +46,25 @@ Weather: 6° - 6°
        him with Max again
 
 # Gaming
-   1. Deadpool &
+   1. How to prepare for
+       Elden Ring’s Shadow of
+       the Erdtree DLC
+   2. Genshin Impact
+       version 4.6 livestream
+       codes
+   3. Fallout fans spent
+       years debating who
+       dropped the bombs — then
+       the show made a call
+   4. Stardew Valley 1.6
+       kicked up a mad dash for
+       modders, but they were
+       in good hands
+   5. Deadpool &
        Wolverine extended look
        is a swear-filled
        explanation of a
        multiversal mission
-   2. Every Easter egg
-       in the Fallout show, in
-       which Easter eggs are
-       very cheeky
-   3. How to change your
-       vocation in Dragon’s
-       Dogma 2
-   4. Avatar: The Last
-       Airbender creators’
-       first movie finds its
-       Aang
-   5. Fallout’s glimpse
-       of the Enclave is just
-       the beginning
 
 # HackerNews
    1. An open source
@@ -75,13 +77,10 @@ Weather: 6° - 6°
    3. Webb – Space
        Telescope Live. What Is
        Webb Observing Now?
-   4. Organizing
-       OpenStreetMap Mapping
-       Parties
-   5. Fast, Declarative,
-       Reproduble and
-       Composable Developer
-       Environments Using Nix
+   4. How we built JSR
+   5. There’s a 30-year
+       old dead Rabbit in Seven
+       Sisters tube station
 
 # NL
    1. Never doubt the
@@ -99,39 +98,41 @@ Weather: 6° - 6°
        hands (Miscellaneous)
 
 # Slovakia
-   1. How a Slovak
+   1. Good-samaritan
+       cyclists help save rare
+       owl in Slovak Paradise
+   2. Which Slovaks made
+       the ranking of the
+       world's wealthiest
+       people?
+   3. Pellegrini is a
+       farce of Trump
+   4. How a Slovak
        doctor helped a small
        Kenyan hospital
-   2. Weekend:
+   5. Weekend:
        Celebration of jazz,
        wine and birds
-   3. Top 10 events in
-       Bratislava for
-       foreigners
-   4. News digest: For a
-       while, Fico was
-       pro-Ukraine
-   5. Newcomers help,
-       low births don't.
-       Population decline in
-       Slovakia hasn't stopped
 
 # Space
-   1. DJI Avata 2 drone
+   1. SpaceX to launch a
+       Falcon 9 rocket first
+       stage for a record 20th
+       time tonight
+   2. No, you didn't see
+       a solar flare during the
+       total eclipse — but you
+       may have seen something
+       just as special
+   3. Fallout and the
+       Space Age: The
+       franchise's connections
+       and nods to the final
+       frontier
+   4. Sierra Space wants
+       to drop cargo from orbit
+       to anywhere on Earth in
+       90 minutes
+   5. DJI Avata 2 drone
        review
-   2. Scientists
-       identify origin of the
-       'BOAT' — the brightest
-       cosmic blast of all time
-   3. My formal 2024
-       solar eclipse apology
-   4. Achoo! Baby star
-       'sneezes' tell
-       astronomers a lot about
-       their development
-   5. A NASA spacecraft
-       spotted something weird
-       orbiting the moon. It
-       was just a lunar
-       neighbor (photos)
 
