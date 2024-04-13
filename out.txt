@@ -1,155 +1,122 @@
 -- Daily Times --
-Friday, April 12
+Sunday, April 14
 Weather: 6° - 6°
 
-	Let us now pass on to
-     the consideration of
-     property, that most fertile
-     source of human sorrows: for
-     if you compare all the other
-     ills from which we
-     suffer—deaths, sicknesses,
-     fears, regrets, endurance of
-     pains and labours—with those
-     miseries which our money
-     inflicts upon us, the latter
-     will far outweigh all the
-     others. Reflect, then, how
-     much less a grief it is
-     never to have had any money
-     than to have lost i(1).
+	Zeno, the chief of our
+     school, when he heard the
+     news of a shipwreck, in
+     which all his property had
+     been lost, remarked,
+     “Fortune bids me follow
+     philosophy in lighter
+     marching order.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Took a punt on an
-       F1 Mystery Box
-   2. Zhou Guanyu's
-       helmet for 2024 Chinese
-       Grand Prix
-   3. [Mark Hughes] (In
-       response to a baseless
-       rumor that Hamilton,
-       Leclerc, and Alonso all
-       avoided Verstappen)
-       That’s just plain
-       untrue. Neither Leclerc,
-       Hamilton nor Alonso were
-       offered a place.
-       Hamilton and Alonso both
-       tried and were told no.
-   4. [Mark Hughes] (In
-       response to the rumor
-       about Alonso avoiding
-       Verstappen) No. Because
-       Alonso wasn’t offered
-       the drive. Norris was.
-       There is no place for
-       Alonso at Red Bull with
-       Max there.
-   5. Aston Martin F1
-       Team | "This is the
-       longest contract I ever
-       signed in my career.
-       Something that will keep
-       me linked with Aston
-       Martin for many years to
-       come."
+   1. The last time F1
+       raced in China...
+   2. Alonso wished Zhou
+       luck in Chinese ahead of
+       the latter's home debut.
+       "Good luck for the
+       weekend, my friend."
+   3. F1 Wins since the
+       last GP in China
+   4. Most overtakes in
+       2024 season so far | Ig:
+       f1.line
+   5. Where could
+       Alonso-Aston deal leave
+       Sainz in 2025 F1 market?
 
 # Gaming
-   1. Everything Fallout
-       has revealed about the
-       NCR
-   2. Civil War ditches
-       present politics in
-       favor of gripping action
-       and emotion
-   3. Add the cast of
-       the Fallout show to your
-       next game of Wasteland
-       Warfare
-   4. Arcadian’s
-       shocking aliens can’t
-       fix its criminal Nicolas
-       Cage shortage
-   5. The official
-       Unpacking merch is too
-       cute — and meta
+   1. The poo-stained
+       humanity of Sasquatch
+       Sunset
+   2. When does the
+       Frostpunk 2 beta start?
+   3. Fallout’s Vaults
+       have even crazier
+       experiments in the games
+   4. Target gift cards
+       are 10% off today only
+   5. The best thrillers
+       to watch on Netflix this
+       April
 
 # HackerNews
-   1. Ford's Battery
-       Flagship Socked by Mold
-       Sickness, Workers Say
-   2. Show HN: 5 Years
-       Ago I made the Recovery
-       Kit, I just made the RK2
-   3. I'm Peter Roberts,
-       immigration attorney who
-       does work for YC and
-       startups. AMA
-   4. Hacked Nvidia 4090
-       GPU driver to enable P2P
-   5. Show HN: A
-       JavaScript library for
-       data visualization in
-       both SVG and Canvas
+   1. Open Circuits Book
+   2. Beware of EuroDNS
+   3. Show HN: ZSV (Zip
+       Separated Values)
+       columnar data format
+   4. Tree-shaking, the
+       horticulturally
+       misguided algorithm
+       (2023)
+   5. The darker side of
+       being a doctor
 
 # NL
-   1. Never doubt the
-       stuntman (Balatro)
-   2. I'll start with
-       the stuffed football
+   1. The ultimate
+       lock-in challenge
+       (Balatro)
+   2. It's cold out here
+       for a detective (Shadows
+       of Doubt)
+   3. You can count on
+       this guy (Balatro)
+   4. I might be the
+       best detective in
+       history (Shadows of
+       Doubt #ad)
+   5. I was here
        (Miscellaneous)
-   3. I fell for the
-       glasses yet again
-       (Balatro)
-   4. These jokers are
-       on my permanent record
-       (Balatro)
-   5. OK, FoodGuessr got
-       hands (Miscellaneous)
 
 # Slovakia
-   1. News digest:
+   1. In Bratislava, a
+       ship-like art gallery on
+       the Danube gives you a
+       full-spectrum experience
+   2. News digest:
        Playing in the Russian
        KHL? No ice hockey World
        Cup for you
-   2. Deputy minister's
+   3. Deputy minister's
        unauthorised flight over
        protected area sparks
        debate
-   3. Good-samaritan
+   4. Good-samaritan
        cyclists help save rare
        owl in Slovak Paradise
-   4. Which Slovaks made
+   5. Which Slovaks made
        the ranking of the
        world's wealthiest
        people?
-   5. Pellegrini is a
-       farce of Trump
 
 # Space
-   1. Watch an exclusive
-       clip from the CNN'
-       'Space Shuttle Columbia:
-       The Final Flight' finale
-       (video)
-   2. 'Fly Me to the
-       Moon' trailer mixes
-       real-life Apollo history
-       with moon landing hoax
-   3. HALO Space unveils
-       capsule design for
-       stratospheric space
-       'glamping'
-   4. One of the
-       universe's most
-       'extreme' dead stars
-       just sprang back to life
-       unexpectedly
-   5. 'Space Shuttle
-       Columbia: The Final
-       Flight' documentary set
-       to conclude on CNN
+   1. This Week In Space
+       podcast: Episode 106 —
+       Space Potpourri!
+   2. Tiny black holes
+       left over from the Big
+       Bang may be prime dark
+       matter suspects
+   3. 'You could feel
+       the energy and wonder':
+       Despite clouds, totality
+       wows crowds during solar
+       eclipse in Syracuse
+   4. In a virtual
+       reality universe,
+       upcoming 'JUICE' mission
+       flies by Jupiter's moon
+       Callisto
+   5. Artemis 2 Orion
+       spacecraft starts
+       testing ahead of moon
+       mission with astronauts
+       in 2025 (video)
 
