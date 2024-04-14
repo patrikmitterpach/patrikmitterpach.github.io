@@ -2,14 +2,18 @@
 Sunday, April 14
 Weather: 6° - 6°
 
-	Zeno, the chief of our
-     school, when he heard the
-     news of a shipwreck, in
-     which all his property had
-     been lost, remarked,
-     “Fortune bids me follow
-     philosophy in lighter
-     marching order.”
+	Those men whom you
+     regard as fortunate, if you
+     could see, not their outward
+     show, but their hidden life,
+     are really unhappy, mean,
+     and base, ornamented on the
+     outside like the walls of
+     their houses: that good
+     fortune of theirs is not
+     sound and genuine: it is
+     only a veneer, and that a
+     thin one.
                         ~ Seneca
 
 
@@ -17,19 +21,19 @@ Weather: 6° - 6°
 # Formula1
    1. The last time F1
        raced in China...
-   2. Alonso wished Zhou
+   2. F1 Wins since the
+       last GP in China
+   3. Alonso wished Zhou
        luck in Chinese ahead of
        the latter's home debut.
        "Good luck for the
        weekend, my friend."
-   3. F1 Wins since the
-       last GP in China
    4. Most overtakes in
        2024 season so far | Ig:
        f1.line
-   5. Where could
-       Alonso-Aston deal leave
-       Sainz in 2025 F1 market?
+   5. F1 seeking 10-team
+       limit in new Concorde
+       Agreement – report
 
 # Gaming
    1. The poo-stained
@@ -47,17 +51,20 @@ Weather: 6° - 6°
        April
 
 # HackerNews
-   1. Open Circuits Book
-   2. Beware of EuroDNS
-   3. Show HN: ZSV (Zip
-       Separated Values)
-       columnar data format
-   4. Tree-shaking, the
+   1. Old CSS, new CSS
+       (2020)
+   2. The Arc
+       Product-Market Fit
+       Framework
+   3. Tree-shaking, the
        horticulturally
        misguided algorithm
        (2023)
-   5. The darker side of
+   4. The darker side of
        being a doctor
+   5. Super Mario 64's
+       invisible walls
+       explained [video]
 
 # NL
    1. The ultimate
@@ -90,11 +97,9 @@ Weather: 6° - 6°
        debate
    4. Good-samaritan
        cyclists help save rare
-       owl in Slovak Paradise
-   5. Which Slovaks made
-       the ranking of the
-       world's wealthiest
-       people?
+       Ural owl
+   5. Pellegrini is a
+       farce of Trump
 
 # Space
    1. This Week In Space
