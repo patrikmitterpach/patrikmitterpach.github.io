@@ -2,18 +2,22 @@
 Sunday, April 14
 Weather: 6° - 6°
 
-	Those men whom you
-     regard as fortunate, if you
-     could see, not their outward
-     show, but their hidden life,
-     are really unhappy, mean,
-     and base, ornamented on the
-     outside like the walls of
-     their houses: that good
-     fortune of theirs is not
-     sound and genuine: it is
-     only a veneer, and that a
-     thin one.
+	Let us now pass on to
+     the consideration of
+     property, that most fertile
+     source of human sorrows: for
+     if you compare all the other
+     ills from which we
+     suffer—deaths, sicknesses,
+     fears, regrets, endurance of
+     pains and labours—with those
+     miseries which our money
+     inflicts upon us, the latter
+     will far outweigh all the
+     others. Reflect, then, how
+     much less a grief it is
+     never to have had any money
+     than to have lost i(1).
                         ~ Seneca
 
 
@@ -31,9 +35,9 @@ Weather: 6° - 6°
    4. Most overtakes in
        2024 season so far | Ig:
        f1.line
-   5. F1 seeking 10-team
-       limit in new Concorde
-       Agreement – report
+   5. Zhou Guanyu's ads
+       are everywhere in
+       Shanghai now
 
 # Gaming
    1. The poo-stained
@@ -51,20 +55,18 @@ Weather: 6° - 6°
        April
 
 # HackerNews
-   1. Old CSS, new CSS
-       (2020)
-   2. The Arc
+   1. Obituary for a
+       Quiet Life
+   2. Show HN:
+       PostgreSQL index advisor
+   3. The Arc
        Product-Market Fit
        Framework
-   3. Tree-shaking, the
-       horticulturally
-       misguided algorithm
-       (2023)
-   4. The darker side of
-       being a doctor
-   5. Super Mario 64's
-       invisible walls
-       explained [video]
+   4. Wall Mounted Can
+       Organizer (2019)
+   5. Fast and secure
+       translation on your
+       local machine with a GUI
 
 # NL
    1. The ultimate
