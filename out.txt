@@ -2,23 +2,14 @@
 Sunday, April 14
 Weather: 6° - 6°
 
-	Let us now pass on to
-     the consideration of
-     property, that most fertile
-     source of human sorrows: for
-     if you compare all the other
-     ills from which we
-     suffer—deaths, sicknesses,
-     fears, regrets, endurance of
-     pains and labours—with those
-     miseries which our money
-     inflicts upon us, the latter
-     will far outweigh all the
-     others. Reflect, then, how
-     much less a grief it is
-     never to have had any money
-     than to have lost i(1).
-                        ~ Seneca
+	I have heard or
+     observed, the principal
+     object is, not that mankind
+     may be well and honestly
+     clad, but, unquestionably,
+     that corporations may be
+     enriched.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -32,12 +23,12 @@ Weather: 6° - 6°
        the latter's home debut.
        "Good luck for the
        weekend, my friend."
-   4. Most overtakes in
-       2024 season so far | Ig:
-       f1.line
-   5. Zhou Guanyu's ads
+   4. Zhou Guanyu's ads
        are everywhere in
        Shanghai now
+   5. Most overtakes in
+       2024 season so far | Ig:
+       f1.line
 
 # Gaming
    1. The poo-stained
@@ -55,18 +46,20 @@ Weather: 6° - 6°
        April
 
 # HackerNews
-   1. Obituary for a
+   1. Godot as an
+       Embeddable Game Engine
+   2. Obituary for a
        Quiet Life
-   2. Show HN:
+   3. Show HN: I made a
+       site that lets you make
+       interactive demos for
+       free
+   4. Show HN:
        PostgreSQL index advisor
-   3. The Arc
-       Product-Market Fit
-       Framework
-   4. Wall Mounted Can
-       Organizer (2019)
-   5. Fast and secure
-       translation on your
-       local machine with a GUI
+   5. Getting into way
+       too much detail with the
+       Z80 netlist simulation
+       (2021)
 
 # NL
    1. The ultimate
@@ -104,26 +97,24 @@ Weather: 6° - 6°
        farce of Trump
 
 # Space
-   1. This Week In Space
+   1. This little robot
+       can hop in zero-gravity
+       to explore asteroids
+   2. This Week In Space
        podcast: Episode 106 —
        Space Potpourri!
-   2. Tiny black holes
+   3. Tiny black holes
        left over from the Big
        Bang may be prime dark
        matter suspects
-   3. 'You could feel
+   4. 'You could feel
        the energy and wonder':
        Despite clouds, totality
        wows crowds during solar
        eclipse in Syracuse
-   4. In a virtual
+   5. In a virtual
        reality universe,
        upcoming 'JUICE' mission
        flies by Jupiter's moon
        Callisto
-   5. Artemis 2 Orion
-       spacecraft starts
-       testing ahead of moon
-       mission with astronauts
-       in 2025 (video)
 
