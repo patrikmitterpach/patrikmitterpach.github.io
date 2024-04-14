@@ -2,80 +2,85 @@
 Sunday, April 14
 Weather: 6° - 6°
 
-	While all excesses are
-     hurtful, excess of comfort
-     is the most hurtful of all;
-     it affects the brain; it
-     leads men’s minds into vain
-     imaginings; it spreads a
-     thick cloud over the
-     boundaries of truth and
-     falsehood.
+	You were born to die,
+     and a silent death is the
+     least wretched. Write
+     something therefore in a
+     simple style, merely to pass
+     the time, for your own use,
+     and not for publication.
+     Less labour is needed when
+     one does not look beyond the
+     present.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. F1 Wins since the
-       last GP in China
-   2. Lewis & George
+   1. Lewis & George
        Lucas at the GQ
        Creativity Awards
-   3. Zhou Guanyu's ads
+   2. Zhou Guanyu's ads
        are everywhere in
        Shanghai now
-   4. Most overtakes in
-       2024 season so far | Ig:
-       f1.line
-   5. Why dumping
+   3. Days Since Last
+       Grand Prix Win for
+       Current Drivers
+       (@Autosport)
+   4. Why dumping
        Steiner was the best
        decision for Haas
+   5. Newey: Monaco
+       example shows why F1
+       2026 will be a “strange
+       formula”
 
 # Gaming
-   1. Fallout’s final
+   1. Which Fallout
+       radio station reigns
+       supreme?
+   2. The best games
+       like Stardew Valley to
+       play right now
+   3. Fallout’s final
        scene hints at a more
        complicated universe
-   2. The poo-stained
+   4. The poo-stained
        humanity of Sasquatch
        Sunset
-   3. When does the
+   5. When does the
        Frostpunk 2 beta start?
-   4. Fallout’s Vaults
-       have even crazier
-       experiments in the games
-   5. Target gift cards
-       are 10% off today only
 
 # HackerNews
-   1. Obituary for a
-       Quiet Life
-   2. Show HN:
-       PostgreSQL index advisor
+   1. Hidden
+       dependencies in Linux
+       binaries
+   2. Obituary for a
+       quiet life (2023)
    3. The One Billion
        Row Challenge in CUDA
-   4. Getting into way
-       too much detail with the
-       Z80 netlist simulation
-       (2021)
-   5. Fast and secure
-       translation on your
-       local machine with a GUI
+   4. Algae that can fix
+       nitrogen – thanks to a
+       tiny cell structure
+   5. Interview with
+       Senior JavaScript
+       Developer 2024 [video]
 
 # NL
-   1. The ultimate
+   1. They hate my raps
+       (Jackbox)
+   2. Maybe I have a
+       career in photography
+       after this Shadows of
+       Doubt
+   3. The ultimate
        lock-in challenge
        (Balatro)
-   2. It's cold out here
+   4. It's cold out here
        for a detective (Shadows
        of Doubt)
-   3. You can count on
+   5. You can count on
        this guy (Balatro)
-   4. I might be the
-       best detective in
-       history (Shadows of
-       Doubt #ad)
-   5. I was here
-       (Miscellaneous)
 
 # Slovakia
    1. In Bratislava, a
@@ -97,24 +102,25 @@ Weather: 6° - 6°
        farce of Trump
 
 # Space
-   1. This little robot
+   1. Nuclear fusion
+       reactor in South Korea
+       runs at 100 million
+       degrees C for a
+       record-breaking 48
+       seconds
+   2. 1st female ISS
+       program manager looks
+       ahead to new spaceships,
+       space stations
+       (exclusive)
+   3. This little robot
        can hop in zero-gravity
        to explore asteroids
-   2. This Week In Space
+   4. This Week In Space
        podcast: Episode 106 —
        Space Potpourri!
-   3. Tiny black holes
+   5. Tiny black holes
        left over from the Big
        Bang may be prime dark
        matter suspects
-   4. 'You could feel
-       the energy and wonder':
-       Despite clouds, totality
-       wows crowds during solar
-       eclipse in Syracuse
-   5. In a virtual
-       reality universe,
-       upcoming 'JUICE' mission
-       flies by Jupiter's moon
-       Callisto
 
