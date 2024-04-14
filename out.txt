@@ -2,64 +2,64 @@
 Sunday, April 14
 Weather: 6° - 6°
 
-	I have heard or
-     observed, the principal
-     object is, not that mankind
-     may be well and honestly
-     clad, but, unquestionably,
-     that corporations may be
-     enriched.
-           ~ Henry David Thoreau
+	While all excesses are
+     hurtful, excess of comfort
+     is the most hurtful of all;
+     it affects the brain; it
+     leads men’s minds into vain
+     imaginings; it spreads a
+     thick cloud over the
+     boundaries of truth and
+     falsehood.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. The last time F1
-       raced in China...
-   2. F1 Wins since the
+   1. F1 Wins since the
        last GP in China
-   3. Alonso wished Zhou
-       luck in Chinese ahead of
-       the latter's home debut.
-       "Good luck for the
-       weekend, my friend."
-   4. Zhou Guanyu's ads
+   2. Lewis & George
+       Lucas at the GQ
+       Creativity Awards
+   3. Zhou Guanyu's ads
        are everywhere in
        Shanghai now
-   5. Most overtakes in
+   4. Most overtakes in
        2024 season so far | Ig:
        f1.line
+   5. Why dumping
+       Steiner was the best
+       decision for Haas
 
 # Gaming
-   1. The poo-stained
+   1. Fallout’s final
+       scene hints at a more
+       complicated universe
+   2. The poo-stained
        humanity of Sasquatch
        Sunset
-   2. When does the
+   3. When does the
        Frostpunk 2 beta start?
-   3. Fallout’s Vaults
+   4. Fallout’s Vaults
        have even crazier
        experiments in the games
-   4. Target gift cards
+   5. Target gift cards
        are 10% off today only
-   5. The best thrillers
-       to watch on Netflix this
-       April
 
 # HackerNews
-   1. Godot as an
-       Embeddable Game Engine
-   2. Obituary for a
+   1. Obituary for a
        Quiet Life
-   3. Show HN: I made a
-       site that lets you make
-       interactive demos for
-       free
-   4. Show HN:
+   2. Show HN:
        PostgreSQL index advisor
-   5. Getting into way
+   3. The One Billion
+       Row Challenge in CUDA
+   4. Getting into way
        too much detail with the
        Z80 netlist simulation
        (2021)
+   5. Fast and secure
+       translation on your
+       local machine with a GUI
 
 # NL
    1. The ultimate
