@@ -1,39 +1,41 @@
 -- Daily Times --
-Sunday, April 14
-Weather: 6° - 6°
+Monday, April 15
 
-	You were born to die,
-     and a silent death is the
-     least wretched. Write
-     something therefore in a
-     simple style, merely to pass
-     the time, for your own use,
-     and not for publication.
-     Less labour is needed when
-     one does not look beyond the
-     present.”
+	Often a man who is very
+     old in years has nothing
+     beyond his age by which he
+     can prove that he has lived
+     a long time.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lewis & George
-       Lucas at the GQ
-       Creativity Awards
-   2. Zhou Guanyu's ads
-       are everywhere in
-       Shanghai now
-   3. Days Since Last
-       Grand Prix Win for
-       Current Drivers
-       (@Autosport)
-   4. Why dumping
-       Steiner was the best
-       decision for Haas
-   5. Newey: Monaco
-       example shows why F1
-       2026 will be a “strange
-       formula”
+   1. Charles Leclerc at
+       Monte Carlo Masters
+       today
+   2. Andretti set for
+       "key meeting" as they
+       continue efforts to join
+       F1 grid in 2026
+   3. [Piergiuseppe
+       Donadoni] Surprise: The
+       Haas VF-24 rides better
+       on the track than in the
+       factory. It is the
+       effect of a ‘benign’
+       platform which, unlike
+       Mercedes, allows you to
+       extract more on the
+       track. First part of the
+       update in China, then
+       Imola
+   4. Shanghai Grand
+       Prix launches fan (Shan
+       Zi) for every team
+   5. Suzuka remains
+       keen to add Super
+       Formula to F1 Japan bill
 
 # Gaming
    1. Which Fallout
@@ -52,75 +54,79 @@ Weather: 6° - 6°
        Frostpunk 2 beta start?
 
 # HackerNews
-   1. Hidden
-       dependencies in Linux
-       binaries
-   2. Obituary for a
-       quiet life (2023)
-   3. The One Billion
-       Row Challenge in CUDA
-   4. Algae that can fix
-       nitrogen – thanks to a
-       tiny cell structure
-   5. Interview with
-       Senior JavaScript
-       Developer 2024 [video]
+   1. Python is Actually
+       Portable (2022)
+   2. The Tiny
+       Ultrabright Laser That
+       Can Melt Steel
+   3. Visualizing
+       Attention, a
+       Transformer's Heart
+       [video]
+   4. Beautifying Org
+       Mode in Emacs (2018)
+   5. Getting the Grid
+       to Net Zero
 
 # NL
-   1. They hate my raps
+   1. They didn't
+       respect the bus
+       (Balatro)
+   2. They hate my raps
        (Jackbox)
-   2. Maybe I have a
+   3. Maybe I have a
        career in photography
        after this Shadows of
        Doubt
-   3. The ultimate
+   4. The ultimate
        lock-in challenge
        (Balatro)
-   4. It's cold out here
+   5. It's cold out here
        for a detective (Shadows
        of Doubt)
-   5. You can count on
-       this guy (Balatro)
 
 # Slovakia
-   1. In Bratislava, a
+   1. Trying to revive
+       culture in Petržalka,
+       gallery returns to
+       terrace
+   2. Last Week: Fico
+       does right by Ukraine,
+       for once
+   3. In Bratislava, a
        ship-like art gallery on
        the Danube gives you a
        full-spectrum experience
-   2. News digest:
+   4. News digest:
        Playing in the Russian
        KHL? No ice hockey World
        Cup for you
-   3. Deputy minister's
+   5. Deputy minister's
        unauthorised flight over
        protected area sparks
        debate
-   4. Good-samaritan
-       cyclists help save rare
-       Ural owl
-   5. Pellegrini is a
-       farce of Trump
 
 # Space
-   1. Nuclear fusion
+   1. Why I watched the
+       solar eclipse with my
+       kids, a goose and 2,000
+       trees
+   2. Celestron
+       SkyMaster Pro 20x80
+       review
+   3. Rocket Lab to
+       launch NASA's new solar
+       sail technology no
+       earlier than April 24
+   4. Nuclear fusion
        reactor in South Korea
        runs at 100 million
        degrees C for a
        record-breaking 48
        seconds
-   2. 1st female ISS
+   5. 1st female ISS
        program manager looks
        ahead to new spaceships,
        space stations
        (exclusive)
-   3. This little robot
-       can hop in zero-gravity
-       to explore asteroids
-   4. This Week In Space
-       podcast: Episode 106 —
-       Space Potpourri!
-   5. Tiny black holes
-       left over from the Big
-       Bang may be prime dark
-       matter suspects
 
