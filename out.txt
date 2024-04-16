@@ -1,132 +1,111 @@
 -- Daily Times --
-Monday, April 15
+Tuesday, April 16
 
-	Often a man who is very
-     old in years has nothing
-     beyond his age by which he
-     can prove that he has lived
-     a long time.”
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Charles Leclerc at
-       Monte Carlo Masters
-       today
-   2. Andretti set for
-       "key meeting" as they
-       continue efforts to join
-       F1 grid in 2026
-   3. [Piergiuseppe
-       Donadoni] Surprise: The
-       Haas VF-24 rides better
-       on the track than in the
-       factory. It is the
-       effect of a ‘benign’
-       platform which, unlike
-       Mercedes, allows you to
-       extract more on the
-       track. First part of the
-       update in China, then
-       Imola
-   4. Shanghai Grand
-       Prix launches fan (Shan
-       Zi) for every team
-   5. Suzuka remains
-       keen to add Super
-       Formula to F1 Japan bill
+   1. Time when F1 drivers
+       went out for dinner in
+       China in 2016
+   2. Martin Brundle spoke
+       on how impressed he's been
+       with Sainz this season on
+       the Sky Sports F1 podcast
+   3. [@OscarPiastri] My
+       great great grandfather
+       was Chinese so I think
+       that makes this my 1/16
+       home race?
+   4. The podium, from the
+       last Chinese GP in 2019
+   5. Race Finish
+       Percentage Of Current
+       Drivers
 
 # Gaming
-   1. Which Fallout
-       radio station reigns
-       supreme?
-   2. The best games
-       like Stardew Valley to
-       play right now
-   3. Fallout’s final
-       scene hints at a more
-       complicated universe
-   4. The poo-stained
-       humanity of Sasquatch
-       Sunset
-   5. When does the
-       Frostpunk 2 beta start?
+   1. Can Wurmple be shiny
+       in Pokémon Go?
+   2. Can Weedle be shiny
+       in Pokémon Go?
+   3. Can Caterpie be
+       shiny in Pokémon Go?
+   4. Keanu Reeves to
+       voice Shadow in Sonic 3
+       movie, says report
+   5. Our favorite games
+       from the Steam FPS Fest
 
 # HackerNews
-   1. Python is Actually
-       Portable (2022)
-   2. The Tiny
-       Ultrabright Laser That
-       Can Melt Steel
-   3. Visualizing
-       Attention, a
-       Transformer's Heart
-       [video]
-   4. Beautifying Org
-       Mode in Emacs (2018)
-   5. Getting the Grid
-       to Net Zero
+   1. Descent 3 Source
+       Code
+   2. Thoughts on low
+       latency trading if
+       exchanges went full cloud
+   3. A curious phenomenon
+       called 'Etak'
+   4. Show HN: a Rust
+       based CLI tool 'imgcatr'
+       for displaying images
+   5. BTFS: BitTorrent
+       Filesystem
 
 # NL
-   1. They didn't
-       respect the bus
-       (Balatro)
-   2. They hate my raps
+   1. Dracula at the
+       buffet (Balatro)
+   2. The wheel is so back
        (Jackbox)
-   3. Maybe I have a
-       career in photography
-       after this Shadows of
-       Doubt
-   4. The ultimate
-       lock-in challenge
-       (Balatro)
-   5. It's cold out here
-       for a detective (Shadows
-       of Doubt)
+   3. I couldn't believe
+       it (Balatro)
+   4. They didn't respect
+       the bus (Balatro)
+   5. They hate my raps
+       (Jackbox)
 
 # Slovakia
-   1. Trying to revive
+   1. Refurbished old mill
+       offers glimpse into
+       distant past
+   2. News digest: Andrej
+       Danko as Speaker?
+       Pellegrini's Hlas does not
+       share PM's view
+   3. Layoffs continue,
+       possibly hundreds of AT&T
+       jobs may be at risk
+   4. Foreigners can vote
+       in EP election in
+       Slovakia, must submit
+       application first
+   5. Trying to revive
        culture in Petržalka,
-       gallery returns to
-       terrace
-   2. Last Week: Fico
-       does right by Ukraine,
-       for once
-   3. In Bratislava, a
-       ship-like art gallery on
-       the Danube gives you a
-       full-spectrum experience
-   4. News digest:
-       Playing in the Russian
-       KHL? No ice hockey World
-       Cup for you
-   5. Deputy minister's
-       unauthorised flight over
-       protected area sparks
-       debate
+       gallery returns to terrace
 
 # Space
-   1. Why I watched the
-       solar eclipse with my
-       kids, a goose and 2,000
-       trees
-   2. Celestron
-       SkyMaster Pro 20x80
-       review
-   3. Rocket Lab to
-       launch NASA's new solar
-       sail technology no
-       earlier than April 24
-   4. Nuclear fusion
-       reactor in South Korea
-       runs at 100 million
-       degrees C for a
-       record-breaking 48
-       seconds
-   5. 1st female ISS
-       program manager looks
-       ahead to new spaceships,
-       space stations
-       (exclusive)
+   1. Solar eclipse 2024:
+       Live updates
+   2. Record breaker!
+       Milky Way's most monstrous
+       stellar-mass black hole is
+       sleeping giant lurking
+       close to Earth
+   3. The 2024 solar
+       eclipse was a teachable
+       moment in more ways than
+       one
+   4. Iconic British
+       meteorite 'Winchcombe'
+       found to have a smashing
+       past
+   5. Object that slammed
+       into Florida home was
+       indeed space junk from
+       ISS, NASA confirms
 
