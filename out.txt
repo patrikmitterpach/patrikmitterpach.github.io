@@ -1,71 +1,69 @@
 -- Daily Times --
 Wednesday, April 17
 
-	Should Nature recall
-     what she previously
-     entrusted us with, let us
-     say to her also: ‘Take back
-     my spirit, which is better
-     than when you gave it me: I
-     do not shuffle or hang back.
-     Of my own free will I am
-     ready to return what you
-     gave me before I could
-     think: take me away.’
-                        ~ Seneca
+	the laboring man has not
+     leisure for a true integrity
+     day by day; he cannot afford
+     to sustain the manliest
+     relations to men; his labor
+     would be depreciated in the
+     market. He has no time to be
+     anything but a machine.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. [@lewishamilton]
-       Beautiful night, 감사합니다 서울
-   2. Bottas becomes the
+   1. Bottas becomes the
        first driver "racing" in
        Shanghai Circuit, but in
        bicycle
-   3. Alex Albon's helmet
-       for 2024 Chinese Grand
-       Prix
-   4. Valtteri Bottas
-       receives gift from fans at
-       the airport
-   5. The first four races
-       [OC]
+   2. Verstappen.com now
+       sells Red Bull, Haas,
+       McLaren and Pierre Gasly
+       merch
+   3. Most Overtaken
+       Drivers So Far This Season
+   4. Raikkonen encourages
+       Zhou in Zeekr official
+       Video（They are both brand
+       ambassadors of Zeekr）
+   5. George Russell's
+       helmet for 2024 Chinese
+       Grand Prix
 
 # Gaming
-   1. Who is Miquella in
-       Elden Ring anyway?
-   2. Get RollerCoaster
-       Tycoon classic on Steam
-       for just $5
-   3. Hades 2 is giving
-       fans their first chance to
-       get their hands on the
-       game
-   4. GameStop is having a
-       buy 2, get 1 free sale on
-       all pre-owned games
-       including new releases
-   5. The Elden Ring DLC
-       statuettes make a
-       pre-order extra tempting
+   1. My favorite anime:
+       Singer-songwriter Yaeji on
+       the shows she loves
+   2. Nintendo Indie
+       World: All the news,
+       trailers, and
+       announcements
+   3. Surreal puzzler
+       Lorelei and the Laser Eyes
+       announced for May release
+   4. Why is the X-Men
+       theme song so catchy? ‘It
+       just rips,’ say X-Men ’97
+       composers
+   5. Did Knuckles have an
+       OK time at the Knuckles
+       premiere? He looked
+       stressed
 
 # HackerNews
-   1. The Ballmer Peak: An
-       Empirical Search
-   2. Collection of
-       notebooks showcasing some
-       fun and effective ways of
-       using Claude
-   3. Show HN: Open Source
-       TailwindCSS UI Components
-   4. Humane AI – Pico
-       Laser Projection – $230M
-       AI Twist on an Old Scam
-       (2023)
-   5. Ten years of
-       improvements in
-       PostgreSQL's optimizer
+   1. Mixtral 8x22B
+   2. How many bathrooms
+       have Neanderthals in the
+       tile?
+   3. Future of Humanity
+       Institute shuts down
+   4. Solving the minimum
+       cut problem for undirected
+       graphs
+   5. An Electric New Era
+       for Atlas
 
 # NL
    1. That's why they call
@@ -80,43 +78,42 @@ Wednesday, April 17
        it (Balatro)
 
 # Slovakia
-   1. Ukrainian men
+   1. News digest: Members
+       of NGO government council
+       dismissed, no reason given
+   2. Eurobarometer: More
+       Slovaks than before
+       interested in EP elections
+   3. Bratislava City Days
+       allow you to experience
+       capital to the fullest
+   4. A guide to places
+       near Košice offering a
+       view of the High Tatras
+   5. Ukrainian men
        illegally cross
        Slovak-Ukrainian border to
        avoid war
-   2. Slovakia takes first
-       step to attract more
-       Finnish tourists
-   3. Town popular for its
-       palm tree launches handy
-       tour guide
-   4. “Countess” Rošková,
-       former Smer MP, convicted
-       of fraud
-   5. Judicial Council
-       president wanted time.
-       Instead, judges fired him
-       over alleged illegal
-       information collection
-       practice.
 
 # Space
-   1. SpaceX launching 23
+   1. James Webb Space
+       Telescope's 'shocking'
+       discovery may hint at
+       hidden exomoon around
+       'failed star'
+   2. 'I really like these
+       suits.' Boeing's snazzy
+       (and flexible) Starliner
+       spacesuits have astronauts
+       buzzing (exclusive)
+   3. Eyes hurt after the
+       eclipse? Signs of retinal
+       damage, explained
+   4. SETI chief says US
+       has no evidence for alien
+       technology. 'And we never
+       have'
+   5. SpaceX launching 23
        Starlink satellites from
        Florida this evening
-   2. What's left of the
-       2024 solar eclipse lives
-       in our hearts
-   3. Uranus and Neptune
-       aren't made of what we
-       thought, new study hints
-   4. Exotic 'Einstein
-       ring' suggests that
-       mysterious dark matter
-       interacts with itself
-   5. Boeing Starliner
-       spacecraft rolls out to
-       Atlas V rocket ahead of
-       1st astronaut launch
-       (photos)
 
