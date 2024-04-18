@@ -1,119 +1,119 @@
 -- Daily Times --
-Wednesday, April 17
+Thursday, April 18
 
-	the laboring man has not
-     leisure for a true integrity
-     day by day; he cannot afford
-     to sustain the manliest
-     relations to men; his labor
-     would be depreciated in the
-     market. He has no time to be
-     anything but a machine.
-           ~ Henry David Thoreau
+	The wise man will not be
+     angry with sinners. Why not?
+     Because he knows that no one
+     is born wise, but becomes
+     so.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Bottas becomes the
-       first driver "racing" in
-       Shanghai Circuit, but in
-       bicycle
-   2. Verstappen.com now
-       sells Red Bull, Haas,
-       McLaren and Pierre Gasly
-       merch
-   3. Most Overtaken
-       Drivers So Far This Season
-   4. Raikkonen encourages
-       Zhou in Zeekr official
-       Video（They are both brand
-       ambassadors of Zeekr）
-   5. George Russell's
-       helmet for 2024 Chinese
-       Grand Prix
+   1. Valtteri’s 1st love,
+       cycling.
+   2. F2 driver Andrea
+       Kimi Antonelli testing W12
+       at Red Bull Ring
+   3. Charles Leclerc's
+       SF-24 was chosen at random
+       for extra physical
+       inspections after the
+       Japanese GP, It passed.
+   4. Max Verstappen is
+       featured on Time
+       Magazine's The 100 Most
+       Influential People of 2024
+   5. F1 | Serra out of
+       Mercedes, preparing to
+       join Ferrari
 
 # Gaming
-   1. My favorite anime:
-       Singer-songwriter Yaeji on
-       the shows she loves
-   2. Nintendo Indie
-       World: All the news,
-       trailers, and
-       announcements
-   3. Surreal puzzler
-       Lorelei and the Laser Eyes
-       announced for May release
-   4. Why is the X-Men
-       theme song so catchy? ‘It
-       just rips,’ say X-Men ’97
-       composers
-   5. Did Knuckles have an
-       OK time at the Knuckles
-       premiere? He looked
-       stressed
+   1. Hades 2 gods somehow
+       even hotter than Hades
+       gods
+   2. Learn more about the
+       Inner Sphere than you ever
+       wanted to know with this
+       $30 Battletech bundle
+   3. Star Trek: Lower
+       Decks’ creator is turning
+       Sega’s Golden Axe into an
+       animated comedy
+   4. Why Warhammer 40K
+       fans were shocked by a
+       recent Custodes codex
+       reveal
+   5. The Homeworld 3
+       Collector’s Edition is an
+       epic tribute to a strategy
+       classic
 
 # HackerNews
-   1. Mixtral 8x22B
-   2. How many bathrooms
-       have Neanderthals in the
-       tile?
-   3. Future of Humanity
-       Institute shuts down
-   4. Solving the minimum
-       cut problem for undirected
-       graphs
-   5. An Electric New Era
-       for Atlas
+   1. Cosmic Desktop:
+       Hammering Out New Cosmic
+       Features
+   2. Short Stack: World’s
+       smallest Nintendo Wii
+   3. Feathers Are One of
+       Evolution's Cleverest
+       Inventions
+   4. Europe gives TikTok
+       24 hours to explain
+       'addictive and toxic' new
+       app
+   5. OpenBSD – Coming
+       soon to a -current system
+       near you: parallel raw IP
+       input
 
 # NL
-   1. That's why they call
-       me Mister Glass (Balatro)
-   2. We were due
+   1. Zoom zoom, we are
+       going to the moon
        (Balatro)
-   3. Dracula at the
-       buffet (Balatro)
-   4. The wheel is so back
-       (Jackbox)
-   5. I couldn't believe
-       it (Balatro)
+   2. I stand on that mini
+       (Miscellaneous)
+   3. Are you silly I'm
+       just gonna send it
+       (Balatro)
+   4. That's why they call
+       me Mister Glass (Balatro)
+   5. We were due
+       (Balatro)
 
 # Slovakia
-   1. News digest: Members
+   1. 3 things to do in
+       Bratislava for free in the
+       next seven days
+   2. Archaeologists
+       discover remains of burnt
+       church
+   3. News digest: Members
        of NGO government council
        dismissed, no reason given
-   2. Eurobarometer: More
+   4. Eurobarometer: More
        Slovaks than before
        interested in EP elections
-   3. Bratislava City Days
+   5. Bratislava City Days
        allow you to experience
        capital to the fullest
-   4. A guide to places
-       near Košice offering a
-       view of the High Tatras
-   5. Ukrainian men
-       illegally cross
-       Slovak-Ukrainian border to
-       avoid war
 
 # Space
-   1. James Webb Space
-       Telescope's 'shocking'
-       discovery may hint at
-       hidden exomoon around
-       'failed star'
-   2. 'I really like these
-       suits.' Boeing's snazzy
-       (and flexible) Starliner
-       spacesuits have astronauts
-       buzzing (exclusive)
-   3. Eyes hurt after the
-       eclipse? Signs of retinal
-       damage, explained
-   4. SETI chief says US
-       has no evidence for alien
-       technology. 'And we never
-       have'
-   5. SpaceX launching 23
-       Starlink satellites from
-       Florida this evening
+   1. Solar eclipse 2024:
+       Live updates
+   2. NASA still
+       investigating Orion heat
+       shield issues from Artemis
+       1 moon mission
+   3. Sweden becomes 38th
+       country to sign NASA's
+       Artemis Accords for moon
+       exploration
+   4. Ingenuity team says
+       goodbye to pioneering Mars
+       helicopter
+   5. Boom's XB-1 test
+       plane gets FAA green light
+       for supersonic flight
 
