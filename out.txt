@@ -1,85 +1,96 @@
 -- Daily Times --
 Thursday, April 18
 
-	The wise man will not be
-     angry with sinners. Why not?
-     Because he knows that no one
-     is born wise, but becomes
-     so.
+	It is your good fortune
+     not to need any good
+     fortune.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Valtteri’s 1st love,
-       cycling.
-   2. F2 driver Andrea
-       Kimi Antonelli testing W12
-       at Red Bull Ring
-   3. Charles Leclerc's
-       SF-24 was chosen at random
-       for extra physical
-       inspections after the
-       Japanese GP, It passed.
-   4. Max Verstappen is
-       featured on Time
-       Magazine's The 100 Most
-       Influential People of 2024
-   5. F1 | Serra out of
-       Mercedes, preparing to
-       join Ferrari
+   1. Chinese GP trophy
+   2. [The Race] "To reach
+       100% of the potential of
+       the car, sometimes I'm not
+       able to do [that] without
+       the help from my
+       team-mate." Fernando
+       Alonso says Lance Stroll's
+       feedback is "crucial" for
+       Aston's development
+       because Alonso himself
+       sometimes tends to just
+       "drive around" any car
+       problems.
+   3. First driver to do
+       track walk in Shanghai:
+       Logan Sargeant
+   4. [@ErikvHaren] Helmut
+       Marko has confirmed to
+       Kleine Zeitung that Red
+       Bull is talking/has talked
+       to Carlos Sainz. But also
+       that Sainz has a very
+       lucrative offer from Audi.
+       Audi will normally not
+       want to wait too long and
+       will want an answer at
+       short notice.
+   5. [Motorsport] Lewis
+       Hamilton: “I don’t feel
+       like I’m nearly 40 years
+       old, I feel really young
+       still. And I think he’s
+       [George] got more problems
+       physically than I do
+       today.”
 
 # Gaming
-   1. Hades 2 gods somehow
-       even hotter than Hades
-       gods
-   2. Learn more about the
-       Inner Sphere than you ever
-       wanted to know with this
-       $30 Battletech bundle
-   3. Star Trek: Lower
-       Decks’ creator is turning
-       Sega’s Golden Axe into an
-       animated comedy
-   4. Why Warhammer 40K
-       fans were shocked by a
-       recent Custodes codex
-       reveal
-   5. The Homeworld 3
-       Collector’s Edition is an
-       epic tribute to a strategy
-       classic
+   1. Children of the Sun
+       offers one of the most
+       challenging, satisfying
+       levels of 2024 so far
+   2. How to finish ‘The
+       Whisper’ and get Whisper
+       of the Worm in Destiny 2
+   3. Where to find the
+       Oracles in ‘The Whisper’
+       mission in Destiny 2
+   4. The Witcher season 5
+       on Netflix will be the
+       series’ last
+   5. Everyone’s hot for
+       Hades 2’s Hephaestus
 
 # HackerNews
-   1. Cosmic Desktop:
-       Hammering Out New Cosmic
-       Features
-   2. Short Stack: World’s
-       smallest Nintendo Wii
-   3. Feathers Are One of
-       Evolution's Cleverest
-       Inventions
-   4. Europe gives TikTok
-       24 hours to explain
-       'addictive and toxic' new
-       app
-   5. OpenBSD – Coming
-       soon to a -current system
-       near you: parallel raw IP
-       input
+   1. Meta Llama 3
+   2. Halo 2 in HD:
+       Pushing the Original Xbox
+       to the Limit
+   3. El Prado Museum in
+       Unprecedented Detail with
+       New 360º Gigapixel Virtual
+       Tour
+   4. Insatiable: A Life
+       Without Eating
+   5. Hermit is a hermetic
+       and reproducible sandbox
+       for running programs
 
 # NL
-   1. Zoom zoom, we are
+   1. They put the rock in
+       a video game! (The Game of
+       Sisyphus)
+   2. Rookie numbers
+       (Balatro)
+   3. Zoom zoom, we are
        going to the moon
        (Balatro)
-   2. I stand on that mini
+   4. I stand on that mini
        (Miscellaneous)
-   3. Are you silly I'm
+   5. Are you silly I'm
        just gonna send it
-       (Balatro)
-   4. That's why they call
-       me Mister Glass (Balatro)
-   5. We were due
        (Balatro)
 
 # Slovakia
@@ -100,20 +111,23 @@ Thursday, April 18
        capital to the fullest
 
 # Space
-   1. Solar eclipse 2024:
-       Live updates
-   2. NASA still
-       investigating Orion heat
-       shield issues from Artemis
-       1 moon mission
-   3. Sweden becomes 38th
-       country to sign NASA's
-       Artemis Accords for moon
-       exploration
-   4. Ingenuity team says
-       goodbye to pioneering Mars
-       helicopter
-   5. Boom's XB-1 test
-       plane gets FAA green light
-       for supersonic flight
+   1. China rolls out
+       rocket for next astronaut
+       mission to Tiangong space
+       station (photos)
+   2. SpaceX launching
+       Starlink satellites today
+       on company's 40th mission
+       of 2024
+   3. Sorry, little green
+       men: Alien life might
+       actually be purple
+   4. Zack Snyder on
+       sticking the landing for
+       the 2nd half of Netflix's
+       'Rebel Moon' (exclusive)
+   5. Russia launches new
+       Angara A5 heavy-lift
+       rocket on 4th orbital test
+       mission (photos)
 
