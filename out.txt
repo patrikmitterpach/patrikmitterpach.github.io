@@ -1,117 +1,116 @@
 -- Daily Times --
 Friday, April 19
 
-	It is the privilege of a
-     tranquil and peaceful mind
-     to review all the parts of
-     its life.
+	It is unpleasant,
+     burdensome, and covers one
+     with shame to have to say,
+     “Give me.” You should spare
+     your friends, and those whom
+     you wish to make your
+     friends, from having to do
+     this; however quick he may
+     be, a man gives too late who
+     gives what he has been asked
+     for.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Chinese GP trophy
-   2. Chinese GP FP1 Red
+   1. Chinese GP FP1 Red
        Flag because the grass is
        on fire
-   3. the track is on fire
+   2. the track is on fire
        again after the end of SQ1
+   3. Explanation on
+       Norris laptime reinstated
    4. Red flag, track on
        fire
-   5. Perez when asked by
-       a journalist about the
-       contenders for his seat:
-       "Every week is changing
-       the contender. It's just
-       normal, things are not
-       signed, everyone’s a
-       contender. Even you!"
+   5. [justf1car] Chinese
+       GP Sprint Qualifying Gaps
+       Visualized
 
 # Gaming
-   1. Yuri!!! on Ice movie
-       canceled after 7 years in
-       production
-   2. Fallout’s NCR reveal
-       hurt — even if it was
-       inevitable
-   3. RimWorld’s new
-       horror expansion also
-       happens to be its best
-   4. Fallout is coming
-       back for season 2 — here’s
-       what we know
-   5. How to get a
-       Stormblood (Eureka) relic
-       weapon in FFXIV
+   1. Fallout’s bloody
+       wedding continues one of
+       fiction’s longest-running
+       tropes
+   2. Spy x Family Code:
+       White fails the mission by
+       serving every fan
+   3. The best horror
+       movies of the year so far,
+       ranked by scariness
+   4. Which Hades 2
+       character is your
+       favorite?
+   5. Outlaws of Thunder
+       Junction, the next big
+       Magic: The Gathering set,
+       is out now
 
 # HackerNews
-   1. Add Depth of Field
-       to Screenshots
-   2. Presence and
-       collection of DNA from air
-       and air conditioner units
-   3. 3rd Edition of
-       Programming: Principles
-       and Practice Using C++ by
-       Stroustrup
-   4. Tips on how to
-       structure your home
-       directory (2023)
-   5. Quantum Algorithms
-       for Lattice Problems –
-       Update on April 18
+   1. Daniel Dennett has
+       died
+   2. Multipath TCP for
+       Linux (2022)
+   3. Don't bet on the
+       joys of pokies (2011)
+   4. The Curse of Monkey
+       Island
+   5. Epigenetic age
+       oscillates during the day
 
 # NL
-   1. Get it twisted, we
+   1. we are schmooving
+       (The Game of Sisyphus)
+   2. This man does not
+       know Pokemon
+       (Miscellaneous)
+   3. Get it twisted, we
        WILL hit e today (Balatro)
-   2. wake up honey, new
+   4. wake up honey, new
        lethal update dropped
        (Lethal Company)
-   3. They put the rock in
+   5. They put the rock in
        a video game! (The Game of
        Sisyphus)
-   4. Rookie numbers
-       (Balatro)
-   5. Zoom zoom, we are
-       going to the moon
-       (Balatro)
 
 # Slovakia
-   1. History Talks: The
+   1. News digest: A
+       million-strong Bratislava?
+       Dream on, say demographers
+   2. History Talks: The
        downfall of Sobrance spa
-   2. Slovaks are spending
+   3. Slovaks are spending
        more on lunch deals in
        restaurants
-   3. Cracks are appearing
+   4. Cracks are appearing
        in and around Bratislava
        Castle. No one seems to
        know why
-   4. The communists'
+   5. The communists'
        dream of a million-strong
        Bratislava will not come
        true
-   5. Weekend: Experience
-       Bratislava, have fun with
-       robots and get a glimpse
-       of Tatras
 
 # Space
-   1. Are we prepared for
-       Chinese preeminence on the
-       moon and Mars? (op-ed)
-   2. 'Rebel Moon — Part
-       Two: The Scargiver' is a
-       knockout punch of pure
-       sci-fi cinema (review)
-   3. 'Astrobiodefense:'
-       Thinktank calls for
-       defending Earth from space
-       bugs
-   4. The Lyrid meteor
-       shower peaks this weekend,
-       but don't expect much this
-       year
-   5. Rocket Lab gearing
-       up to refly Electron
-       booster for 1st time
+   1. Ingenuity's travels:
+       New NASA video tracks Mars
+       helicopter's 72 flights
+   2. Private space-junk
+       probe to conduct up-close
+       inspection of spent rocket
+       stage
+   3. Watch 'Devil Comet'
+       approach the sun during
+       explosive coronal mass
+       ejection (video)
+   4. Japanese satellite
+       will beam solar power to
+       Earth in 2025
+   5. China's experimental
+       moon satellites beam back
+       lunar imagery (video,
+       photo)
 
