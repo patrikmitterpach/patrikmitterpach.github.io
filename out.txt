@@ -1,133 +1,117 @@
 -- Daily Times --
-Thursday, April 18
+Friday, April 19
 
-	It is your good fortune
-     not to need any good
-     fortune.
+	It is the privilege of a
+     tranquil and peaceful mind
+     to review all the parts of
+     its life.
                         ~ Seneca
 
 
 -- News --
 # Formula1
    1. Chinese GP trophy
-   2. [The Race] "To reach
-       100% of the potential of
-       the car, sometimes I'm not
-       able to do [that] without
-       the help from my
-       team-mate." Fernando
-       Alonso says Lance Stroll's
-       feedback is "crucial" for
-       Aston's development
-       because Alonso himself
-       sometimes tends to just
-       "drive around" any car
-       problems.
-   3. First driver to do
-       track walk in Shanghai:
-       Logan Sargeant
-   4. [@ErikvHaren] Helmut
-       Marko has confirmed to
-       Kleine Zeitung that Red
-       Bull is talking/has talked
-       to Carlos Sainz. But also
-       that Sainz has a very
-       lucrative offer from Audi.
-       Audi will normally not
-       want to wait too long and
-       will want an answer at
-       short notice.
-   5. [Motorsport] Lewis
-       Hamilton: “I don’t feel
-       like I’m nearly 40 years
-       old, I feel really young
-       still. And I think he’s
-       [George] got more problems
-       physically than I do
-       today.”
+   2. Chinese GP FP1 Red
+       Flag because the grass is
+       on fire
+   3. the track is on fire
+       again after the end of SQ1
+   4. Red flag, track on
+       fire
+   5. Perez when asked by
+       a journalist about the
+       contenders for his seat:
+       "Every week is changing
+       the contender. It's just
+       normal, things are not
+       signed, everyone’s a
+       contender. Even you!"
 
 # Gaming
-   1. Children of the Sun
-       offers one of the most
-       challenging, satisfying
-       levels of 2024 so far
-   2. How to finish ‘The
-       Whisper’ and get Whisper
-       of the Worm in Destiny 2
-   3. Where to find the
-       Oracles in ‘The Whisper’
-       mission in Destiny 2
-   4. The Witcher season 5
-       on Netflix will be the
-       series’ last
-   5. Everyone’s hot for
-       Hades 2’s Hephaestus
+   1. Yuri!!! on Ice movie
+       canceled after 7 years in
+       production
+   2. Fallout’s NCR reveal
+       hurt — even if it was
+       inevitable
+   3. RimWorld’s new
+       horror expansion also
+       happens to be its best
+   4. Fallout is coming
+       back for season 2 — here’s
+       what we know
+   5. How to get a
+       Stormblood (Eureka) relic
+       weapon in FFXIV
 
 # HackerNews
-   1. Meta Llama 3
-   2. Halo 2 in HD:
-       Pushing the Original Xbox
-       to the Limit
-   3. El Prado Museum in
-       Unprecedented Detail with
-       New 360º Gigapixel Virtual
-       Tour
-   4. Insatiable: A Life
-       Without Eating
-   5. Hermit is a hermetic
-       and reproducible sandbox
-       for running programs
+   1. Add Depth of Field
+       to Screenshots
+   2. Presence and
+       collection of DNA from air
+       and air conditioner units
+   3. 3rd Edition of
+       Programming: Principles
+       and Practice Using C++ by
+       Stroustrup
+   4. Tips on how to
+       structure your home
+       directory (2023)
+   5. Quantum Algorithms
+       for Lattice Problems –
+       Update on April 18
 
 # NL
-   1. They put the rock in
+   1. Get it twisted, we
+       WILL hit e today (Balatro)
+   2. wake up honey, new
+       lethal update dropped
+       (Lethal Company)
+   3. They put the rock in
        a video game! (The Game of
        Sisyphus)
-   2. Rookie numbers
+   4. Rookie numbers
        (Balatro)
-   3. Zoom zoom, we are
+   5. Zoom zoom, we are
        going to the moon
-       (Balatro)
-   4. I stand on that mini
-       (Miscellaneous)
-   5. Are you silly I'm
-       just gonna send it
        (Balatro)
 
 # Slovakia
-   1. 3 things to do in
-       Bratislava for free in the
-       next seven days
-   2. Archaeologists
-       discover remains of burnt
-       church
-   3. News digest: Members
-       of NGO government council
-       dismissed, no reason given
-   4. Eurobarometer: More
-       Slovaks than before
-       interested in EP elections
-   5. Bratislava City Days
-       allow you to experience
-       capital to the fullest
+   1. History Talks: The
+       downfall of Sobrance spa
+   2. Slovaks are spending
+       more on lunch deals in
+       restaurants
+   3. Cracks are appearing
+       in and around Bratislava
+       Castle. No one seems to
+       know why
+   4. The communists'
+       dream of a million-strong
+       Bratislava will not come
+       true
+   5. Weekend: Experience
+       Bratislava, have fun with
+       robots and get a glimpse
+       of Tatras
 
 # Space
-   1. China rolls out
-       rocket for next astronaut
-       mission to Tiangong space
-       station (photos)
-   2. SpaceX launching
-       Starlink satellites today
-       on company's 40th mission
-       of 2024
-   3. Sorry, little green
-       men: Alien life might
-       actually be purple
-   4. Zack Snyder on
-       sticking the landing for
-       the 2nd half of Netflix's
-       'Rebel Moon' (exclusive)
-   5. Russia launches new
-       Angara A5 heavy-lift
-       rocket on 4th orbital test
-       mission (photos)
+   1. Are we prepared for
+       Chinese preeminence on the
+       moon and Mars? (op-ed)
+   2. 'Rebel Moon — Part
+       Two: The Scargiver' is a
+       knockout punch of pure
+       sci-fi cinema (review)
+   3. 'Astrobiodefense:'
+       Thinktank calls for
+       defending Earth from space
+       bugs
+   4. The Lyrid meteor
+       shower peaks this weekend,
+       but don't expect much this
+       year
+   5. Rocket Lab gearing
+       up to refly Electron
+       booster for 1st time
 
