@@ -1,8 +1,17 @@
 -- Daily Times --
-Saturday, April 20
+Sunday, April 21
 
-	Can heights be reached
-     by a level path?
+	‘I have no more fixed
+     principle than that of not
+     altering the course of my
+     life to suit your
+     prejudices: you may pour
+     your accustomed talk upon me
+     from all sides: I shall not
+     think that you are abusing
+     me, but that you are merely
+     wailing like poor little
+     babies.’
                         ~ Seneca
 
 
@@ -26,7 +35,9 @@ Saturday, April 20
        checking out Max
        Verstappen's RB20 after
        Sprint
-   4. [Luke Smith]
+   4. Vladimirrys on
+       Instagram
+   5. [Luke Smith]
        Hamilton says to Sky he
        made "massive changes" to
        the car setup to
@@ -38,9 +49,6 @@ Saturday, April 20
        I was like, it can’t get
        any worse, surely, and it
        did! Shit happens."
-   5. Max & Lewis after
-       the sprint (Photos by Lars
-       Baron)
 
 # Gaming
    1. Jesse Plemons’ Civil
@@ -62,32 +70,31 @@ Saturday, April 20
        it can’t get up!
 
 # HackerNews
-   1. Doomscroller.xyz
-   2. MuPDF WASM Viewer
-       Demo
-   3. Tips on adding JSON
-       output to your command
-       line utility. (2021)
+   1. Bringing Exchange
+       Support to Thunderbird
+   2. Doomscroller.xyz
+   3. Financial Market
+       Applications of LLMs
    4. The current state of
        map design in
        OpenStreetMap
-   5. 50 Years Later, This
-       Apollo-Era Antenna Still
-       Talks to Voyager 2
+   5. My Journey into
+       Personal Computer Software
+       Development in 1983
 
 # NL
-   1. The perfect save
+   1. I brought my backup
+       pants (Balatro)
+   2. I don't know if
+       Kory's ever made me laugh
+       this hard (Jackbox)
+   3. The perfect save
        point (The Game of
        Sisyphus)
-   2. The well has run dry
+   4. The well has run dry
        (Balatro)
-   3. War never changes
+   5. War never changes
        (Lethal Company)
-   4. Is it good to have
-       none good jokers jokers
-       (Balatro)
-   5. we are schmooving
-       (The Game of Sisyphus)
 
 # Slovakia
    1. Hop on a tram to
