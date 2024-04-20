@@ -1,19 +1,11 @@
 -- Daily Times --
 Saturday, April 20
 
-	How many complain
-     because they have been born?
-     yet Nature is ever renewing
-     our race, and even suffers
-     men to live who wish that
-     they had never lived. It is
-     the property of a great and
-     good mind to covet, not the
-     fruit of good deeds, but
-     good deeds themselves, and
-     to seek for a good man even
-     after having met with bad
-     men.
+	The wise man will not be
+     angry with sinners. Why not?
+     Because he knows that no one
+     is born wise, but becomes
+     so.
                         ~ Seneca
 
 
@@ -21,14 +13,11 @@ Saturday, April 20
 # Formula1
    1. Guess y'all have
        seen the tire changer one
-   2. [justf1car] Chinese
-       GP Sprint Qualifying Gaps
-       Visualized
-   3. Lots of Zhou fans
+   2. Lots of Zhou fans
        wearing this kind of
        outfit in Shanghai this
        weekend
-   4. [Mario Andretti]
+   3. [Mario Andretti]
        “We’re trying to say
        ‘We’ll do whatever you ask
        of us. We’ll do whatever
@@ -40,42 +29,49 @@ Saturday, April 20
        we don’t want you coming
        on, we don’t want you to
        be embarrassed.’
+   4. Lewis Hamilton
+       checking out Max
+       Verstappen's RB20 after
+       Sprint
    5. F1 teams and Pirelli
        had no warning of
        "painted" Shanghai track
        surface
 
 # Gaming
-   1. Pokémon Go
+   1. Discord wants to
+       void your right to sue
+       them in court — but you
+       can opt out of the
+       practice
+   2. The best sci-fi
+       movies to watch on Netflix
+       this April
+   3. Pokémon Go
        Bellsprout Community Day
        guide
-   2. Help, the Rebel Moon
+   4. Help, the Rebel Moon
        franchise has fallen and
        it can’t get up!
-   3. Dune: Part Two,
+   5. Dune: Part Two,
        Netflix’s Rebel Moon Part
        Two, and every new movie
        to watch at home this
        weekend
-   4. Take-Two wins
-       lawsuit over LeBron James’
-       tattoos
-   5. If you can’t touch
-       grass for Earth Day, a
-       Planet Earth 4K can help
 
 # HackerNews
-   1. Ceefax Simulator
-   2. On Terry A. Davis
-   3. My 25-year
-       engineering career
-       retrospective
-   4. Tell HN: Ever think
-       of applying to YC? Do it
-       this weekend for S24
-   5. Cosmic rays streamed
-       through Earth's atmosphere
-       41k years ago
+   1. Debugging the Doctor
+       Brain: Who's teaching
+       doctors how to think?
+   2. MuPDF WASM Viewer
+       Demo
+   3. Ceefax Simulator
+   4. 50 Years Later, This
+       Apollo-Era Antenna Still
+       Talks to Voyager 2
+   5. Phish turned Las
+       Vegas' Sphere into the
+       ultimate music visualizer
 
 # NL
    1. War never changes
@@ -108,23 +104,21 @@ Saturday, April 20
        restaurants
 
 # Space
-   1. NASA satellite's
+   1. Lego Star Wars
+       Millennium Falcon (2024)
+       review
+   2. Those magic minutes
+       during April 8's solar
+       eclipse brought me to
+       tears
+   3. Everything we know
+       about 'The Fantastic Four'
+   4. NASA satellite's
        'shocking' space junk
        near-miss was even closer
        than thought
-   2. NASA's Juno probe
+   5. NASA's Juno probe
        captures amazing views of
        Jupiter's volcanic moon Io
        (video)
-   3. NASA's Artemis 3
-       astronauts will put a
-       moonquake detector on
-       lunar surface
-   4. Ingenuity's travels:
-       New NASA video tracks Mars
-       helicopter's 72 flights
-   5. Private space-junk
-       probe to conduct up-close
-       inspection of spent rocket
-       stage
 
