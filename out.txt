@@ -1,11 +1,8 @@
 -- Daily Times --
 Saturday, April 20
 
-	The wise man will not be
-     angry with sinners. Why not?
-     Because he knows that no one
-     is born wise, but becomes
-     so.
+	Can heights be reached
+     by a level path?
                         ~ Seneca
 
 
@@ -13,11 +10,7 @@ Saturday, April 20
 # Formula1
    1. Guess y'all have
        seen the tire changer one
-   2. Lots of Zhou fans
-       wearing this kind of
-       outfit in Shanghai this
-       weekend
-   3. [Mario Andretti]
+   2. [Mario Andretti]
        “We’re trying to say
        ‘We’ll do whatever you ask
        of us. We’ll do whatever
@@ -29,63 +22,72 @@ Saturday, April 20
        we don’t want you coming
        on, we don’t want you to
        be embarrassed.’
-   4. Lewis Hamilton
+   3. Lewis Hamilton
        checking out Max
        Verstappen's RB20 after
        Sprint
-   5. F1 teams and Pirelli
-       had no warning of
-       "painted" Shanghai track
-       surface
+   4. [Luke Smith]
+       Hamilton says to Sky he
+       made "massive changes" to
+       the car setup to
+       experiment after the
+       sprint. Hamilton: "I’ll
+       give it my best shot. 18th
+       is pretty bad. When I was
+       making the setup changes,
+       I was like, it can’t get
+       any worse, surely, and it
+       did! Shit happens."
+   5. Max & Lewis after
+       the sprint (Photos by Lars
+       Baron)
 
 # Gaming
-   1. Discord wants to
+   1. Jesse Plemons’ Civil
+       War character says the
+       quiet part out loud
+   2. Discord wants to
        void your right to sue
        them in court — but you
        can opt out of the
        practice
-   2. The best sci-fi
+   3. The best sci-fi
        movies to watch on Netflix
        this April
-   3. Pokémon Go
+   4. Pokémon Go
        Bellsprout Community Day
        guide
-   4. Help, the Rebel Moon
+   5. Help, the Rebel Moon
        franchise has fallen and
        it can’t get up!
-   5. Dune: Part Two,
-       Netflix’s Rebel Moon Part
-       Two, and every new movie
-       to watch at home this
-       weekend
 
 # HackerNews
-   1. Debugging the Doctor
-       Brain: Who's teaching
-       doctors how to think?
+   1. Doomscroller.xyz
    2. MuPDF WASM Viewer
        Demo
-   3. Ceefax Simulator
-   4. 50 Years Later, This
+   3. Tips on adding JSON
+       output to your command
+       line utility. (2021)
+   4. The current state of
+       map design in
+       OpenStreetMap
+   5. 50 Years Later, This
        Apollo-Era Antenna Still
        Talks to Voyager 2
-   5. Phish turned Las
-       Vegas' Sphere into the
-       ultimate music visualizer
 
 # NL
-   1. War never changes
+   1. The perfect save
+       point (The Game of
+       Sisyphus)
+   2. The well has run dry
+       (Balatro)
+   3. War never changes
        (Lethal Company)
-   2. Is it good to have
+   4. Is it good to have
        none good jokers jokers
        (Balatro)
-   3. we are schmooving
+   5. we are schmooving
        (The Game of Sisyphus)
-   4. This man does not
-       know Pokemon
-       (Miscellaneous)
-   5. Get it twisted, we
-       WILL hit e today (Balatro)
 
 # Slovakia
    1. Hop on a tram to
@@ -104,21 +106,19 @@ Saturday, April 20
        restaurants
 
 # Space
-   1. Lego Star Wars
+   1. Cosmonaut Muhammed
+       Faris, first Syrian in
+       space, dies at 72
+   2. This Week In Space
+       podcast: Episode 107 —
+       Mars Sample Return Blues
+   3. Lego Star Wars
        Millennium Falcon (2024)
        review
-   2. Those magic minutes
+   4. Those magic minutes
        during April 8's solar
        eclipse brought me to
        tears
-   3. Everything we know
+   5. Everything we know
        about 'The Fantastic Four'
-   4. NASA satellite's
-       'shocking' space junk
-       near-miss was even closer
-       than thought
-   5. NASA's Juno probe
-       captures amazing views of
-       Jupiter's volcanic moon Io
-       (video)
 
