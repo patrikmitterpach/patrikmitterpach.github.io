@@ -1,20 +1,11 @@
 -- Daily Times --
 Sunday, April 21
 
-	Let us make presents of
-     things which are rare and
-     scarce rather than costly,
-     things which even a rich man
-     will be glad of, just as
-     common fruits, such as we
-     tire of after a few days,
-     please us if they have
-     ripened before the usual
-     season. People will also
-     esteem things which no one
-     else has given to them, or
-     which we have given to no
-     one else.
+	Know then that every
+     station of life is
+     transitory, and that what
+     has ever happened to anybody
+     may happen to you also.
                         ~ Seneca
 
 
@@ -23,13 +14,7 @@ Sunday, April 21
    1. Shanghai Circuit
        background through the
        years
-   2. China 2009: Red
-       Bull’s 1st F1 pole. China
-       2024: Red Bull’s 100th F1
-       pole. Different Red Bull
-       drivers, same Fernando
-       Alonso.
-   3. "I was just told now
+   2. "I was just told now
        apparently he [Lance] was
        blaming me for it and if
        that's true - I was
@@ -41,18 +26,7 @@ Sunday, April 21
        the corner...he's not even
        looking at me." [Daniel
        postrace on Viaplay]
-   4. [Philip Duncan]
-       Norris: “If you see the
-       same driver winning every
-       single time without a
-       fight then of course it
-       does start to become
-       boring. You have got one
-       of the best drivers ever,
-       in one of the most
-       dominant cars. It’s a
-       deadly combination.”
-   5. Regarding Stroll's
+   3. Regarding Stroll's
        claim that everyone in
        front of him suddenly
        braked, he [Piastri] says
@@ -60,6 +34,10 @@ Sunday, April 21
        everyone else didn't crash
        into each other."
        [MotorsportTotal]
+   4. Ricciardo hits out
+       at Stroll: 'Fuck that guy'
+   5. [@RacingNews365]
+       Zhou 2004 vs. Zhou 2024
 
 # Gaming
    1. Infection Free
@@ -82,34 +60,33 @@ Sunday, April 21
        this April
 
 # HackerNews
-   1. I made an open
-       source Windows app to
-       rewind and search
-       everything on screen
-   2. Tiny World Map
-   3. Microsoft is a
-       national security threat:
-       ex-White House cyber
-       policy director
-   4. Programming Is
-       Mostly Thinking (2014)
-   5. From a Lorry Driver
-       to Ruby on Rails Developer
-       at 38
+   1. I Should Have Loved
+       Biology
+   2. Penzai: JAX research
+       toolkit for building,
+       editing, and visualizing
+       neural nets
+   3. Lossless
+       Acceleration of LLM via
+       Adaptive N-Gram Parallel
+       Decoding
+   4. The Fading Memories
+       of Youth
+   5. Coroutines and
+       Effects
 
 # NL
-   1. With this combo you
+   1. Hardest challenge in
+       Balatro history (Balatro)
+   2. It's redemption time
+       (Jackbox)
+   3. With this combo you
        just can't lose (Balatro)
-   2. I brought my backup
+   4. I brought my backup
        pants (Balatro)
-   3. I don't know if
+   5. I don't know if
        Kory's ever made me laugh
        this hard (Jackbox)
-   4. The perfect save
-       point (The Game of
-       Sisyphus)
-   5. The well has run dry
-       (Balatro)
 
 # Slovakia
    1. Hop on a tram to
