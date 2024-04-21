@@ -1,108 +1,124 @@
 -- Daily Times --
 Sunday, April 21
 
-	‘I have no more fixed
-     principle than that of not
-     altering the course of my
-     life to suit your
-     prejudices: you may pour
-     your accustomed talk upon me
-     from all sides: I shall not
-     think that you are abusing
-     me, but that you are merely
-     wailing like poor little
-     babies.’
+	Let us make presents of
+     things which are rare and
+     scarce rather than costly,
+     things which even a rich man
+     will be glad of, just as
+     common fruits, such as we
+     tire of after a few days,
+     please us if they have
+     ripened before the usual
+     season. People will also
+     esteem things which no one
+     else has given to them, or
+     which we have given to no
+     one else.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Guess y'all have
-       seen the tire changer one
-   2. [Mario Andretti]
-       “We’re trying to say
-       ‘We’ll do whatever you ask
-       of us. We’ll do whatever
-       is there. Now, if you
-       think of something, you
-       tell us,’. But they
-       haven’t told us yet except
-       for some excuses like, ‘Oh
-       we don’t want you coming
-       on, we don’t want you to
-       be embarrassed.’
-   3. Lewis Hamilton
-       checking out Max
-       Verstappen's RB20 after
-       Sprint
-   4. Vladimirrys on
-       Instagram
-   5. [Luke Smith]
-       Hamilton says to Sky he
-       made "massive changes" to
-       the car setup to
-       experiment after the
-       sprint. Hamilton: "I’ll
-       give it my best shot. 18th
-       is pretty bad. When I was
-       making the setup changes,
-       I was like, it can’t get
-       any worse, surely, and it
-       did! Shit happens."
+   1. Shanghai Circuit
+       background through the
+       years
+   2. China 2009: Red
+       Bull’s 1st F1 pole. China
+       2024: Red Bull’s 100th F1
+       pole. Different Red Bull
+       drivers, same Fernando
+       Alonso.
+   3. "I was just told now
+       apparently he [Lance] was
+       blaming me for it and if
+       that's true - I was
+       starting to calm down but
+       that really pisses me off.
+       I watched his onboard and
+       as soon as we start to
+       brake he starts looking at
+       the corner...he's not even
+       looking at me." [Daniel
+       postrace on Viaplay]
+   4. [Philip Duncan]
+       Norris: “If you see the
+       same driver winning every
+       single time without a
+       fight then of course it
+       does start to become
+       boring. You have got one
+       of the best drivers ever,
+       in one of the most
+       dominant cars. It’s a
+       deadly combination.”
+   5. Regarding Stroll's
+       claim that everyone in
+       front of him suddenly
+       braked, he [Piastri] says
+       meaningfully: "Yes, but
+       everyone else didn't crash
+       into each other."
+       [MotorsportTotal]
 
 # Gaming
-   1. Jesse Plemons’ Civil
+   1. Infection Free
+       Zone’s early access bugs
+       weigh down its intriguing
+       premise
+   2. The 10 best
+       Metroidvanias to play
+       right now
+   3. Jesse Plemons’ Civil
        War character says the
        quiet part out loud
-   2. Discord wants to
+   4. Discord wants to
        void your right to sue
        them in court — but you
        can opt out of the
        practice
-   3. The best sci-fi
+   5. The best sci-fi
        movies to watch on Netflix
        this April
-   4. Pokémon Go
-       Bellsprout Community Day
-       guide
-   5. Help, the Rebel Moon
-       franchise has fallen and
-       it can’t get up!
 
 # HackerNews
-   1. Bringing Exchange
-       Support to Thunderbird
-   2. Doomscroller.xyz
-   3. Financial Market
-       Applications of LLMs
-   4. The current state of
-       map design in
-       OpenStreetMap
-   5. My Journey into
-       Personal Computer Software
-       Development in 1983
+   1. I made an open
+       source Windows app to
+       rewind and search
+       everything on screen
+   2. Tiny World Map
+   3. Microsoft is a
+       national security threat:
+       ex-White House cyber
+       policy director
+   4. Programming Is
+       Mostly Thinking (2014)
+   5. From a Lorry Driver
+       to Ruby on Rails Developer
+       at 38
 
 # NL
-   1. I brought my backup
+   1. With this combo you
+       just can't lose (Balatro)
+   2. I brought my backup
        pants (Balatro)
-   2. I don't know if
+   3. I don't know if
        Kory's ever made me laugh
        this hard (Jackbox)
-   3. The perfect save
+   4. The perfect save
        point (The Game of
        Sisyphus)
-   4. The well has run dry
+   5. The well has run dry
        (Balatro)
-   5. War never changes
-       (Lethal Company)
 
 # Slovakia
    1. Hop on a tram to
        explore Bratislava more
        quickly
-   2. Dental benefits
-       cancelled overnight,
-       patients flock to dentists
+   2. Insurers cancel
+       dental benefits overnight.
+       Subsequently, patients
+       flock to dentists.
    3. News digest: A
        million-strong Bratislava?
        Dream on, say demographers
@@ -113,19 +129,24 @@ Sunday, April 21
        restaurants
 
 # Space
-   1. Cosmonaut Muhammed
+   1. Saturn's ocean moon
+       Enceladus is able to
+       support life − my research
+       team is working out how to
+       detect extraterrestrial
+       cells there
+   2. Why is it so hard to
+       send humans back to the
+       moon?
+   3. Eclipse expert Jamie
+       Carter wins media award
+       for extensive solar
+       eclipse coverage
+   4. 'Devil Comet'
+       12P/Pons-Brooks reaches
+       peak brightness tonight.
+       Here's how to see it
+   5. Cosmonaut Muhammed
        Faris, first Syrian in
        space, dies at 72
-   2. This Week In Space
-       podcast: Episode 107 —
-       Mars Sample Return Blues
-   3. Lego Star Wars
-       Millennium Falcon (2024)
-       review
-   4. Those magic minutes
-       during April 8's solar
-       eclipse brought me to
-       tears
-   5. Everything we know
-       about 'The Fantastic Four'
 
