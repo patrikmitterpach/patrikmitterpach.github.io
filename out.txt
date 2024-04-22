@@ -1,19 +1,27 @@
 -- Daily Times --
-Sunday, April 21
+Monday, April 22
 
-	Know then that every
-     station of life is
-     transitory, and that what
-     has ever happened to anybody
-     may happen to you also.
+	Let us believe nothing
+     unless it forces itself upon
+     our sight and is
+     unmistakable, and let us
+     reprove ourselves for being
+     too ready to believe, as
+     often as our suspicions
+     prove to.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Shanghai Circuit
-       background through the
-       years
+   1. Regarding Stroll's
+       claim that everyone in
+       front of him suddenly
+       braked, he [Piastri] says
+       meaningfully: "Yes, but
+       everyone else didn't crash
+       into each other."
+       [MotorsportTotal]
    2. "I was just told now
        apparently he [Lance] was
        blaming me for it and if
@@ -26,18 +34,12 @@ Sunday, April 21
        the corner...he's not even
        looking at me." [Daniel
        postrace on Viaplay]
-   3. Regarding Stroll's
-       claim that everyone in
-       front of him suddenly
-       braked, he [Piastri] says
-       meaningfully: "Yes, but
-       everyone else didn't crash
-       into each other."
-       [MotorsportTotal]
-   4. Ricciardo hits out
+   3. Ricciardo hits out
        at Stroll: 'Fuck that guy'
-   5. [@RacingNews365]
+   4. [@RacingNews365]
        Zhou 2004 vs. Zhou 2024
+   5. Proposed changes for
+       the points system
 
 # Gaming
    1. Infection Free
@@ -60,50 +62,45 @@ Sunday, April 21
        this April
 
 # HackerNews
-   1. I Should Have Loved
-       Biology
-   2. Penzai: JAX research
-       toolkit for building,
-       editing, and visualizing
-       neural nets
-   3. Lossless
-       Acceleration of LLM via
-       Adaptive N-Gram Parallel
-       Decoding
-   4. The Fading Memories
-       of Youth
-   5. Coroutines and
-       Effects
+   1. Inside the Super
+       Nintendo cartridges
+   2. I should have loved
+       biology (2020)
+   3. Curl is just the
+       hobby
+   4. Infinitown
+   5. Pico.sh – Hacker
+       Labs
 
 # NL
-   1. Hardest challenge in
+   1. Musings (The Game of
+       Sisyphus)
+   2. Hardest challenge in
        Balatro history (Balatro)
-   2. It's redemption time
+   3. It's redemption time
        (Jackbox)
-   3. With this combo you
+   4. With this combo you
        just can't lose (Balatro)
-   4. I brought my backup
+   5. I brought my backup
        pants (Balatro)
-   5. I don't know if
-       Kory's ever made me laugh
-       this hard (Jackbox)
 
 # Slovakia
-   1. Hop on a tram to
+   1. Last Week: No
+       bullets for Ukraine? Watch
+       us try, say people of
+       Slovakia
+   2. Hop on a tram to
        explore Bratislava more
        quickly
-   2. Insurers cancel
+   3. Insurers cancel
        dental benefits overnight.
        Subsequently, patients
        flock to dentists.
-   3. News digest: A
+   4. News digest: A
        million-strong Bratislava?
        Dream on, say demographers
-   4. History Talks: The
+   5. History Talks: The
        downfall of Sobrance spa
-   5. Slovaks are spending
-       more on lunch deals in
-       restaurants
 
 # Space
    1. Saturn's ocean moon
