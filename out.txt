@@ -1,126 +1,119 @@
 -- Daily Times --
-Monday, April 22
+Wednesday, April 24
 
-	Let us believe nothing
-     unless it forces itself upon
-     our sight and is
-     unmistakable, and let us
-     reprove ourselves for being
-     too ready to believe, as
-     often as our suspicions
-     prove to.
+	I will so live as to
+     remember that I was born for
+     others, and will thank
+     Nature on this account: for
+     in what fashion could she
+     have done better for me? she
+     has given me alone to all,
+     and all to me alone.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Regarding Stroll's
-       claim that everyone in
-       front of him suddenly
-       braked, he [Piastri] says
-       meaningfully: "Yes, but
-       everyone else didn't crash
-       into each other."
-       [MotorsportTotal]
-   2. "I was just told now
-       apparently he [Lance] was
-       blaming me for it and if
-       that's true - I was
-       starting to calm down but
-       that really pisses me off.
-       I watched his onboard and
-       as soon as we start to
-       brake he starts looking at
-       the corner...he's not even
-       looking at me." [Daniel
-       postrace on Viaplay]
-   3. Ricciardo hits out
-       at Stroll: 'Fuck that guy'
-   4. [@RacingNews365]
-       Zhou 2004 vs. Zhou 2024
-   5. Proposed changes for
-       the points system
+   1. Red Bull mechanics
+       using Chinese GP trophies
+       as Hula Hoops
+   2. Drivers’ standings
+       after five races this
+       season compared to last
+       season
+   3. Fernando Alonso
+       instagram story
+   4. [Martin Brundle]
+       Formula One world
+       championship points must
+       be hard won and treasured.
+       Valued. Not some kind of
+       lucky dip where everyone
+       wins a prize.
+   5. Max Verstappen his
+       USA helmet for all the US
+       Grands Prix this season
 
 # Gaming
-   1. Infection Free
-       Zone’s early access bugs
-       weigh down its intriguing
-       premise
-   2. The 10 best
-       Metroidvanias to play
-       right now
-   3. Jesse Plemons’ Civil
-       War character says the
-       quiet part out loud
-   4. Discord wants to
-       void your right to sue
-       them in court — but you
-       can opt out of the
-       practice
-   5. The best sci-fi
-       movies to watch on Netflix
-       this April
+   1. This Slowpoke plush
+       is as big as the real
+       thing, and costs $450
+   2. Anyone but You’s
+       real draw is the
+       supporting cast
+   3. How to get farm
+       animals in Lego Fortnite
+   4. Fortnite will allow
+       you to mute its
+       ‘confrontational’ emotes
+   5. How to get an ARR
+       (Zodiac) relic weapon in
+       FFXIV
 
 # HackerNews
-   1. Inside the Super
-       Nintendo cartridges
-   2. I should have loved
-       biology (2020)
-   3. Curl is just the
-       hobby
-   4. Infinitown
-   5. Pico.sh – Hacker
-       Labs
+   1. CoreNet: A library
+       for training deep neural
+       networks
+   2. Simulating Jupiter
+   3. American flag sort
+   4. Bottle Plotter
+   5. BeeBase, a
+       programmable relational
+       database with graphical
+       user interface
 
 # NL
-   1. Musings (The Game of
+   1. Do you believe in
+       fate? (The Game of
        Sisyphus)
-   2. Hardest challenge in
-       Balatro history (Balatro)
-   3. It's redemption time
-       (Jackbox)
-   4. With this combo you
-       just can't lose (Balatro)
-   5. I brought my backup
-       pants (Balatro)
+   2. He has a way with
+       words (Jackbox)
+   3. OK, this one might
+       be impossible (Balatro)
+   4. How could this
+       happen to me (Balatro)
+   5. There's no such
+       thing as locking in (The
+       Game of Sisyphus)
 
 # Slovakia
-   1. Last Week: No
-       bullets for Ukraine? Watch
-       us try, say people of
-       Slovakia
-   2. Hop on a tram to
-       explore Bratislava more
-       quickly
-   3. Insurers cancel
-       dental benefits overnight.
-       Subsequently, patients
-       flock to dentists.
-   4. News digest: A
-       million-strong Bratislava?
-       Dream on, say demographers
-   5. History Talks: The
-       downfall of Sobrance spa
+   1. ESG: Companies gear
+       up to meet new social
+       responsibility reporting
+       rules
+   2. Culture minister
+       sees "anti-Slovak
+       activity" at Venice arts
+       festival
+   3. On Czech news
+       website, hacker posts fake
+       story about Ukrainians
+       trying to kill Pellegrini
+   4. News digest:
+       Masturbation,
+       defecation..., and SNS
+       MP's disapproval of 'high
+       culture'
+   5. New zipline opens in
+       the treetops
 
 # Space
-   1. Saturn's ocean moon
-       Enceladus is able to
-       support life − my research
-       team is working out how to
-       detect extraterrestrial
-       cells there
-   2. Why is it so hard to
-       send humans back to the
-       moon?
-   3. Eclipse expert Jamie
-       Carter wins media award
-       for extensive solar
-       eclipse coverage
-   4. 'Devil Comet'
-       12P/Pons-Brooks reaches
-       peak brightness tonight.
-       Here's how to see it
-   5. Cosmonaut Muhammed
-       Faris, first Syrian in
-       space, dies at 72
+   1. NASA ends CloudSat
+       Earth-observing mission
+       after 18 years
+   2. Earth's weird
+       'quasi-moon' Kamo'oalewa
+       is a fragment blasted out
+       of big moon crater
+   3. Fortnite launches to
+       the moon in new 'Lunar
+       Horizons' simulation game
+   4. NASA astronauts
+       enter quarantine for 1st
+       crewed Boeing Starliner
+       launch on May 6
+   5. Building rockets and
+       looking for life on Venus:
+       Q&A with Rocket Lab's
+       Peter Beck
 
