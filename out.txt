@@ -1,23 +1,23 @@
 -- Daily Times --
 Wednesday, April 24
 
-	Do you ask what I seek
-     from virtue? I answer,
-     Herself: for she has nothing
-     better; she is her own
-     reward.
+	Men who cannot succeed
+     themselves wish everyone
+     else to be ruined.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Red Bull mechanics
-       using Chinese GP trophies
-       as Hula Hoops
-   2. Drivers’ standings
-       after five races this
-       season compared to last
-       season
+   1. Ferrari Blue Merch
+       for Miami GP
+   2. Ferrari announces
+       multi-year deal with
+       Hewlett-Packard as title
+       sponsor, with team being
+       called "Scuderia Ferrari
+       HP" from the MiamiGP
+       onwards
    3. [Martin Brundle]
        Formula One world
        championship points must
@@ -25,93 +25,98 @@ Wednesday, April 24
        Valued. Not some kind of
        lucky dip where everyone
        wins a prize.
-   4. Fernando Alonso
-       instagram story
-   5. Max Verstappen his
-       USA helmet for all the US
-       Grands Prix this season
+   4. Hülkenberg to Audi:
+       Deal is almost certain
+       [F1-Insider]
+   5. Ferrari and HP
 
 # Gaming
-   1. Where to find Taken
-       Blights in Destiny 2’s
-       ‘Whispers of the Taken’
-       quest
-   2. Where to find the
-       Oracles in ‘The Whisper’
-       mission in Destiny 2
-   3. How to unlock all
-       archetypes in Remnant 2
-   4. How to unlock the
-       Invoker in Remnant 2’s The
-       Forgotten Kingdom DLC
-   5. Where to find Archie
-       in Destiny 2
+   1. The 25 best games on
+       Game Pass
+   2. Honkai: Star Rail
+       codes for April 2024
+   3. How to complete the
+       Yo-kai Watch event in
+       FFXIV
+   4. X-Men ’97’s big
+       villain reveal gives
+       mutants their
+       second-greatest enemy
+   5. Dawnrunner is a
+       mecha-kaiju comic about
+       the ‘Bandai-ification’ of
+       the military-industrial
+       complex
 
 # HackerNews
-   1. Piet (2018)
-   2. CoreNet: A library
-       for training deep neural
-       networks
-   3. Meta does everything
-       OpenAI should be
-   4. Google delays
-       third-party cookie demise
-       yet again
-   5. Simulating Jupiter
+   1. VideoGigaGAN:
+       Towards detail-rich video
+       super-resolution
+   2. "I now lack the
+       juice to fuel the bluster
+       to conceal that I am a
+       simpleton."
+   3. A feature-rich
+       front-end drag-and-drop
+       component library
+   4. When do we stop
+       finding new music?
+   5. Piet: Programming
+       language in which programs
+       look like abstract
+       paintings (2002)
 
 # NL
-   1. Do you believe in
+   1. I don't even know
+       what I don't know
+       (Balatro)
+   2. Ketchup doesn't
+       exist (Lethal Company)
+   3. I'm all in (Balatro)
+   4. Do you believe in
        fate? (The Game of
        Sisyphus)
-   2. He has a way with
+   5. He has a way with
        words (Jackbox)
-   3. OK, this one might
-       be impossible (Balatro)
-   4. How could this
-       happen to me (Balatro)
-   5. There's no such
-       thing as locking in (The
-       Game of Sisyphus)
 
 # Slovakia
-   1. Would the Danube's
+   1. News digest: Slovak
+       public broadcaster to end
+       in current form before
+       summer
+   2. Warning as Slovak
+       influencers push trading
+       platform
+   3. OECD: Slovakia must
+       do more to achieve carbon
+       neutrality, halt
+       biodiversity loss
+   4. Would the Danube's
        bridges in Bratislava
        withstand a boat impact?
-   2. ESG: Companies gear
+   5. ESG: Companies gear
        up to meet new social
        responsibility reporting
        rules
-   3. Culture minister
-       sees "anti-Slovak
-       activity" at Venice arts
-       festival
-   4. On Czech news
-       website, hacker posts fake
-       story about Ukrainians
-       trying to kill Pellegrini
-   5. News digest:
-       Masturbation,
-       defecation..., and SNS
-       MP's disapproval of 'high
-       culture'
 
 # Space
-   1. Earth got hammered
-       by cosmic rays 41,000
-       years ago due to a weak
-       magnetic field
-   2. Mirrors in space
-       could boost solar power
-       production on Earth.
-       Here's how.
-   3. NASA ends CloudSat
-       Earth-observing mission
-       after 18 years
-   4. Earth's weird
-       'quasi-moon' Kamo'oalewa
-       is a fragment blasted out
-       of big moon crater
-   5. Fortnite launches to
-       the moon in new 'Lunar
-       Horizons' simulation game
+   1. Ancient rocks hold
+       proof of Earth's magnetic
+       field. Here's why that's
+       puzzling
+   2. Hubble telescope
+       celebrates 34th
+       anniversary with an
+       iridescent Dumbbell Nebula
+       (image)
+   3. The mystery of how
+       strange cosmic objects
+       called 'JuMBOs' went rogue
+   4. China's Tiangong
+       space station damaged by
+       debris strike: report
+   5. Space Force tests
+       small satellite jammer to
+       protect against
+       'space-enabled' attacks
 
