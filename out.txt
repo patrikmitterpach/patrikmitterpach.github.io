@@ -1,24 +1,14 @@
 -- Daily Times --
 Thursday, April 25
 
-	The wise man will not be
-     angry with sinners. Why not?
-     Because he knows that no one
-     is born wise, but becomes
-     so.
+	My riches belong to me,
+     you belong to your riches.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Ferrari announces
-       multi-year deal with
-       Hewlett-Packard as title
-       sponsor, with team being
-       called "Scuderia Ferrari
-       HP" from the MiamiGP
-       onwards
-   2. [Sky Sport F1
+   1. [Sky Sport F1
        Germany] Haas driver Nico
        Hülkenberg is set to drive
        for Audi in 2026. Audi is
@@ -26,11 +16,7 @@ Thursday, April 25
        Hülkenberg a 3-year
        contract, but there is no
        official statement yet.
-   3. Hülkenberg to Audi:
-       Deal is almost certain
-       [F1-Insider]
-   4. Ferrari and HP
-   5. Q: If you have kids,
+   2. Q: If you have kids,
        would you train him like
        how your dad trained you?
        | Max: I'd advise him not
@@ -43,35 +29,57 @@ Thursday, April 25
        need to come to you.
        Otherwise it's not going
        to work
+   3. Hulkenberg set to
+       sign for Audi
+   4. Red Bull Racing on X
+   5. [Will Buxton] A huge
+       deal for Ferrari, with my
+       understanding that its
+       financial value will cover
+       2/3 (66%) of the budget
+       cap per annum. A massive
+       partnership. Seeing that
+       logo brings back some
+       great early 2000s F1
+       memories. Would love to
+       see it inspire some NART
+       style blue and white
+       liveries for…
 
 # Gaming
-   1. When does Manor
-       Lords release?
-   2. The 25 best games on
-       Game Pass
-   3. Honkai: Star Rail
-       codes for April 2024
-   4. How to complete the
-       Yo-kai Watch event in
-       FFXIV
-   5. X-Men ’97’s big
-       villain reveal gives
-       mutants their
-       second-greatest enemy
+   1. Not sure what movie
+       to watch this weekend?
+       Leave a comment, we’ll
+       help
+   2. Fallout’s costume
+       designer explains why The
+       Ghoul looks so hot
+   3. Dragon’s Dogma 2
+       patch reins in the
+       disastrous Dragonsplague
+   4. The Mandalorian:
+       Adventures board game,
+       co-designed by Corey
+       Konieczka, is full of
+       surprises
+   5. Nintendo’s new Paper
+       Mario remaster doesn’t
+       mess with perfection
 
 # HackerNews
-   1. 40 Years of Sopwith
-   2. You are what you
+   1. A useful front-end
+       confetti animation library
+   2. David Frankel is a
+       man on a mission against
+       robocalls
+   3. Tribler: An
+       attack-resilient
+       micro-economy for media
+   4. Serious flaws in SQL
+       (1990)
+   5. You are what you
        read, even if you don't
        always remember it
-   3. HTML Attributes vs.
-       DOM Properties
-   4. Boeing retaliated
-       against its own engineers
-       working for FAA, union
-       says
-   5. A Beginner's Guide
-       to the ESP8266 (2017)
 
 # NL
    1. I don't even know
@@ -105,23 +113,25 @@ Thursday, April 25
        original
 
 # Space
-   1. Watch 2 cosmonauts
+   1. 'Star Trek:
+       Discovery' S05, E05 is a
+       quality installment, but
+       it's weighed down by
+       another anchor of
+       nostalgia
+   2. China launches 3
+       astronauts to Tiangong
+       space station on Shenzhou
+       18 mission (video)
+   3. Across the universe,
+       dark matter annihilation
+       could be warming up dead
+       stars
+   4. During the solar
+       system's chaotic era,
+       Jupiter may have helped
+       form Earth's moon
+   5. Watch 2 cosmonauts
        conduct spacewalk outside
        the ISS today
-   2. Watch China launch 3
-       astronauts to Tiangong
-       space station today
-   3. Buried in the Cat's
-       Paw Nebula lies one of the
-       largest space molecules
-       ever seen
-   4. Netflix releases
-       official trailer for
-       Jennifer Lopez mech combat
-       sci-fi film 'Atlas'
-       (video)
-   5. Ancient rocks hold
-       proof of Earth's magnetic
-       field. Here's why that's
-       puzzling
 
