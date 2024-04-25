@@ -1,70 +1,77 @@
 -- Daily Times --
-Wednesday, April 24
+Thursday, April 25
 
-	Men who cannot succeed
-     themselves wish everyone
-     else to be ruined.
+	The wise man will not be
+     angry with sinners. Why not?
+     Because he knows that no one
+     is born wise, but becomes
+     so.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Ferrari Blue Merch
-       for Miami GP
-   2. Ferrari announces
+   1. Ferrari announces
        multi-year deal with
        Hewlett-Packard as title
        sponsor, with team being
        called "Scuderia Ferrari
        HP" from the MiamiGP
        onwards
-   3. [Martin Brundle]
-       Formula One world
-       championship points must
-       be hard won and treasured.
-       Valued. Not some kind of
-       lucky dip where everyone
-       wins a prize.
-   4. Hülkenberg to Audi:
+   2. [Sky Sport F1
+       Germany] Haas driver Nico
+       Hülkenberg is set to drive
+       for Audi in 2026. Audi is
+       said to be offering
+       Hülkenberg a 3-year
+       contract, but there is no
+       official statement yet.
+   3. Hülkenberg to Audi:
        Deal is almost certain
        [F1-Insider]
-   5. Ferrari and HP
+   4. Ferrari and HP
+   5. Q: If you have kids,
+       would you train him like
+       how your dad trained you?
+       | Max: I'd advise him not
+       to be a driver! I mean, if
+       he or she wants to race
+       and I see the potential
+       then I would go for it..
+       But you shouldn't push
+       them into something. They
+       need to come to you.
+       Otherwise it's not going
+       to work
 
 # Gaming
-   1. The 25 best games on
+   1. When does Manor
+       Lords release?
+   2. The 25 best games on
        Game Pass
-   2. Honkai: Star Rail
+   3. Honkai: Star Rail
        codes for April 2024
-   3. How to complete the
+   4. How to complete the
        Yo-kai Watch event in
        FFXIV
-   4. X-Men ’97’s big
+   5. X-Men ’97’s big
        villain reveal gives
        mutants their
        second-greatest enemy
-   5. Dawnrunner is a
-       mecha-kaiju comic about
-       the ‘Bandai-ification’ of
-       the military-industrial
-       complex
 
 # HackerNews
-   1. VideoGigaGAN:
-       Towards detail-rich video
-       super-resolution
-   2. "I now lack the
-       juice to fuel the bluster
-       to conceal that I am a
-       simpleton."
-   3. A feature-rich
-       front-end drag-and-drop
-       component library
-   4. When do we stop
-       finding new music?
-   5. Piet: Programming
-       language in which programs
-       look like abstract
-       paintings (2002)
+   1. 40 Years of Sopwith
+   2. You are what you
+       read, even if you don't
+       always remember it
+   3. HTML Attributes vs.
+       DOM Properties
+   4. Boeing retaliated
+       against its own engineers
+       working for FAA, union
+       says
+   5. A Beginner's Guide
+       to the ESP8266 (2017)
 
 # NL
    1. I don't even know
@@ -80,43 +87,41 @@ Wednesday, April 24
        words (Jackbox)
 
 # Slovakia
-   1. News digest: Slovak
-       public broadcaster to end
-       in current form before
-       summer
-   2. Warning as Slovak
-       influencers push trading
-       platform
-   3. OECD: Slovakia must
-       do more to achieve carbon
-       neutrality, halt
-       biodiversity loss
-   4. Would the Danube's
-       bridges in Bratislava
-       withstand a boat impact?
-   5. ESG: Companies gear
-       up to meet new social
-       responsibility reporting
-       rules
+   1. 3 things to do in
+       Bratislava for free in the
+       next seven days
+   2. Historic Bratislava
+       garden re-opens to public
+   3. A Slovak married
+       love of his life and
+       became British. Then,
+       Slovakia stripped him of
+       his citizenship
+   4. History Talks: Once
+       riches for emperors, now
+       largely forgotten
+   5. Why Slovakia’s next
+       president won’t be an
+       original
 
 # Space
-   1. Ancient rocks hold
+   1. Watch 2 cosmonauts
+       conduct spacewalk outside
+       the ISS today
+   2. Watch China launch 3
+       astronauts to Tiangong
+       space station today
+   3. Buried in the Cat's
+       Paw Nebula lies one of the
+       largest space molecules
+       ever seen
+   4. Netflix releases
+       official trailer for
+       Jennifer Lopez mech combat
+       sci-fi film 'Atlas'
+       (video)
+   5. Ancient rocks hold
        proof of Earth's magnetic
        field. Here's why that's
        puzzling
-   2. Hubble telescope
-       celebrates 34th
-       anniversary with an
-       iridescent Dumbbell Nebula
-       (image)
-   3. The mystery of how
-       strange cosmic objects
-       called 'JuMBOs' went rogue
-   4. China's Tiangong
-       space station damaged by
-       debris strike: report
-   5. Space Force tests
-       small satellite jammer to
-       protect against
-       'space-enabled' attacks
 
