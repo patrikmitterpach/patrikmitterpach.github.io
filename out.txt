@@ -1,14 +1,32 @@
 -- Daily Times --
 Thursday, April 25
 
-	My riches belong to me,
-     you belong to your riches.
+	The inner curve is the
+     one to take, not only in
+     running races and in the
+     contests of the circus, but
+     also in the race of life;
+     even literary pursuits, the
+     most becoming thing for a
+     gentleman to spend money
+     upon, are only justifiable
+     as long as they are kept
+     within bounds.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Sky Sport F1
+   1. [@TGruener] Adrian
+       Newey is set to leave Red
+       Bull according to our
+       sources. We expect him to
+       announce his decision
+       soon. More on the exit
+       date and who might get his
+       service in the future in
+       our AMuS story
+   2. [Sky Sport F1
        Germany] Haas driver Nico
        Hülkenberg is set to drive
        for Audi in 2026. Audi is
@@ -16,122 +34,95 @@ Thursday, April 25
        Hülkenberg a 3-year
        contract, but there is no
        official statement yet.
-   2. Q: If you have kids,
-       would you train him like
-       how your dad trained you?
-       | Max: I'd advise him not
-       to be a driver! I mean, if
-       he or she wants to race
-       and I see the potential
-       then I would go for it..
-       But you shouldn't push
-       them into something. They
-       need to come to you.
-       Otherwise it's not going
-       to work
-   3. Hulkenberg set to
+   3. [BBC Sport] Adrian
+       Newey: Red Bull design
+       chief to leave team
+   4. Hulkenberg set to
        sign for Audi
-   4. Red Bull Racing on X
-   5. [Will Buxton] A huge
-       deal for Ferrari, with my
-       understanding that its
-       financial value will cover
-       2/3 (66%) of the budget
-       cap per annum. A massive
-       partnership. Seeing that
-       logo brings back some
-       great early 2000s F1
-       memories. Would love to
-       see it inspire some NART
-       style blue and white
-       liveries for…
+   5. Red Bull Racing on X
 
 # Gaming
-   1. Not sure what movie
-       to watch this weekend?
-       Leave a comment, we’ll
-       help
-   2. Fallout’s costume
-       designer explains why The
-       Ghoul looks so hot
-   3. Dragon’s Dogma 2
-       patch reins in the
-       disastrous Dragonsplague
-   4. The Mandalorian:
-       Adventures board game,
-       co-designed by Corey
-       Konieczka, is full of
-       surprises
-   5. Nintendo’s new Paper
-       Mario remaster doesn’t
-       mess with perfection
+   1. Indie devs rally for
+       Palestine with this $8
+       itch.io bundle
+   2. BlizzCon 2024
+       canceled, but promised to
+       come back ‘in future
+       years’
+   3. The NFL’s DeMarcus
+       Lawrence drafts his anime
+       football dream team
+   4. Fallout 4 guide and
+       walkthrough
+   5. 13 Fallout 4 tips
+       for new and returning
+       players
 
 # HackerNews
-   1. A useful front-end
-       confetti animation library
-   2. David Frankel is a
-       man on a mission against
-       robocalls
-   3. Tribler: An
-       attack-resilient
-       micro-economy for media
-   4. Serious flaws in SQL
-       (1990)
-   5. You are what you
-       read, even if you don't
-       always remember it
+   1. Show HN: I made a
+       programmable computer from
+       NAND gates
+   2. DDC OLED: how to
+       drive a tiny display from
+       an HDMI port. (2022)
+   3. Launch HN: Nango (YC
+       W23) – Source-available
+       unified API
+   4. FCC Votes to Restore
+       Net Neutrality Rules
+   5. How ruthless is
+       Amazon, really?
 
 # NL
-   1. I don't even know
+   1. They threw me in
+       jail? (Lethal Company)
+   2. We hardly knew ye
+       (Balatro)
+   3. I don't even know
        what I don't know
        (Balatro)
-   2. Ketchup doesn't
+   4. Ketchup doesn't
        exist (Lethal Company)
-   3. I'm all in (Balatro)
-   4. Do you believe in
-       fate? (The Game of
-       Sisyphus)
-   5. He has a way with
-       words (Jackbox)
+   5. I'm all in (Balatro)
 
 # Slovakia
-   1. 3 things to do in
-       Bratislava for free in the
-       next seven days
-   2. Historic Bratislava
-       garden re-opens to public
-   3. A Slovak married
-       love of his life and
-       became British. Then,
-       Slovakia stripped him of
-       his citizenship
-   4. History Talks: Once
-       riches for emperors, now
-       largely forgotten
-   5. Why Slovakia’s next
-       president won’t be an
-       original
+   1. Volkswagen Slovakia
+       gears up for production of
+       its first full-electric
+       SUV
+   2. Jean-Michel Jarre is
+       world’s first passenger of
+       Slovak flying car AirCar
+   3. Garages sell
+       immediately, few make it
+       to real estate websites
+   4. Environment Minister
+       proposes cutting trees to
+       prevent bears from hiding
+   5. Top 10 events in
+       Bratislava for foreigners
 
 # Space
-   1. 'Star Trek:
-       Discovery' S05, E05 is a
-       quality installment, but
-       it's weighed down by
-       another anchor of
-       nostalgia
-   2. China launches 3
-       astronauts to Tiangong
-       space station on Shenzhou
-       18 mission (video)
-   3. Across the universe,
-       dark matter annihilation
-       could be warming up dead
-       stars
-   4. During the solar
-       system's chaotic era,
-       Jupiter may have helped
-       form Earth's moon
-   5. Watch 2 cosmonauts
-       conduct spacewalk outside
-       the ISS today
+   1. Ice-penetrating
+       radar will help JUICE and
+       other spacecraft find
+       water beyond Earth
+   2. 'Rocket cam' takes
+       you aboard final launch of
+       ULA's Delta IV Heavy
+       (video)
+   3. 'I'm sure we'll find
+       things out': NASA
+       astronauts fly to launch
+       site for 1st crewed Boeing
+       Starliner mission to ISS
+       on May 6
+   4. NASA's Fermi space
+       telescope finds a strange
+       supernova with missing
+       gamma rays
+   5. Stellar detectives
+       find suspect for
+       incredibly powerful
+       'superflares'
 
