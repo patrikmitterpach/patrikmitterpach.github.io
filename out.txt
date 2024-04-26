@@ -1,17 +1,13 @@
 -- Daily Times --
-Thursday, April 25
+Friday, April 26
 
-	The inner curve is the
-     one to take, not only in
-     running races and in the
-     contests of the circus, but
-     also in the race of life;
-     even literary pursuits, the
-     most becoming thing for a
-     gentleman to spend money
-     upon, are only justifiable
-     as long as they are kept
-     within bounds.
+	There are three kinds of
+     life, and it is a stock
+     question which of the three
+     is the best: the first is
+     devoted to pleasure, the
+     second to contemplation, the
+     third to action.
                         ~ Seneca
 
 
@@ -26,103 +22,114 @@ Thursday, April 25
        date and who might get his
        service in the future in
        our AMuS story
-   2. [Sky Sport F1
-       Germany] Haas driver Nico
-       Hülkenberg is set to drive
-       for Audi in 2026. Audi is
-       said to be offering
-       Hülkenberg a 3-year
-       contract, but there is no
-       official statement yet.
-   3. [BBC Sport] Adrian
+   2. [BBC Sport] Adrian
        Newey: Red Bull design
        chief to leave team
-   4. Hulkenberg set to
-       sign for Audi
-   5. Red Bull Racing on X
+   3. In case you think
+       blue Ferrari overalls are
+       heresy, here's a picture
+       of Niki Lauda and Clay
+       Regazzoni from 50 years
+       ago
+   4. [Julianne Cerasoli]
+       Remembering that
+       Verstappen always says he
+       will continue at Red Bull
+       if there is stability and
+       peace. Newey leaving would
+       bring neither.
+   5. [Olav Mol] Should
+       Adrian Newey decide to
+       leave RedBull: contract
+       what he has is until 2025
+       plus a year's
+       non-competition clause. So
+       wouldn't be able to work
+       for another team until
+       2027 i.m.o. Opting for
+       retirement may be more
+       obvious.
 
 # Gaming
-   1. Indie devs rally for
-       Palestine with this $8
-       itch.io bundle
-   2. BlizzCon 2024
-       canceled, but promised to
-       come back ‘in future
-       years’
-   3. The NFL’s DeMarcus
-       Lawrence drafts his anime
-       football dream team
-   4. Fallout 4 guide and
-       walkthrough
-   5. 13 Fallout 4 tips
-       for new and returning
-       players
+   1. 6 things to know
+       before watching Zendaya’s
+       new sports movie
+       Challengers
+   2. Bungie is reversing
+       its decision to sunset
+       weapons for Destiny 2: The
+       Final Shape
+   3. A new Escape from
+       Tarkov special edition
+       finally offers offline
+       PvE, for just $250
+   4. Dragonsplague
+       causes, symptoms, and
+       cures in Dragon’s Dogma 2
+   5. GTA Online update
+       for the week of April 25
 
 # HackerNews
-   1. Show HN: I made a
-       programmable computer from
-       NAND gates
-   2. DDC OLED: how to
-       drive a tiny display from
-       an HDMI port. (2022)
-   3. Launch HN: Nango (YC
-       W23) – Source-available
-       unified API
-   4. FCC Votes to Restore
-       Net Neutrality Rules
-   5. How ruthless is
-       Amazon, really?
+   1. Radicle is an open
+       source, peer-to-peer code
+       collaboration stack built
+       on Git
+   2. A BSD person tries
+       Alpine Linux
+   3. Open Sourcing DOS 4
+   4. OpenVoice: Instant
+       Voice Cloning
+   5. Passkeys: A
+       Shattered Dream
 
 # NL
-   1. They threw me in
+   1. They cut me down in
+       my prime (Balatro)
+   2. They threw me in
        jail? (Lethal Company)
-   2. We hardly knew ye
+   3. We hardly knew ye
        (Balatro)
-   3. I don't even know
+   4. I don't even know
        what I don't know
        (Balatro)
-   4. Ketchup doesn't
+   5. Ketchup doesn't
        exist (Lethal Company)
-   5. I'm all in (Balatro)
 
 # Slovakia
-   1. Volkswagen Slovakia
+   1. Weekend: Antiques,
+       old craft and other blasts
+       from the past
+   2. A snowy peak rising
+       from the clouds. Slovak
+       photographer's stunning
+       image wins award
+   3. News digest: World
+       media notice Slovak MEP,
+       Black Thursday at RTVS,
+       and heiling lawmaker
+   4. Volkswagen Slovakia
        gears up for production of
        its first full-electric
        SUV
-   2. Jean-Michel Jarre is
+   5. Jean-Michel Jarre is
        world’s first passenger of
        Slovak flying car AirCar
-   3. Garages sell
-       immediately, few make it
-       to real estate websites
-   4. Environment Minister
-       proposes cutting trees to
-       prevent bears from hiding
-   5. Top 10 events in
-       Bratislava for foreigners
 
 # Space
-   1. Ice-penetrating
-       radar will help JUICE and
-       other spacecraft find
-       water beyond Earth
-   2. 'Rocket cam' takes
-       you aboard final launch of
-       ULA's Delta IV Heavy
-       (video)
-   3. 'I'm sure we'll find
-       things out': NASA
-       astronauts fly to launch
-       site for 1st crewed Boeing
-       Starliner mission to ISS
-       on May 6
-   4. NASA's Fermi space
-       telescope finds a strange
-       supernova with missing
-       gamma rays
-   5. Stellar detectives
-       find suspect for
-       incredibly powerful
-       'superflares'
+   1. Satellite images
+       overlay 2024 and 2017
+       total solar eclipses
+       sweeping across US
+   2. Boeing's Starliner
+       spacecraft is 'go' for May
+       6 astronaut launch
+   3. Russian cosmonauts
+       make quick work of space
+       station spacewalk
+   4. Curiosity rover may
+       be 'burping' methane out
+       of Mars' subsurface
+   5. Boeing Starliner 1st
+       astronaut flight: Live
+       updates
 
