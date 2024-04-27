@@ -1,95 +1,85 @@
 -- Daily Times --
 Saturday, April 27
 
-	I have heard or
-     observed, the principal
-     object is, not that mankind
-     may be well and honestly
-     clad, but, unquestionably,
-     that corporations may be
-     enriched.
-           ~ Henry David Thoreau
+	There is a way to
+     approach life so that when
+     asked, “Your money or your
+     life?” you say, “I’ll take
+     both, thank you.”
+                   ~ Vicki Robin
 
 
 -- News --
 # Formula1
-   1. [Sauber] Nico
-       Hulkenberg to compete for
-       Stake F1 Team Kick Sauber
-       from 2025 onwards
-   2. [Phillip Horton]
-       Every time Lewis Hamilton
-       changes teams in F1, Nico
-       Hulkenberg joins Sauber.
-   3. [@lawrobarretto]
-       Haas are not announcing
-       who will replace
-       Hulkenberg for 2025 - but
-       sources say Ollie Bearman
-       is favourite to get that
-       seat.
-   4. Niki Lauda’s burnt
-       helmet from near-fatal
-       accident to fetch up to
-       $60,000 at auction
-   5. Norris on Sprints,
-       post-China GP: "The main
-       point is the toll it has
-       on mechanics and
-       engineers. I don't think
-       it's too bad for us as
-       drivers, I don't think we
-       can be the ones to
-       complain at all. It's not
-       healthy for them, it is
-       not sustainable [...] not
-       doing too much for them is
-       the main priority"
+   1. [Washington Post]
+       Miami Grand Prix shuts
+       down effort to hold Trump
+       fundraiser at F1 race
+   2. [scuderiaferrari] on
+       Instagram
+   3. Norris: F1 might
+       never have a driver with
+       Alonso's longevity again
+   4. Since there are
+       plans for Bangkok GP in
+       the future. This was a
+       planned “Bangkok Gran
+       Prix” back in 1938,
+       presented by Prince Bira.
+       It was however cancelled
+       due to the build up of
+       WW2.
+   5. Meeting planned
+       between Andretti and the
+       ten team principals for
+       Miami GP
 
 # Gaming
-   1. Ridley Scott’s Alien
+   1. 7 Days in Hell did
+       Challengers before
+       Challengers — threesomes
+       and all
+   2. No Rest for the
+       Wicked will be a great
+       ARPG if it can get over
+       the hill
+   3. TikTok’s biggest
+       creators imagine what
+       would happen if the app
+       went away
+   4. The must-see movies
+       leaving streaming at the
+       end of April
+   5. Ridley Scott’s Alien
        introduced the perfect
        sci-fi villain
-   2. Boy Kills World is a
-       litmus test for fans of
-       video game-inspired movies
-   3. Anyone but You on
-       Netflix, Monkey Man, and
-       every new movie to watch
-       at home this weekend
-   4. Our favorite starter
-       deck for Disney Lorcana is
-       available for its lowest
-       price ever
-   5. Why can’t I build a
-       plot in Manor Lords?
 
 # HackerNews
-   1. How Not to Release
-       Historic Source Code
-   2. Leaving Rust gamedev
-       after 3 years
-   3. World War I dangers
-       in France's red zones
-   4. Bun's New Crash
-       Reporter
-   5. I'm creating PBR
-       Textures and 3D models
-       since 2018 and sharing
-       them for free
+   1. SVG Viewer – View,
+       edit, and optimize SVGs
+   2. Moviecart – Full
+       length color movie and
+       audio cartridges for stock
+       Atari 2600
+   3. Giving Rust a chance
+       for in-kernel codecs
+   4. World Wide Web
+       (1991)
+   5. The server chose
+       violence
 
 # NL
-   1. Seamless co-op (no
+   1. Does he know what
+       he's cooking (Balatro)
+   2. Seamless co-op (no
        lies detected) (Elden Ring
        co-op)
-   2. I just need to lock
+   3. I just need to lock
        in (Balatro)
-   3. The math aint mathin
+   4. The math aint mathin
        (Balatro)
-   4. They cut me down in
+   5. They cut me down in
        my prime (Balatro)
-   5. They threw me in
-       jail? (Lethal Company)
 
 # Slovakia
    1. News digest: UK
@@ -112,25 +102,23 @@ Saturday, April 27
        image wins award
 
 # Space
-   1. Watch 2 gorgeous
-       supernova remnants evolve
-       over 20 years (timelapse
-       video)
-   2. Boeing Starliner 1st
-       astronaut flight: Live
-       updates
-   3. US Space Force picks
-       Rocket Lab for 2025 Victus
-       Haze space domain
-       awareness mission
-   4. Exploding stars send
-       out powerful bursts of
-       energy − I'm leading a
-       citizen scientist project
-       to classify and learn
-       about these bright flashes
-   5. Wow! Private
-       space-junk probe snaps
-       historic photo of
-       discarded rocket in orbit
+   1. Russia vetoes UN
+       resolution against nuclear
+       weapons in space
+   2. Beavers are helping
+       fight climate change,
+       satellite data shows
+   3. Astronomers just
+       discovered a comet that
+       could be brighter than
+       most stars when we see it
+       next year. Or will it?
+   4. This Week In Space
+       podcast: Episode 108 —
+       Starliner: Better Late
+       Than Never?
+   5. Boeing's Starliner
+       spacecraft will not fly
+       private missions yet,
+       officials say
 
