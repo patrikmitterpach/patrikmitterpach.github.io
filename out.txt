@@ -1,135 +1,136 @@
 -- Daily Times --
-Friday, April 26
+Saturday, April 27
 
-	There are three kinds of
-     life, and it is a stock
-     question which of the three
-     is the best: the first is
-     devoted to pleasure, the
-     second to contemplation, the
-     third to action.
-                        ~ Seneca
+	I have heard or
+     observed, the principal
+     object is, not that mankind
+     may be well and honestly
+     clad, but, unquestionably,
+     that corporations may be
+     enriched.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. [@TGruener] Adrian
-       Newey is set to leave Red
-       Bull according to our
-       sources. We expect him to
-       announce his decision
-       soon. More on the exit
-       date and who might get his
-       service in the future in
-       our AMuS story
-   2. [BBC Sport] Adrian
-       Newey: Red Bull design
-       chief to leave team
-   3. In case you think
-       blue Ferrari overalls are
-       heresy, here's a picture
-       of Niki Lauda and Clay
-       Regazzoni from 50 years
-       ago
-   4. [Julianne Cerasoli]
-       Remembering that
-       Verstappen always says he
-       will continue at Red Bull
-       if there is stability and
-       peace. Newey leaving would
-       bring neither.
-   5. [Olav Mol] Should
-       Adrian Newey decide to
-       leave RedBull: contract
-       what he has is until 2025
-       plus a year's
-       non-competition clause. So
-       wouldn't be able to work
-       for another team until
-       2027 i.m.o. Opting for
-       retirement may be more
-       obvious.
+   1. [Sauber] Nico
+       Hulkenberg to compete for
+       Stake F1 Team Kick Sauber
+       from 2025 onwards
+   2. [Phillip Horton]
+       Every time Lewis Hamilton
+       changes teams in F1, Nico
+       Hulkenberg joins Sauber.
+   3. [@lawrobarretto]
+       Haas are not announcing
+       who will replace
+       Hulkenberg for 2025 - but
+       sources say Ollie Bearman
+       is favourite to get that
+       seat.
+   4. Niki Lauda’s burnt
+       helmet from near-fatal
+       accident to fetch up to
+       $60,000 at auction
+   5. Norris on Sprints,
+       post-China GP: "The main
+       point is the toll it has
+       on mechanics and
+       engineers. I don't think
+       it's too bad for us as
+       drivers, I don't think we
+       can be the ones to
+       complain at all. It's not
+       healthy for them, it is
+       not sustainable [...] not
+       doing too much for them is
+       the main priority"
 
 # Gaming
-   1. 6 things to know
-       before watching Zendaya’s
-       new sports movie
-       Challengers
-   2. Bungie is reversing
-       its decision to sunset
-       weapons for Destiny 2: The
-       Final Shape
-   3. A new Escape from
-       Tarkov special edition
-       finally offers offline
-       PvE, for just $250
-   4. Dragonsplague
-       causes, symptoms, and
-       cures in Dragon’s Dogma 2
-   5. GTA Online update
-       for the week of April 25
+   1. Ridley Scott’s Alien
+       introduced the perfect
+       sci-fi villain
+   2. Boy Kills World is a
+       litmus test for fans of
+       video game-inspired movies
+   3. Anyone but You on
+       Netflix, Monkey Man, and
+       every new movie to watch
+       at home this weekend
+   4. Our favorite starter
+       deck for Disney Lorcana is
+       available for its lowest
+       price ever
+   5. Why can’t I build a
+       plot in Manor Lords?
 
 # HackerNews
-   1. Radicle is an open
-       source, peer-to-peer code
-       collaboration stack built
-       on Git
-   2. A BSD person tries
-       Alpine Linux
-   3. Open Sourcing DOS 4
-   4. OpenVoice: Instant
-       Voice Cloning
-   5. Passkeys: A
-       Shattered Dream
+   1. How Not to Release
+       Historic Source Code
+   2. Leaving Rust gamedev
+       after 3 years
+   3. World War I dangers
+       in France's red zones
+   4. Bun's New Crash
+       Reporter
+   5. I'm creating PBR
+       Textures and 3D models
+       since 2018 and sharing
+       them for free
 
 # NL
-   1. They cut me down in
+   1. Seamless co-op (no
+       lies detected) (Elden Ring
+       co-op)
+   2. I just need to lock
+       in (Balatro)
+   3. The math aint mathin
+       (Balatro)
+   4. They cut me down in
        my prime (Balatro)
-   2. They threw me in
+   5. They threw me in
        jail? (Lethal Company)
-   3. We hardly knew ye
-       (Balatro)
-   4. I don't even know
-       what I don't know
-       (Balatro)
-   5. Ketchup doesn't
-       exist (Lethal Company)
 
 # Slovakia
-   1. Weekend: Antiques,
+   1. News digest: UK
+       extradites neo-Nazi Bombic
+       back to Slovakia
+   2. Vlkolínec's absurd
+       double fees should end
+       soon, as locals' quarrels
+       are resolved
+   3. To atone for his
+       potentially deadly crash,
+       Danko sweeps streets for a
+       couple of hours
+   4. Weekend: Antiques,
        old craft and other blasts
        from the past
-   2. A snowy peak rising
+   5. A snowy peak rising
        from the clouds. Slovak
        photographer's stunning
        image wins award
-   3. News digest: World
-       media notice Slovak MEP,
-       Black Thursday at RTVS,
-       and heiling lawmaker
-   4. Volkswagen Slovakia
-       gears up for production of
-       its first full-electric
-       SUV
-   5. Jean-Michel Jarre is
-       world’s first passenger of
-       Slovak flying car AirCar
 
 # Space
-   1. Satellite images
-       overlay 2024 and 2017
-       total solar eclipses
-       sweeping across US
-   2. Boeing's Starliner
-       spacecraft is 'go' for May
-       6 astronaut launch
-   3. Russian cosmonauts
-       make quick work of space
-       station spacewalk
-   4. Curiosity rover may
-       be 'burping' methane out
-       of Mars' subsurface
-   5. Boeing Starliner 1st
+   1. Watch 2 gorgeous
+       supernova remnants evolve
+       over 20 years (timelapse
+       video)
+   2. Boeing Starliner 1st
        astronaut flight: Live
        updates
+   3. US Space Force picks
+       Rocket Lab for 2025 Victus
+       Haze space domain
+       awareness mission
+   4. Exploding stars send
+       out powerful bursts of
+       energy − I'm leading a
+       citizen scientist project
+       to classify and learn
+       about these bright flashes
+   5. Wow! Private
+       space-junk probe snaps
+       historic photo of
+       discarded rocket in orbit
 
