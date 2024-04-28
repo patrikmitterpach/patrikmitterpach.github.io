@@ -1,9 +1,17 @@
 -- Daily Times --
 Sunday, April 28
 
-	“We live a small part
-     only of our lives.”
-                        ~ Seneca
+	“Choose a sound
+     financial lifestyle. Start
+     early and invest regularly.
+     Know what you’re buying.
+     Preserve your buying power.
+     Keep costs and taxes low.
+     Diversify your stock
+     portfolio [and diversify
+     your stock risk with a bond
+     portfolio].”
+~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
 
 
 -- News --
@@ -11,53 +19,54 @@ Sunday, April 28
    1. Lando Norris partied
        a little too hard in
        Amsterdam today
-   2. [Washington Post]
-       Miami Grand Prix shuts
-       down effort to hold Trump
-       fundraiser at F1 race
-   3. Norris: F1 might
-       never have a driver with
-       Alonso's longevity again
-   4. [scuderiaferrari] on
-       Instagram
-   5. Meeting planned
-       between Andretti and the
-       ten team principals for
-       Miami GP
+   2. Adrian Newey set for
+       talks with Red Bull over
+       F1 future after exit
+       reports
+   3. Scary incident
+       during USF Juniors
+   4. Spotted Valtteri
+       Bottas racing yesterday.
+   5. Ferrari: There is
+       confidence in the Imola
+       updates.
 
 # Gaming
-   1. 7 Days in Hell did
+   1. Kirsten Dunst spells
+       out the meaning of Civil
+       War in one wordless moment
+   2. Why is it so
+       difficult to play Fallout
+       games on PC right now?
+   3. 7 Days in Hell did
        Challengers before
        Challengers — threesomes
        and all
-   2. No Rest for the
+   4. No Rest for the
        Wicked will be a great
        ARPG if it can get over
        the hill
-   3. TikTok’s biggest
+   5. TikTok’s biggest
        creators imagine what
        would happen if the app
        went away
-   4. The must-see movies
-       leaving streaming at the
-       end of April
-   5. Ridley Scott’s Alien
-       introduced the perfect
-       sci-fi villain
 
 # HackerNews
-   1. TfL's simple pop-up
+   1. Zilog Z80 CPU –
+       Modern, free and open
+       source silicon clone
+   2. LoRA+: Efficient Low
+       Rank Adaptation of Large
+       Models
+   3. Synth wars: The
+       story of MIDI (2023)
+   4. TfL's simple pop-up
        message led to a
        significant drop in paper
        ticket sales
-   2. Flow Field
-       Pathfinding
-   3. Google made me ruin
+   5. Google made me ruin
        a perfectly good website
        (2023)
-   4. Google Quantum AI
-   5. Is it okay to daisy
-       chain a UPS?
 
 # NL
    1. I remember this guy
@@ -92,22 +101,22 @@ Sunday, April 28
        from the past
 
 # Space
-   1. Watch SpaceX Dragon
+   1. Everything we know
+       about James Gunn's
+       Superman
+   2. Sneak peek:
+       Browncoats grab victory in
+       Boom! Studios' upcoming
+       'Firefly: 'Verses' comic
+       (exclusive)
+   3. SpaceX launching 23
+       Starlink satellites from
+       Florida this evening
+   4. NASA's mission to an
+       ice-covered moon will
+       contain a message between
+       water worlds
+   5. Watch SpaceX Dragon
        cargo capsule depart the
        ISS today
-   2. Russia vetoes UN
-       resolution against nuclear
-       weapons in space
-   3. Beavers are helping
-       fight climate change,
-       satellite data shows
-   4. Astronomers just
-       discovered a comet that
-       could be brighter than
-       most stars when we see it
-       next year. Or will it?
-   5. This Week In Space
-       podcast: Episode 108 —
-       Starliner: Better Late
-       Than Never?
 
