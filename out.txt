@@ -1,34 +1,25 @@
 -- Daily Times --
-Saturday, April 27
+Sunday, April 28
 
-	There is a way to
-     approach life so that when
-     asked, “Your money or your
-     life?” you say, “I’ll take
-     both, thank you.”
-                   ~ Vicki Robin
+	“We live a small part
+     only of our lives.”
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Washington Post]
+   1. Lando Norris partied
+       a little too hard in
+       Amsterdam today
+   2. [Washington Post]
        Miami Grand Prix shuts
        down effort to hold Trump
        fundraiser at F1 race
-   2. [scuderiaferrari] on
-       Instagram
    3. Norris: F1 might
        never have a driver with
        Alonso's longevity again
-   4. Since there are
-       plans for Bangkok GP in
-       the future. This was a
-       planned “Bangkok Gran
-       Prix” back in 1938,
-       presented by Prince Bira.
-       It was however cancelled
-       due to the build up of
-       WW2.
+   4. [scuderiaferrari] on
+       Instagram
    5. Meeting planned
        between Andretti and the
        ten team principals for
@@ -55,70 +46,68 @@ Saturday, April 27
        sci-fi villain
 
 # HackerNews
-   1. SVG Viewer – View,
-       edit, and optimize SVGs
-   2. Moviecart – Full
-       length color movie and
-       audio cartridges for stock
-       Atari 2600
-   3. Giving Rust a chance
-       for in-kernel codecs
-   4. World Wide Web
-       (1991)
-   5. The server chose
-       violence
+   1. TfL's simple pop-up
+       message led to a
+       significant drop in paper
+       ticket sales
+   2. Flow Field
+       Pathfinding
+   3. Google made me ruin
+       a perfectly good website
+       (2023)
+   4. Google Quantum AI
+   5. Is it okay to daisy
+       chain a UPS?
 
 # NL
-   1. Does he know what
+   1. I remember this guy
+       (Elden Ring co-op)
+   2. I'm back (The Game
+       of Sisyphus)
+   3. Wake up honey...it's
+       Crab Souls (Another Crab's
+       Treasure)
+   4. Purple stake all
+       over my brain (Balatro)
+   5. Does he know what
        he's cooking (Balatro)
-   2. Seamless co-op (no
-       lies detected) (Elden Ring
-       co-op)
-   3. I just need to lock
-       in (Balatro)
-   4. The math aint mathin
-       (Balatro)
-   5. They cut me down in
-       my prime (Balatro)
 
 # Slovakia
-   1. News digest: UK
+   1. 5 sites in
+       Bratislava that pilgrims
+       shouldn’t skip
+   2. News digest: UK
        extradites neo-Nazi Bombic
        back to Slovakia
-   2. Vlkolínec's absurd
+   3. Vlkolínec's absurd
        double fees should end
        soon, as locals' quarrels
        are resolved
-   3. To atone for his
+   4. To atone for his
        potentially deadly crash,
        Danko sweeps streets for a
        couple of hours
-   4. Weekend: Antiques,
+   5. Weekend: Antiques,
        old craft and other blasts
        from the past
-   5. A snowy peak rising
-       from the clouds. Slovak
-       photographer's stunning
-       image wins award
 
 # Space
-   1. Russia vetoes UN
+   1. Watch SpaceX Dragon
+       cargo capsule depart the
+       ISS today
+   2. Russia vetoes UN
        resolution against nuclear
        weapons in space
-   2. Beavers are helping
+   3. Beavers are helping
        fight climate change,
        satellite data shows
-   3. Astronomers just
+   4. Astronomers just
        discovered a comet that
        could be brighter than
        most stars when we see it
        next year. Or will it?
-   4. This Week In Space
+   5. This Week In Space
        podcast: Episode 108 —
        Starliner: Better Late
        Than Never?
-   5. Boeing's Starliner
-       spacecraft will not fly
-       private missions yet,
-       officials say
 
