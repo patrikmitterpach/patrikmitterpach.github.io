@@ -1,122 +1,131 @@
 -- Daily Times --
-Sunday, April 28
+Tuesday, April 30
 
-	“Choose a sound
-     financial lifestyle. Start
-     early and invest regularly.
-     Know what you’re buying.
-     Preserve your buying power.
-     Keep costs and taxes low.
-     Diversify your stock
-     portfolio [and diversify
-     your stock risk with a bond
-     portfolio].”
-~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
+	I will so live as to
+     remember that I was born for
+     others, and will thank
+     Nature on this account: for
+     in what fashion could she
+     have done better for me? she
+     has given me alone to all,
+     and all to me alone.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lando Norris partied
-       a little too hard in
-       Amsterdam today
-   2. Adrian Newey set for
-       talks with Red Bull over
-       F1 future after exit
-       reports
-   3. Scary incident
-       during USF Juniors
-   4. Spotted Valtteri
-       Bottas racing yesterday.
-   5. Ferrari: There is
-       confidence in the Imola
-       updates.
+   1. The F1 camera
+       operator trying to find
+       Alex Albon at Miami last
+       year
+   2. [Scuderia Ferrari] I
+       see a red car and I want
+       it painted b̶l̶a̶c̶k̶ blue
+   3. Adrian Newey’s
+       desire to leave is public
+       thumbs-down of Red Bull
+       regime
+   4. [INDYCAR] McLaren
+       has fired David Malukas
+       from the team
+   5. [Andrew Benson from
+       BBC] He (Adrian Newey) has
+       been made offers by
+       Ferrari and Aston Martin.
+       I’m told by sources close
+       to him that he is
+       seriously considering
+       Ferrari but is not
+       interested in going to
+       Aston Martin.
 
 # Gaming
-   1. Kirsten Dunst spells
-       out the meaning of Civil
-       War in one wordless moment
-   2. Why is it so
-       difficult to play Fallout
-       games on PC right now?
-   3. 7 Days in Hell did
-       Challengers before
-       Challengers — threesomes
-       and all
-   4. No Rest for the
-       Wicked will be a great
-       ARPG if it can get over
-       the hill
-   5. TikTok’s biggest
-       creators imagine what
-       would happen if the app
-       went away
+   1. Miyazaki’s The Boy
+       and the Heron gets fancy
+       4K Blu-ray treatment this
+       summer
+   2. Studios are
+       sacrificing 2024’s
+       blockbuster movies to
+       boost 2025’s box office
+   3. When is the weekly
+       reset time in Destiny 2?
+   4. What is the Destiny
+       2 raid and dungeon
+       rotation this week?
+   5. Stardew Valley’s
+       cookbook feels like
+       cooking with the game’s
+       cozy characters
 
 # HackerNews
-   1. Zilog Z80 CPU –
-       Modern, free and open
-       source silicon clone
-   2. LoRA+: Efficient Low
-       Rank Adaptation of Large
-       Models
-   3. Synth wars: The
-       story of MIDI (2023)
-   4. TfL's simple pop-up
-       message led to a
-       significant drop in paper
-       ticket sales
-   5. Google made me ruin
-       a perfectly good website
-       (2023)
+   1. Why SQLite Uses
+       Bytecode
+   2. Show HN: I made a
+       CLI tool to create web
+       extensions with no build
+       configuration
+   3. CloudGoat
+   4. Show HN: 3D
+       framework for the web,
+       built on Svelte and
+       Three.js
+   5. TypeSpec: A new
+       language for API-centric
+       development
 
 # NL
-   1. I remember this guy
-       (Elden Ring co-op)
-   2. I'm back (The Game
-       of Sisyphus)
-   3. Wake up honey...it's
-       Crab Souls (Another Crab's
-       Treasure)
-   4. Purple stake all
-       over my brain (Balatro)
-   5. Does he know what
-       he's cooking (Balatro)
+   1. He was right though
+       (Jackbox)
+   2. Don't get me started
+       on the parking apps
+       (Another Crab's Treasure)
+   3. One day I'll make
+       plasma work (Balatro)
+   4. Clay isn't my tempo
+       (Top Spin 2K25)
+   5. We did it Dan (Elden
+       Ring co-op)
 
 # Slovakia
-   1. 5 sites in
-       Bratislava that pilgrims
-       shouldn’t skip
-   2. News digest: UK
-       extradites neo-Nazi Bombic
-       back to Slovakia
-   3. Vlkolínec's absurd
-       double fees should end
-       soon, as locals' quarrels
-       are resolved
-   4. To atone for his
-       potentially deadly crash,
-       Danko sweeps streets for a
-       couple of hours
-   5. Weekend: Antiques,
-       old craft and other blasts
-       from the past
+   1. In Bratislava and
+       free: Jean-Michel Jarre
+       will perform concert
+       against backdrop of the
+       UFO bridge
+   2. Diplomat: Slovakia
+       is not Britain, the
+       consequences of leaving EU
+       would be much more
+       difficult
+   3. Will Brussels listen
+       to firms tired of
+       never-ending changes?
+   4. Camera in Slovakia
+       captures bright meteor
+       passing over Czech
+       Republic
+   5. ESG reporting
+       requires across-the-board
+       cooperation in companies
 
 # Space
-   1. Everything we know
-       about James Gunn's
-       Superman
-   2. Sneak peek:
-       Browncoats grab victory in
-       Boom! Studios' upcoming
-       'Firefly: 'Verses' comic
-       (exclusive)
-   3. SpaceX launching 23
-       Starlink satellites from
-       Florida this evening
-   4. NASA's mission to an
-       ice-covered moon will
-       contain a message between
-       water worlds
-   5. Watch SpaceX Dragon
-       cargo capsule depart the
-       ISS today
+   1. Space threats, NORAD
+       upgrade may spur new
+       private defense spending
+       in Canada
+   2. SpaceX vet's startup
+       Portal Space Systems comes
+       out of stealth mode
+   3. Scientists unravel
+       mysteries of gamma-ray
+       bursts — the universe's
+       most powerful explosions
+   4. SpaceX's Starship
+       could help this start-up
+       beam clean energy from
+       space. Here's how (video)
+   5. Evidence for Planet
+       9 found in icy bodies
+       sneaking past Neptune
 
