@@ -127,7 +127,7 @@ function handleOnFocus(event) {
   main_hint_text.textContent = direction == "h" ? currentAcrossHint.textContent : currentDownHint.textContent;
 
   var arrow = document.getElementById("directionArrow")
-  arrow.src = direction == "h" ? "right_arrow.png" : "down_arrow.png"
+  arrow.src = direction == "h" ? "crosswords/right_arrow.png" : "crosswords/down_arrow.png"
 
   currentAcrossHint.scrollIntoView();
   currentDownHint.scrollIntoView();
@@ -366,14 +366,15 @@ async function prepareMap() {
 }
 
 async function prepareGrid() {
-  mappedArr = await prepareMap()
+  const mappedArr = await prepareMap();
+
   for (let i = 0; i < numRows; i++) {
     for (let j = 0; j < numCols; j++) {
       var currentCell = document.querySelector(`input[data-row="${i}"][data-col="${j}"]`);
-      if (mappedArr[i][j] == "#") {
-        currentCell.value = "#"
+      if (mappedArr && mappedArr[i] && mappedArr[i][j] == "#") {
+        currentCell.value = "#";
         currentCell.classList.add("noselect");
-        currentCell.parentElement.classList.add("noselect")
+        currentCell.parentElement.classList.add("noselect");
       }
     }
   }
