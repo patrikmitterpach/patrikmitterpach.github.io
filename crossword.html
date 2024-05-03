@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DennéKrížovky.sk | Nová krížovka každý deň</title>
+    <link rel="stylesheet" type="text/css" href="crosswords/styles.css">
+    <link rel="icon" type="x-icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-banner">
+        <img id="main-logo" src="crosswords/logo.png">
+        <div class="title-box">
+            <h1 class="main-title">DennéKrížovky.sk</h1>
+            <p class="title-subtitle">Nová krížovka, každý deň.</p>
+        </div>
+    </header>
+    
+    <div class="container">
+            <div class="game">
+                <div class="date">
+                    <p id="date">9.3.2024, Sobota</p>
+                    <p id="clock">0:00</p>
+                </div>
+                <hr>
+                <div class="main-hint-highlight">
+                    <img src="crosswords/right_arrow.png"  id="directionArrow">
+                    <p class="main-hint-text">Nápoveda</p>
+                    <p id="score">0</p>
+
+                </div>
+                <div class="grid-container">
+                <table id="crosswordGrid" onpaste="return false"></table>
+                </div>
+            </div>
+        <div class="hints-column">
+            <div class="hints-container">
+                <h3 class="sticky-element">Vodorovne</h3>
+                <div class="hints-list">
+                    <ul id="hints"></ul>
+                </div>
+            </div>
+        <div class="hints-container">
+            <h3 class="sticky-element">Zvisle</h3>
+                <div class="hints-list">
+                    <ul id="hints-vertical"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</head>
+<body>
+    <pre id="fileContent"></pre>
+    <script src="crosswords/script.js"></script>
+    
+</body>
+</html>

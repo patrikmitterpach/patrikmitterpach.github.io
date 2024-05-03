@@ -1,0 +1,280 @@
+li {
+    --perp_color: #ADD8E6
+}
+
+
+body {
+    font-family: "Merriweather", 'Times New Roman', Times, serif;
+}
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+    background: black;
+}
+
+.noselect::selection {
+    background: none;
+}
+
+.site-banner {
+    height: 115px;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+input {
+    height: 50px;
+    width: 50px;
+    max-width: 40px;
+    max-height: 40px;
+
+    outline: none;
+    border: none;
+    text-align: center;
+    background: none;
+
+    text-transform: uppercase;
+
+
+    text-transform: uppercase;
+    font-family: "Merriweather";
+    font-size: 120%;
+    font-weight: 500;
+
+    caret-color: transparent;
+}
+
+span {
+    margin-left: 2px;
+    vertical-align: top;
+    font-size: 50%;
+    /* Set font size */
+    position: absolute;
+    font-weight: 600;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    aspect-ratio: 1;
+    position: relative;
+    border: 3px solid black;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.date {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: -10px;
+    margin-top: 20px;
+
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+#check-correct {
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+    align-self: center;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+p {
+    margin: 0;
+}
+#clock {
+    position: relative;
+    display: flex;
+    margin-left: auto;    
+}
+.container {
+        display: flex;
+        justify-content: center; /* Horizontally center the child elements */
+        flex-direction: row; /* This is the default value, ensuring items are laid out in a row */
+}
+
+.main-title {
+    font-size: 36px;
+
+}
+.title-subtitle {
+    font-style: italic;
+    color:gray;
+}
+
+img {
+    max-width: 100px;
+    margin: 20px;
+    display: inline;
+}
+#directionArrow {
+    width: 40px;
+    height: 40px;
+}
+
+.main-hint-highlight {
+    display:flex;
+    border-radius: 10px; /* Adjust the pixel value to control the roundness */
+    background: #ADD8E6;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    align-items: center;
+}
+.main-hint-text {
+    font-weight: bold;
+    font-size: 18px;
+}
+.grid-container {
+    flex: 0;
+    /* Let the grid container grow to fill available space */
+}
+
+
+.hints-container {
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.hints-column {
+    margin-top: 16px;
+}
+
+.hints-list {
+    width: 300px; /* Adjust as needed */
+    max-height: 250px;
+    overflow-y: auto; /* Enables vertical scrolling */
+    align-items: start;
+    justify-items: left;
+    /* Set a fixed width for the hints container */
+    margin-left: 20px;
+
+}
+
+.sticky-element {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-color: #C5C5C5;
+    
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 40px;
+    margin-bottom: 5px;
+    padding: 10px;
+    padding-bottom: 2px;
+    
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0; /* Adjust based on desired placement */
+    background-color: white; /* For visibility */
+    z-index: 1000; /* Ensure it's above other content */
+    text-align: left;
+
+
+}
+
+#score {
+    font-size: 22px;
+    position: relative;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+h1 {
+    padding-top: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles */
+    font-size: 16px;
+    padding-right: 20px;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+li {
+    position: relative; /* Set position to relative for the parent element */
+    padding-left: 10px; /* Add padding to create space for the highlight */
+    border-radius: 5px; /* Adjust the pixel value to control the roundness */
+    
+}
+
+li.highlight::before {
+    content: ""; /* Add content to the pseudo-element */
+    position: absolute; /* Set position to absolute */
+    top: 0; /* Position from the top */
+    left: 0; /* Position from the left */
+    width: 4px; /* Set width of the highlight */
+    height: 100%; /* Set height to cover the entire height of the list item */
+    background-color: var(--perp_color); /* Set background color of the highlight */
+    border-radius: 5px;
+}
+
+
+
+@media (max-width: 980px) {
+    span {
+        font-size: 0.6em;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .container {
+        flex-direction: column;
+    }
+
+    .hints-container {
+        margin-top: 1%;
+        margin-left: auto;
+    }
+
+
+    td {
+        width: initial;
+        height: initial; 
+    }
+
+    input {
+        width: 100%;
+        box-sizing: border-box;
+        height: 100%;
+        aspect-ratio: 1;
+    }
+
+    table {
+        width:100%;
+        aspect-ratio: 1;
+
+        border-collapse: collapse;
+    }
+    .main-title {
+        font-size: 24px;
+    }
+}
