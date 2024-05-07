@@ -355,14 +355,13 @@ function handleInput(event) {
 }
 
 async function prepareMap() {
-  const response = await fetch('crosswords/grid.txt');
-  const text = await response.text();
-  const map = text;
+  let contents = '';
+  globalMappedArr = await fetch('crosswords/grid.txt')
+    .then(response => response.text())
+    .then(text => { contents.split('\r\n').filter(line => line) })
+    .then(text.map(line => text.split('')));
 
-  const lines = map.split('\r\n').filter(line => line);
-  const charArray2D = lines.map(line => line.split(''));
-  globalMappedArr = charArray2D;
-  return charArray2D;
+  return globalMappedArr;
 }
 
 async function prepareGrid() {
