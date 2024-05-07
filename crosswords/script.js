@@ -367,10 +367,10 @@ async function prepareMap() {
 async function prepareGrid() {
   var mappedArr = await prepareMap();
 
-  if (mappedArr.length > 12) {
+  if (mappedArr[0].length > 12) {
     var result = [];
-    for (var i = 0; i < mappedArr.length; i += 12) {
-        result.push(mappedArr.slice(i, i + 12));
+    for (var i = 0; i < mappedArr[0].length; i += 12) {
+        result.push(mappedArr[0].slice(i, i + 12));
     }
     mappedArr = result;
   }
