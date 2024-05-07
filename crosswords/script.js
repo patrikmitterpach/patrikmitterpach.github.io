@@ -366,7 +366,9 @@ async function prepareGrid() {
   var out = await prepareMap();
 
   var lines = out.split(/\r\n/);
-
+  if (lines.length <= 1) {
+    lines = out.split(/\n/)
+  }
   // Initialize a 2D array
   var mappedArr = [];
 
@@ -376,6 +378,8 @@ async function prepareGrid() {
       var characters = line.split('');
       mappedArr.push(characters);
   }
+
+
   globalMappedArr = mappedArr
 
   for (let i = 0; i < numRows; i++) {
