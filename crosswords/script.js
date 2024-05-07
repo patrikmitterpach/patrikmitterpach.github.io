@@ -357,24 +357,26 @@ function handleInput(event) {
 async function prepareMap() {
   let contents = '';
   globalMappedArr = await fetch('crosswords/grid.txt')
-    .then(response => response.text())
-    .then(contents => contents.split('\r\n').filter(line => line))
-    .then(lines => lines.map(line => line.split('')));
+   
 
-  return globalMappedArr;
+  return globalMappedArr.text();
 }
 
 async function prepareGrid() {
-  var mappedArr = await prepareMap();
+  var out = await prepareMap();
 
-  if (mappedArr[0].length > 12) {
-    var result = [];
-    for (var i = 0; i < mappedArr[0].length; i += 12) {
-        result.push(mappedArr[0].slice(i, i + 12));
-    }
-    mappedArr = result;
+  var lines = out.split(/\r\n/);
+
+  // Initialize a 2D array
+  var mappedArr = [];
+
+  // Iterate over each line
+  for (var i = 0; i < lines.length; i++) {
+      var line = lines[i];
+      var characters = line.split('');
+      mappedArr.push(characters);
   }
-
+  globalMappedArr = mappedArr
 
   for (let i = 0; i < numRows; i++) {
     for (let j = 0; j < numCols; j++) {
