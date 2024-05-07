@@ -1,9 +1,10 @@
 -- Daily Times --
 Tuesday, May 07
 
-	To live happily, then,
-     is the same thing as to live
-     according to Nature.
+	When you rave against
+     Heaven, I do not say that
+     you commit sacrilege, but
+     you waste your time.
                         ~ Seneca
 
 
@@ -17,47 +18,51 @@ Tuesday, May 07
        good everyone looks at
        him, you know, and then
        they don't bother me".
-   2. Red Bull confirms
-       Verstappen had floor
-       damage from bollard.
+   2. I got the bollard
    3. [@landonorris on
        Instagram] Worth it
-   4. I got the bollard
-   5. Verstappen says Red
-       Bull found “hole” in car’s
-       floor after bollard
-       incident
+   4. Lewis congratulating
+       Esteban after the race for
+       scoring Alpine’s first
+       point
+   5. [Carlos Sainz] "If
+       we would have extended one
+       more lap, we would've
+       caught the safety car and
+       we could have won the race
+       too."
 
 # Gaming
-   1. Can Hitmonlee and
+   1. What time does
+       Helldivers 2’s Polar
+       Patriots Warbond release?
+   2. Can Hitmonlee and
        Hitmonchan be shiny in
        Pokémon Go?
-   2. Looking for a
+   3. Looking for a
        capture card? Our guide
        has the top picks
-   3. How to unlock Arcana
+   4. How to unlock Arcana
        Cards in Hades 2
-   4. Helldivers 2 players
+   5. Helldivers 2 players
        knew how to mobilize
        against Sony after
        training in-game
-   5. New Doctor Who,
-       Netflix’s Bodkin, and more
-       new TV this week
 
 # HackerNews
-   1. Caniemail.com – like
+   1. Caniwebview.com –
+       Like Caniuse but for
+       Webviews
+   2. Pyspread – The Most
+       Pythonic Spreadsheet
+   3. Caniemail.com – like
        caniuse but for email
        content
-   2. Design docs at
-       Google
-   3. Secure Randomness in
-       Go 1.22
-   4. Attackers can
-       decloak routing-based VPNs
-   5. A book Stanley
-       Kubrick didn’t want anyone
-       to read is being published
+   4. Design docs at
+       Google (2020)
+   5. Dotfiles: Unofficial
+       Guide to Dotfiles on
+       GitHub
 
 # NL
    1. The worst round ever
@@ -91,23 +96,23 @@ Tuesday, May 07
        already there
 
 # Space
-   1. Boeing Starliner 1st
+   1. Should we seal DNA
+       samples of Earth's
+       endangered species in a
+       moon crater?
+   2. 'Warp drives' may
+       actually be possible
+       someday, new study
+       suggests
+   3. Rocket issue pushes
+       1st astronaut launch of
+       Boeing's Starliner capsule
+       to May 10
+   4. Boeing Starliner 1st
        astronaut flight: Live
        updates
-   2. Boeing Starliner's
+   5. Boeing Starliner's
        historic 1st astronaut
        launch delayed by Atlas V
        rocket issue
-   3. 'Sparkly' narwhal
-       toy trades sea for space
-       as Boeing Starliner zero-g
-       indicator
-   4. Watch 2 bus-size
-       asteroids make close
-       flybys of Earth this week
-       (video)
-   5. Spacecraft captures
-       absolutely incredible
-       video of plasma swirling
-       on the sun
 
