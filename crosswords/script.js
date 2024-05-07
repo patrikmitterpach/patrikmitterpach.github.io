@@ -358,8 +358,8 @@ async function prepareMap() {
   let contents = '';
   globalMappedArr = await fetch('crosswords/grid.txt')
     .then(response => response.text())
-    .then(text => { contents.split('\r\n').filter(line => line) })
-    .then(text.map(line => text.split('')));
+    .then(contents => contents.split('\r\n').filter(line => line))
+    .then(lines => lines.map(line => line.split('')));
 
   return globalMappedArr;
 }
