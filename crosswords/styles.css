@@ -162,7 +162,7 @@ img {
 }
 
 .hints-list {
-    width: 300px; /* Adjust as needed */
+    width: auto; /* Adjust as needed */
     max-height: 250px;
     overflow-y: auto; /* Enables vertical scrolling */
     align-items: start;
