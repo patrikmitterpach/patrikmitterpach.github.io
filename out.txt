@@ -1,123 +1,128 @@
 -- Daily Times --
 Wednesday, May 08
 
-	High office, monuments,
-     all that ambition records in
-     decrees or piles up in
-     stone, soon passes away:
-     lapse of time casts down and
-     ruins everything; but those
-     things on which Philosophy
-     has set its seal are beyond
-     the reach of injury.
-                        ~ Seneca
+	“I must not fear. Fear
+     is the mind-killer. Fear is
+     the little-death that brings
+     total obliteration. I will
+     face my fear. I will permit
+     it to pass over me and
+     through me. And when it has
+     gone past I will turn the
+     inner eye to see its path.
+     Where the fear has gone
+     there will be nothing. Only
+     I will remain.”
+                 ~ Frank Herbert
 
 
 -- News --
 # Formula1
-   1. [Charles Leclerc] he
-       is very fast, he is very
-       cool, he is very scary and
-       very brave, he is
-       everything. Leo
+   1. Imola Changes for
+       2024 - Less asphalt, more
+       gravel
    2. With all the talk
        regarding the Miami GP
        food prices being posted
        out of context. This is
        what $20 got you.
-   3. F1 Miami GP boss
-       says $280 lobster rolls
-       price was posted out of
-       context
-   4. Imola Changes for
-       2024 - Less asphalt, more
-       gravel
-   5. Charles Leclerc | He
+   3. Lando Norris via
+       Instagram
+   4. Charles Leclerc | He
        is very fast, he is very
        cool, he is very scary and
        very brave, he is
        everything. Leo (Full)
+   5. House Judiciary
+       chief launches
+       investigation into Formula
+       1 over Andretti exclusion
 
 # Gaming
-   1. Star Trek: Discovery
-       boldly goes where no Trek
-       has gone before by saying
-       religion is... OK,
-       actually
-   2. The best indie games
-       of 2024 so far
-   3. Where in the EDZ is
-       Archie in Destiny 2?
-   4. Destiny 2 The
-       Pantheon bosses list,
-       rewards, and guide to how
-       it works
-   5. Everything we know
-       about Wednesday season 2
+   1. Today’s crossword
+       will test your Nintendo
+       history
+   2. X-Men ’97 rips on
+       2000 era’s ‘black leather’
+       costumes, which Ian
+       McKellan rightfully
+       defended
+   3. Kingdom of the
+       Planet of the Apes brings
+       nothing to the table
+   4. Where to watch all
+       the Planet of the Apes
+       movies on streaming
+   5. The video game movie
+       and TV adaptations that
+       actually work
 
 # HackerNews
-   1. 40 years later, a
-       game for the ZX Spectrum
-       will be again broadcast
-       over FM radio
-   2. Who Wants to Be a
-       Thousandaire? (2011)
-   3. Apple introduces M4
-       chip
-   4. TimesFM (Time Series
+   1. AlphaFold 3 predicts
+       the structure and
+       interactions of all of
+       life's molecules
+   2. TimesFM (Time Series
        Foundation Model) for
        time-series forecasting
-   5. 'Underwater bicycle'
-       propels swimmers forward
-       at superhuman speed
+   3. Show HN: I made a
+       better Perplexity for
+       developers
+   4. Tech firms must tame
+       toxic algorithms to
+       protect children online
+   5. The Waning Reign of
+       the Muskrat
 
 # NL
-   1. The wheel rewards
+   1. My only two
+       weaknesses: two vagabonds
+       (Balatro)
+   2. The wheel rewards
        the faithful (Jackbox)
-   2. The actual best
+   3. The actual best
        jokers ever (Balatro)
-   3. It's (not) hip to be
+   4. It's (not) hip to be
        a square (Balatro)
-   4. The worst round ever
+   5. The worst round ever
        played (Jackbox)
-   5. Stuntman sends his
-       regards (Balatro)
 
 # Slovakia
-   1. Work and life
+   1. Southern districts
+       connected by 30-kilometer
+       cycling road for
+       approximately 9.5 million
+       euros
+   2. Work and life
        connections
-   2. News digest: Unlike
+   3. News digest: Unlike
        Austrians, too many
        Slovaks work in
        high-polluting jobs
-   3. Russian ambassador's
+   4. Russian ambassador's
        planned visit to Slovak
        parliament ends in fiasco
-   4. From small Slovak
+   5. From small Slovak
        village to Mount Suribachi
        on iconic WW2 photo
-   5. Hundreds of schools
-       paralysed by a bomb threat
-       sent from an alleged
-       Russian email
 
 # Space
-   1. Sun explodes in a
+   1. Axiom Space eyes the
+       moon while continuing to
+       dream big in Earth orbit
+   2. This diamond
+       exoplanet lost its
+       atmosphere — then it grew
+       another
+   3. Solar eclipse 2024:
+       Live updates
+   4. China just sent a
+       secret mini-rover to the
+       far side of the moon on
+       its Chang'e 6
+       sample-return probe
+   5. Sun explodes in a
        flurry of powerful solar
        flares from hyperactive
        sunspots (video)
-   2. China's Chang'e 6
-       mission to moon's far side
-       enters lunar orbit
-   3. Private lunar lander
-       to carry 'memory disk' of
-       275 human languages to the
-       moon in 2024
-   4. SpaceX launching 23
-       satellites from Florida
-       today on 1st leg of
-       Starlink doubleheader
-   5. Fall into a black
-       hole in mind-bending NASA
-       animation (video)
 
