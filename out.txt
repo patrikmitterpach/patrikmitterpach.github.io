@@ -1,12 +1,15 @@
 -- Daily Times --
 Wednesday, May 08
 
-	The pleasures of wise
-     men, on the other hand, are
-     mild, decorous, verging on
-     dullness, kept under
-     restraint and scarcely
-     noticeable.
+	High office, monuments,
+     all that ambition records in
+     decrees or piles up in
+     stone, soon passes away:
+     lapse of time casts down and
+     ruins everything; but those
+     things on which Philosophy
+     has set its seal are beyond
+     the reach of injury.
                         ~ Seneca
 
 
@@ -17,60 +20,56 @@ Wednesday, May 08
        cool, he is very scary and
        very brave, he is
        everything. Leo
-   2. [Piergiuseppe
-       Donadoni] Vasseur believes
-       that Red Bull is no longer
-       in an important comfort
-       zone and that, with a
-       small step, Ferrari will
-       be able to fight it out
-       every weekend. Important
-       words because a great
-       package for Ferrari and
-       some updates for Red Bull
-       will arrive in Imola
-   3. F1 Miami GP boss
-       says $280 lobster rolls
-       price was posted out of
-       context
-   4. With all the talk
+   2. With all the talk
        regarding the Miami GP
        food prices being posted
        out of context. This is
        what $20 got you.
-   5. Horner: Wolff should
-       be more worried than me
-       after losing 220 F1 staff
-       to Red Bull
+   3. F1 Miami GP boss
+       says $280 lobster rolls
+       price was posted out of
+       context
+   4. Imola Changes for
+       2024 - Less asphalt, more
+       gravel
+   5. Charles Leclerc | He
+       is very fast, he is very
+       cool, he is very scary and
+       very brave, he is
+       everything. Leo (Full)
 
 # Gaming
-   1. Everything we know
+   1. Star Trek: Discovery
+       boldly goes where no Trek
+       has gone before by saying
+       religion is... OK,
+       actually
+   2. The best indie games
+       of 2024 so far
+   3. Where in the EDZ is
+       Archie in Destiny 2?
+   4. Destiny 2 The
+       Pantheon bosses list,
+       rewards, and guide to how
+       it works
+   5. Everything we know
        about Wednesday season 2
-   2. Marvel Snap
-       Spotlight Cache schedule
-       for May 2024
-   3. R. Talsorian Games
-       announces a Cyberpunk
-       Edgerunners-themed TTPRG
-       starter kit
-   4. Save $56 on an
-       annual Game Pass Ultimate
-       subscription through Woot
-   5. Round out your D&D
-       collection with these
-       Amazon deals
 
 # HackerNews
-   1. The search for
-       easier safe systems
-       programming
-   2. Apple introduces M4
+   1. 40 years later, a
+       game for the ZX Spectrum
+       will be again broadcast
+       over FM radio
+   2. Who Wants to Be a
+       Thousandaire? (2011)
+   3. Apple introduces M4
        chip
-   3. Hyperworlds – Web
-       Replacement Projects
-   4. XLSTM: Extended Long
-       Short-Term Memory
-   5. Why use ECC? (2015)
+   4. TimesFM (Time Series
+       Foundation Model) for
+       time-series forecasting
+   5. 'Underwater bicycle'
+       propels swimmers forward
+       at superhuman speed
 
 # NL
    1. The wheel rewards
@@ -85,45 +84,40 @@ Wednesday, May 08
        regards (Balatro)
 
 # Slovakia
-   1. News digest: Unlike
+   1. Work and life
+       connections
+   2. News digest: Unlike
        Austrians, too many
        Slovaks work in
        high-polluting jobs
-   2. Russian ambassador's
+   3. Russian ambassador's
        planned visit to Slovak
        parliament ends in fiasco
-   3. From small Slovak
+   4. From small Slovak
        village to Mount Suribachi
        on iconic WW2 photo
-   4. Hundreds of schools
+   5. Hundreds of schools
        paralysed by a bomb threat
        sent from an alleged
        Russian email
-   5. What are the reasons
-       for traffic jams in
-       Bratislava?
 
 # Space
-   1. 1st astronaut launch
-       of Boeing's Starliner
-       delayed to May 17 to
-       replace 'buzzing' rocket
-       valve
-   2. Next-gen satellites
-       will paint a clearer
-       picture of a changing
-       Earth
-   3. Could alien life be
-       hiding in the rings of
-       Saturn or Jupiter?
-   4. James Webb Space
-       Telescope suggests
-       supermassive black holes
-       grew from heavy cosmic
-       'seeds'
-   5. 'God's Hand'
-       interstellar cloud reaches
-       for the stars in new Dark
-       Energy Camera image
-       (video)
+   1. Sun explodes in a
+       flurry of powerful solar
+       flares from hyperactive
+       sunspots (video)
+   2. China's Chang'e 6
+       mission to moon's far side
+       enters lunar orbit
+   3. Private lunar lander
+       to carry 'memory disk' of
+       275 human languages to the
+       moon in 2024
+   4. SpaceX launching 23
+       satellites from Florida
+       today on 1st leg of
+       Starlink doubleheader
+   5. Fall into a black
+       hole in mind-bending NASA
+       animation (video)
 
