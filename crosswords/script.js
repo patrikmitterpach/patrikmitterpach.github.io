@@ -376,6 +376,7 @@ async function prepareGrid() {
   for (var i = 0; i < lines.length; i++) {
       var line = lines[i];
       var characters = line.split('');
+      characters.pop()
       mappedArr.push(characters);
   }
 
