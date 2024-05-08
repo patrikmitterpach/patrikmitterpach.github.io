@@ -1,29 +1,23 @@
 -- Daily Times --
-Tuesday, May 07
+Wednesday, May 08
 
-	There are three kinds of
-     life, and it is a stock
-     question which of the three
-     is the best: the first is
-     devoted to pleasure, the
-     second to contemplation, the
-     third to action.
+	The pleasures of wise
+     men, on the other hand, are
+     mild, decorous, verging on
+     dullness, kept under
+     restraint and scarcely
+     noticeable.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Amazing podium
-       picture of Lando with the
-       trophy. This is the one.
-   2. Lewis Hamilton for
-       the Met Gala
-   3. [Charles Leclerc] he
+   1. [Charles Leclerc] he
        is very fast, he is very
        cool, he is very scary and
        very brave, he is
        everything. Leo
-   4. [Piergiuseppe
+   2. [Piergiuseppe
        Donadoni] Vasseur believes
        that Red Bull is no longer
        in an important comfort
@@ -35,94 +29,101 @@ Tuesday, May 07
        package for Ferrari and
        some updates for Red Bull
        will arrive in Imola
-   5. "He’s going to be a
-       lap ahead": Unheard moment
-       Verstappen saw race was
-       lost
+   3. F1 Miami GP boss
+       says $280 lobster rolls
+       price was posted out of
+       context
+   4. With all the talk
+       regarding the Miami GP
+       food prices being posted
+       out of context. This is
+       what $20 got you.
+   5. Horner: Wolff should
+       be more worried than me
+       after losing 220 F1 staff
+       to Red Bull
 
 # Gaming
-   1. Marvel Snap
+   1. Everything we know
+       about Wednesday season 2
+   2. Marvel Snap
        Spotlight Cache schedule
        for May 2024
-   2. R. Talsorian Games
+   3. R. Talsorian Games
        announces a Cyberpunk
        Edgerunners-themed TTPRG
        starter kit
-   3. Save $56 on an
+   4. Save $56 on an
        annual Game Pass Ultimate
        subscription through Woot
-   4. Round out your D&D
+   5. Round out your D&D
        collection with these
        Amazon deals
-   5. Hades 2 is all about
-       witches and feminine power
 
 # HackerNews
-   1. Apple introduces M4
+   1. The search for
+       easier safe systems
+       programming
+   2. Apple introduces M4
        chip
-   2. Road resurfacing
-       during the daytime without
-       stopping traffic [video]
-   3. ScrapeGraphAI: Web
-       scraping using LLM and
-       direct graph logic
-   4. The Grateful Dead's
-       Wall of Sound
-   5. LPCAMM2 is a
-       modular, repairable,
-       upgradeable memory
-       standard for laptops
+   3. Hyperworlds – Web
+       Replacement Projects
+   4. XLSTM: Extended Long
+       Short-Term Memory
+   5. Why use ECC? (2015)
 
 # NL
-   1. The actual best
+   1. The wheel rewards
+       the faithful (Jackbox)
+   2. The actual best
        jokers ever (Balatro)
-   2. It's (not) hip to be
+   3. It's (not) hip to be
        a square (Balatro)
-   3. The worst round ever
+   4. The worst round ever
        played (Jackbox)
-   4. Stuntman sends his
+   5. Stuntman sends his
        regards (Balatro)
-   5. I'm the worst to
-       ever do it (Surmount)
 
 # Slovakia
-   1. Russian ambassador's
+   1. News digest: Unlike
+       Austrians, too many
+       Slovaks work in
+       high-polluting jobs
+   2. Russian ambassador's
        planned visit to Slovak
        parliament ends in fiasco
-   2. From small Slovak
+   3. From small Slovak
        village to Mount Suribachi
        on iconic WW2 photo
-   3. Hundreds of schools
+   4. Hundreds of schools
        paralysed by a bomb threat
        sent from an alleged
        Russian email
-   4. What are the reasons
+   5. What are the reasons
        for traffic jams in
        Bratislava?
-   5. News digest: While
-       Korčok muses his political
-       future, survey shows
-       people's opinion
 
 # Space
-   1. Next-gen satellites
+   1. 1st astronaut launch
+       of Boeing's Starliner
+       delayed to May 17 to
+       replace 'buzzing' rocket
+       valve
+   2. Next-gen satellites
        will paint a clearer
        picture of a changing
        Earth
-   2. Could alien life be
+   3. Could alien life be
        hiding in the rings of
        Saturn or Jupiter?
-   3. James Webb Space
+   4. James Webb Space
        Telescope suggests
        supermassive black holes
        grew from heavy cosmic
        'seeds'
-   4. 'God's Hand'
+   5. 'God's Hand'
        interstellar cloud reaches
        for the stars in new Dark
        Energy Camera image
        (video)
-   5. NASA's James Webb
-       Space Telescope mission —
-       Live updates
 
