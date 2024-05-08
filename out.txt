@@ -1,98 +1,107 @@
 -- Daily Times --
 Wednesday, May 08
 
-	“I must not fear. Fear
-     is the mind-killer. Fear is
-     the little-death that brings
-     total obliteration. I will
-     face my fear. I will permit
-     it to pass over me and
-     through me. And when it has
-     gone past I will turn the
-     inner eye to see its path.
-     Where the fear has gone
-     there will be nothing. Only
-     I will remain.”
-                 ~ Frank Herbert
+	“It is more
+     respectable,” say you, “to
+     spend one’s money on such
+     books than on vases of
+     Corinthian brass and
+     paintings.” Not so:
+     everything that is carried
+     to excess is wrong. What
+     excuses can you find for a
+     man who is eager to buy
+     bookcases of ivory and
+     citrus wood, to collect the
+     works of unknown or
+     discredited authors, and who
+     sits yawning amid so many
+     thousands of books, whose
+     backs and titles please him
+     more than any other part of
+     them?
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Imola Changes for
+   1. Lando Norris via
+       Instagram
+   2. Imola Changes for
        2024 - Less asphalt, more
        gravel
-   2. With all the talk
+   3. With all the talk
        regarding the Miami GP
        food prices being posted
        out of context. This is
        what $20 got you.
-   3. Lando Norris via
-       Instagram
-   4. Charles Leclerc | He
-       is very fast, he is very
-       cool, he is very scary and
-       very brave, he is
-       everything. Leo (Full)
-   5. House Judiciary
-       chief launches
-       investigation into Formula
-       1 over Andretti exclusion
+   4. Max's car going over
+       the bollard at Miami GP
+   5. On This Day in 1982:
+       Gilles Villeneuve suffered
+       a fatal during the final
+       qualification session of
+       the 1982 Belgian GP at
+       Circuit Zolder, where he
+       pronounced dead at 9:12 in
+       the evening. The race went
+       on the next day and was
+       won by John Watson.
 
 # Gaming
-   1. Today’s crossword
-       will test your Nintendo
-       history
-   2. X-Men ’97 rips on
-       2000 era’s ‘black leather’
-       costumes, which Ian
-       McKellan rightfully
-       defended
-   3. Kingdom of the
-       Planet of the Apes brings
-       nothing to the table
-   4. Where to watch all
-       the Planet of the Apes
-       movies on streaming
-   5. The video game movie
-       and TV adaptations that
-       actually work
+   1. Where to find bronze
+       in Hades 2
+   2. These new bean bag
+       chairs push the limits of
+       Pokémon roundness
+   3. George Miller
+       explains what his
+       live-action Furiosa kept
+       from the anime version
+   4. X-Men ’97 is setting
+       up a Wolverine plotline
+       that started as a joke
+   5. Prey, Arkane
+       Austin’s masterpiece,
+       still deserves your
+       attention
 
 # HackerNews
    1. AlphaFold 3 predicts
        the structure and
-       interactions of all of
-       life's molecules
-   2. TimesFM (Time Series
-       Foundation Model) for
+       interactions of life's
+       molecules
+   2. Consistency LLM:
+       converting LLMs to
+       parallel decoders
+       accelerates inference 3.5x
+   3. How to Use the
+       Foreign Function API in
+       Java 22 to Call C
+       Libraries
+   4. Development Notes
+       from xkcd's "Machine"
+   5. TimesFM: Time Series
+       Foundation Model for
        time-series forecasting
-   3. Show HN: I made a
-       better Perplexity for
-       developers
-   4. Tech firms must tame
-       toxic algorithms to
-       protect children online
-   5. The Waning Reign of
-       the Muskrat
 
 # NL
-   1. My only two
+   1. Relax, the gang's
+       here (Abiotic Factor)
+   2. Hungry build
+       (Balatro)
+   3. My only two
        weaknesses: two vagabonds
        (Balatro)
-   2. The wheel rewards
+   4. The wheel rewards
        the faithful (Jackbox)
-   3. The actual best
+   5. The actual best
        jokers ever (Balatro)
-   4. It's (not) hip to be
-       a square (Balatro)
-   5. The worst round ever
-       played (Jackbox)
 
 # Slovakia
-   1. Southern districts
-       connected by 30-kilometer
-       cycling road for
-       approximately 9.5 million
-       euros
+   1. "The most beautiful
+       cycling route in Slovakia"
+       officially open
    2. Work and life
        connections
    3. News digest: Unlike
@@ -107,22 +116,24 @@ Wednesday, May 08
        on iconic WW2 photo
 
 # Space
-   1. Axiom Space eyes the
+   1. World's largest
+       visible light telescope
+       spies a galaxy cluster
+       warping spacetime
+   2. SpaceX launching 20
+       satellites from California
+       tonight on 2nd leg of
+       Starlink doubleheader
+   3. Star Wars makes
+       Darth Jar Jar official in
+       'Lego Star Wars: Rebuild
+       the Galaxy' mini-series
+       (video)
+   4. NASA's TESS
+       spacecraft resumes
+       exoplanet hunt after
+       recovering from glitch
+   5. Axiom Space eyes the
        moon while continuing to
        dream big in Earth orbit
-   2. This diamond
-       exoplanet lost its
-       atmosphere — then it grew
-       another
-   3. Solar eclipse 2024:
-       Live updates
-   4. China just sent a
-       secret mini-rover to the
-       far side of the moon on
-       its Chang'e 6
-       sample-return probe
-   5. Sun explodes in a
-       flurry of powerful solar
-       flares from hyperactive
-       sunspots (video)
 
