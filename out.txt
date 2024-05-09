@@ -1,8 +1,12 @@
 -- Daily Times --
 Thursday, May 09
 
-	The lives of busy men
-     are the shortest of all.
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
@@ -11,102 +15,104 @@ Thursday, May 09
    1. Shwartzman (and
        Bearman) testing the new
        spray guards
-   2. Last lap pass by
-       Oscar on Zhou
+   2. It seems they tested
+       few different designs of
+       the wheel covers
    3. Norris has released
        "Lando no Wins"
        merchandise
-   4. [McLaren] Welcome to
-       McLaren Winners club,
-       Lando Norris
-   5. It seems they tested
-       few different designs of
-       the wheel covers
+   4. Effects of the new
+       tyre covers
+   5. [Autosport] Charles
+       Leclerc remains the only
+       driver to score a top-four
+       finish in every Grand Prix
+       so far in 2024
 
 # Gaming
-   1. Surprise! Batman:
-       Caped Crusader is alive
-       and well and premieres
-       this summer
-   2. GTA Online update
-       for the week of May 9
-   3. Harley Quinn, Poison
-       Ivy, and Catwoman’s
-       team-up book returns this
-       August from DC
-   4. Not sure what TV
-       show to watch? Leave a
-       comment, we’ll help
-   5. We will finally gets
-       a Gollum movie in 2026,
-       precious, we will
+   1. How to get thalamus
+       in Hades 2
+   2. Critical Role
+       launches its own
+       subscription service,
+       Beacon
+   3. ColourPop’s new
+       Pokémon collection will
+       make you wanna catch ‘em
+       all
+   4. Where to find all
+       origami birds in Honkai:
+       Star Rail
+   5. The tricks D&D
+       designers used in Vecna:
+       Eve of Ruin to keep
+       20th-level characters from
+       breaking the game
 
 # HackerNews
-   1. Algebraic Data Types
+   1. It's always
+       TCP_NODELAY
+   2. Launch HN: Muddy (YC
+       S19) – Multiplayer browser
+       for getting work done
+   3. ESP32 Drum Synth
+       Machine
+   4. Algebraic Data Types
        for C99
-   2. Exploring HN by
-       mapping and analyzing 40M
-       posts and comments for fun
-   3. VideoPrism: A
-       foundational visual
-       encoder for video
-       understanding
-   4. Show HN: An SQS
-       Alternative on Postgres
-   5. Microsoft PlayReady
-       – Complete Client Identity
-       Compromise
+   5. Show HN: Ellipsis –
+       Automated PR reviews and
+       bug fixes
 
 # NL
-   1. Relax, the gang's
-       here (Abiotic Factor)
-   2. Hungry build
+   1. Chips...I get it now
        (Balatro)
-   3. My only two
+   2. The madness dream is
+       real (Balatro)
+   3. Relax, the gang's
+       here (Abiotic Factor)
+   4. Hungry build
+       (Balatro)
+   5. My only two
        weaknesses: two vagabonds
        (Balatro)
-   4. The wheel rewards
-       the faithful (Jackbox)
-   5. The actual best
-       jokers ever (Balatro)
 
 # Slovakia
-   1. At Slavín memorial,
+   1. Slovexit is not on
+       most people’s minds, a
+       poll shows
+   2. At Slavín memorial,
        Bratislava photographer
        feels like in Johannesburg
-   2. 3 things to do in
+   3. 3 things to do in
        Bratislava for free in the
        next seven days
-   3. Slovakia, Ukraine
+   4. Slovakia, Ukraine
        and Russia: When political
        expediency meets personal
        animus (analysis)
-   4. To put citizens'
+   5. To put citizens'
        interests first, the EU
        must be transformed
-   5. Top 10 events in
-       Bratislava for foreigners
 
 # Space
-   1. Historic space-baked
-       cookie lands in the
-       Smithsonian
-   2. China launches 4
-       satellites on 1st flight
-       of new Long March 6C
-       rocket (video)
-   3. 'Star Trek:
-       Discovery' season 5
-       episode 7 'Eirgah' is the
-       best yet of this final
-       season
-   4. 'Major lunar
-       standstill' may reveal if
-       Stonehenge is aligned with
-       the moon
-   5. 'I don't see any
-       evidence of aliens.'
-       SpaceX's Elon Musk says
-       Starlink satellites have
-       never dodged UFOs
+   1. Sierra Space's 1st
+       Dream Chaser space plane
+       aces key tests. Next stop:
+       Florida launch site.
+   2. NASA's Nancy Grace
+       Roman Telescope will hunt
+       for tiny black holes left
+       over from the Big Bang
+   3. 'Star Wars: Tales of
+       the Empire' review: A
+       gorgeous but ultimately
+       uneven set of stories
+   4. James Webb Space
+       Telescope chief scientist
+       Jane Rigby receives
+       highest US civilian award
+   5. Gargantuan sunspot
+       15-Earths wide erupts with
+       another colossal X-class
+       solar flare (video)
 
