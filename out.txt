@@ -1,5 +1,5 @@
 -- Daily Times --
-Thursday, May 09
+Friday, May 10
 
 	“Why, if the wise man
      receives neither injury nor
@@ -12,107 +12,129 @@ Thursday, May 09
 
 -- News --
 # Formula1
-   1. Shwartzman (and
-       Bearman) testing the new
-       spray guards
+   1. McLaren | The people
+       who made it possible.
    2. It seems they tested
        few different designs of
        the wheel covers
-   3. Norris has released
-       "Lando no Wins"
-       merchandise
-   4. Effects of the new
-       tyre covers
-   5. [Autosport] Charles
-       Leclerc remains the only
-       driver to score a top-four
-       finish in every Grand Prix
-       so far in 2024
+   3. [Scuderia Ferrari]
+       Organisational update:
+       Scuderia Ferrari HP
+       announces that, as of
+       Monday 13 May, Xavi Marcos
+       will bring his valuable
+       experience gained as a
+       race engineer with the
+       Formula 1 team to the
+       development of other
+       important company
+       programmes.
+   4. [Scuderia Ferrari]
+       Scuderia Ferrari HP
+       announces that Bryan
+       Bozzi, who has worked in
+       the team for ten years,
+       currently as Performance
+       Engineer to Charles
+       Leclerc, will now take on
+       the role of his Race
+       Engineer as from next
+       weekend’s Gran Premio del
+       Made in Italy and
+       dell’Emilia-Romagna at
+       Imola.
+   5. What Happened to
+       90,000 Pounds of Leftover
+       Food From the Miami Grand
+       Prix? Answer: Food Rescue
+       US Happened.
 
 # Gaming
-   1. How to get thalamus
+   1. TikTok is a great
+       way to experience the
+       Fallout games now
+   2. Where to unlock all
+       alliance raids in FFXIV
+   3. How to get thalamus
        in Hades 2
-   2. Critical Role
+   4. Critical Role
        launches its own
        subscription service,
        Beacon
-   3. ColourPop’s new
+   5. ColourPop’s new
        Pokémon collection will
        make you wanna catch ‘em
        all
-   4. Where to find all
-       origami birds in Honkai:
-       Star Rail
-   5. The tricks D&D
-       designers used in Vecna:
-       Eve of Ruin to keep
-       20th-level characters from
-       breaking the game
 
 # HackerNews
-   1. It's always
+   1. Roman Tyrian purple
+       snail dye found in UK for
+       first time
+   2. Is the largest root
+       of a random polynomial
+       more likely to be real
+       than complex?
+   3. Elvish, expressive
+       programming language and a
+       versatile interactive
+       shell
+   4. It's always
        TCP_NODELAY
-   2. Launch HN: Muddy (YC
-       S19) – Multiplayer browser
-       for getting work done
-   3. ESP32 Drum Synth
-       Machine
-   4. Algebraic Data Types
-       for C99
-   5. Show HN: Ellipsis –
-       Automated PR reviews and
-       bug fixes
+   5. I was at the
+       clapperboard for Orson
+       Welles' drunk wine
+       commercial (2021)
 
 # NL
-   1. Chips...I get it now
+   1. Life really do be a
+       highway (Heading Out #ad)
+   2. Just point me in the
+       right direction (Abiotic
+       Factor)
+   3. Chips...I get it now
        (Balatro)
-   2. The madness dream is
+   4. The madness dream is
        real (Balatro)
-   3. Relax, the gang's
+   5. Relax, the gang's
        here (Abiotic Factor)
-   4. Hungry build
-       (Balatro)
-   5. My only two
-       weaknesses: two vagabonds
-       (Balatro)
 
 # Slovakia
-   1. Slovexit is not on
-       most people’s minds, a
-       poll shows
-   2. At Slavín memorial,
-       Bratislava photographer
-       feels like in Johannesburg
-   3. 3 things to do in
-       Bratislava for free in the
-       next seven days
-   4. Slovakia, Ukraine
-       and Russia: When political
-       expediency meets personal
-       animus (analysis)
-   5. To put citizens'
-       interests first, the EU
-       must be transformed
+   1. History Talks:
+       Mysterious Ruthenians
+   2. Talented young
+       Slovak's dress design
+       captures the attention of
+       Vogue
+   3. Gecko that survived
+       dino disaster found by
+       Slovak-led team
+   4. News digest: Culture
+       minister feels bullied,
+       targets national theatre
+   5. Ice-hockey world
+       championship kicks off on
+       Friday, and Slovakia will
+       open it
 
 # Space
-   1. Sierra Space's 1st
+   1. China's Chang'e 6
+       probe to the moon's far
+       side has a big lunar
+       mystery to solve
+   2. 4 large incoming
+       solar bursts could
+       supercharge the auroras
+       this weekend
+   3. Sierra Space's 1st
        Dream Chaser space plane
        aces key tests. Next stop:
        Florida launch site.
-   2. NASA's Nancy Grace
+   4. NASA's Nancy Grace
        Roman Telescope will hunt
        for tiny black holes left
        over from the Big Bang
-   3. 'Star Wars: Tales of
+   5. 'Star Wars: Tales of
        the Empire' review: A
        gorgeous but ultimately
        uneven set of stories
-   4. James Webb Space
-       Telescope chief scientist
-       Jane Rigby receives
-       highest US civilian award
-   5. Gargantuan sunspot
-       15-Earths wide erupts with
-       another colossal X-class
-       solar flare (video)
 
