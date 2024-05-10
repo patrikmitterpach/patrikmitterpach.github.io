@@ -1,23 +1,24 @@
 -- Daily Times --
 Friday, May 10
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
-                        ~ Seneca
+	Someone driving a
+     $100,000 car might be
+     wealthy. But the only data
+     point you have about their
+     wealth is that they have
+     $100,000 less than they did
+     before they bought the car
+     (or $100,000 more in debt).
+     That’s all you know about
+     them.
+                 ~ Morgan Housel
 
 
 -- News --
 # Formula1
    1. McLaren | The people
        who made it possible.
-   2. It seems they tested
-       few different designs of
-       the wheel covers
-   3. [Scuderia Ferrari]
+   2. [Scuderia Ferrari]
        Organisational update:
        Scuderia Ferrari HP
        announces that, as of
@@ -29,7 +30,7 @@ Friday, May 10
        development of other
        important company
        programmes.
-   4. [Scuderia Ferrari]
+   3. [Scuderia Ferrari]
        Scuderia Ferrari HP
        announces that Bryan
        Bozzi, who has worked in
@@ -43,47 +44,54 @@ Friday, May 10
        Made in Italy and
        dell’Emilia-Romagna at
        Imola.
-   5. What Happened to
+   4. What Happened to
        90,000 Pounds of Leftover
        Food From the Miami Grand
        Prix? Answer: Food Rescue
        US Happened.
+   5. Brad Pitt's Formula
+       One Movie Budget Surpasses
+       $300 Million, Faces
+       Distribution Hurdles
 
 # Gaming
-   1. TikTok is a great
+   1. Megan Thee
+       Stallion’s new video is a
+       lavish love letter to One
+       Piece, Scott Pilgrim, and
+       Mortal Kombat
+   2. Red, White, and
+       Royal Blue sequel in the
+       works at Prime Video
+   3. Kingdom of the
+       Planet of the Apes’ VFX
+       lead argues that the movie
+       uses AI ethically
+   4. Illumineer’s Quest:
+       Deep Trouble revealed —
+       Disney Lorcana’s co-op and
+       single-player modes are
+       here
+   5. TikTok is a great
        way to experience the
        Fallout games now
-   2. Where to unlock all
-       alliance raids in FFXIV
-   3. How to get thalamus
-       in Hades 2
-   4. Critical Role
-       launches its own
-       subscription service,
-       Beacon
-   5. ColourPop’s new
-       Pokémon collection will
-       make you wanna catch ‘em
-       all
 
 # HackerNews
-   1. Roman Tyrian purple
-       snail dye found in UK for
-       first time
-   2. Is the largest root
+   1. Popover API
+   2. Show HN: A web
+       debugger an ex-Cloudflare
+       team has been working on
+       for 4 years
+   3. Is the largest root
        of a random polynomial
        more likely to be real
        than complex?
-   3. Elvish, expressive
-       programming language and a
-       versatile interactive
-       shell
-   4. It's always
-       TCP_NODELAY
-   5. I was at the
-       clapperboard for Orson
-       Welles' drunk wine
-       commercial (2021)
+   4. Roman Tyrian purple
+       snail dye found in UK for
+       first time
+   5. Apple apologizes for
+       iPad 'Crush' ad that
+       'missed the mark'
 
 # NL
    1. Life really do be a
@@ -99,42 +107,43 @@ Friday, May 10
        here (Abiotic Factor)
 
 # Slovakia
-   1. History Talks:
+   1. Slovak borovička
+       receives protected status
+       from European Commission
+   2. Weekend: These
+       places will not discover
+       themselves, you know
+   3. History Talks:
        Mysterious Ruthenians
-   2. Talented young
+   4. Talented young
        Slovak's dress design
        captures the attention of
        Vogue
-   3. Gecko that survived
+   5. Gecko that survived
        dino disaster found by
        Slovak-led team
-   4. News digest: Culture
-       minister feels bullied,
-       targets national theatre
-   5. Ice-hockey world
-       championship kicks off on
-       Friday, and Slovakia will
-       open it
 
 # Space
-   1. China's Chang'e 6
+   1. Behemoth sunspot
+       AR3664 unleashes its
+       biggest solar flare yet,
+       sparking radio blackouts
+       on Earth (video)
+   2. Netflix's
+       asteroid-impact series
+       'Goodbye Earth' is an
+       insufferably slow disaster
+       saga (review)
+   3. Scientists use XRISM
+       spacecraft to predict fate
+       of matter around monster
+       supermassive black hole
+   4. China's Chang'e 6
        probe to the moon's far
        side has a big lunar
        mystery to solve
-   2. 4 large incoming
+   5. 4 large incoming
        solar bursts could
        supercharge the auroras
        this weekend
-   3. Sierra Space's 1st
-       Dream Chaser space plane
-       aces key tests. Next stop:
-       Florida launch site.
-   4. NASA's Nancy Grace
-       Roman Telescope will hunt
-       for tiny black holes left
-       over from the Big Bang
-   5. 'Star Wars: Tales of
-       the Empire' review: A
-       gorgeous but ultimately
-       uneven set of stories
 
