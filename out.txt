@@ -1,90 +1,113 @@
 -- Daily Times --
 Monday, May 13
 
-	The lives of busy men
-     are the shortest of all.
-                        ~ Seneca
+	Near the end of March,
+     1845, I borrowed an axe and
+     went down to the woods by
+     Walden Pond, nearest to
+     where I intended to build my
+     house, and began to cut down
+     some tall, arrowy white
+     pines, still in their youth,
+     for timber.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. Max will be racing
-       the iRacing Nurburgring 24
-       hours this weekend (from
-       Team Redline's stream)
-   2. New front-runner
-       emerges for Haas seat as
-       Bearman looks certain
-   3. Hulkenberg: Komatsu
-       "gave everything" to keep
-       me at Haas in F1 2025
-   4. F1 teams back
+   1. Haas suing Steiner
+       over alleged “Surviving to
+       Drive” infringements
+   2. F1 teams back
        extending points to 12th
        as "there are no
        backmarkers any more"
-   5. [Goodwood Road &
-       Racing] Adrian Newey shows
-       his race pace! Passing at
-       the hairpin he makes light
-       work passing the V12 Matra
-       MS120B.
+   3. New front-runner
+       emerges for Haas seat as
+       Bearman looks certain
+   4. [Rosario Giuliana]
+       Ferrari at Fiorano
+       approved the big update
+       package for Imola which
+       transforms the SF-24 into
+       a 2.0 version. New shark
+       mouth cooling inlets and
+       abolition of the by-pass
+       duct. The vertical inlet
+       is now connected with the
+       shark mouths, and has a
+       similar shape to Alpine
+       [...]
+   5. [Scuderia Ferrari]
+       Loic Serra and Jerome
+       d’Ambrosio join Scuderia
+       Ferrari HP - (Scuderia
+       Ferrari HP is pleased to
+       announce it is further
+       strengthening the team
+       with the arrival of Loic
+       Serra and Jerome
+       d’Ambrosio, both coming
+       from the Mercedes AMG F1
+       team)
 
 # Gaming
-   1. Square Enix is going
-       ‘aggressively’
-       multiplatform after string
-       of PS5 exclusives
-   2. The monsters that
-       made me: Growing up
-       disabled, all of my heroes
-       were villains
-   3. Mercedes Varnado
-       picks which Sailor Scout
-       would make the best
-       professional wrestler
-   4. The best cozy games
-       to play right now
-   5. What time does
-       Diablo 4 season 4 start?
+   1. Super Mario 64 fans
+       finally open the game’s
+       ‘unopenable’ door, 28
+       years later
+   2. Netflix’s Bridgerton
+       season 3A, X-Men ’97’s
+       finale, and more new TV
+       this week
+   3. You are cordially
+       invited to ruin our
+       esports career
+   4. The best movies of
+       2024 so far
+   5. Mark Hamill’s back
+       as the Joker in
+       MultiVersus
 
 # HackerNews
-   1. GPUs Go Brrr
-   2. The USDA's gardening
-       zones shifted, this map
-       shows you what's changed
-   3. Doom didn't kill the
-       Amiga. Wolfenstein 3D did
-       [video]
-   4. It’s an age of
-       marvels
-   5. Micron Ships
-       Crucial-Branded LPCAMM2
-       Memory Modules: 64GB of
-       LPDDR5X for $330
+   1. GPT-4o
+   2. Show HN: Pi-C.A.R.D,
+       a Raspberry Pi Voice
+       Assistant
+   3. Static Chess
+   4. Apple and Google
+       deliver support for
+       unwanted tracking alerts
+       in iOS and Android
+   5. Show HN: An open
+       source framework for voice
+       assistants
 
 # NL
-   1. Get it twisted, we
+   1. This game just
+       brings it out of me (Hades
+       2)
+   2. Maybe I am
+       overcommitting (Balatro)
+   3. There's an empty
+       space yeah...between my
+       ears
+   4. Get it twisted, we
        will make progress (Elden
        Ring co-op)
-   2. The madmen did it
+   5. The madmen did it
        again (Hades 2)
-   3. It's that easy
-       (Balatro)
-   4. They called me a
-       madman (Miscellaneous)
-   5. We added some swag
-       to the dles
-       (Miscellaneous)
 
 # Slovakia
    1. News digest: Two
        spectacles come to
        Slovakia over weekend
-   2. Price for final D1
-       highway section doubled,
-       no date in sight
-   3. Slovakia struggling
-       with lack of repairers
+   2. Price for unbuilt D1
+       highway section blows out
+       to €2 billion
+   3. EU wants to see more
+       vacuum cleaners fixed, but
+       Slovakia lacks repairers
    4. A look through the
        usually unavailable
        premises of Stará Tržnica
@@ -93,24 +116,23 @@ Monday, May 13
        across Slovakia
 
 # Space
-   1. Lego rolls out
+   1. Space Force aims to
+       launch 1st 'Foo Fighter'
+       satellites in 2027 to
+       track hypersonic threats
+   2. NASA appoints 1st AI
+       chief to keep agency on
+       'the cutting edge'
+   3. SpaceX Starlink
+       satellites doing just fine
+       after weekend solar storm,
+       company says
+   4. 'A Quiet Place: Day
+       One' trailer reveals why
+       Earth went silent after
+       alien invasion (video)
+   5. Lego rolls out
        details about Apollo lunar
        rover model coming in
        August
-   2. New algorithm
-       slashes time to run most
-       sophisticated climate
-       models by 10-fold
-   3. Stunning image shows
-       atoms transforming into
-       quantum waves — just as
-       Schrödinger predicted
-   4. The surface of this
-       volcanic exoplanet is
-       hotter than some stars
-   5. How a giant sunspot
-       unleashed solar storms
-       that spawned global
-       auroras that just dazzled
-       us all
 
