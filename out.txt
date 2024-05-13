@@ -1,10 +1,10 @@
 -- Daily Times --
 Monday, May 13
 
-	It is the privilege of a
-     tranquil and peaceful mind
-     to review all the parts of
-     its life.
+	How far more endurable
+     what I have feared seems to
+     be than what I have lusted
+     after.
                         ~ Seneca
 
 
@@ -17,12 +17,12 @@ Monday, May 13
        the iRacing Nurburgring 24
        hours this weekend (from
        Team Redline's stream)
-   3. Red Bull at Imola:
-       minor update to unlock
-       unexpressed potential
-   4. New front-runner
+   3. New front-runner
        emerges for Haas seat as
        Bearman looks certain
+   4. Red Bull at Imola:
+       minor update to unlock
+       unexpressed potential
    5. Hulkenberg: Komatsu
        "gave everything" to keep
        me at Haas in F1 2025
@@ -45,17 +45,17 @@ Monday, May 13
        contain a huge spoiler
 
 # HackerNews
-   1. GPUs Go Brrr
-   2. A Slower Speed of
-       Light (2012)
-   3. Show HN: CarCheck –
-       Car Buying Checklist App
-   4. PicoMEM by FreddyV –
-       All in One 8-Bit ISA
-       Expansion Card
-   5. MacRelix – Unix-like
-       features for classic Mac
-       OS
+   1. Telegram has
+       launched a pretty intense
+       campaign to malign Signal
+       as insecure
+   2. The Great Flattening
+   3. GPUs Go Brrr
+   4. Statement on
+       CVE-2024-27322
+   5. When children become
+       caregivers, who cares for
+       them?
 
 # NL
    1. Get it twisted, we
@@ -72,39 +72,39 @@ Monday, May 13
        (Miscellaneous)
 
 # Slovakia
-   1. News digest:
+   1. A look through the
+       usually unavailable
+       premises of Stará Tržnica
+   2. Last Week: Bomb
+       threats rock schools
+       across Slovakia
+   3. News digest:
        President Čaputová makes
        farewell visit to Ukraine
-   2. Government clarifies
+   4. Government clarifies
        visa conditions for
        third-country employees
-   3. Slovak borovička
+   5. Slovak borovička
        receives protected status
        from European Commission
-   4. Weekend: These
-       places will not discover
-       themselves, you know
-   5. History Talks:
-       Mysterious Ruthenians
 
 # Space
-   1. SpaceX launches 23
+   1. How a giant sunspot
+       created aurora mayhem this
+       weekend
+   2. SpaceX launches 23
        Starlink satellites from
        Florida
-   2. Scientists could
+   3. Scientists could
        make blazing-fast 6G using
        curving light rays
-   3. 'Extreme' solar
+   4. 'Extreme' solar
        storms cook up sweet
        Mother's Day auroras for
        Moms everywhere
-   4. The stormy sun
+   5. The stormy sun
        erupts with its biggest
        solar flare yet from a
        massive sunspot — and it's
        still crackling (video)
-   5. Houston, we have an
-       encore: ISS virtual
-       reality experience 'The
-       Infinite' returns
 
