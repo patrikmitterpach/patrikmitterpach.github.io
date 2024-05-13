@@ -1,61 +1,66 @@
 -- Daily Times --
 Monday, May 13
 
-	How far more endurable
-     what I have feared seems to
-     be than what I have lusted
-     after.
+	The lives of busy men
+     are the shortest of all.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Verstappen not a fan
-       of F1 superlicence points
-       system blocking Antonelli
-   2. Max will be racing
+   1. Max will be racing
        the iRacing Nurburgring 24
        hours this weekend (from
        Team Redline's stream)
-   3. New front-runner
+   2. New front-runner
        emerges for Haas seat as
        Bearman looks certain
-   4. Red Bull at Imola:
-       minor update to unlock
-       unexpressed potential
-   5. Hulkenberg: Komatsu
+   3. Hulkenberg: Komatsu
        "gave everything" to keep
        me at Haas in F1 2025
+   4. F1 teams back
+       extending points to 12th
+       as "there are no
+       backmarkers any more"
+   5. [Goodwood Road &
+       Racing] Adrian Newey shows
+       his race pace! Passing at
+       the hairpin he makes light
+       work passing the V12 Matra
+       MS120B.
 
 # Gaming
-   1. Mercedes Varnado
+   1. Square Enix is going
+       ‘aggressively’
+       multiplatform after string
+       of PS5 exclusives
+   2. The monsters that
+       made me: Growing up
+       disabled, all of my heroes
+       were villains
+   3. Mercedes Varnado
        picks which Sailor Scout
        would make the best
        professional wrestler
-   2. The best cozy games
+   4. The best cozy games
        to play right now
-   3. What time does
+   5. What time does
        Diablo 4 season 4 start?
-   4. Evil Does Not Exist
-       offers no answers for its
-       terrifying questions
-   5. Kingdom of the
-       Planet of the Apes’
-       posters and trailers all
-       contain a huge spoiler
 
 # HackerNews
-   1. Telegram has
-       launched a pretty intense
-       campaign to malign Signal
-       as insecure
-   2. The Great Flattening
-   3. GPUs Go Brrr
-   4. Statement on
-       CVE-2024-27322
-   5. When children become
-       caregivers, who cares for
-       them?
+   1. GPUs Go Brrr
+   2. The USDA's gardening
+       zones shifted, this map
+       shows you what's changed
+   3. Doom didn't kill the
+       Amiga. Wolfenstein 3D did
+       [video]
+   4. It’s an age of
+       marvels
+   5. Micron Ships
+       Crucial-Branded LPCAMM2
+       Memory Modules: 64GB of
+       LPDDR5X for $330
 
 # NL
    1. Get it twisted, we
@@ -72,39 +77,40 @@ Monday, May 13
        (Miscellaneous)
 
 # Slovakia
-   1. A look through the
+   1. News digest: Two
+       spectacles come to
+       Slovakia over weekend
+   2. Price for final D1
+       highway section doubled,
+       no date in sight
+   3. Slovakia struggling
+       with lack of repairers
+   4. A look through the
        usually unavailable
        premises of Stará Tržnica
-   2. Last Week: Bomb
+   5. Last Week: Bomb
        threats rock schools
        across Slovakia
-   3. News digest:
-       President Čaputová makes
-       farewell visit to Ukraine
-   4. Government clarifies
-       visa conditions for
-       third-country employees
-   5. Slovak borovička
-       receives protected status
-       from European Commission
 
 # Space
-   1. How a giant sunspot
-       created aurora mayhem this
-       weekend
-   2. SpaceX launches 23
-       Starlink satellites from
-       Florida
-   3. Scientists could
-       make blazing-fast 6G using
-       curving light rays
-   4. 'Extreme' solar
-       storms cook up sweet
-       Mother's Day auroras for
-       Moms everywhere
-   5. The stormy sun
-       erupts with its biggest
-       solar flare yet from a
-       massive sunspot — and it's
-       still crackling (video)
+   1. Lego rolls out
+       details about Apollo lunar
+       rover model coming in
+       August
+   2. New algorithm
+       slashes time to run most
+       sophisticated climate
+       models by 10-fold
+   3. Stunning image shows
+       atoms transforming into
+       quantum waves — just as
+       Schrödinger predicted
+   4. The surface of this
+       volcanic exoplanet is
+       hotter than some stars
+   5. How a giant sunspot
+       unleashed solar storms
+       that spawned global
+       auroras that just dazzled
+       us all
 
