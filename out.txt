@@ -1,149 +1,110 @@
 -- Daily Times --
-Friday, May 10
+Monday, May 13
 
-	Someone driving a
-     $100,000 car might be
-     wealthy. But the only data
-     point you have about their
-     wealth is that they have
-     $100,000 less than they did
-     before they bought the car
-     (or $100,000 more in debt).
-     That’s all you know about
-     them.
-                 ~ Morgan Housel
+	It is the privilege of a
+     tranquil and peaceful mind
+     to review all the parts of
+     its life.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. McLaren | The people
-       who made it possible.
-   2. [Scuderia Ferrari]
-       Organisational update:
-       Scuderia Ferrari HP
-       announces that, as of
-       Monday 13 May, Xavi Marcos
-       will bring his valuable
-       experience gained as a
-       race engineer with the
-       Formula 1 team to the
-       development of other
-       important company
-       programmes.
-   3. [Scuderia Ferrari]
-       Scuderia Ferrari HP
-       announces that Bryan
-       Bozzi, who has worked in
-       the team for ten years,
-       currently as Performance
-       Engineer to Charles
-       Leclerc, will now take on
-       the role of his Race
-       Engineer as from next
-       weekend’s Gran Premio del
-       Made in Italy and
-       dell’Emilia-Romagna at
-       Imola.
-   4. What Happened to
-       90,000 Pounds of Leftover
-       Food From the Miami Grand
-       Prix? Answer: Food Rescue
-       US Happened.
-   5. Brad Pitt's Formula
-       One Movie Budget Surpasses
-       $300 Million, Faces
-       Distribution Hurdles
+   1. Verstappen not a fan
+       of F1 superlicence points
+       system blocking Antonelli
+   2. Max will be racing
+       the iRacing Nurburgring 24
+       hours this weekend (from
+       Team Redline's stream)
+   3. Red Bull at Imola:
+       minor update to unlock
+       unexpressed potential
+   4. New front-runner
+       emerges for Haas seat as
+       Bearman looks certain
+   5. Hulkenberg: Komatsu
+       "gave everything" to keep
+       me at Haas in F1 2025
 
 # Gaming
-   1. Megan Thee
-       Stallion’s new video is a
-       lavish love letter to One
-       Piece, Scott Pilgrim, and
-       Mortal Kombat
-   2. Red, White, and
-       Royal Blue sequel in the
-       works at Prime Video
-   3. Kingdom of the
-       Planet of the Apes’ VFX
-       lead argues that the movie
-       uses AI ethically
-   4. Illumineer’s Quest:
-       Deep Trouble revealed —
-       Disney Lorcana’s co-op and
-       single-player modes are
-       here
-   5. TikTok is a great
-       way to experience the
-       Fallout games now
+   1. Mercedes Varnado
+       picks which Sailor Scout
+       would make the best
+       professional wrestler
+   2. The best cozy games
+       to play right now
+   3. What time does
+       Diablo 4 season 4 start?
+   4. Evil Does Not Exist
+       offers no answers for its
+       terrifying questions
+   5. Kingdom of the
+       Planet of the Apes’
+       posters and trailers all
+       contain a huge spoiler
 
 # HackerNews
-   1. Popover API
-   2. Show HN: A web
-       debugger an ex-Cloudflare
-       team has been working on
-       for 4 years
-   3. Is the largest root
-       of a random polynomial
-       more likely to be real
-       than complex?
-   4. Roman Tyrian purple
-       snail dye found in UK for
-       first time
-   5. Apple apologizes for
-       iPad 'Crush' ad that
-       'missed the mark'
+   1. GPUs Go Brrr
+   2. A Slower Speed of
+       Light (2012)
+   3. Show HN: CarCheck –
+       Car Buying Checklist App
+   4. PicoMEM by FreddyV –
+       All in One 8-Bit ISA
+       Expansion Card
+   5. MacRelix – Unix-like
+       features for classic Mac
+       OS
 
 # NL
-   1. Life really do be a
-       highway (Heading Out #ad)
-   2. Just point me in the
-       right direction (Abiotic
-       Factor)
-   3. Chips...I get it now
+   1. Get it twisted, we
+       will make progress (Elden
+       Ring co-op)
+   2. The madmen did it
+       again (Hades 2)
+   3. It's that easy
        (Balatro)
-   4. The madness dream is
-       real (Balatro)
-   5. Relax, the gang's
-       here (Abiotic Factor)
+   4. They called me a
+       madman (Miscellaneous)
+   5. We added some swag
+       to the dles
+       (Miscellaneous)
 
 # Slovakia
-   1. Slovak borovička
+   1. News digest:
+       President Čaputová makes
+       farewell visit to Ukraine
+   2. Government clarifies
+       visa conditions for
+       third-country employees
+   3. Slovak borovička
        receives protected status
        from European Commission
-   2. Weekend: These
+   4. Weekend: These
        places will not discover
        themselves, you know
-   3. History Talks:
+   5. History Talks:
        Mysterious Ruthenians
-   4. Talented young
-       Slovak's dress design
-       captures the attention of
-       Vogue
-   5. Gecko that survived
-       dino disaster found by
-       Slovak-led team
 
 # Space
-   1. Behemoth sunspot
-       AR3664 unleashes its
-       biggest solar flare yet,
-       sparking radio blackouts
-       on Earth (video)
-   2. Netflix's
-       asteroid-impact series
-       'Goodbye Earth' is an
-       insufferably slow disaster
-       saga (review)
-   3. Scientists use XRISM
-       spacecraft to predict fate
-       of matter around monster
-       supermassive black hole
-   4. China's Chang'e 6
-       probe to the moon's far
-       side has a big lunar
-       mystery to solve
-   5. 4 large incoming
-       solar bursts could
-       supercharge the auroras
-       this weekend
+   1. SpaceX launches 23
+       Starlink satellites from
+       Florida
+   2. Scientists could
+       make blazing-fast 6G using
+       curving light rays
+   3. 'Extreme' solar
+       storms cook up sweet
+       Mother's Day auroras for
+       Moms everywhere
+   4. The stormy sun
+       erupts with its biggest
+       solar flare yet from a
+       massive sunspot — and it's
+       still crackling (video)
+   5. Houston, we have an
+       encore: ISS virtual
+       reality experience 'The
+       Infinite' returns
 
