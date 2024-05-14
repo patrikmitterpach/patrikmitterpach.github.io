@@ -127,7 +127,7 @@ function handleOnFocus(event) {
   main_hint_text.textContent = direction == "h" ? currentAcrossHint.textContent : currentDownHint.textContent;
 
   var arrow = document.getElementById("directionArrow")
-  arrow.src = direction == "h" ? "crosswords/right_arrow.png" : "crosswords/down_arrow.png"
+  arrow.src = direction == "h" ? "right_arrow.png" : "down_arrow.png"
 
   currentAcrossHint.scrollIntoView();
   currentDownHint.scrollIntoView();
@@ -356,7 +356,7 @@ function handleInput(event) {
 
 async function prepareMap() {
   let contents = '';
-  globalMappedArr = await fetch('crosswords/grid.txt')
+  globalMappedArr = await fetch('grid.txt')
    
 
   return globalMappedArr.text();
@@ -504,7 +504,7 @@ function updateDate() {
 }
 
 async function prepareHints() {
-  const response = await fetch('crosswords/out.json');
+  const response = await fetch('out.json');
   const hints = await response.json();
 
   const hint_arr = findWords(globalMappedArr)
