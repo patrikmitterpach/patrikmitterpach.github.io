@@ -1,138 +1,120 @@
 -- Daily Times --
-Monday, May 13
+Tuesday, May 14
 
-	Near the end of March,
-     1845, I borrowed an axe and
-     went down to the woods by
-     Walden Pond, nearest to
-     where I intended to build my
-     house, and began to cut down
-     some tall, arrowy white
-     pines, still in their youth,
-     for timber.
-           ~ Henry David Thoreau
+	The wise man will not be
+     angry with sinners. Why not?
+     Because he knows that no one
+     is born wise, but becomes
+     so.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Haas suing Steiner
-       over alleged “Surviving to
-       Drive” infringements
-   2. F1 teams back
-       extending points to 12th
-       as "there are no
-       backmarkers any more"
-   3. New front-runner
-       emerges for Haas seat as
-       Bearman looks certain
-   4. [Rosario Giuliana]
-       Ferrari at Fiorano
-       approved the big update
-       package for Imola which
-       transforms the SF-24 into
-       a 2.0 version. New shark
-       mouth cooling inlets and
-       abolition of the by-pass
-       duct. The vertical inlet
-       is now connected with the
-       shark mouths, and has a
-       similar shape to Alpine
-       [...]
-   5. [Scuderia Ferrari]
-       Loic Serra and Jerome
-       d’Ambrosio join Scuderia
-       Ferrari HP - (Scuderia
-       Ferrari HP is pleased to
-       announce it is further
-       strengthening the team
-       with the arrival of Loic
-       Serra and Jerome
-       d’Ambrosio, both coming
-       from the Mercedes AMG F1
-       team)
+   1. Max Verstappen: "I
+       would rather be 20 seconds
+       ahead rather than fighting
+       wheel to wheel."
+   2. Took a film camera
+       to Miami GP
+   3. 8 watches owned by
+       Formula One great Michael
+       Schumacher are going up
+       for auction
+   4. Logan Sargeant,
+       Sergio Perez demand review
+       of "joke" penalty points
+       system
+   5. Magnussen’s tactics
+       have helped Haas — and put
+       him in danger of a race
+       ban
 
 # Gaming
-   1. Super Mario 64 fans
-       finally open the game’s
-       ‘unopenable’ door, 28
-       years later
-   2. Netflix’s Bridgerton
-       season 3A, X-Men ’97’s
-       finale, and more new TV
-       this week
-   3. You are cordially
-       invited to ruin our
-       esports career
-   4. The best movies of
-       2024 so far
-   5. Mark Hamill’s back
-       as the Joker in
-       MultiVersus
+   1. Inside Out 2’s
+       female emotions finally
+       get to look weird
+   2. Xbox Game Pass gets
+       2023’s best puzzle game
+   3. Sauron is definitely
+       back in Rings of Power
+       season 2 teaser
+   4. Helldivers 2 is
+       PlayStation’s
+       fastest-selling game ever
+   5. The Sims-like boom
+       is real, and even an
+       ex-XCOM dev is going all
+       in
 
 # HackerNews
-   1. GPT-4o
-   2. Show HN: Pi-C.A.R.D,
-       a Raspberry Pi Voice
-       Assistant
-   3. Static Chess
-   4. Apple and Google
-       deliver support for
-       unwanted tracking alerts
-       in iOS and Android
-   5. Show HN: An open
-       source framework for voice
-       assistants
+   1. Blazingly fast
+       linked lists
+   2. Wasp-193B, a giant
+       planet with a density
+       similar to that of cotton
+       candy
+   3. Disney's Robots Use
+       Rockets to Stick the
+       Landing
+   4. New work extends the
+       thermodynamic theory of
+       computation
+   5. Commodore 64 runs AI
+       to generate images
 
 # NL
-   1. This game just
+   1. We just need to lock
+       in (Elden Ring co-op)
+   2. This game just
        brings it out of me (Hades
        2)
-   2. Maybe I am
+   3. Maybe I am
        overcommitting (Balatro)
-   3. There's an empty
+   4. There's an empty
        space yeah...between my
        ears
-   4. Get it twisted, we
+   5. Get it twisted, we
        will make progress (Elden
        Ring co-op)
-   5. The madmen did it
-       again (Hades 2)
 
 # Slovakia
-   1. News digest: Two
+   1. Experience life of
+       monks and disconnect from
+       digital world
+   2. News digest: Two
        spectacles come to
        Slovakia over weekend
-   2. Price for unbuilt D1
+   3. Price for unbuilt D1
        highway section blows out
        to €2 billion
-   3. EU wants to see more
+   4. EU wants to see more
        vacuum cleaners fixed, but
        Slovakia lacks repairers
-   4. A look through the
+   5. A look through the
        usually unavailable
        premises of Stará Tržnica
-   5. Last Week: Bomb
-       threats rock schools
-       across Slovakia
 
 # Space
-   1. Space Force aims to
-       launch 1st 'Foo Fighter'
-       satellites in 2027 to
-       track hypersonic threats
-   2. NASA appoints 1st AI
-       chief to keep agency on
-       'the cutting edge'
-   3. SpaceX Starlink
-       satellites doing just fine
-       after weekend solar storm,
-       company says
-   4. 'A Quiet Place: Day
-       One' trailer reveals why
-       Earth went silent after
-       alien invasion (video)
-   5. Lego rolls out
-       details about Apollo lunar
-       rover model coming in
-       August
+   1. The summer of 2023
+       was Earth's hottest in
+       2,000 years, scientists
+       find
+   2. SpaceX launching
+       50th mission of the year
+       today
+   3. New book
+       'Challenger: A True Story
+       of Heroism & Disaster on
+       the Edge of Space' out
+       today
+   4. How SpaceX's private
+       Polaris Dawn astronauts
+       will attempt the 1st-ever
+       'all-civilian' spacewalk
+   5. This time, we take
+       it from no one: Why
+       opening the High Frontier
+       of space can be different
+       (op-ed)
 
