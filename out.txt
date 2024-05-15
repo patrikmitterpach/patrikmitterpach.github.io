@@ -1,120 +1,131 @@
 -- Daily Times --
-Tuesday, May 14
+Wednesday, May 15
 
-	The wise man will not be
-     angry with sinners. Why not?
-     Because he knows that no one
-     is born wise, but becomes
-     so.
-                        ~ Seneca
+	The single most
+     remarkable and defining
+     moment of the past 500 years
+     came at 05:29:45 on 16 July
+     1945. At that precise
+     second, American scientists
+     detonated the first atomic
+     bomb at Alamogordo, New
+     Mexico. From that point
+     onward, humankind had the
+     capability not only to
+     change the course of
+     history, but to end it.
+             ~ Yuval Noah Harari
 
 
 -- News --
 # Formula1
-   1. Max Verstappen: "I
-       would rather be 20 seconds
-       ahead rather than fighting
-       wheel to wheel."
-   2. Took a film camera
-       to Miami GP
-   3. 8 watches owned by
-       Formula One great Michael
-       Schumacher are going up
-       for auction
-   4. Logan Sargeant,
-       Sergio Perez demand review
-       of "joke" penalty points
-       system
-   5. Magnussen’s tactics
-       have helped Haas — and put
-       him in danger of a race
-       ban
+   1. Lando’s now-deleted
+       Instagram story for Martin
+       Garrix’s birthday
+   2. Why it's time for F1
+       to hold its own
+       "throwback" livery race
+   3. [@NicolePiastri,
+       below Oscar’s surfing
+       post] Taught him
+       everything he knows……..
+       except using the oven to
+       dry his washing
+   4. [The Race] Gary
+       Anderson: Mercedes'
+       upgrade trend shows it's
+       still lost
+   5. Some photos from the
+       Monaco Historic GP I found
 
 # Gaming
-   1. Inside Out 2’s
-       female emotions finally
-       get to look weird
-   2. Xbox Game Pass gets
-       2023’s best puzzle game
-   3. Sauron is definitely
-       back in Rings of Power
-       season 2 teaser
-   4. Helldivers 2 is
-       PlayStation’s
-       fastest-selling game ever
-   5. The Sims-like boom
-       is real, and even an
-       ex-XCOM dev is going all
-       in
+   1. Where on the Moon is
+       Archie in Destiny 2?
+   2. How to finish ‘Zero
+       Hour’ and get Outbreak
+       Perfected in Destiny 2
+   3. Valheim heats up
+       with new, ultra-deadly
+       biome in Ashlands update
+   4. You can get the Eye
+       of Sauron in Lego form
+       with the new Barad-dûr set
+   5. Breaking down the
+       themes, monsters, and
+       rings in The Rings of
+       Power’s season 2 trailer
 
 # HackerNews
-   1. Blazingly fast
-       linked lists
-   2. Wasp-193B, a giant
-       planet with a density
-       similar to that of cotton
-       candy
-   3. Disney's Robots Use
-       Rockets to Stick the
-       Landing
-   4. New work extends the
-       thermodynamic theory of
-       computation
-   5. Commodore 64 runs AI
-       to generate images
+   1. Translation of the
+       Rust's core and alloc
+       crates to Coq for formal
+       verification
+   2. A low budget
+       consumer hardware
+       espionage implant: a GSM
+       device hidden in (2018)
+   3. Veo
+   4. Show HN: I built a
+       math website the internet
+       loved, I'm back with more
+       features
+   5. Bicycle Rolling
+       Resistance: Tire Rolling
+       Resistance Tests and More
 
 # NL
-   1. We just need to lock
+   1. How could this
+       happen to me? (Jackbox)
+   2. They were cooking
+       with this one... (Hades 2)
+   3. This might not be a
+       fruitful endeavour
+       (Balatro)
+   4. The luck cannot be
+       overstated (Balatro)
+   5. We just need to lock
        in (Elden Ring co-op)
-   2. This game just
-       brings it out of me (Hades
-       2)
-   3. Maybe I am
-       overcommitting (Balatro)
-   4. There's an empty
-       space yeah...between my
-       ears
-   5. Get it twisted, we
-       will make progress (Elden
-       Ring co-op)
 
 # Slovakia
-   1. Experience life of
-       monks and disconnect from
-       digital world
-   2. News digest: Two
-       spectacles come to
-       Slovakia over weekend
-   3. Price for unbuilt D1
-       highway section blows out
-       to €2 billion
-   4. EU wants to see more
-       vacuum cleaners fixed, but
-       Slovakia lacks repairers
-   5. A look through the
-       usually unavailable
-       premises of Stará Tržnica
+   1. The most
+       photographed Slovak bus
+       stop changes appearance
+       several times a year
+   2. American Dream found
+       in Slovakia?
+   3. News digest: Flat
+       earther might teach pupils
+       how to use media and think
+       critically
+   4. Poloniny is not only
+       about natural beauty,
+       visit local people for an
+       experience
+   5. People in Poloniny:
+       We don't need Tatras here,
+       but we also don't want
+       empty forests
 
 # Space
-   1. The summer of 2023
-       was Earth's hottest in
-       2,000 years, scientists
-       find
-   2. SpaceX launching
-       50th mission of the year
-       today
-   3. New book
-       'Challenger: A True Story
-       of Heroism & Disaster on
-       the Edge of Space' out
-       today
-   4. How SpaceX's private
-       Polaris Dawn astronauts
-       will attempt the 1st-ever
-       'all-civilian' spacewalk
-   5. This time, we take
-       it from no one: Why
-       opening the High Frontier
-       of space can be different
-       (op-ed)
+   1. Artemis 2 astronauts
+       simulated a day in the
+       life on their moon
+       mission. Here's what they
+       learned (exclusive)
+   2. Satellite images of
+       Rafah illustrate
+       Palestinians fleeing the
+       city
+   3. Big decision!
+       Curiosity rover keeps
+       following possible Mars
+       river remnant
+   4. Blue Origin
+       targeting May 19 for 1st
+       crewed spaceflight since
+       2022
+   5. Car-size asteroid
+       gives Earth a close shave
+       in near-miss flyby (video,
+       photo)
 
