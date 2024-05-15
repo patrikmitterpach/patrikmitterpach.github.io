@@ -1,20 +1,17 @@
 -- Daily Times --
 Wednesday, May 15
 
-	The single most
-     remarkable and defining
-     moment of the past 500 years
-     came at 05:29:45 on 16 July
-     1945. At that precise
-     second, American scientists
-     detonated the first atomic
-     bomb at Alamogordo, New
-     Mexico. From that point
-     onward, humankind had the
-     capability not only to
-     change the course of
-     history, but to end it.
-             ~ Yuval Noah Harari
+	Help one man with money,
+     another with credit, another
+     with your favour; this man
+     with good advice, that one
+     with sound maxims. Even wild
+     beasts feel kindness, nor is
+     there any animal so savage
+     that good treatment will not
+     tame it and win love from
+     it.
+                        ~ Seneca
 
 
 -- News --
@@ -35,43 +32,44 @@ Wednesday, May 15
        Anderson: Mercedes'
        upgrade trend shows it's
        still lost
-   5. Some photos from the
-       Monaco Historic GP I found
+   5. Alex Albon commits
+       future to Williams Racing
 
 # Gaming
-   1. Where on the Moon is
-       Archie in Destiny 2?
-   2. How to finish ‘Zero
-       Hour’ and get Outbreak
-       Perfected in Destiny 2
-   3. Valheim heats up
-       with new, ultra-deadly
-       biome in Ashlands update
-   4. You can get the Eye
-       of Sauron in Lego form
-       with the new Barad-dûr set
-   5. Breaking down the
-       themes, monsters, and
-       rings in The Rings of
-       Power’s season 2 trailer
+   1. What’s it like to
+       crush on a Victorian man
+       transported to modern
+       London? Kaliane Bradley
+       had to find out
+   2. Netflix’s Terminator
+       anime takes the cyborg
+       time war to Tokyo, with a
+       new AI twist
+   3. Destiny 2 The
+       Pantheon bosses list,
+       rewards, and guide to how
+       it works
+   4. The best video games
+       of 2024 so far
+   5. Animal Well tricked
+       you into thinking it’s a
+       Metroidvania
 
 # HackerNews
-   1. Translation of the
+   1. Raspberry Pi Ltd is
+       considering an IPO
+   2. The Worst Website in
+       the Entire World
+   3. How to get 7th
+       graders to smoke
+   4. Translation of the
        Rust's core and alloc
        crates to Coq for formal
        verification
-   2. A low budget
-       consumer hardware
-       espionage implant: a GSM
-       device hidden in (2018)
-   3. Veo
-   4. Show HN: I built a
-       math website the internet
-       loved, I'm back with more
-       features
-   5. Bicycle Rolling
-       Resistance: Tire Rolling
-       Resistance Tests and More
+   5. Proteins in blood
+       could provide early cancer
+       warning 'by more than
+       seven years'
 
 # NL
    1. How could this
@@ -87,45 +85,40 @@ Wednesday, May 15
        in (Elden Ring co-op)
 
 # Slovakia
-   1. The most
-       photographed Slovak bus
+   1. PM Fico shot as he
+       speaks to supporters in
+       Handlová
+   2. Their fight against
+       degenerate art
+   3. The most unusual bus
        stop changes appearance
-       several times a year
-   2. American Dream found
+       frequently. What is the
+       occasion for today's
+       celebration?
+   4. American Dream found
        in Slovakia?
-   3. News digest: Flat
+   5. News digest: Flat
        earther might teach pupils
        how to use media and think
        critically
-   4. Poloniny is not only
-       about natural beauty,
-       visit local people for an
-       experience
-   5. People in Poloniny:
-       We don't need Tatras here,
-       but we also don't want
-       empty forests
 
 # Space
-   1. Artemis 2 astronauts
+   1. Earth-size planet
+       discovered around cool red
+       dwarf star shares its name
+       with a biscuit
+   2. Supernova-filled
+       galaxy dazzles in new
+       Hubble Telescope image
+   3. NASA details plan to
+       build a levitating robot
+       train on the moon
+   4. How NASA's Ingenuity
+       helicopter opened the Mars
+       skies to exploration
+   5. Artemis 2 astronauts
        simulated a day in the
        life on their moon
        mission. Here's what they
        learned (exclusive)
-   2. Satellite images of
-       Rafah illustrate
-       Palestinians fleeing the
-       city
-   3. Big decision!
-       Curiosity rover keeps
-       following possible Mars
-       river remnant
-   4. Blue Origin
-       targeting May 19 for 1st
-       crewed spaceflight since
-       2022
-   5. Car-size asteroid
-       gives Earth a close shave
-       in near-miss flyby (video,
-       photo)
 
