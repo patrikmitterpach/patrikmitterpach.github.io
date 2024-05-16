@@ -1,124 +1,127 @@
 -- Daily Times --
-Wednesday, May 15
+Thursday, May 16
 
-	Help one man with money,
-     another with credit, another
-     with your favour; this man
-     with good advice, that one
-     with sound maxims. Even wild
-     beasts feel kindness, nor is
-     there any animal so savage
-     that good treatment will not
-     tame it and win love from
-     it.
+	How late it is to begin
+     life just when we have to be
+     leaving it! What a foolish
+     forgetfulness of our
+     mortality, to put off
+     wholesome counsels until our
+     fiftieth or sixtieth year,
+     and to choose that our lives
+     shall begin at a point which
+     few of us ever reach.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lando’s now-deleted
-       Instagram story for Martin
-       Garrix’s birthday
-   2. Why it's time for F1
-       to hold its own
-       "throwback" livery race
-   3. [@NicolePiastri,
-       below Oscar’s surfing
-       post] Taught him
-       everything he knows……..
-       except using the oven to
-       dry his washing
-   4. [The Race] Gary
-       Anderson: Mercedes'
-       upgrade trend shows it's
-       still lost
-   5. Alex Albon commits
-       future to Williams Racing
+   1. [Oscar Piastri] Good
+       time to mention that I’m
+       also 3/16 Italian?
+   2. @scuderiaferrari on
+       Instagram: The SF-24 was
+       going to have a blue
+       Ferrari rear wing before
+       the HP sponsorship was
+       announced.
+   3. Sebastian Vettel
+       arriving at the paddock
+       today
+   4. Car #31 (Esteban
+       Ocon) was Chosen for
+       Random Inspection After
+       Miami GP: Passes
+       Compliance Check
+   5. FIA planning harsher
+       F1 penalties to clamp down
+       on Magnussen Miami tactics
 
 # Gaming
-   1. What’s it like to
-       crush on a Victorian man
-       transported to modern
-       London? Kaliane Bradley
-       had to find out
-   2. Netflix’s Terminator
-       anime takes the cyborg
-       time war to Tokyo, with a
-       new AI twist
-   3. Destiny 2 The
-       Pantheon bosses list,
-       rewards, and guide to how
-       it works
-   4. The best video games
-       of 2024 so far
-   5. Animal Well tricked
-       you into thinking it’s a
-       Metroidvania
+   1. Japanese Switch
+       Online players just got an
+       important piece of Zelda
+       history
+   2. X-Men ’97’s Morph
+       actor wants the
+       shapeshifter to find love
+       — just not with Wolverine
+   3. 3 Body Problem
+       renewed for season 2 — and
+       however many more seasons
+       it needs to wrap
+   4. Ubisoft cancels The
+       Division Heartland, the
+       latest AAA free-to-play
+       game casualty
+   5. Furiosa kicks sand
+       in the face of boring
+       franchise-filler movies
 
 # HackerNews
-   1. Raspberry Pi Ltd is
-       considering an IPO
-   2. The Worst Website in
-       the Entire World
-   3. How to get 7th
-       graders to smoke
-   4. Translation of the
-       Rust's core and alloc
-       crates to Coq for formal
-       verification
-   5. Proteins in blood
-       could provide early cancer
-       warning 'by more than
-       seven years'
+   1. Students invent
+       quieter leaf blower
+   2. VCs aren’t your
+       friends
+   3. Some notes on Rust,
+       mutable aliasing and
+       formal verification
+   4. Things I won't work
+       with: the higher states of
+       bromine (2019)
+   5. EU opens child
+       safety probes of Facebook
+       and Instagram, citing
+       addictive design
 
 # NL
-   1. How could this
+   1. You don't see this
+       every day (Jackbox)
+   2. It has to work
+       sometime (Balatro)
+   3. I will never
+       financially recover from
+       this (Balatro)
+   4. How could this
        happen to me? (Jackbox)
-   2. They were cooking
+   5. They were cooking
        with this one... (Hades 2)
-   3. This might not be a
-       fruitful endeavour
-       (Balatro)
-   4. The luck cannot be
-       overstated (Balatro)
-   5. We just need to lock
-       in (Elden Ring co-op)
 
 # Slovakia
-   1. PM Fico shot as he
-       speaks to supporters in
-       Handlová
-   2. Their fight against
-       degenerate art
-   3. The most unusual bus
-       stop changes appearance
-       frequently. What is the
-       occasion for today's
-       celebration?
-   4. American Dream found
-       in Slovakia?
-   5. News digest: Flat
-       earther might teach pupils
-       how to use media and think
-       critically
+   1. Statement of
+       editors-in-chief on the
+       attack of Robert Fico
+   2. Slovak PM's attacker
+       charged with revenge
+       homicide
+   3. 3 things to do in
+       Bratislava for free in the
+       next seven days
+   4. Top 10 events in
+       Bratislava for foreigners
+   5. News digest: Country
+       in shock after attack on
+       PM Robert Fico
 
 # Space
-   1. Earth-size planet
-       discovered around cool red
-       dwarf star shares its name
-       with a biscuit
-   2. Supernova-filled
-       galaxy dazzles in new
-       Hubble Telescope image
-   3. NASA details plan to
-       build a levitating robot
-       train on the moon
-   4. How NASA's Ingenuity
-       helicopter opened the Mars
-       skies to exploration
-   5. Artemis 2 astronauts
-       simulated a day in the
-       life on their moon
-       mission. Here's what they
-       learned (exclusive)
+   1. 'Star Trek:
+       Discovery' season 5
+       episode 8 'Labyrinths' is
+       a fun, format-following
+       installment
+   2. Dusty galaxy looks
+       like a cosmic net in
+       gorgeous new Hubble
+       Telescope photo
+   3. Huge, solar
+       flare-launching sunspot
+       has rotated away from
+       Earth. But will it return?
+   4. How do you forecast
+       a solar storm? Space
+       weather experts explain
+   5. Cosmic butterfly or
+       interstellar burger? This
+       planet-forming disk is the
+       largest ever seen
 
