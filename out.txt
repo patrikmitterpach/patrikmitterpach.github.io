@@ -1,78 +1,90 @@
 -- Daily Times --
 Thursday, May 16
 
-	How late it is to begin
-     life just when we have to be
-     leaving it! What a foolish
-     forgetfulness of our
-     mortality, to put off
-     wholesome counsels until our
-     fiftieth or sixtieth year,
-     and to choose that our lives
-     shall begin at a point which
-     few of us ever reach.
+	“It is more
+     respectable,” say you, “to
+     spend one’s money on such
+     books than on vases of
+     Corinthian brass and
+     paintings.” Not so:
+     everything that is carried
+     to excess is wrong. What
+     excuses can you find for a
+     man who is eager to buy
+     bookcases of ivory and
+     citrus wood, to collect the
+     works of unknown or
+     discredited authors, and who
+     sits yawning amid so many
+     thousands of books, whose
+     backs and titles please him
+     more than any other part of
+     them?
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Oscar Piastri] Good
-       time to mention that I’m
-       also 3/16 Italian?
-   2. @scuderiaferrari on
-       Instagram: The SF-24 was
-       going to have a blue
-       Ferrari rear wing before
-       the HP sponsorship was
-       announced.
-   3. Sebastian Vettel
+   1. Sebastian Vettel
        arriving at the paddock
        today
-   4. Car #31 (Esteban
+   2. [Oscar Piastri] Good
+       time to mention that I’m
+       also 3/16 Italian?
+   3. Car #31 (Esteban
        Ocon) was Chosen for
        Random Inspection After
        Miami GP: Passes
        Compliance Check
+   4. [Motorsport.com] K
+       Mag: “The fact that I’m at
+       risk of a race ban for
+       driving outside some white
+       lines on a piece of tarmac
+       I don’t know if that is
+       right.”
    5. FIA planning harsher
        F1 penalties to clamp down
        on Magnussen Miami tactics
 
 # Gaming
-   1. Japanese Switch
-       Online players just got an
-       important piece of Zelda
-       history
-   2. X-Men ’97’s Morph
-       actor wants the
-       shapeshifter to find love
-       — just not with Wolverine
-   3. 3 Body Problem
-       renewed for season 2 — and
-       however many more seasons
-       it needs to wrap
-   4. Ubisoft cancels The
-       Division Heartland, the
-       latest AAA free-to-play
-       game casualty
-   5. Furiosa kicks sand
-       in the face of boring
-       franchise-filler movies
+   1. Final Fantasy 7
+       Rebirth set the fandom
+       back 20 years
+   2. Your Apple TV may
+       have become one of the
+       best retro gaming devices
+       out there overnight
+   3. EA’s college
+       football video game
+       returns in July after an
+       11-year hiatus
+   4. Alan Wake 2, Prince
+       of Persia: The Lost Crown
+       get discounts in Epic Mega
+       Sale 2024
+   5. Not sure what game
+       to play? Leave a comment,
+       we’ll help
 
 # HackerNews
-   1. Students invent
-       quieter leaf blower
-   2. VCs aren’t your
-       friends
-   3. Some notes on Rust,
-       mutable aliasing and
-       formal verification
-   4. Things I won't work
-       with: the higher states of
-       bromine (2019)
-   5. EU opens child
-       safety probes of Facebook
-       and Instagram, citing
-       addictive design
+   1. Llama3.np: pure
+       NumPy implementation of
+       Llama3
+   2. Egypt's Pyramids May
+       Have Been Built on a
+       Long-Lost Branch of the
+       Nile
+   3. F* – A
+       Proof-Oriented Programming
+       Language
+   4. The spy who flunked
+       it: Kurt Gödel's forgotten
+       part in the atom-bomb
+       story
+   5. Sprint, T-Mobile
+       Merger Killed Wireless
+       Price Competition in U.S.
 
 # NL
    1. You don't see this
@@ -88,40 +100,40 @@ Thursday, May 16
        with this one... (Hades 2)
 
 # Slovakia
-   1. Statement of
+   1. Bird paradise in
+       Senné is an outstanding
+       destination for twitchers
+   2. Statement of
        editors-in-chief on the
-       attack of Robert Fico
-   2. Slovak PM's attacker
+       Robert Fico attack
+   3. Slovak PM's attacker
        charged with revenge
        homicide
-   3. 3 things to do in
+   4. 3 things to do in
        Bratislava for free in the
        next seven days
-   4. Top 10 events in
+   5. Top 10 events in
        Bratislava for foreigners
-   5. News digest: Country
-       in shock after attack on
-       PM Robert Fico
 
 # Space
-   1. 'Star Trek:
-       Discovery' season 5
-       episode 8 'Labyrinths' is
-       a fun, format-following
-       installment
-   2. Dusty galaxy looks
-       like a cosmic net in
-       gorgeous new Hubble
-       Telescope photo
-   3. Huge, solar
-       flare-launching sunspot
-       has rotated away from
-       Earth. But will it return?
-   4. How do you forecast
-       a solar storm? Space
-       weather experts explain
-   5. Cosmic butterfly or
-       interstellar burger? This
-       planet-forming disk is the
-       largest ever seen
+   1. Is dark matter's
+       main rival theory dead?
+       There's bad news from the
+       Cassini spacecraft and
+       other recent tests
+   2. James Webb Space
+       Telescope spots most
+       distant and oldest black
+       hole collision ever seen
+       (video)
+   3. DxO PhotoLab 7
+       review
+   4. India makes
+       breakthrough by
+       test-firing new 3D-printed
+       rocket engine (photo)
+   5. In the Milky Way, 3
+       intruder stars are 'on the
+       run' — in the wrong
+       direction
 
