@@ -1,11 +1,15 @@
 -- Daily Times --
 Tuesday, May 21
 
-	How far happier is he
-     who is indebted to no man
-     for anything except for what
-     he can deprive himself of
-     with the greatest ease!
+	High office, monuments,
+     all that ambition records in
+     decrees or piles up in
+     stone, soon passes away:
+     lapse of time casts down and
+     ruins everything; but those
+     things on which Philosophy
+     has set its seal are beyond
+     the reach of injury.
                         ~ Seneca
 
 
@@ -13,113 +17,107 @@ Tuesday, May 21
 # Formula1
    1. Mclaren Livery for
        the 2024 Monaco Grand Prix
-   2. [Oscar Piastri]
-       Searching my family tree
-       to find any trace of
-       Monégasque roots
-   3. McLaren revealed a
+   2. McLaren revealed a
        sneak peek of their
        special 2024 Monaco livery
        in their latest tweet.
-   4. F1 silly season
-       shock: Bottas to Williams
-   5. [Oscar Piastri] Call
+   3. [Oscar Piastri] Call
        me Oscar Jack
        Piastri-Leclerc. Want to
        meet my new brother Leo on
        Thursday if he can pop to
        McLaren
+   4. Senna Liveries at
+       Monaco.
+   5. [@FOXSportsMX] CHECO
+       HASN'T SIGNED THE RENEWAL!
+       Red Bull already has a
+       one-year contract, but
+       Checo Pérez has made a
+       counter-proposal for two
+       years
 
 # Gaming
-   1. Why I still hold
-       onto my Phantom Blade in
-       World of Warcraft
-   2. Elden Ring: Shadow
-       of the Erdtree trailer is
-       part lore dump, part war
-       recruitment ad
-   3. So when is Call of
-       Duty coming to Game Pass?
-   4. Majora’s Mask
-       brought us the coolest
-       swords in The Legend of
-       Zelda
-   5. X-Men legends Greg
-       Capullo and Jonathan
-       Hickman team up for
-       Wolverine: Revenge
+   1. Bungie’s Destiny 2
+       cheating lawsuit will be
+       decided by jury trial this
+       week
+   2. Destiny 2 The
+       Pantheon bosses list,
+       rewards, and guide to how
+       it works
+   3. This $14 Humble
+       Bundle features seven
+       excellent Steam Deck-ready
+       Metroidvanias
+   4. Medieval war sim
+       Kingmakers shows what
+       happens when an Abrams
+       tank enters the battle
+   5. Destiny 2’s latest
+       cutscene sets the stage
+       for The Final Shape
 
 # HackerNews
-   1. What UI density
+   1. Gordon Bell has died
+   2. The curious case of
+       the missing period
+   3. What UI density
        means and how to design
        for it
-   2. CADmium: A
-       Local-First CAD Program
-       Built for the Browser
-   3. Show HN: I built a
-       game to help you learn
-       neural network
-       architectures
-   4. 40-Year old BASICA
-       utility code for teaching
-   5. Gifski: Optimized
-       GIF Encoder
+   4. CADmium: A
+       local-first CAD program
+       built for the browser
+   5. Storing knowledge in
+       a single long plain text
+       file
 
 # NL
-   1. It must be pressure
-       sensitive (Lethal Company)
-   2. It's all for naught
-       now (Balatro)
-   3. Put some respect on
-       Blackboard (Balatro)
-   4. They saved 8 ball
-       (Balatro)
-   5. They broke the mold
-       with this one
+   1. How could it go so
+       wrong? (Balatro)
+   2. Sorry to Batman
        (Cryptmaster)
+   3. It must be pressure
+       sensitive (Lethal Company)
+   4. It's all for naught
+       now (Balatro)
+   5. Put some respect on
+       Blackboard (Balatro)
 
 # Slovakia
-   1. Viral video with
+   1. Slovakia advances to
+       hockey quarterfinals
+   2. Facebook deletes
+       profile of Fico’s shooter
+   3. Viral video with
        Fico’s attacker made by a
        bodyguard
-   2. First, he read Harry
+   4. First, he read Harry
        Potter in Slovak. Now, an
        American imports Slovak
        books to US
-   3. News digest: After
+   5. News digest: After
        Fico attack, MPs will
        reconvene, ready to attack
        rivals
-   4. Detained and
-       charged, Fico's bow-tied
-       attacker is a man of
-       paradoxes
-   5. Coalition leader
-       Danko in trouble again,
-       this time for petrol
-       station incident
 
 # Space
-   1. Stars give tiny
-       planets a gravitational
-       'squeeze' to strip away
-       their atmospheres
-   2. Young 'cotton candy'
-       exoplanet the size of
-       Jupiter may be shrinking
-       into a super-Earth
-   3. Black holes are
-       mysterious, yet also
-       deceptively simple − a new
-       space mission may help
-       physicists answer hairy
-       questions about these
-       astronomical objects
-   4. Space mysteries: Do
-       all planets have magnetic
-       fields?
-   5. Right again,
-       Einstein! Scientists find
-       where matter 'waterfalls'
-       into black holes
+   1. Doctor Who 'Boom':
+       Who are the marines
+       fighting on Kastarion 3?
+   2. China's Chang'e 6
+       mission gearing up for
+       early June landing on
+       moon's far side
+   3. Observe the sun in
+       detail and save 25% on
+       Celestron's EclipSmart
+       binoculars
+   4. A comet approaching
+       Earth could become
+       brighter than the stars
+       this fall
+   5. SpaceX launching
+       next-gen US spy satellites
+       early May 22
 
