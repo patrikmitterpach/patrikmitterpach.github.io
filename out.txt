@@ -1,65 +1,69 @@
 -- Daily Times --
 Tuesday, May 21
 
-	In fine, my riches
-     belong to me, you belong to
-     your riches.
+	How far happier is he
+     who is indebted to no man
+     for anything except for what
+     he can deprive himself of
+     with the greatest ease!
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Oscar Piastri]
+   1. Mclaren Livery for
+       the 2024 Monaco Grand Prix
+   2. [Oscar Piastri]
        Searching my family tree
        to find any trace of
        Monégasque roots
-   2. F1 | Market: Bottas
-       aims to return to
-       Williams, Ocon to Haas
-   3. [F1] Lando got so
-       close. The McLaren driver
-       slashed Max Verstappen's
-       lead in the final stages
-       of the race, but it wasn't
-       quite enough to make a
-       move
+   3. McLaren revealed a
+       sneak peek of their
+       special 2024 Monaco livery
+       in their latest tweet.
    4. F1 silly season
        shock: Bottas to Williams
-   5. [@charles_leclerc] I
-       can adopt you if needed
+   5. [Oscar Piastri] Call
+       me Oscar Jack
+       Piastri-Leclerc. Want to
+       meet my new brother Leo on
+       Thursday if he can pop to
+       McLaren
 
 # Gaming
-   1. The freeform TTRPG
-       Sword Loser gives adults a
-       terrific excuse to play
-       like kids again
-   2. Happy Cool Sword Day
-       to all who celebrate!
-   3. What makes a
-       greatsword great?
-   4. I talked to a
-       swordmaker about the
-       coolest swords he makes
-   5. On Cool Sword Day,
-       celebrate the only thing
-       cooler than dual-wielding
-       swords…
+   1. Why I still hold
+       onto my Phantom Blade in
+       World of Warcraft
+   2. Elden Ring: Shadow
+       of the Erdtree trailer is
+       part lore dump, part war
+       recruitment ad
+   3. So when is Call of
+       Duty coming to Game Pass?
+   4. Majora’s Mask
+       brought us the coolest
+       swords in The Legend of
+       Zelda
+   5. X-Men legends Greg
+       Capullo and Jonathan
+       Hickman team up for
+       Wolverine: Revenge
 
 # HackerNews
-   1. Going Dark: The war
-       on encryption is on the
-       rise
-   2. 'Satoshi'
-       impersonation 'a serious
-       abuse of court's process'
-       judge concludes
-   3. Google announces
-       Firebase Genkit with
-       Ollama support
-   4. Trying out the
-       Panel-of-Experts prompting
-       strategy for LLMs
-   5. Shipbreaking
+   1. What UI density
+       means and how to design
+       for it
+   2. CADmium: A
+       Local-First CAD Program
+       Built for the Browser
+   3. Show HN: I built a
+       game to help you learn
+       neural network
+       architectures
+   4. 40-Year old BASICA
+       utility code for teaching
+   5. Gifski: Optimized
+       GIF Encoder
 
 # NL
    1. It must be pressure
@@ -75,43 +79,47 @@ Tuesday, May 21
        (Cryptmaster)
 
 # Slovakia
-   1. First, he read Harry
+   1. Viral video with
+       Fico’s attacker made by a
+       bodyguard
+   2. First, he read Harry
        Potter in Slovak. Now, an
        American imports Slovak
        books to US
-   2. News digest: After
+   3. News digest: After
        Fico attack, MPs will
        reconvene, ready to attack
        rivals
-   3. Detained and
+   4. Detained and
        charged, Fico's bow-tied
        attacker is a man of
        paradoxes
-   4. Coalition leader
+   5. Coalition leader
        Danko in trouble again,
        this time for petrol
        station incident
-   5. One of the first
-       Slovak oligarchs has died,
-       aged 78
 
 # Space
-   1. Space mysteries: Do
+   1. Stars give tiny
+       planets a gravitational
+       'squeeze' to strip away
+       their atmospheres
+   2. Young 'cotton candy'
+       exoplanet the size of
+       Jupiter may be shrinking
+       into a super-Earth
+   3. Black holes are
+       mysterious, yet also
+       deceptively simple − a new
+       space mission may help
+       physicists answer hairy
+       questions about these
+       astronomical objects
+   4. Space mysteries: Do
        all planets have magnetic
        fields?
-   2. Right again,
+   5. Right again,
        Einstein! Scientists find
        where matter 'waterfalls'
        into black holes
-   3. The James Webb Space
-       Telescope may have solved
-       a puffy planet mystery.
-       Here's how
-   4. Something strange is
-       happening with Earth's
-       magnetic field tail
-   5. SpaceX fuels up
-       Starship megarocket ahead
-       of 4th test flight
-       (photos)
 
