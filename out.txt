@@ -1,139 +1,117 @@
 -- Daily Times --
-Thursday, May 16
+Tuesday, May 21
 
-	“It is more
-     respectable,” say you, “to
-     spend one’s money on such
-     books than on vases of
-     Corinthian brass and
-     paintings.” Not so:
-     everything that is carried
-     to excess is wrong. What
-     excuses can you find for a
-     man who is eager to buy
-     bookcases of ivory and
-     citrus wood, to collect the
-     works of unknown or
-     discredited authors, and who
-     sits yawning amid so many
-     thousands of books, whose
-     backs and titles please him
-     more than any other part of
-     them?
+	In fine, my riches
+     belong to me, you belong to
+     your riches.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Sebastian Vettel
-       arriving at the paddock
-       today
-   2. [Oscar Piastri] Good
-       time to mention that I’m
-       also 3/16 Italian?
-   3. Car #31 (Esteban
-       Ocon) was Chosen for
-       Random Inspection After
-       Miami GP: Passes
-       Compliance Check
-   4. [Motorsport.com] K
-       Mag: “The fact that I’m at
-       risk of a race ban for
-       driving outside some white
-       lines on a piece of tarmac
-       I don’t know if that is
-       right.”
-   5. FIA planning harsher
-       F1 penalties to clamp down
-       on Magnussen Miami tactics
+   1. [Oscar Piastri]
+       Searching my family tree
+       to find any trace of
+       Monégasque roots
+   2. F1 | Market: Bottas
+       aims to return to
+       Williams, Ocon to Haas
+   3. [F1] Lando got so
+       close. The McLaren driver
+       slashed Max Verstappen's
+       lead in the final stages
+       of the race, but it wasn't
+       quite enough to make a
+       move
+   4. F1 silly season
+       shock: Bottas to Williams
+   5. [@charles_leclerc] I
+       can adopt you if needed
 
 # Gaming
-   1. Final Fantasy 7
-       Rebirth set the fandom
-       back 20 years
-   2. Your Apple TV may
-       have become one of the
-       best retro gaming devices
-       out there overnight
-   3. EA’s college
-       football video game
-       returns in July after an
-       11-year hiatus
-   4. Alan Wake 2, Prince
-       of Persia: The Lost Crown
-       get discounts in Epic Mega
-       Sale 2024
-   5. Not sure what game
-       to play? Leave a comment,
-       we’ll help
+   1. The freeform TTRPG
+       Sword Loser gives adults a
+       terrific excuse to play
+       like kids again
+   2. Happy Cool Sword Day
+       to all who celebrate!
+   3. What makes a
+       greatsword great?
+   4. I talked to a
+       swordmaker about the
+       coolest swords he makes
+   5. On Cool Sword Day,
+       celebrate the only thing
+       cooler than dual-wielding
+       swords…
 
 # HackerNews
-   1. Llama3.np: pure
-       NumPy implementation of
-       Llama3
-   2. Egypt's Pyramids May
-       Have Been Built on a
-       Long-Lost Branch of the
-       Nile
-   3. F* – A
-       Proof-Oriented Programming
-       Language
-   4. The spy who flunked
-       it: Kurt Gödel's forgotten
-       part in the atom-bomb
-       story
-   5. Sprint, T-Mobile
-       Merger Killed Wireless
-       Price Competition in U.S.
+   1. Going Dark: The war
+       on encryption is on the
+       rise
+   2. 'Satoshi'
+       impersonation 'a serious
+       abuse of court's process'
+       judge concludes
+   3. Google announces
+       Firebase Genkit with
+       Ollama support
+   4. Trying out the
+       Panel-of-Experts prompting
+       strategy for LLMs
+   5. Shipbreaking
 
 # NL
-   1. You don't see this
-       every day (Jackbox)
-   2. It has to work
-       sometime (Balatro)
-   3. I will never
-       financially recover from
-       this (Balatro)
-   4. How could this
-       happen to me? (Jackbox)
-   5. They were cooking
-       with this one... (Hades 2)
+   1. It must be pressure
+       sensitive (Lethal Company)
+   2. It's all for naught
+       now (Balatro)
+   3. Put some respect on
+       Blackboard (Balatro)
+   4. They saved 8 ball
+       (Balatro)
+   5. They broke the mold
+       with this one
+       (Cryptmaster)
 
 # Slovakia
-   1. Bird paradise in
-       Senné is an outstanding
-       destination for twitchers
-   2. Statement of
-       editors-in-chief on the
-       Robert Fico attack
-   3. Slovak PM's attacker
-       charged with revenge
-       homicide
-   4. 3 things to do in
-       Bratislava for free in the
-       next seven days
-   5. Top 10 events in
-       Bratislava for foreigners
+   1. First, he read Harry
+       Potter in Slovak. Now, an
+       American imports Slovak
+       books to US
+   2. News digest: After
+       Fico attack, MPs will
+       reconvene, ready to attack
+       rivals
+   3. Detained and
+       charged, Fico's bow-tied
+       attacker is a man of
+       paradoxes
+   4. Coalition leader
+       Danko in trouble again,
+       this time for petrol
+       station incident
+   5. One of the first
+       Slovak oligarchs has died,
+       aged 78
 
 # Space
-   1. Is dark matter's
-       main rival theory dead?
-       There's bad news from the
-       Cassini spacecraft and
-       other recent tests
-   2. James Webb Space
-       Telescope spots most
-       distant and oldest black
-       hole collision ever seen
-       (video)
-   3. DxO PhotoLab 7
-       review
-   4. India makes
-       breakthrough by
-       test-firing new 3D-printed
-       rocket engine (photo)
-   5. In the Milky Way, 3
-       intruder stars are 'on the
-       run' — in the wrong
-       direction
+   1. Space mysteries: Do
+       all planets have magnetic
+       fields?
+   2. Right again,
+       Einstein! Scientists find
+       where matter 'waterfalls'
+       into black holes
+   3. The James Webb Space
+       Telescope may have solved
+       a puffy planet mystery.
+       Here's how
+   4. Something strange is
+       happening with Earth's
+       magnetic field tail
+   5. SpaceX fuels up
+       Starship megarocket ahead
+       of 4th test flight
+       (photos)
 
