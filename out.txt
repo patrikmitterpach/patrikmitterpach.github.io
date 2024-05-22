@@ -1,71 +1,73 @@
 -- Daily Times --
 Wednesday, May 22
 
-	Often a man who is very
-     old in years has nothing
-     beyond his age by which he
-     can prove that he has lived
-     a long time.”
+	The pleasures of wise
+     men, on the other hand, are
+     mild, decorous, verging on
+     dullness, kept under
+     restraint and scarcely
+     noticeable.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Mclaren Livery for
-       the 2024 Monaco Grand Prix
-   2. Senna Liveries at
-       Monaco.
-   3. [@FOXSportsMX] CHECO
-       HASN'T SIGNED THE RENEWAL!
-       Red Bull already has a
-       one-year contract, but
-       Checo Pérez has made a
-       counter-proposal for two
-       years
-   4. Verstappen had to
+   1. Verstappen had to
        wear a Red Bull uniform
        because his Senna t-shirt
        was stolen
-   5. [Luke Smith]
-       Andretti-Cadillac
-       announces the signing of
-       Pat Symonds, F1's outgoing
-       chief technical officer,
-       upon completion of his
-       gardening leave
+   2. [Racer/Chris
+       Medland] Yuki Tsunoda is
+       also interested in Haas as
+       he looks at a future away
+       from the Red Bull program,
+       with the senior team
+       showing no firm interest
+       in promoting him
+   3. [Williams] The
+       Duracell bunny will join
+       us on the car this weekend
+       to take on the historic
+       streets of Monaco!
+   4. Oscar Piastri's
+       helmet for 2024 Monaco
+       Grand Prix
+   5. Why do Red Bull
+       suddenly look beatable in
+       F1?
 
 # Gaming
-   1. When does Fortnite
-       downtime end and Chapter 5
-       Season 3 release?
-   2. Where in the
-       Dreaming City is Archie in
-       Destiny 2?
-   3. Ubisoft’s new
-       free-to-play shooter
-       XDefiant faces classic
-       launch-day troubles
-   4. Bungie’s Destiny 2
-       cheating lawsuit will be
-       decided by jury trial this
-       week
-   5. Destiny 2 The
-       Pantheon bosses list,
-       rewards, and guide to how
-       it works
+   1. All Bardarvik sea
+       giant rune puzzle
+       solutions in Hellblade 2
+   2. Yolk Heroes: A Long
+       Tamago won’t take a ton of
+       your time — but it’s worth
+       every minute
+   3. You are cordially
+       invited to ruin our
+       esports career
+   4. Why do Delicious in
+       Dungeon’s kobolds look
+       like dogs?
+   5. The Doof Warrior is
+       still Mad Max: Fury Road’s
+       most iconic image
 
 # HackerNews
-   1. Gordon Bell has died
-   2. The curious case of
-       the missing period
-   3. A Road to Common
-       Lisp (2018)
-   4. How I Made Google's
-       "Web" View My Default
-       Search
-   5. Tillywork:
-       Open-Source Work
-       Management
+   1. Pluckable Strings
+   2. Show HN: Neosync –
+       Open-Source Data
+       Anonymization for Postgres
+       and MySQL
+   3. Show HN: PBT – A
+       property-based testing
+       library for Ruby
+   4. Try Clojure
+   5. Show HN: B-field, a
+       novel probabilistic
+       key-value data structure
+       (`rust-bfield`)
 
 # NL
    1. How could it go so
@@ -80,38 +82,41 @@ Wednesday, May 22
        Blackboard (Balatro)
 
 # Slovakia
-   1. Visitors must climb
-       a ladder to reach this
-       Slovak castle
-   2. News digest: House
-       votes unanimously against
-       stirring up hatred
-   3. Slovakia advances to
-       hockey quarterfinals
-   4. Facebook deletes
-       profile of Fico’s shooter
-   5. Viral video with
-       Fico’s attacker made by a
-       bodyguard
+   1. News digest:
+       Independently managed arts
+       fund now under SNS
+       influence
+   2. Slovak startup uses
+       smart watch technology to
+       identify heart failure
+   3. Ads selling sedative
+       used for executions appear
+       in Slovakia
+   4. Going to Croatia?
+       Here's the ins and outs of
+       travelling by car, plane,
+       train and bus
+   5. History Talks: The
+       unusual mountain chalet
 
 # Space
-   1. Euclid 'dark
-       universe' telescope team
-       will unveil new full-color
-       images on May 23: How to
-       watch live
-   2. Stellar telescope
-       deal: Save $230 on the
-       Celestron Astro Fi 130
-   3. Space Force orders
-       'jetpack' to give 2 years
-       of maneuverability to
-       military satellite
-   4. Dream Chaser space
-       plane arrives in Florida
-       ahead of 1st launch to ISS
-       (photo)
-   5. Doctor Who 'Boom':
-       Who are the marines really
-       fighting on Kastarion 3?
+   1. Sega Toys Homestar
+       Matataki star projector
+       review
+   2. Satellites capture
+       smoke pouring from
+       hundreds of wildfires
+       across North America
+       (photos)
+   3. Russian space weapon
+       ban shot down by UN
+       Security Council
+   4. AI finds hidden
+       galactic evolution clues
+       in over 100 galaxies.
+       Here's how
+   5. Scientists find
+       weird link between a solar
+       mystery and feeding black
+       holes
 
