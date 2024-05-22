@@ -1,78 +1,71 @@
 -- Daily Times --
 Wednesday, May 22
 
-	At the present day, and
-     in this country, as I find
-     by my own experience, a few
-     implements, a knife, an axe,
-     a spade, a wheelbarrow,
-     etc., and for the studious,
-     lamplight, stationery, and
-     access to a few books, rank
-     next to necessaries, and can
-     all be obtained at a
-     trifling cost.
-           ~ Henry David Thoreau
+	Often a man who is very
+     old in years has nothing
+     beyond his age by which he
+     can prove that he has lived
+     a long time.”
+                        ~ Seneca
 
 
 -- News --
 # Formula1
    1. Mclaren Livery for
        the 2024 Monaco Grand Prix
-   2. McLaren revealed a
-       sneak peek of their
-       special 2024 Monaco livery
-       in their latest tweet.
-   3. Senna Liveries at
+   2. Senna Liveries at
        Monaco.
-   4. [@FOXSportsMX] CHECO
+   3. [@FOXSportsMX] CHECO
        HASN'T SIGNED THE RENEWAL!
        Red Bull already has a
        one-year contract, but
        Checo Pérez has made a
        counter-proposal for two
        years
-   5. [Oscar Piastri] Call
-       me Oscar Jack
-       Piastri-Leclerc. Want to
-       meet my new brother Leo on
-       Thursday if he can pop to
-       McLaren
+   4. Verstappen had to
+       wear a Red Bull uniform
+       because his Senna t-shirt
+       was stolen
+   5. [Luke Smith]
+       Andretti-Cadillac
+       announces the signing of
+       Pat Symonds, F1's outgoing
+       chief technical officer,
+       upon completion of his
+       gardening leave
 
 # Gaming
-   1. Where in the
+   1. When does Fortnite
+       downtime end and Chapter 5
+       Season 3 release?
+   2. Where in the
        Dreaming City is Archie in
        Destiny 2?
-   2. Ubisoft’s new
+   3. Ubisoft’s new
        free-to-play shooter
        XDefiant faces classic
        launch-day troubles
-   3. Bungie’s Destiny 2
+   4. Bungie’s Destiny 2
        cheating lawsuit will be
        decided by jury trial this
        week
-   4. Destiny 2 The
+   5. Destiny 2 The
        Pantheon bosses list,
        rewards, and guide to how
        it works
-   5. This $14 Humble
-       Bundle features seven
-       excellent Steam Deck-ready
-       Metroidvanias
 
 # HackerNews
    1. Gordon Bell has died
-   2. Unprecedented
-       flooding in Brazil leaves
-       hundreds of thousands
-       displaced
-   3. Alacritty – A fast,
-       cross-platform, OpenGL
-       terminal emulator
-   4. The curious case of
+   2. The curious case of
        the missing period
-   5. A Road to Common
+   3. A Road to Common
        Lisp (2018)
+   4. How I Made Google's
+       "Web" View My Default
+       Search
+   5. Tillywork:
+       Open-Source Work
+       Management
 
 # NL
    1. How could it go so
@@ -102,23 +95,23 @@ Wednesday, May 22
        bodyguard
 
 # Space
-   1. Space Force orders
+   1. Euclid 'dark
+       universe' telescope team
+       will unveil new full-color
+       images on May 23: How to
+       watch live
+   2. Stellar telescope
+       deal: Save $230 on the
+       Celestron Astro Fi 130
+   3. Space Force orders
        'jetpack' to give 2 years
        of maneuverability to
        military satellite
-   2. Dream Chaser space
+   4. Dream Chaser space
        plane arrives in Florida
        ahead of 1st launch to ISS
        (photo)
-   3. Doctor Who 'Boom':
+   5. Doctor Who 'Boom':
        Who are the marines really
        fighting on Kastarion 3?
-   4. China's Chang'e 6
-       mission gearing up for
-       early June landing on
-       moon's far side
-   5. Observe the sun in
-       detail and save 25% on
-       Celestron's EclipSmart
-       binoculars
 
