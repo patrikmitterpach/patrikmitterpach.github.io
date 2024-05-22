@@ -1,16 +1,18 @@
 -- Daily Times --
-Tuesday, May 21
+Wednesday, May 22
 
-	High office, monuments,
-     all that ambition records in
-     decrees or piles up in
-     stone, soon passes away:
-     lapse of time casts down and
-     ruins everything; but those
-     things on which Philosophy
-     has set its seal are beyond
-     the reach of injury.
-                        ~ Seneca
+	At the present day, and
+     in this country, as I find
+     by my own experience, a few
+     implements, a knife, an axe,
+     a spade, a wheelbarrow,
+     etc., and for the studious,
+     lamplight, stationery, and
+     access to a few books, rank
+     next to necessaries, and can
+     all be obtained at a
+     trifling cost.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -21,56 +23,56 @@ Tuesday, May 21
        sneak peek of their
        special 2024 Monaco livery
        in their latest tweet.
-   3. [Oscar Piastri] Call
-       me Oscar Jack
-       Piastri-Leclerc. Want to
-       meet my new brother Leo on
-       Thursday if he can pop to
-       McLaren
-   4. Senna Liveries at
+   3. Senna Liveries at
        Monaco.
-   5. [@FOXSportsMX] CHECO
+   4. [@FOXSportsMX] CHECO
        HASN'T SIGNED THE RENEWAL!
        Red Bull already has a
        one-year contract, but
        Checo Pérez has made a
        counter-proposal for two
        years
+   5. [Oscar Piastri] Call
+       me Oscar Jack
+       Piastri-Leclerc. Want to
+       meet my new brother Leo on
+       Thursday if he can pop to
+       McLaren
 
 # Gaming
-   1. Bungie’s Destiny 2
+   1. Where in the
+       Dreaming City is Archie in
+       Destiny 2?
+   2. Ubisoft’s new
+       free-to-play shooter
+       XDefiant faces classic
+       launch-day troubles
+   3. Bungie’s Destiny 2
        cheating lawsuit will be
        decided by jury trial this
        week
-   2. Destiny 2 The
+   4. Destiny 2 The
        Pantheon bosses list,
        rewards, and guide to how
        it works
-   3. This $14 Humble
+   5. This $14 Humble
        Bundle features seven
        excellent Steam Deck-ready
        Metroidvanias
-   4. Medieval war sim
-       Kingmakers shows what
-       happens when an Abrams
-       tank enters the battle
-   5. Destiny 2’s latest
-       cutscene sets the stage
-       for The Final Shape
 
 # HackerNews
    1. Gordon Bell has died
-   2. The curious case of
+   2. Unprecedented
+       flooding in Brazil leaves
+       hundreds of thousands
+       displaced
+   3. Alacritty – A fast,
+       cross-platform, OpenGL
+       terminal emulator
+   4. The curious case of
        the missing period
-   3. What UI density
-       means and how to design
-       for it
-   4. CADmium: A
-       local-first CAD program
-       built for the browser
-   5. Storing knowledge in
-       a single long plain text
-       file
+   5. A Road to Common
+       Lisp (2018)
 
 # NL
    1. How could it go so
@@ -85,39 +87,38 @@ Tuesday, May 21
        Blackboard (Balatro)
 
 # Slovakia
-   1. Slovakia advances to
+   1. Visitors must climb
+       a ladder to reach this
+       Slovak castle
+   2. News digest: House
+       votes unanimously against
+       stirring up hatred
+   3. Slovakia advances to
        hockey quarterfinals
-   2. Facebook deletes
+   4. Facebook deletes
        profile of Fico’s shooter
-   3. Viral video with
+   5. Viral video with
        Fico’s attacker made by a
        bodyguard
-   4. First, he read Harry
-       Potter in Slovak. Now, an
-       American imports Slovak
-       books to US
-   5. News digest: After
-       Fico attack, MPs will
-       reconvene, ready to attack
-       rivals
 
 # Space
-   1. Doctor Who 'Boom':
-       Who are the marines
+   1. Space Force orders
+       'jetpack' to give 2 years
+       of maneuverability to
+       military satellite
+   2. Dream Chaser space
+       plane arrives in Florida
+       ahead of 1st launch to ISS
+       (photo)
+   3. Doctor Who 'Boom':
+       Who are the marines really
        fighting on Kastarion 3?
-   2. China's Chang'e 6
+   4. China's Chang'e 6
        mission gearing up for
        early June landing on
        moon's far side
-   3. Observe the sun in
+   5. Observe the sun in
        detail and save 25% on
        Celestron's EclipSmart
        binoculars
-   4. A comet approaching
-       Earth could become
-       brighter than the stars
-       this fall
-   5. SpaceX launching
-       next-gen US spy satellites
-       early May 22
 
