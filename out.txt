@@ -1,122 +1,146 @@
 -- Daily Times --
-Wednesday, May 22
+Thursday, May 23
 
-	The pleasures of wise
-     men, on the other hand, are
-     mild, decorous, verging on
-     dullness, kept under
-     restraint and scarcely
-     noticeable.
-                        ~ Seneca
+	I have heard or
+     observed, the principal
+     object is, not that mankind
+     may be well and honestly
+     clad, but, unquestionably,
+     that corporations may be
+     enriched.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. Verstappen had to
-       wear a Red Bull uniform
-       because his Senna t-shirt
-       was stolen
-   2. [Racer/Chris
-       Medland] Yuki Tsunoda is
-       also interested in Haas as
-       he looks at a future away
-       from the Red Bull program,
-       with the senior team
-       showing no firm interest
-       in promoting him
-   3. [Williams] The
-       Duracell bunny will join
-       us on the car this weekend
-       to take on the historic
-       streets of Monaco!
-   4. Oscar Piastri's
-       helmet for 2024 Monaco
-       Grand Prix
-   5. Why do Red Bull
-       suddenly look beatable in
-       F1?
+   1. [@chainbear] Feel
+       like this might be a
+       minority opinion but the
+       near-obsessive deification
+       of Senna is almost
+       uncomfortable. I know it's
+       an anniversary so
+       heightened but... I have
+       uneasy feelings that I
+       don't quite know how to
+       express
+   2. [Daniel Moxon]
+       Reports this morning that
+       Carlos Sainz is out of the
+       running for the Mercedes
+       seat. He’s highly unlikely
+       to get a Red Bull deal
+       either, so maybe it’s time
+       for him to finally pull
+       the trigger on that Audi
+       deal? In any case, we
+       could get a resolution
+       soon!
+   3. Mario Andretti:
+       Formula 1 owner personally
+       threatened to shut out
+       team Andretti
+   4. [Luke Smith] Drivers
+       asked in the FIA presser
+       about their favorite
+       films, their picks are:
+       Ocon: The Dark Knight
+       Rises, Tsunoda:
+       Transporter, Russell:
+       Casino Royale, Verstappen:
+       Wolf of Wall Street or The
+       Hangover, Albon: The Grand
+       Budapest Hotel, Leclerc:
+       Harry Potter
+   5. Lewis Hamilton
+       enters the Monaco paddock
+       for media day
 
 # Gaming
-   1. All Bardarvik sea
-       giant rune puzzle
-       solutions in Hellblade 2
-   2. Yolk Heroes: A Long
-       Tamago won’t take a ton of
-       your time — but it’s worth
-       every minute
-   3. You are cordially
-       invited to ruin our
-       esports career
-   4. Why do Delicious in
-       Dungeon’s kobolds look
-       like dogs?
-   5. The Doof Warrior is
-       still Mad Max: Fury Road’s
-       most iconic image
+   1. Our favorite
+       catch’em-all that isn’t
+       Pokémon is on sale for its
+       lowest price ever — and
+       just got a free
+       multiplayer update
+   2. Did you watch Gal
+       Gadot’s Heart of Stone?
+       Because tons of Netflix
+       subscribers did,
+       apparently
+   3. The 25 best games on
+       Game Pass
+   4. Hunter Schafer’s
+       unusual Switch habits lead
+       to social media debate
+   5. GTA Online update
+       for the week of May 23
 
 # HackerNews
-   1. Pluckable Strings
-   2. Show HN: Neosync –
-       Open-Source Data
-       Anonymization for Postgres
-       and MySQL
-   3. Show HN: PBT – A
-       property-based testing
-       library for Ruby
-   4. Try Clojure
-   5. Show HN: B-field, a
-       novel probabilistic
-       key-value data structure
-       (`rust-bfield`)
+   1. The Space Quest II
+       Master Disk Blunder
+   2. Show HN: Porter
+       Cloud – PaaS with an eject
+       button
+   3. Cement recycling
+       method could help solve
+       one of the big climate
+       challenges
+   4. Crows "count" the
+       number of self-generated
+       vocalizations
+   5. Tom Waits vs.
+       Frito-Lay, Inc (2003)
 
 # NL
-   1. How could it go so
-       wrong? (Balatro)
-   2. Sorry to Batman
-       (Cryptmaster)
-   3. It must be pressure
-       sensitive (Lethal Company)
-   4. It's all for naught
-       now (Balatro)
+   1. Perhaps all we ever
+       had was hope (Balatro)
+   2. This is way too much
+       whatever (Cryptmaster)
+   3. Swing for the fences
+       brother (Balatro)
+   4. That's why they call
+       it a dead end (Lethal
+       Company)
    5. Put some respect on
-       Blackboard (Balatro)
+       the castle (Balatro)
 
 # Slovakia
-   1. News digest:
-       Independently managed arts
-       fund now under SNS
-       influence
-   2. Slovak startup uses
-       smart watch technology to
-       identify heart failure
-   3. Ads selling sedative
-       used for executions appear
-       in Slovakia
-   4. Going to Croatia?
-       Here's the ins and outs of
-       travelling by car, plane,
-       train and bus
-   5. History Talks: The
-       unusual mountain chalet
+   1. Japan manufacturer
+       opens new R&D centre in
+       Košice
+   2. Not sorry, Rača
+       trams will be out of
+       service the next two
+       Saturdays
+   3. I did not plan to
+       kill the PM. I acted
+       alone, says man who shot
+       at Fico.
+   4. Top 10 events in
+       Bratislava for foreigners
+   5. 3 things to do in
+       Bratislava for free in the
+       next seven days
 
 # Space
-   1. Sega Toys Homestar
-       Matataki star projector
-       review
-   2. Satellites capture
-       smoke pouring from
-       hundreds of wildfires
-       across North America
-       (photos)
-   3. Russian space weapon
-       ban shot down by UN
-       Security Council
-   4. AI finds hidden
-       galactic evolution clues
-       in over 100 galaxies.
-       Here's how
-   5. Scientists find
-       weird link between a solar
-       mystery and feeding black
-       holes
+   1. China launches test
+       satellite to very low
+       Earth orbit (video)
+   2. SpaceX Dragon joins
+       Mercury and Apollo
+       capsules on display in
+       Chicago
+   3. Satellite data
+       reveals Antarctica's
+       Thwaites Glacier is
+       melting faster than we
+       thought
+   4. SpaceX to launch 3rd
+       mission in 2 days this
+       evening
+   5. NASA space telescope
+       finds Earth-size exoplanet
+       that's 'not a bad place'
+       to hunt for life
 
