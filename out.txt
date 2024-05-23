@@ -1,30 +1,14 @@
 -- Daily Times --
-Thursday, May 23
+Friday, May 24
 
-	I have heard or
-     observed, the principal
-     object is, not that mankind
-     may be well and honestly
-     clad, but, unquestionably,
-     that corporations may be
-     enriched.
-           ~ Henry David Thoreau
+	“Fortune seldom stands
+     in a wise man’s way.”
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [@chainbear] Feel
-       like this might be a
-       minority opinion but the
-       near-obsessive deification
-       of Senna is almost
-       uncomfortable. I know it's
-       an anniversary so
-       heightened but... I have
-       uneasy feelings that I
-       don't quite know how to
-       express
-   2. [Daniel Moxon]
+   1. [Daniel Moxon]
        Reports this morning that
        Carlos Sainz is out of the
        running for the Mercedes
@@ -36,11 +20,7 @@ Thursday, May 23
        deal? In any case, we
        could get a resolution
        soon!
-   3. Mario Andretti:
-       Formula 1 owner personally
-       threatened to shut out
-       team Andretti
-   4. [Luke Smith] Drivers
+   2. [Luke Smith] Drivers
        asked in the FIA presser
        about their favorite
        films, their picks are:
@@ -52,45 +32,58 @@ Thursday, May 23
        Hangover, Albon: The Grand
        Budapest Hotel, Leclerc:
        Harry Potter
-   5. Lewis Hamilton
+   3. Lewis Hamilton
        enters the Monaco paddock
        for media day
+   4. Mario Andretti:
+       Formula 1 owner personally
+       threatened to shut out
+       team Andretti
+   5. "Mercedes is no
+       longer interested in
+       signing Adrian Newey...
+       Apparently, James was
+       willing to tender his
+       resignation, which was
+       also rejected by the top
+       management of the company,
+       and the future must come
+       through Allison's
+       experience."
 
 # Gaming
-   1. Our favorite
+   1. All hidden face
+       locations in Hellblade 2
+   2. Where do your Steam
+       games go when you die?
+   3. Our favorite
        catch’em-all that isn’t
        Pokémon is on sale for its
        lowest price ever — and
        just got a free
        multiplayer update
-   2. Did you watch Gal
+   4. Did you watch Gal
        Gadot’s Heart of Stone?
        Because tons of Netflix
        subscribers did,
        apparently
-   3. The 25 best games on
+   5. The 25 best games on
        Game Pass
-   4. Hunter Schafer’s
-       unusual Switch habits lead
-       to social media debate
-   5. GTA Online update
-       for the week of May 23
 
 # HackerNews
-   1. The Space Quest II
+   1. Daylight Computer –
+       New 60fps e-paper tablet
+   2. The Space Quest II
        Master Disk Blunder
-   2. Show HN: Porter
-       Cloud – PaaS with an eject
-       button
-   3. Cement recycling
+   3. FTX bankruptcy
+       examiner's report [pdf]
+   4. Cement recycling
        method could help solve
        one of the big climate
        challenges
-   4. Crows "count" the
-       number of self-generated
-       vocalizations
-   5. Tom Waits vs.
-       Frito-Lay, Inc (2003)
+   5. Show HN: Porter
+       Cloud – PaaS with an eject
+       button
 
 # NL
    1. Perhaps all we ever
@@ -124,23 +117,24 @@ Thursday, May 23
        next seven days
 
 # Space
-   1. China launches test
+   1. We could float
+       effortlessly in Pluto's
+       subsurface ocean
+   2. International Space
+       Development Conference
+       2024 beams up Star Trek's
+       William Shatner and more
+       in Los Angeles
+   3. China launches test
        satellite to very low
        Earth orbit (video)
-   2. SpaceX Dragon joins
+   4. SpaceX Dragon joins
        Mercury and Apollo
        capsules on display in
        Chicago
-   3. Satellite data
+   5. Satellite data
        reveals Antarctica's
        Thwaites Glacier is
        melting faster than we
        thought
-   4. SpaceX to launch 3rd
-       mission in 2 days this
-       evening
-   5. NASA space telescope
-       finds Earth-size exoplanet
-       that's 'not a bad place'
-       to hunt for life
 
