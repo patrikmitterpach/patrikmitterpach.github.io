@@ -1,122 +1,130 @@
 -- Daily Times --
-Friday, May 24
+Saturday, May 25
 
-	I see young men, my
-     townsmen, whose misfortune
-     it is to have inherited
-     farms, houses, barns,
-     cattle, and farming tools;
-     for these are more easily
-     acquired than got rid of.
-           ~ Henry David Thoreau
+	I know not whether
+     wisdom is not best displayed
+     by calmness in the midst of
+     annoyances, just as the
+     greatest proof of a
+     general’s strength in arms
+     and men consists in his
+     quietness and confidence in
+     the midst of an enemy’s
+     country.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. The 2004 Monaco
-       'Diamond Heist' turns
-       20-years-old this weekend
-   2. FIA urged to delete
-       best laps of F1 drivers
-       causing Monaco red flags
-   3. Williams in advanced
-       talks with Sainz over 2025
-       F1 deal
-   4. 2024 Monaco Grand
+   1. 2024 Monaco Grand
        Prix - Free Practice 1
        Classification
-   5. [Adam Stern] "There
-       is understood to be
-       skepticism within a
-       selection of the sport’s
-       stakeholders regarding the
-       validity of Andretti’s
-       claims that he did not
-       bring the situation to the
-       attention of Congress." -
-       @RACERmag
+   2. [OT] Massive moment
+       in F2 qualifying. Isack
+       Hadjar narrowly escaped a
+       crash in the Monaco
+       tunnel.
+   3. [Oscar Piastri]
+       Guess that’s official
+       then. Submitted the papers
+       @Charles_Leclerc?
+   4. [Chris Medland]
+       Verstappen: "I'm jumping
+       like a kangaroo man, I'm
+       getting headaches! It's
+       crazy"
+   5. [Harrison Newey] The
+       class of 1999
 
 # Gaming
-   1. Every Mario game
-       available on Nintendo
-       Switch, ranked
-   2. How to get the
-       Magneto skin in Fortnite
-       Chapter 5 Season 3
-   3. Genshin Impact
-       version 4.7 livestream
-       codes
-   4. Furiosa and Mad
-       Max’s parallel backstories
-       make Fury Road even better
-   5. In Hellblade 2, the
-       biggest challenge Senua
-       faces is other people
+   1. Dune 2, The Fall
+       Guy, Netflix’s Atlas, and
+       every movie new to
+       streaming this week
+   2. The best deals you
+       should check out this
+       Memorial Day weekend
+   3. Never mind Kojima’s
+       Mad Max game — I want
+       George Miller’s Metal Gear
+   4. How an ambitious and
+       creative team will turn
+       Don’t Starve into a board
+       game
+   5. The best echoes in
+       Wuthering Waves and where
+       to get them
 
 # HackerNews
-   1. 2D Rigid Body
-       Collision Resolution
-   2. Daylight Computer –
-       New 60fps e-paper tablet
-   3. Voxel Displacement
-       Renderer – Modernizing the
-       Retro 3D Aesthetic
-   4. Low-Cost Shield
-       ArdEEG to Measure EEG with
-       Arduino Uno R4 WiFi
-   5. Advancing Our Bet on
-       Asymmetric Cryptography
+   1. Financial Statement
+       Analysis with Large
+       Language Models
+   2. Mp3tag – The
+       Universal Tag Editor
+   3. Show HN: We open
+       sourced our entire
+       text-to-SQL product
+   4. Show HN: Spot –
+       Simple, cross-platform,
+       reactive desktop GUI
+       toolkit for Go
+   5. Another US state
+       repeals law that protected
+       ISPs from municipal
+       competition
 
 # NL
-   1. Perhaps all we ever
+   1. I want to score like
+       uncommon jokers do
+       (Balatro)
+   2. It's a bit chaotic
+       (Miscellaneous)
+   3. Perhaps all we ever
        had was hope (Balatro)
-   2. This is way too much
+   4. This is way too much
        whatever (Cryptmaster)
-   3. Swing for the fences
+   5. Swing for the fences
        brother (Balatro)
-   4. That's why they call
-       it a dead end (Lethal
-       Company)
-   5. Put some respect on
-       the castle (Balatro)
 
 # Slovakia
-   1. Valuable Gothic
+   1. News digest: Hopes
+       pinned on younger Slovak
+       voters to drive higher
+       turnout on June 8
+   2. Valuable Gothic
        chalice lay hidden in the
        walls of Trnava cathedral
        for 70 years
-   2. 'Medical News'
+   3. 'Medical News'
        monthly distributed to
        hospitals promotes
        anti-vax views
-   3. But what about the
+   4. But what about the
        game?
-   4. Rewriting history:
+   5. Rewriting history:
        First two Slovak women
        reach the summit of
        Everest
-   5. Weekend: Fill your
-       belly at these cooking and
-       eating competitions
 
 # Space
-   1. Lost photos suggest
-       Mars' mysterious moon
-       Phobos may be a trapped
-       comet in disguise
-   2. Boeing Starliner 1st
-       astronaut flight: Live
-       updates
-   3. Safety comes 1st for
-       Artemis moon missions
-       despite 'space race' with
-       China, NASA chief says
-   4. May full moon 2024:
-       See the Flower Moon
-       blossom in gorgeous photos
-       from around the world
-   5. Are stars vanishing
-       into their own black
-       holes? A bizarre binary
-       system says 'yes'
+   1. James Webb Space
+       Telescope spots 3 of our
+       universe's earliest
+       galaxies
+   2. 'It's so
+       complicated:' Boeing
+       Starliner teams diagnosing
+       helium leak ahead of June
+       1 astronaut launch
+   3. Massive new NASA
+       exoplanet catalog unveils
+       126 extreme and exotic
+       worlds
+   4. Pakistani cubesat
+       snaps images of the moon
+       during China's lunar far
+       side mission (photos)
+   5. Sweden's Arctic
+       spaceport moves one step
+       closer to orbital launches
 
