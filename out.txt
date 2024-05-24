@@ -1,26 +1,18 @@
 -- Daily Times --
 Friday, May 24
 
-	“Fortune seldom stands
-     in a wise man’s way.”
+	The gods have not
+     thought you worthy of ill
+     fortune, but have thought
+     that fortune no longer
+     deserved to have any power
+     over you”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [Daniel Moxon]
-       Reports this morning that
-       Carlos Sainz is out of the
-       running for the Mercedes
-       seat. He’s highly unlikely
-       to get a Red Bull deal
-       either, so maybe it’s time
-       for him to finally pull
-       the trigger on that Audi
-       deal? In any case, we
-       could get a resolution
-       soon!
-   2. [Luke Smith] Drivers
+   1. [Luke Smith] Drivers
        asked in the FIA presser
        about their favorite
        films, their picks are:
@@ -32,14 +24,10 @@ Friday, May 24
        Hangover, Albon: The Grand
        Budapest Hotel, Leclerc:
        Harry Potter
-   3. Lewis Hamilton
-       enters the Monaco paddock
-       for media day
-   4. Mario Andretti:
-       Formula 1 owner personally
-       threatened to shut out
-       team Andretti
-   5. "Mercedes is no
+   2. The 2004 Monaco
+       'Diamond Heist' turns
+       20-years-old this weekend
+   3. "Mercedes is no
        longer interested in
        signing Adrian Newey...
        Apparently, James was
@@ -50,6 +38,12 @@ Friday, May 24
        and the future must come
        through Allison's
        experience."
+   4. FIA urged to delete
+       best laps of F1 drivers
+       causing Monaco red flags
+   5. Williams in advanced
+       talks with Sainz over 2025
+       F1 deal
 
 # Gaming
    1. All hidden face
@@ -71,19 +65,20 @@ Friday, May 24
        Game Pass
 
 # HackerNews
-   1. Daylight Computer –
+   1. 2D Rigid Body
+       Collision Resolution
+   2. Daylight Computer –
        New 60fps e-paper tablet
-   2. The Space Quest II
-       Master Disk Blunder
-   3. FTX bankruptcy
-       examiner's report [pdf]
-   4. Cement recycling
-       method could help solve
-       one of the big climate
-       challenges
-   5. Show HN: Porter
-       Cloud – PaaS with an eject
-       button
+   3. Kabosu, the Dog
+       Behind the 'Doge' Meme,
+       Has Died
+   4. Lewis Carroll –
+       computing the day of the
+       week for any given date
+       (1887)
+   5. Perplexica:
+       Open-Source Perplexity
+       Alternative
 
 # NL
    1. Perhaps all we ever
@@ -99,42 +94,46 @@ Friday, May 24
        the castle (Balatro)
 
 # Slovakia
-   1. Japan manufacturer
+   1. Rewriting history:
+       First two Slovak women
+       reach the summit of
+       Everest
+   2. Weekend: Fill your
+       belly at these cooking and
+       eating competitions
+   3. Take a ride on the
+       Bratislava metro that
+       wasn’t
+   4. News digest: Slovaks
+       can't withstand Canadian
+       storm, and potential
+       tornado in south
+   5. Japan manufacturer
        opens new R&D centre in
        Košice
-   2. Not sorry, Rača
-       trams will be out of
-       service the next two
-       Saturdays
-   3. I did not plan to
-       kill the PM. I acted
-       alone, says man who shot
-       at Fico.
-   4. Top 10 events in
-       Bratislava for foreigners
-   5. 3 things to do in
-       Bratislava for free in the
-       next seven days
 
 # Space
-   1. We could float
+   1. 'The first time I
+       read the script ... I
+       sobbed.' 'Atlas' stars
+       Jennifer Lopez and
+       Sterling K. Brown on AI
+       paranoia and their film's
+       emotional core'
+       (exclusive)
+   2. Asteroid-bound
+       Psyche spacecraft fires up
+       ion thrusters, starts
+       cruising through space
+   3. We could float
        effortlessly in Pluto's
        subsurface ocean
-   2. International Space
+   4. International Space
        Development Conference
        2024 beams up Star Trek's
        William Shatner and more
        in Los Angeles
-   3. China launches test
+   5. China launches test
        satellite to very low
        Earth orbit (video)
-   4. SpaceX Dragon joins
-       Mercury and Apollo
-       capsules on display in
-       Chicago
-   5. Satellite data
-       reveals Antarctica's
-       Thwaites Glacier is
-       melting faster than we
-       thought
 
