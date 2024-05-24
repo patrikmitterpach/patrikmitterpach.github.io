@@ -1,84 +1,71 @@
 -- Daily Times --
 Friday, May 24
 
-	The gods have not
-     thought you worthy of ill
-     fortune, but have thought
-     that fortune no longer
-     deserved to have any power
-     over you”
-                        ~ Seneca
+	I see young men, my
+     townsmen, whose misfortune
+     it is to have inherited
+     farms, houses, barns,
+     cattle, and farming tools;
+     for these are more easily
+     acquired than got rid of.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. [Luke Smith] Drivers
-       asked in the FIA presser
-       about their favorite
-       films, their picks are:
-       Ocon: The Dark Knight
-       Rises, Tsunoda:
-       Transporter, Russell:
-       Casino Royale, Verstappen:
-       Wolf of Wall Street or The
-       Hangover, Albon: The Grand
-       Budapest Hotel, Leclerc:
-       Harry Potter
-   2. The 2004 Monaco
+   1. The 2004 Monaco
        'Diamond Heist' turns
        20-years-old this weekend
-   3. "Mercedes is no
-       longer interested in
-       signing Adrian Newey...
-       Apparently, James was
-       willing to tender his
-       resignation, which was
-       also rejected by the top
-       management of the company,
-       and the future must come
-       through Allison's
-       experience."
-   4. FIA urged to delete
+   2. FIA urged to delete
        best laps of F1 drivers
        causing Monaco red flags
-   5. Williams in advanced
+   3. Williams in advanced
        talks with Sainz over 2025
        F1 deal
+   4. 2024 Monaco Grand
+       Prix - Free Practice 1
+       Classification
+   5. [Adam Stern] "There
+       is understood to be
+       skepticism within a
+       selection of the sport’s
+       stakeholders regarding the
+       validity of Andretti’s
+       claims that he did not
+       bring the situation to the
+       attention of Congress." -
+       @RACERmag
 
 # Gaming
-   1. All hidden face
-       locations in Hellblade 2
-   2. Where do your Steam
-       games go when you die?
-   3. Our favorite
-       catch’em-all that isn’t
-       Pokémon is on sale for its
-       lowest price ever — and
-       just got a free
-       multiplayer update
-   4. Did you watch Gal
-       Gadot’s Heart of Stone?
-       Because tons of Netflix
-       subscribers did,
-       apparently
-   5. The 25 best games on
-       Game Pass
+   1. Every Mario game
+       available on Nintendo
+       Switch, ranked
+   2. How to get the
+       Magneto skin in Fortnite
+       Chapter 5 Season 3
+   3. Genshin Impact
+       version 4.7 livestream
+       codes
+   4. Furiosa and Mad
+       Max’s parallel backstories
+       make Fury Road even better
+   5. In Hellblade 2, the
+       biggest challenge Senua
+       faces is other people
 
 # HackerNews
    1. 2D Rigid Body
        Collision Resolution
    2. Daylight Computer –
        New 60fps e-paper tablet
-   3. Kabosu, the Dog
-       Behind the 'Doge' Meme,
-       Has Died
-   4. Lewis Carroll –
-       computing the day of the
-       week for any given date
-       (1887)
-   5. Perplexica:
-       Open-Source Perplexity
-       Alternative
+   3. Voxel Displacement
+       Renderer – Modernizing the
+       Retro 3D Aesthetic
+   4. Low-Cost Shield
+       ArdEEG to Measure EEG with
+       Arduino Uno R4 WiFi
+   5. Advancing Our Bet on
+       Asymmetric Cryptography
 
 # NL
    1. Perhaps all we ever
@@ -94,46 +81,42 @@ Friday, May 24
        the castle (Balatro)
 
 # Slovakia
-   1. Rewriting history:
+   1. Valuable Gothic
+       chalice lay hidden in the
+       walls of Trnava cathedral
+       for 70 years
+   2. 'Medical News'
+       monthly distributed to
+       hospitals promotes
+       anti-vax views
+   3. But what about the
+       game?
+   4. Rewriting history:
        First two Slovak women
        reach the summit of
        Everest
-   2. Weekend: Fill your
+   5. Weekend: Fill your
        belly at these cooking and
        eating competitions
-   3. Take a ride on the
-       Bratislava metro that
-       wasn’t
-   4. News digest: Slovaks
-       can't withstand Canadian
-       storm, and potential
-       tornado in south
-   5. Japan manufacturer
-       opens new R&D centre in
-       Košice
 
 # Space
-   1. 'The first time I
-       read the script ... I
-       sobbed.' 'Atlas' stars
-       Jennifer Lopez and
-       Sterling K. Brown on AI
-       paranoia and their film's
-       emotional core'
-       (exclusive)
-   2. Asteroid-bound
-       Psyche spacecraft fires up
-       ion thrusters, starts
-       cruising through space
-   3. We could float
-       effortlessly in Pluto's
-       subsurface ocean
-   4. International Space
-       Development Conference
-       2024 beams up Star Trek's
-       William Shatner and more
-       in Los Angeles
-   5. China launches test
-       satellite to very low
-       Earth orbit (video)
+   1. Lost photos suggest
+       Mars' mysterious moon
+       Phobos may be a trapped
+       comet in disguise
+   2. Boeing Starliner 1st
+       astronaut flight: Live
+       updates
+   3. Safety comes 1st for
+       Artemis moon missions
+       despite 'space race' with
+       China, NASA chief says
+   4. May full moon 2024:
+       See the Flower Moon
+       blossom in gorgeous photos
+       from around the world
+   5. Are stars vanishing
+       into their own black
+       holes? A bizarre binary
+       system says 'yes'
 
