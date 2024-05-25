@@ -1,84 +1,71 @@
 -- Daily Times --
 Saturday, May 25
 
-	“It is more
-     respectable,” say you, “to
-     spend one’s money on such
-     books than on vases of
-     Corinthian brass and
-     paintings.” Not so:
-     everything that is carried
-     to excess is wrong. What
-     excuses can you find for a
-     man who is eager to buy
-     bookcases of ivory and
-     citrus wood, to collect the
-     works of unknown or
-     discredited authors, and who
-     sits yawning amid so many
-     thousands of books, whose
-     backs and titles please him
-     more than any other part of
-     them?
+	“We live a small part
+     only of our lives.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. 2024 Monaco Grand
-       Prix - Free Practice 1
-       Classification
-   2. [OT] Massive moment
-       in F2 qualifying. Isack
-       Hadjar narrowly escaped a
-       crash in the Monaco
-       tunnel.
-   3. [Oscar Piastri]
-       Guess that’s official
-       then. Submitted the papers
-       @Charles_Leclerc?
-   4. Lando Norris kisses
+   1. Lando Norris kisses
        the barrier at P2
-   5. [Chris Medland]
+   2. [Chris Medland]
        Verstappen: "I'm jumping
        like a kangaroo man, I'm
        getting headaches! It's
        crazy"
+   3. [ErikvanHaren]
+       Verstappen says he does
+       not expect miracles in the
+       run-up to Saturday. "Every
+       time we drove over a bump,
+       we lost a lot of lap time.
+       We will look for a
+       solution, but in general
+       it is not very easy in the
+       set-up."
+   4. Yuki Tsunoda
+       impeding Max during free
+       practice
+   5. 2024 Monaco Grand
+       Prix - Free Practice 2
+       Classification
 
 # Gaming
-   1. Dune 2, The Fall
+   1. The RPG that
+       inspired Final Fantasy,
+       Dragon Quest, and Demon’s
+       Souls is now more playable
+       than ever
+   2. The best movies
+       leaving streaming at the
+       end of May
+   3. Dune 2, The Fall
        Guy, Netflix’s Atlas, and
        every movie new to
        streaming this week
-   2. The best deals you
+   4. The best deals you
        should check out this
        Memorial Day weekend
-   3. Never mind Kojima’s
+   5. Never mind Kojima’s
        Mad Max game — I want
        George Miller’s Metal Gear
-   4. How an ambitious and
-       creative team will turn
-       Don’t Starve into a board
-       game
-   5. The best echoes in
-       Wuthering Waves and where
-       to get them
 
 # HackerNews
-   1. Mistral Fine-Tune
-   2. Google just updated
-       its algorithm. The
-       Internet will never be the
-       same
+   1. Abusing Go's
+       Infrastructure
+   2. When Open Source
+       turns sour: A brush with
+       mistaken identity
    3. Lapis: A Web
        Framework for Lua
-   4. LuaRT: Lua
-       programming environment
-       for console, desktop
-       applications for Windows
-   5. Financial Statement
-       Analysis with Large
-       Language Models
+   4. The Cognitive Design
+       of Tools of Thought (2014)
+       [pdf]
+   5. Goodix Fingerprint
+       Drivers for Linux (Or at
+       Least Debian)
 
 # NL
    1. I want to score like
@@ -114,26 +101,25 @@ Saturday, May 25
        Everest
 
 # Space
-   1. A billionaire hopes
+   1. Will a 'rare' lineup
+       of planets be visible to
+       the naked eye in the night
+       sky on June 3?
+   2. 'Alien' heard us all
+       scream 45 years ago today.
+       Here's what it was like on
+       opening day
+   3. This Week In Space
+       podcast: Episode 112 —Mars
+       on Pause?
+   4. Towel Day 2024:
+       What's the deal with
+       towels in 'The
+       Hitchhiker's Guide to the
+       Galaxy?'
+   5. A billionaire hopes
        to upgrade the Hubble
        Telescope on a private
        SpaceX mission, but could
        it really happen?
-   2. James Webb Space
-       Telescope spots 3 of our
-       universe's earliest
-       galaxies
-   3. 'It's so
-       complicated:' Boeing
-       Starliner teams diagnosing
-       helium leak ahead of June
-       1 astronaut launch
-   4. Massive new NASA
-       exoplanet catalog unveils
-       126 extreme and exotic
-       worlds
-   5. Pakistani cubesat
-       snaps images of the moon
-       during China's lunar far
-       side mission (photos)
 
