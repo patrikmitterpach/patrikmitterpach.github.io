@@ -1,21 +1,33 @@
 -- Daily Times --
 Saturday, May 25
 
-	“We live a small part
-     only of our lives.”
+	Man cannot live well if
+     he knows not how to die
+     well.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lando Norris kisses
-       the barrier at P2
-   2. [Chris Medland]
-       Verstappen: "I'm jumping
-       like a kangaroo man, I'm
-       getting headaches! It's
-       crazy"
-   3. [ErikvanHaren]
+   1. Charles Leclerc take
+       pole position for the 2024
+       Monaco Grand Prix, Oscar
+       Piastri P2, Carlos Sainz
+       P3
+   2. Arthur Leclerc via
+       Instagram story: “Family
+       front row @charles_leclerc
+       @oscarpiastri”
+   3. [Oracle Red Bull
+       Racing] “What a joke”
+       After a frantic Q1, Checo
+       is unfortunately out of
+       qualifying. All eyes on
+       Max for Q2
+   4. Yuki Tsunoda
+       impeding Max during free
+       practice
+   5. [ErikvanHaren]
        Verstappen says he does
        not expect miracles in the
        run-up to Saturday. "Every
@@ -25,60 +37,54 @@ Saturday, May 25
        solution, but in general
        it is not very easy in the
        set-up."
-   4. Yuki Tsunoda
-       impeding Max during free
-       practice
-   5. 2024 Monaco Grand
-       Prix - Free Practice 2
-       Classification
 
 # Gaming
-   1. The RPG that
+   1. Respect to the
+       director of Netflix’s
+       Atlas for thinking deeply
+       about mechs
+   2. The RPG that
        inspired Final Fantasy,
        Dragon Quest, and Demon’s
        Souls is now more playable
        than ever
-   2. The best movies
+   3. The best movies
        leaving streaming at the
        end of May
-   3. Dune 2, The Fall
+   4. Dune 2, The Fall
        Guy, Netflix’s Atlas, and
        every movie new to
        streaming this week
-   4. The best deals you
+   5. The best deals you
        should check out this
        Memorial Day weekend
-   5. Never mind Kojima’s
-       Mad Max game — I want
-       George Miller’s Metal Gear
 
 # HackerNews
    1. Abusing Go's
        Infrastructure
-   2. When Open Source
-       turns sour: A brush with
-       mistaken identity
-   3. Lapis: A Web
-       Framework for Lua
-   4. The Cognitive Design
+   2. The road to hell is
+       paved with good intentions
+       and C++ modules
+   3. So good, it works on
+       barbed wire (2001)
+   4. `tmux` is worse is
+       better
+   5. The Cognitive Design
        of Tools of Thought (2014)
        [pdf]
-   5. Goodix Fingerprint
-       Drivers for Linux (Or at
-       Least Debian)
 
 # NL
-   1. I want to score like
+   1. One in four chance,
+       huh? (Balatro)
+   2. Riddle me this, word
+       nerd (Cryptmaster)
+   3. I want to score like
        uncommon jokers do
        (Balatro)
-   2. It's a bit chaotic
+   4. It's a bit chaotic
        (Miscellaneous)
-   3. Perhaps all we ever
+   5. Perhaps all we ever
        had was hope (Balatro)
-   4. This is way too much
-       whatever (Cryptmaster)
-   5. Swing for the fences
-       brother (Balatro)
 
 # Slovakia
    1. News digest: Hopes
