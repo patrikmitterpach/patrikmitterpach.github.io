@@ -1,16 +1,25 @@
 -- Daily Times --
 Saturday, May 25
 
-	I know not whether
-     wisdom is not best displayed
-     by calmness in the midst of
-     annoyances, just as the
-     greatest proof of a
-     general’s strength in arms
-     and men consists in his
-     quietness and confidence in
-     the midst of an enemy’s
-     country.
+	“It is more
+     respectable,” say you, “to
+     spend one’s money on such
+     books than on vases of
+     Corinthian brass and
+     paintings.” Not so:
+     everything that is carried
+     to excess is wrong. What
+     excuses can you find for a
+     man who is eager to buy
+     bookcases of ivory and
+     citrus wood, to collect the
+     works of unknown or
+     discredited authors, and who
+     sits yawning amid so many
+     thousands of books, whose
+     backs and titles please him
+     more than any other part of
+     them?
                         ~ Seneca
 
 
@@ -28,13 +37,13 @@ Saturday, May 25
        Guess that’s official
        then. Submitted the papers
        @Charles_Leclerc?
-   4. [Chris Medland]
+   4. Lando Norris kisses
+       the barrier at P2
+   5. [Chris Medland]
        Verstappen: "I'm jumping
        like a kangaroo man, I'm
        getting headaches! It's
        crazy"
-   5. [Harrison Newey] The
-       class of 1999
 
 # Gaming
    1. Dune 2, The Fall
@@ -56,22 +65,20 @@ Saturday, May 25
        to get them
 
 # HackerNews
-   1. Financial Statement
+   1. Mistral Fine-Tune
+   2. Google just updated
+       its algorithm. The
+       Internet will never be the
+       same
+   3. Lapis: A Web
+       Framework for Lua
+   4. LuaRT: Lua
+       programming environment
+       for console, desktop
+       applications for Windows
+   5. Financial Statement
        Analysis with Large
        Language Models
-   2. Mp3tag – The
-       Universal Tag Editor
-   3. Show HN: We open
-       sourced our entire
-       text-to-SQL product
-   4. Show HN: Spot –
-       Simple, cross-platform,
-       reactive desktop GUI
-       toolkit for Go
-   5. Another US state
-       repeals law that protected
-       ISPs from municipal
-       competition
 
 # NL
    1. I want to score like
@@ -107,24 +114,26 @@ Saturday, May 25
        Everest
 
 # Space
-   1. James Webb Space
+   1. A billionaire hopes
+       to upgrade the Hubble
+       Telescope on a private
+       SpaceX mission, but could
+       it really happen?
+   2. James Webb Space
        Telescope spots 3 of our
        universe's earliest
        galaxies
-   2. 'It's so
+   3. 'It's so
        complicated:' Boeing
        Starliner teams diagnosing
        helium leak ahead of June
        1 astronaut launch
-   3. Massive new NASA
+   4. Massive new NASA
        exoplanet catalog unveils
        126 extreme and exotic
        worlds
-   4. Pakistani cubesat
+   5. Pakistani cubesat
        snaps images of the moon
        during China's lunar far
        side mission (photos)
-   5. Sweden's Arctic
-       spaceport moves one step
-       closer to orbital launches
 
