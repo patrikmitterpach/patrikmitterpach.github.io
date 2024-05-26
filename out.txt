@@ -1,9 +1,10 @@
 -- Daily Times --
-Saturday, May 25
+Sunday, May 26
 
-	Man cannot live well if
-     he knows not how to die
-     well.
+	Riches, I say, are not a
+     good thing; for if they
+     were, they would make men
+     good.
                         ~ Seneca
 
 
@@ -14,64 +15,66 @@ Saturday, May 25
        Monaco Grand Prix, Oscar
        Piastri P2, Carlos Sainz
        P3
-   2. Arthur Leclerc via
+   2. Logan Sargeant has
+       been outqualified by his
+       teammate, Alex Albon, in
+       every Grand Prix (29-0)
+       however Sargeant has
+       outqualified Sergio Perez
+       five times during his time
+       in F1
+   3. Arthur Leclerc via
        Instagram story: “Family
        front row @charles_leclerc
        @oscarpiastri”
-   3. [Oracle Red Bull
-       Racing] “What a joke”
-       After a frantic Q1, Checo
-       is unfortunately out of
-       qualifying. All eyes on
-       Max for Q2
-   4. Yuki Tsunoda
-       impeding Max during free
-       practice
-   5. [ErikvanHaren]
-       Verstappen says he does
-       not expect miracles in the
-       run-up to Saturday. "Every
-       time we drove over a bump,
-       we lost a lot of lap time.
-       We will look for a
-       solution, but in general
-       it is not very easy in the
-       set-up."
+   4. Yuki Tsunoda has the
+       same number of Q3
+       appearances (6) as Sergio
+       Perez in 2024
+   5. Max Verstappen after
+       Monaco Quali. What is
+       possible from P6 tomorrow?
+       Max: Not much, we'll see
+       but I don't really care.
+       (Via: SkysportsF1)
 
 # Gaming
-   1. Respect to the
+   1. Mobile games should
+       stop reminding me how
+       annoying my phone is
+   2. Respect to the
        director of Netflix’s
        Atlas for thinking deeply
        about mechs
-   2. The RPG that
+   3. The RPG that
        inspired Final Fantasy,
        Dragon Quest, and Demon’s
        Souls is now more playable
        than ever
-   3. The best movies
+   4. The best movies
        leaving streaming at the
        end of May
-   4. Dune 2, The Fall
+   5. Dune 2, The Fall
        Guy, Netflix’s Atlas, and
        every movie new to
        streaming this week
-   5. The best deals you
-       should check out this
-       Memorial Day weekend
 
 # HackerNews
-   1. Abusing Go's
-       Infrastructure
-   2. The road to hell is
-       paved with good intentions
-       and C++ modules
-   3. So good, it works on
-       barbed wire (2001)
-   4. `tmux` is worse is
-       better
-   5. The Cognitive Design
-       of Tools of Thought (2014)
-       [pdf]
+   1. Cloudflare took down
+       our site after trying to
+       force us to pay $120k
+       within 24h
+   2. Hurl, the
+       Exceptional Language
+   3. Show HN: I made a
+       online free tool to
+       enhance and auto-crop your
+       screenshots
+   4. Braid:
+       Synchronization for HTTP
+   5. Understanding how
+       the brain reads code
+       versus language
 
 # NL
    1. One in four chance,
@@ -107,25 +110,23 @@ Saturday, May 25
        Everest
 
 # Space
-   1. Will a 'rare' lineup
+   1. The future is bright
+       for astronomy, and very
+       expensive (op-ed)
+   2. NASA's 'Mohawk Guy'
+       cameo in '3 Body Problem'
+       explained (exclusive)
+   3. Black hole
+       singularities defy
+       physics. New research
+       could finally do away with
+       them.
+   4. Will a 'rare' lineup
        of planets be visible to
        the naked eye in the night
        sky on June 3?
-   2. 'Alien' heard us all
+   5. 'Alien' heard us all
        scream 45 years ago today.
        Here's what it was like on
        opening day
-   3. This Week In Space
-       podcast: Episode 112 —Mars
-       on Pause?
-   4. Towel Day 2024:
-       What's the deal with
-       towels in 'The
-       Hitchhiker's Guide to the
-       Galaxy?'
-   5. A billionaire hopes
-       to upgrade the Hubble
-       Telescope on a private
-       SpaceX mission, but could
-       it really happen?
 
