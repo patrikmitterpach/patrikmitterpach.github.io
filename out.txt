@@ -1,28 +1,23 @@
 -- Daily Times --
 Monday, May 27
 
-	“Choose a sound
-     financial lifestyle. Start
-     early and invest regularly.
-     Know what you’re buying.
-     Preserve your buying power.
-     Keep costs and taxes low.
-     Diversify your stock
-     portfolio [and diversify
-     your stock risk with a bond
-     portfolio].”
-~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
+	Near the end of March,
+     1845, I borrowed an axe and
+     went down to the woods by
+     Walden Pond, nearest to
+     where I intended to build my
+     house, and began to cut down
+     some tall, arrowy white
+     pines, still in their youth,
+     for timber.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
    1. Charles Leclerc wins
        the 2024 Monaco Grand Prix
-   2. Perez Car after
-       opening lap incident.
-   3. Max Verstappen
-       thoughts about the race
-   4. Max: I think George
+   2. Max: I think George
        and I now are going to go
        for a run now, because we
        didn't really have an
@@ -34,42 +29,56 @@ Monday, May 27
        Like five, or something.
        Mandatory nap? | George:
        One lap on foot
-   5. Fred Vassuer on the
+   3. Fred Vassuer on the
        podium
+   4. Charles casually
+       cycling back home after
+       winning the Monaco GP
+   5. Pierre Gasly: "I was
+       very shocked. It was
+       really unnecessary. I'm
+       sad, disappointed with the
+       situation. We definitely
+       need to talk because we
+       can't afford it,
+       especially in a season
+       like this. At that time we
+       were P9 and P10, so there
+       was absolutely no reason
+       to risk taking out the two
+       cars."
 
 # Gaming
-   1. The Sympathizer’s
-       best dual identity trick
-       was its last one
-   2. Karyn Kusama on the
-       ‘wonderful and painful’
-       process of revisiting
-       Girlfight for Criterion
-   3. Mobile games should
-       stop reminding me how
-       annoying my phone is
-   4. Respect to the
-       director of Netflix’s
-       Atlas for thinking deeply
-       about mechs
-   5. The RPG that
-       inspired Final Fantasy,
-       Dragon Quest, and Demon’s
-       Souls is now more playable
-       than ever
+   1. The secrets to
+       gaming gravity
+   2. Polygon’s most
+       anticipated, least
+       expected, 2024 summer
+       preview
+   3. Can Lev Grossman do
+       for King Arthur what he
+       did for Harry Potter?
+   4. The most anticipated
+       TV shows of the summer
+   5. The major movies you
+       could easily miss in the
+       next three months
 
 # HackerNews
-   1. Big data is dead
-       (2023)
+   1. Instead of "auth",
+       we should say
+       "permissions" and "login"
    2. My new PSU burns out
        I fix it, and torture it
        by cracking water
-   3. A Big Ring on the
-       Sky
-   4. What the damaged
-       Svalbard cable looked like
-   5. Is regulated BGP
-       security coming?
+   3. Cycling's Silent
+       Epidemic: Labial swelling
+       and pain in women
+   4. Giant structure in
+       space challenges
+       understanding of the
+       universe
+   5. Rete Algorithm
 
 # NL
    1. Thinnest deck in
@@ -85,43 +94,38 @@ Monday, May 27
        (Balatro)
 
 # Slovakia
-   1. Ethical and
+   1. Report: In March,
+       Slovaks saw more fake than
+       true news
+   2. New payment method
+       for parking in Bratislava
+   3. Travelling to
+       Croatia by car: which way,
+       where to fill your tank
+       and highway tolls
+   4. Ethical and
        regulatory landscape of AI
-   2. Last Week: Attempts
+   5. Last Week: Attempts
        to suffocate broadcasters
        continue on more than one
        front
-   3. News digest: Hopes
-       pinned on younger Slovak
-       voters to drive higher
-       turnout on June 8
-   4. Valuable Gothic
-       chalice lay hidden in the
-       walls of Trnava cathedral
-       for 70 years
-   5. 'Medical News'
-       monthly distributed to
-       hospitals promotes
-       anti-vax views
 
 # Space
-   1. This telescope can
-       observe stars, satellites
-       and more during the day.
-       But how?
-   2. 'It has an
-       'Aliens'-like vibe:'
-       'Atlas' director Brad
-       Peyton on channeling James
-       Cameron (exclusive)
-   3. Starmus 2024:
-       Scientists and musicians
-       unite in Bratislava to
-       celebrate planet Earth
-   4. The future is bright
-       for astronomy, and very
-       expensive (op-ed)
-   5. NASA's 'Mohawk Guy'
-       cameo in '3 Body Problem'
-       explained (exclusive)
+   1. Alabama high school
+       students win world's
+       largest rocketry challenge
+   2. Watch Jedi battle
+       hand-to-hand in new clip
+       for Disney+'s 'The
+       Acolyte' (video)
+   3. US economy to
+       benefit from NASA
+       investment in 3D-printable
+       superalloy
+   4. SpaceX to launch 23
+       Starlink satellites from
+       Florida on Tuesday morning
+   5. 2024 hurricane
+       season should be busy,
+       NOAA says
 
