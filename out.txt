@@ -1,40 +1,22 @@
 -- Daily Times --
 Monday, May 27
 
-	Near the end of March,
-     1845, I borrowed an axe and
-     went down to the woods by
-     Walden Pond, nearest to
-     where I intended to build my
-     house, and began to cut down
-     some tall, arrowy white
-     pines, still in their youth,
-     for timber.
-           ~ Henry David Thoreau
+	The wise man is neither
+     elated by prosperity nor
+     depressed by adversity; for
+     he has always endeavoured to
+     depend chiefly upon himself
+     and to derive all his joys
+     from himself.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Charles Leclerc wins
-       the 2024 Monaco Grand Prix
-   2. Max: I think George
-       and I now are going to go
-       for a run now, because we
-       didn't really have an
-       exercise. My god, that was
-       terrible, so boring |
-       George: They need to
-       change something.
-       Mandatory pit stops | Max:
-       Like five, or something.
-       Mandatory nap? | George:
-       One lap on foot
-   3. Fred Vassuer on the
-       podium
-   4. Charles casually
+   1. Charles casually
        cycling back home after
        winning the Monaco GP
-   5. Pierre Gasly: "I was
+   2. Pierre Gasly: "I was
        very shocked. It was
        really unnecessary. I'm
        sad, disappointed with the
@@ -47,85 +29,106 @@ Monday, May 27
        was absolutely no reason
        to risk taking out the two
        cars."
+   3. When marshalls act
+       as fans
+   4. [FanaticsFerrari] A
+       photographer became
+       injured and was taken to
+       the medical centre, but
+       they are fine and released
+       now.
+   5. [Motorsport Total]
+       Perez about to sign with
+       Red Bull, Sainz now to
+       Williams or Audi? : Red
+       Bull has now turned down
+       the Spaniard, who will
+       make his decision as soon
+       as the Perez deal is
+       officially announced
 
 # Gaming
-   1. The secrets to
+   1. Netflix’s Eric, Star
+       Trek: Discovery’s series
+       finale, and more new TV
+       this week
+   2. What time does
+       Modern Warfare 3 season 4
+       release?
+   3. The secrets to
        gaming gravity
-   2. Polygon’s most
+   4. Polygon’s most
        anticipated, least
        expected, 2024 summer
        preview
-   3. Can Lev Grossman do
+   5. Can Lev Grossman do
        for King Arthur what he
        did for Harry Potter?
-   4. The most anticipated
-       TV shows of the summer
-   5. The major movies you
-       could easily miss in the
-       next three months
 
 # HackerNews
-   1. Instead of "auth",
-       we should say
-       "permissions" and "login"
-   2. My new PSU burns out
-       I fix it, and torture it
-       by cracking water
-   3. Cycling's Silent
-       Epidemic: Labial swelling
-       and pain in women
-   4. Giant structure in
-       space challenges
-       understanding of the
-       universe
-   5. Rete Algorithm
+   1. Controlling the
+       Taylor Swift Eras Tour
+       wristbands with Flipper
+       Zero
+   2. British Museum gems
+       for sale on eBay – how a
+       theft was exposed
+   3. Should I use JWTs
+       for authentication tokens?
+   4. Tantivy – full-text
+       search engine library
+       inspired by Apache Lucene
+   5. Helix-gpui: A simple
+       GUI for the Helix editor
 
 # NL
-   1. Thinnest deck in
-       Balatro history? (Balatro)
-   2. Maybe I was being a
-       bit silly (Balatro)
-   3. One in four chance,
-       huh? (Balatro)
-   4. Riddle me this, word
-       nerd (Cryptmaster)
-   5. I want to score like
-       uncommon jokers do
+   1. Two napkins have
+       never held this much value
        (Balatro)
+   2. Honestly I thought I
+       was cooking (Jackbox)
+   3. I'm feeling a little
+       snakebitten (Cryptmaster)
+   4. Thinnest deck in
+       Balatro history? (Balatro)
+   5. Maybe I was being a
+       bit silly (Balatro)
 
 # Slovakia
-   1. Report: In March,
+   1. News digest: TV host
+       openly talks about
+       pressures on private
+       stations
+   2. Report: In March,
        Slovaks saw more fake than
        true news
-   2. New payment method
+   3. New payment method
        for parking in Bratislava
-   3. Travelling to
+   4. Travelling to
        Croatia by car: which way,
        where to fill your tank
        and highway tolls
-   4. Ethical and
+   5. Ethical and
        regulatory landscape of AI
-   5. Last Week: Attempts
-       to suffocate broadcasters
-       continue on more than one
-       front
 
 # Space
-   1. Alabama high school
+   1. A new theory of
+       quantum gravity could
+       explain the biggest puzzle
+       in cosmology, study
+       suggests
+   2. Alabama high school
        students win world's
        largest rocketry challenge
-   2. Watch Jedi battle
+   3. Watch Jedi battle
        hand-to-hand in new clip
        for Disney+'s 'The
        Acolyte' (video)
-   3. US economy to
+   4. US economy to
        benefit from NASA
        investment in 3D-printable
        superalloy
-   4. SpaceX to launch 23
+   5. SpaceX to launch 23
        Starlink satellites from
        Florida on Tuesday morning
-   5. 2024 hurricane
-       season should be busy,
-       NOAA says
 
