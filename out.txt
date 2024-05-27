@@ -1,132 +1,127 @@
 -- Daily Times --
-Sunday, May 26
+Monday, May 27
 
-	Riches, I say, are not a
-     good thing; for if they
-     were, they would make men
-     good.
-                        ~ Seneca
+	“Choose a sound
+     financial lifestyle. Start
+     early and invest regularly.
+     Know what you’re buying.
+     Preserve your buying power.
+     Keep costs and taxes low.
+     Diversify your stock
+     portfolio [and diversify
+     your stock risk with a bond
+     portfolio].”
+~ Taylor Larimore; Mel Lindauer; Michael Leboeuf
 
 
 -- News --
 # Formula1
-   1. Charles Leclerc take
-       pole position for the 2024
-       Monaco Grand Prix, Oscar
-       Piastri P2, Carlos Sainz
-       P3
-   2. Logan Sargeant has
-       been outqualified by his
-       teammate, Alex Albon, in
-       every Grand Prix (29-0)
-       however Sargeant has
-       outqualified Sergio Perez
-       five times during his time
-       in F1
-   3. Arthur Leclerc via
-       Instagram story: “Family
-       front row @charles_leclerc
-       @oscarpiastri”
-   4. Yuki Tsunoda has the
-       same number of Q3
-       appearances (6) as Sergio
-       Perez in 2024
-   5. Max Verstappen after
-       Monaco Quali. What is
-       possible from P6 tomorrow?
-       Max: Not much, we'll see
-       but I don't really care.
-       (Via: SkysportsF1)
+   1. Charles Leclerc wins
+       the 2024 Monaco Grand Prix
+   2. Perez Car after
+       opening lap incident.
+   3. Max Verstappen
+       thoughts about the race
+   4. Max: I think George
+       and I now are going to go
+       for a run now, because we
+       didn't really have an
+       exercise. My god, that was
+       terrible, so boring |
+       George: They need to
+       change something.
+       Mandatory pit stops | Max:
+       Like five, or something.
+       Mandatory nap? | George:
+       One lap on foot
+   5. Fred Vassuer on the
+       podium
 
 # Gaming
-   1. Mobile games should
+   1. The Sympathizer’s
+       best dual identity trick
+       was its last one
+   2. Karyn Kusama on the
+       ‘wonderful and painful’
+       process of revisiting
+       Girlfight for Criterion
+   3. Mobile games should
        stop reminding me how
        annoying my phone is
-   2. Respect to the
+   4. Respect to the
        director of Netflix’s
        Atlas for thinking deeply
        about mechs
-   3. The RPG that
+   5. The RPG that
        inspired Final Fantasy,
        Dragon Quest, and Demon’s
        Souls is now more playable
        than ever
-   4. The best movies
-       leaving streaming at the
-       end of May
-   5. Dune 2, The Fall
-       Guy, Netflix’s Atlas, and
-       every movie new to
-       streaming this week
 
 # HackerNews
-   1. Cloudflare took down
-       our site after trying to
-       force us to pay $120k
-       within 24h
-   2. Hurl, the
-       Exceptional Language
-   3. Show HN: I made a
-       online free tool to
-       enhance and auto-crop your
-       screenshots
-   4. Braid:
-       Synchronization for HTTP
-   5. Understanding how
-       the brain reads code
-       versus language
+   1. Big data is dead
+       (2023)
+   2. My new PSU burns out
+       I fix it, and torture it
+       by cracking water
+   3. A Big Ring on the
+       Sky
+   4. What the damaged
+       Svalbard cable looked like
+   5. Is regulated BGP
+       security coming?
 
 # NL
-   1. One in four chance,
+   1. Thinnest deck in
+       Balatro history? (Balatro)
+   2. Maybe I was being a
+       bit silly (Balatro)
+   3. One in four chance,
        huh? (Balatro)
-   2. Riddle me this, word
+   4. Riddle me this, word
        nerd (Cryptmaster)
-   3. I want to score like
+   5. I want to score like
        uncommon jokers do
        (Balatro)
-   4. It's a bit chaotic
-       (Miscellaneous)
-   5. Perhaps all we ever
-       had was hope (Balatro)
 
 # Slovakia
-   1. News digest: Hopes
+   1. Ethical and
+       regulatory landscape of AI
+   2. Last Week: Attempts
+       to suffocate broadcasters
+       continue on more than one
+       front
+   3. News digest: Hopes
        pinned on younger Slovak
        voters to drive higher
        turnout on June 8
-   2. Valuable Gothic
+   4. Valuable Gothic
        chalice lay hidden in the
        walls of Trnava cathedral
        for 70 years
-   3. 'Medical News'
+   5. 'Medical News'
        monthly distributed to
        hospitals promotes
        anti-vax views
-   4. But what about the
-       game?
-   5. Rewriting history:
-       First two Slovak women
-       reach the summit of
-       Everest
 
 # Space
-   1. The future is bright
+   1. This telescope can
+       observe stars, satellites
+       and more during the day.
+       But how?
+   2. 'It has an
+       'Aliens'-like vibe:'
+       'Atlas' director Brad
+       Peyton on channeling James
+       Cameron (exclusive)
+   3. Starmus 2024:
+       Scientists and musicians
+       unite in Bratislava to
+       celebrate planet Earth
+   4. The future is bright
        for astronomy, and very
        expensive (op-ed)
-   2. NASA's 'Mohawk Guy'
+   5. NASA's 'Mohawk Guy'
        cameo in '3 Body Problem'
        explained (exclusive)
-   3. Black hole
-       singularities defy
-       physics. New research
-       could finally do away with
-       them.
-   4. Will a 'rare' lineup
-       of planets be visible to
-       the naked eye in the night
-       sky on June 3?
-   5. 'Alien' heard us all
-       scream 45 years ago today.
-       Here's what it was like on
-       opening day
 
