@@ -1,42 +1,37 @@
 -- Daily Times --
-Monday, May 27
+Tuesday, May 28
 
-	The wise man is neither
-     elated by prosperity nor
-     depressed by adversity; for
-     he has always endeavoured to
-     depend chiefly upon himself
-     and to derive all his joys
-     from himself.
+	It does not matter what
+     you bear, but how you bear
+     it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Charles casually
-       cycling back home after
-       winning the Monaco GP
-   2. Pierre Gasly: "I was
-       very shocked. It was
-       really unnecessary. I'm
-       sad, disappointed with the
-       situation. We definitely
-       need to talk because we
-       can't afford it,
-       especially in a season
-       like this. At that time we
-       were P9 and P10, so there
-       was absolutely no reason
-       to risk taking out the two
-       cars."
-   3. When marshalls act
-       as fans
-   4. [FanaticsFerrari] A
-       photographer became
-       injured and was taken to
-       the medical centre, but
-       they are fine and released
-       now.
+   1. Interviewer: "It‘s
+       just 31 points between you
+       and Max in the
+       championship." Charles:
+       "Oh is it 31? Oh…Somebody
+       told me 23, so I was
+       excited."
+   2. Craig Slater for Sky
+       Sports says Alpine
+       dropping Ocon for the
+       Canadian GP-only as a
+       reaction to what happened
+       in Monaco is under a
+       serious consideration
+   3. Kylian Mbappe waving
+       the chequered flag, which
+       has the names of all those
+       who paid to feature their
+       names on the flag
+   4. Bono tells Lewis
+       Hamilton outlap "normal"
+       instead of pushing to
+       undercut Verstappen
    5. [Motorsport Total]
        Perez about to sign with
        Red Bull, Sainz now to
@@ -48,38 +43,38 @@ Monday, May 27
        officially announced
 
 # Gaming
-   1. Netflix’s Eric, Star
+   1. Can Mareanie be
+       shiny in Pokémon Go?
+   2. Netflix’s Eric, Star
        Trek: Discovery’s series
        finale, and more new TV
        this week
-   2. What time does
+   3. What time does
        Modern Warfare 3 season 4
        release?
-   3. The secrets to
+   4. The secrets to
        gaming gravity
-   4. Polygon’s most
+   5. Polygon’s most
        anticipated, least
        expected, 2024 summer
        preview
-   5. Can Lev Grossman do
-       for King Arthur what he
-       did for Harry Potter?
 
 # HackerNews
-   1. Controlling the
+   1. WP21
+   2. My computer has an
+       underscore in its name,
+       and I have trouble with
+       the network
+   3. Doing is normally
+       distributed, learning is
+       log-normal
+   4. Controlling the
        Taylor Swift Eras Tour
        wristbands with Flipper
        Zero
-   2. British Museum gems
-       for sale on eBay – how a
-       theft was exposed
-   3. Should I use JWTs
-       for authentication tokens?
-   4. Tantivy – full-text
-       search engine library
-       inspired by Apache Lucene
-   5. Helix-gpui: A simple
-       GUI for the Helix editor
+   5. Root your Docker
+       host in 10 seconds for fun
+       and profit (2017)
 
 # NL
    1. Two napkins have
@@ -95,40 +90,42 @@ Monday, May 27
        bit silly (Balatro)
 
 # Slovakia
-   1. News digest: TV host
+   1. Volunteering means
+       spending time in a useful
+       way
+   2. Hlohovec observatory
+       sets out to become one of
+       the top institutions in
+       Central Europe
+   3. News digest: TV host
        openly talks about
        pressures on private
        stations
-   2. Report: In March,
+   4. Report: In March,
        Slovaks saw more fake than
        true news
-   3. New payment method
+   5. New payment method
        for parking in Bratislava
-   4. Travelling to
-       Croatia by car: which way,
-       where to fill your tank
-       and highway tolls
-   5. Ethical and
-       regulatory landscape of AI
 
 # Space
-   1. A new theory of
+   1. Astronomy has a
+       bullying and harassment
+       issue: 'Results presented
+       in this report are bleak'
+   2. A new theory of
        quantum gravity could
        explain the biggest puzzle
        in cosmology, study
        suggests
-   2. Alabama high school
+   3. Alabama high school
        students win world's
        largest rocketry challenge
-   3. Watch Jedi battle
+   4. Watch Jedi battle
        hand-to-hand in new clip
        for Disney+'s 'The
        Acolyte' (video)
-   4. US economy to
+   5. US economy to
        benefit from NASA
        investment in 3D-printable
        superalloy
-   5. SpaceX to launch 23
-       Starlink satellites from
-       Florida on Tuesday morning
 
