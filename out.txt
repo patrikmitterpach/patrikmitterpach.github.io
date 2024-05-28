@@ -1,9 +1,12 @@
 -- Daily Times --
 Tuesday, May 28
 
-	It does not matter what
-     you bear, but how you bear
-     it.
+	You may, then, boldly
+     declare that the highest
+     good is singleness of mind:
+     for where agreement and
+     unity are, there must the
+     virtues be.
                         ~ Seneca
 
 
@@ -16,65 +19,59 @@ Tuesday, May 28
        "Oh is it 31? Oh…Somebody
        told me 23, so I was
        excited."
-   2. Craig Slater for Sky
-       Sports says Alpine
-       dropping Ocon for the
-       Canadian GP-only as a
-       reaction to what happened
-       in Monaco is under a
-       serious consideration
-   3. Kylian Mbappe waving
-       the chequered flag, which
-       has the names of all those
-       who paid to feature their
-       names on the flag
-   4. Bono tells Lewis
+   2. Bono tells Lewis
        Hamilton outlap "normal"
        instead of pushing to
        undercut Verstappen
-   5. [Motorsport Total]
-       Perez about to sign with
-       Red Bull, Sainz now to
-       Williams or Audi? : Red
-       Bull has now turned down
-       the Spaniard, who will
-       make his decision as soon
-       as the Perez deal is
-       officially announced
+   3. [First We Feast]
+       This week on HotOnes, we
+       got Lewis Hamilton vs. The
+       Wings of Death.
+   4. Monaco GP had 4
+       Overtakes. Lowest Total
+       Since 2021. Full Info in
+       Post.
+   5. [@Manore_02] Ocon
+       and Gasly's contact at
+       Casino before their crash
+       at Portier.
 
 # Gaming
-   1. Can Mareanie be
-       shiny in Pokémon Go?
-   2. Netflix’s Eric, Star
-       Trek: Discovery’s series
-       finale, and more new TV
-       this week
-   3. What time does
-       Modern Warfare 3 season 4
-       release?
-   4. The secrets to
-       gaming gravity
-   5. Polygon’s most
-       anticipated, least
-       expected, 2024 summer
-       preview
+   1. Nintendo and Lego
+       reveal $300 Great Deku
+       Tree set
+   2. George Miller did 5
+       things to make Furiosa an
+       essential prequel instead
+       of a cash grab
+   3. Call of Duty: Black
+       Ops 6 confirmed day one on
+       Game Pass in new trailer
+   4. PlayStation Plus’
+       June 2024 lineup gives us
+       Sega’s best beat-’em-up
+   5. The 5 best Korean
+       dramas to watch on Netflix
+       this summer
 
 # HackerNews
-   1. WP21
-   2. My computer has an
-       underscore in its name,
-       and I have trouble with
-       the network
-   3. Doing is normally
-       distributed, learning is
-       log-normal
+   1. Show HN: I made a
+       free app to calibrate your
+       turntable by simply
+       playing a song
+   2. Finally an
+       alternative to Big Tech,
+       your new open-source
+       mobile ecosystem
+   3. Surprising Supernova
+       Scars Cover the Earth
    4. Controlling the
        Taylor Swift Eras Tour
        wristbands with Flipper
        Zero
-   5. Root your Docker
-       host in 10 seconds for fun
-       and profit (2017)
+   5. Road planners
+       embrace an unconventional
+       intersection
 
 # NL
    1. Two napkins have
@@ -90,42 +87,44 @@ Tuesday, May 28
        bit silly (Balatro)
 
 # Slovakia
-   1. Volunteering means
+   1. The European
+       population crisis also
+       affects Slovakia
+   2. Slovak roots: across
+       the ocean and never back
+   3. Volunteering means
        spending time in a useful
        way
-   2. Hlohovec observatory
+   4. Hlohovec observatory
        sets out to become one of
        the top institutions in
        Central Europe
-   3. News digest: TV host
+   5. News digest: TV host
        openly talks about
        pressures on private
        stations
-   4. Report: In March,
-       Slovaks saw more fake than
-       true news
-   5. New payment method
-       for parking in Bratislava
 
 # Space
-   1. Astronomy has a
-       bullying and harassment
-       issue: 'Results presented
-       in this report are bleak'
-   2. A new theory of
-       quantum gravity could
-       explain the biggest puzzle
-       in cosmology, study
-       suggests
-   3. Alabama high school
-       students win world's
-       largest rocketry challenge
-   4. Watch Jedi battle
-       hand-to-hand in new clip
-       for Disney+'s 'The
-       Acolyte' (video)
-   5. US economy to
-       benefit from NASA
-       investment in 3D-printable
-       superalloy
+   1. Just keep swimming!
+       Zebrafish doing fine in
+       zero gravity on China's
+       Tiangong space station
+       (video)
+   2. 'Star Trek Online'
+       Season 32 arrives today,
+       starring Denise Crosby as
+       Capt. Sela
+   3. US condemns failed
+       North Korean rocket launch
+       as breach of international
+       security: report
+   4. The Milky Way's
+       heart shines over
+       construction site of
+       world's largest telescope
+   5. Colossal X-class
+       solar flare suggests
+       return of sunspot group
+       that fueled May's epic
+       auroras (video)
 
