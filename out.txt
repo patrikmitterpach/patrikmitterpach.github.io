@@ -1,71 +1,74 @@
 -- Daily Times --
-Tuesday, May 28
+Wednesday, May 29
 
-	The gods have not
-     thought you worthy of ill
-     fortune, but have thought
-     that fortune no longer
-     deserved to have any power
-     over you”
+	A man should be unbiased
+     and not to be conquered by
+     external things: he ought to
+     admire himself alone, to
+     feel confidence in his own
+     spirit, and so to order his
+     life as to be ready alike
+     for good or for bad fortune.
+     Let not his confidence be
+     without knowledge, nor his
+     knowledge without
+     steadfastness.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [First We Feast]
-       This week on HotOnes, we
-       got Lewis Hamilton vs. The
-       Wings of Death.
-   2. The sliding distance
+   1. Lewis Hamilton on
+       Instagram speaks out on
+       Palestine-Israel conflict
+       following the events in
+       Rafah
+   2. Ferrari car at the
+       same corner and the same
+       camera angle just 20 years
+       apart
+   3. The sliding distance
        after the accident
-   3. Monaco GP had 4
-       Overtakes. Lowest Total
-       Since 2021. Full Info in
-       Post.
-   4. Mercedes' Sainz
-       rejection is fair. Red
-       Bull's will hurt it
-   5. Check out this total
-       dork at the F1 2011 launch
-       event.
+   4. F1 24 Driver ratings
+   5. Antonelli beats
+       Russell in private test at
+       Silverstone, Mercedes
+       decides to bet on him for
+       2025
 
 # Gaming
-   1. How to pick the
-       Yoshi color in Paper
-       Mario: The Thousand-Year
-       Door
-   2. Uvalde parents and
-       school shooting victims
-       sue Activision
-   3. There’s never been a
-       better time to delve into
-       Deep Rock Galactic
-   4. The Expanse’s James
-       S.A. Corey returns with a
-       new space opera — read the
-       first chapter now
-   5. The Final Shape’s
-       campaign finally makes
-       good on Bungie’s
-       ‘raid-lite’ promise
+   1. YouTube’s Playables
+       is giving
+       AddictingGames.com
+   2. Disney’s Star Wars
+       hotel Galactic Starcruiser
+       was torpedoed by bad app
+       design
+   3. Where in Neomuna is
+       Archie in Destiny 2?
+   4. Dare to impress your
+       dad this Father’s Day with
+       these awesome gifts
+   5. The Sims 4’s next
+       kits focus on poolside
+       luxury and cozy bistro
+       dining
 
 # HackerNews
-   1. TTE: Terminal Text
+   1. AI headphones let
+       you listen to a single
+       person in crowd, by
+       looking at them
+   2. Three Laws of
+       Software Complexity
+   3. TTE: Terminal Text
        Effects
-   2. Show HN: Openkoda –
-       Open–source, private,
-       Salesforce alternative
-   3. Steve Jurvetson's
-       personal collection of
-       Apollo Lunar Module parts
-   4. Show HN: I made a
-       free app to calibrate your
-       turntable by simply
-       playing a song
-   5. California is about
-       to side with PG&E – again
-       – to kill community solar
-       projects
+   4. NSA Ghidra
+       open-source reverse
+       engineering framework
+   5. Llama 3-V: Matching
+       GPT4-V with a 100x smaller
+       model and 500 dollars
 
 # NL
    1. The price is more or
@@ -81,42 +84,42 @@ Tuesday, May 28
        Balatro history? (Balatro)
 
 # Slovakia
-   1. Enjoy the gardens
+   1. False
+       self-employment in
+       Slovakia highest in EU,
+       state inspectors on their
+       way
+   2. News digest:
+       Helicopter crashes in the
+       Tatras after unannounced
+       flight
+   3. Enjoy the gardens
        with all your senses
-   2. Who will Slovakia
+   4. Who will Slovakia
        play against at the 2025
        hockey world championship?
-   3. New Vietnamese
+   5. New Vietnamese
        president faces criminal
        charges in Slovakia
-   4. Hidden cash trend,
-       light-hearted fun, is
-       taking over Slovakia
-   5. Hotel near
-       underground treasure,
-       which only Mexico and
-       Argentina can boast of,
-       catching second breath
 
 # Space
-   1. Watch SpaceX send
-       Earth-observing satellite
-       to orbit today on 2nd leg
-       of doubleheader
-   2. Scientists pick
-       their favorite Euclid
-       'dark universe' telescope
-       images: 'The best is still
-       to come'
-   3. Does the Milky Way
-       orbit anything?
-   4. Chinese astronauts
-       perform record-breaking
-       spacewalk outside Tiangong
-       space station (video)
-   5. Zero Debris Charter
-       aims to boost
-       international cooperation
-       on cleaning up Earth's
-       space junk problem
+   1. Is it time to put a
+       dimmer on the push for
+       space solar power?
+   2. Robotic Russian
+       cargo ship leaves the ISS,
+       burns up in Earth's
+       atmosphere (photo)
+   3. How scientists
+       shipped astronomy's
+       largest camera from
+       California to Chile
+   4. Volcanoes on Venus
+       might be erupting right
+       now
+   5. Netflix's new sci-fi
+       flick 'Atlas' charms with
+       old-school heroics and
+       rousing mech fights
+       (review)
 
