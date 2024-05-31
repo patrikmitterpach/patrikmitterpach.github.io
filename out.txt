@@ -1,26 +1,26 @@
 -- Daily Times --
 Friday, May 31
 
-	Help one man with money,
-     another with credit, another
-     with your favour; this man
-     with good advice, that one
-     with sound maxims. Even wild
-     beasts feel kindness, nor is
-     there any animal so savage
-     that good treatment will not
-     tame it and win love from
-     it.
+	High office, monuments,
+     all that ambition records in
+     decrees or piles up in
+     stone, soon passes away:
+     lapse of time casts down and
+     ruins everything; but those
+     things on which Philosophy
+     has set its seal are beyond
+     the reach of injury.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lewis Hamilton Goes
-       Full Send While Eating
-       Spicy Wings | Hot Ones
-   2. Perez Carbon Rain
-   3. [FórmulaDirecta]
+   1. [@espnf1] Toto
+       scooting past Lewis while
+       he signs Ferrari caps
+       feels like a scene from
+       The Office
+   2. [FórmulaDirecta]
        Reports @carlosmiquelf1
        that another of the
        possibilities that Carlos
@@ -30,50 +30,62 @@ Friday, May 31
        return to his former team
        waiting for a spot to
        appear at Red Bull.
-   4. [@espnf1] Toto
-       scooting past Lewis while
-       he signs Ferrari caps
-       feels like a scene from
-       The Office
-   5. Tsunoda would
+   3. I've been seeing
+       these EL PLAN pictures on
+       Alonso's 2021 Alpine and
+       have been wondering since
+       i first saw it, was it
+       actually real? I only
+       started watching F1 in
+       2022 and wasnt around to
+       actually see if it was
+       real, if it is fake. Darn
+       good job to the editors
+       since the "editing" is
+       splendid.
+   4. Tsunoda would
        consider rival F1 team
        offers outside Red Bull
+   5. Max Verstappen and
+       Lewis Hamilton duelling it
+       all out at the 2021
+       Bahrain GP. This is really
+       an epic reminder of how
+       cracker of a season it
+       was.
 
 # Gaming
-   1. All the new video
+   1. The 31 best movies
+       on Netflix right now
+   2. The 25 must-read
+       books of summer 2024
+   3. Your first look at
+       Critical Role’s Caduceus
+       Clay in his new Dark Horse
+       comic
+   4. All the new video
        games launching in 2024
-   2. Now we know what
+   5. Now we know what
        Monster Hunter Wilds looks
        like in action
-   3. Every big
-       announcement from
-       PlayStation’s new State of
-       Play
-   4. Marvel Rivals is
-       coming to PlayStation 5,
-       Xbox Series X
-   5. Anya Taylor-Joy
-       walked off the Furiosa set
-       with her favorite prop
 
 # HackerNews
    1. Engineering for Slow
        Internet
-   2. I created the
-       largest curated directory
-       of cybersecurity tools and
-       resources
-   3. Every mountain,
+   2. Every mountain,
        building and tree shadow
        in the world simulated for
        any time
-   4. “Imprecise” language
+   3. Intel's Anti-Upgrade
+       Tricks Defeated with
+       Kapton Tape
+   4. BYD Launches Hybrids
+       with 1,300-Mile Driving
+       Range
+   5. “Imprecise” language
        models are smaller,
        speedier, and nearly as
        accurate
-   5. Spots, stripes and
-       more: Working out the
-       logic of animal patterns
 
 # NL
    1. It's hard for a
@@ -89,38 +101,39 @@ Friday, May 31
        option (Balatro)
 
 # Slovakia
-   1. Weekend: Time to
+   1. Government approves
+       new national hospital in
+       Bratislava, sparking
+       debate.
+   2. Summer season starts
+       in the High Tatras, along
+       with new regulations
+   3. Plans for new US
+       Embassy site in central
+       Bratislava are scaled back
+   4. Weekend: Time to
        celebrate children, parks
        and gardens
-   2. Famous Hollywood
+   5. Famous Hollywood
        star spotted in unique
        Slovak-made sneakers
-   3. Slovak Matters: When
-       I'm mimo
-   4. Evonik opens new
-       plant in Slovenská Ľupča
-   5. News digest: PM Fico
-       released from hospital,
-       back in Bratislava
 
 # Space
-   1. China's Chang'e 6
-       probe to land on far side
-       of the moon this weekend
-       to return lunar samples to
-       Earth
-   2. Opticron Oregon 4 PC
-       Oasis 10X42 monocular
-       review
-   3. Elusive medium-size
-       black holes may form in
-       dense 'birthing nests'
-   4. How NASA's
-       OSIRIS-APEX asteroid probe
-       survived its 1st close
-       encounter with the sun
-   5. James Webb Space
-       Telescope spots the 2
-       earliest galaxies ever
-       seen (image)
+   1. Powerful new NOAA
+       weather satellite set for
+       June launch atop SpaceX
+       Falcon Heavy
+   2. The cold lunar night
+       may have finally swallowed
+       Japan's SLIM moon lander
+   3. Watch Rocket Lab
+       launch shoebox-sized NASA
+       climate satellite tonight
+   4. Massive, magnetic
+       stars beyond the Milky Way
+       detected for the 1st time
+   5. NASA's X-59 'quiet'
+       supersonic jet passes key
+       safety review ahead of 1st
+       test flight
 
