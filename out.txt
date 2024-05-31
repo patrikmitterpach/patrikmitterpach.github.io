@@ -1,125 +1,125 @@
 -- Daily Times --
-Wednesday, May 29
+Friday, May 31
 
-	A man should be unbiased
-     and not to be conquered by
-     external things: he ought to
-     admire himself alone, to
-     feel confidence in his own
-     spirit, and so to order his
-     life as to be ready alike
-     for good or for bad fortune.
-     Let not his confidence be
-     without knowledge, nor his
-     knowledge without
-     steadfastness.
+	It is unpleasant,
+     burdensome, and covers one
+     with shame to have to say,
+     “Give me.” You should spare
+     your friends, and those whom
+     you wish to make your
+     friends, from having to do
+     this; however quick he may
+     be, a man gives too late who
+     gives what he has been asked
+     for.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lewis Hamilton on
-       Instagram speaks out on
-       Palestine-Israel conflict
-       following the events in
-       Rafah
-   2. Ferrari car at the
-       same corner and the same
-       camera angle just 20 years
-       apart
-   3. The sliding distance
-       after the accident
-   4. F1 24 Driver ratings
-   5. Antonelli beats
-       Russell in private test at
-       Silverstone, Mercedes
-       decides to bet on him for
-       2025
+   1. Lewis Hamilton Goes
+       Full Send While Eating
+       Spicy Wings | Hot Ones
+   2. Perez Carbon Rain
+   3. Exclusive: F1 in
+       livery push for 2025 to
+       make cars look all
+       different
+   4. F1 kids broadcast
+       had a leo cam during the
+       red flag (via
+       @leclercsletters)
+   5. [FórmulaDirecta]
+       Reports @carlosmiquelf1
+       that another of the
+       possibilities that Carlos
+       Sainz has on the table is
+       RETURN to RB in 2025. The
+       man from Madrid would
+       return to his former team
+       waiting for a spot to
+       appear at Red Bull.
 
 # Gaming
-   1. YouTube’s Playables
-       is giving
-       AddictingGames.com
-   2. Disney’s Star Wars
-       hotel Galactic Starcruiser
-       was torpedoed by bad app
-       design
-   3. Where in Neomuna is
-       Archie in Destiny 2?
-   4. Dare to impress your
-       dad this Father’s Day with
-       these awesome gifts
-   5. The Sims 4’s next
-       kits focus on poolside
-       luxury and cozy bistro
-       dining
+   1. All the new video
+       games launching in 2024
+   2. Now we know what
+       Monster Hunter Wilds looks
+       like in action
+   3. Every big
+       announcement from
+       PlayStation’s new State of
+       Play
+   4. Marvel Rivals is
+       coming to PlayStation 5,
+       Xbox Series X
+   5. Anya Taylor-Joy
+       walked off the Furiosa set
+       with her favorite prop
 
 # HackerNews
-   1. AI headphones let
-       you listen to a single
-       person in crowd, by
-       looking at them
-   2. Three Laws of
-       Software Complexity
-   3. TTE: Terminal Text
-       Effects
-   4. NSA Ghidra
-       open-source reverse
-       engineering framework
-   5. Llama 3-V: Matching
-       GPT4-V with a 100x smaller
-       model and 500 dollars
+   1. Engineering for Slow
+       Internet
+   2. A man ordered to
+       hide his boat painted the
+       boat on his fence
+   3. “Imprecise” language
+       models are smaller,
+       speedier, and nearly as
+       accurate
+   4. Things you wish you
+       didn't need to know about
+       S3
+   5. Show HN: Wadzilla.
+       Play DOOM in Zork
 
 # NL
-   1. The price is more or
-       less right (Balatro)
-   2. Two napkins have
-       never held this much value
-       (Balatro)
-   3. Honestly I thought I
-       was cooking (Jackbox)
-   4. I'm feeling a little
-       snakebitten (Cryptmaster)
-   5. Thinnest deck in
-       Balatro history? (Balatro)
+   1. It's hard for a
+       reason (Balatro)
+   2. He's small but he's
+       mighty (Balatro)
+   3. I didn't think it
+       would hit this hard
+       (Jackbox)
+   4. What an elegant
+       riddle (Cryptmaster)
+   5. Losing was never an
+       option (Balatro)
 
 # Slovakia
-   1. False
-       self-employment in
-       Slovakia highest in EU,
-       state inspectors on their
-       way
-   2. News digest:
-       Helicopter crashes in the
-       Tatras after unannounced
-       flight
-   3. Enjoy the gardens
-       with all your senses
-   4. Who will Slovakia
-       play against at the 2025
-       hockey world championship?
-   5. New Vietnamese
-       president faces criminal
-       charges in Slovakia
+   1. Famous Hollywood
+       star spotted in unique
+       Slovak-made sneakers
+   2. Slovak Matters: When
+       I'm mimo
+   3. Evonik opens new
+       plant in Slovenská Ľupča
+   4. News digest: PM Fico
+       released from hospital,
+       back in Bratislava
+   5. Police inspectorate
+       proposes to file charges
+       against elite unit
+       investigating top
+       corruption cases
 
 # Space
-   1. Is it time to put a
-       dimmer on the push for
-       space solar power?
-   2. Robotic Russian
-       cargo ship leaves the ISS,
-       burns up in Earth's
-       atmosphere (photo)
-   3. How scientists
-       shipped astronomy's
-       largest camera from
-       California to Chile
-   4. Volcanoes on Venus
-       might be erupting right
-       now
-   5. Netflix's new sci-fi
-       flick 'Atlas' charms with
-       old-school heroics and
-       rousing mech fights
-       (review)
+   1. Elusive medium-size
+       black holes may form in
+       dense 'birthing nests'
+   2. How NASA's
+       OSIRIS-APEX asteroid probe
+       survived its 1st close
+       encounter with the sun
+   3. James Webb Space
+       Telescope spots the 2
+       earliest galaxies ever
+       seen (image)
+   4. Boeing's Starliner
+       rolls out to pad for June
+       1 astronaut launch
+       (photos)
+   5. Japan loses contact
+       with Akatsuki, humanity's
+       only active Venus probe
 
