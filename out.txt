@@ -1,15 +1,11 @@
 -- Daily Times --
 Sunday, June 02
 
-	the laboring man has not
-     leisure for a true integrity
-     day by day; he cannot afford
-     to sustain the manliest
-     relations to men; his labor
-     would be depreciated in the
-     market. He has no time to be
-     anything but a machine.
-           ~ Henry David Thoreau
+	When you rave against
+     Heaven, I do not say that
+     you commit sacrilege, but
+     you waste your time.
+                        ~ Seneca
 
 
 -- News --
@@ -20,13 +16,7 @@ Sunday, June 02
    2. Lando Norris was the
        one who handed Carvajal
        the Champions League award
-   3. [Matt Bishop] Happy
-       Birthday Martin Brundle,
-       65. He started 158 F1 GPs,
-       bagged 9 F1 podiums, won
-       at Le Mans, & became the
-       best TV commentator in the
-       business.
+   3. 2024 winners so far
    4. [OT] 15-Year-Old boy
        dies in Go-Karting event
    5. Adrian Newey:
@@ -34,36 +24,39 @@ Sunday, June 02
        offer
 
 # Gaming
-   1. Godzilla Minus One,
+   1. George Miller’s
+       smartest move in Furiosa
+       is totally dissing
+       Immortan Joe
+   2. Who is Furiosa’s
+       equivalent of the Doof
+       Warrior?
+   3. Godzilla Minus One,
        the long-awaited Godzilla
        throwback movie, is
        finally on Netflix
-   2. Tiana’s Bayou
+   4. Tiana’s Bayou
        Adventure looks better
        than Splash Mountain, see
        for yourself
-   3. Lara Croft roars in
+   5. Lara Croft roars in
        the first trailer for
        Netflix’s Tomb Raider
        anime
-   4. In a Violent Nature
-       almost made me physically
-       ill, and I loved it
-   5. Halt and Catch Fire
-       understood video games
-       better than any other show
 
 # HackerNews
-   1. Parable of the Sofa
-   2. PyCon US 2024 Recap
-   3. How do our brains
-       adapt to control an extra
-       body part?
-   4. This Message Does
-       Not Exist
-   5. Unlocking the Duron
-       and Athlon using the
-       pencil (2007)
+   1. SPI Flash
+   2. A secure embedded
+       operating system for
+       microcontrollers
+   3. Copy-and-patch: Fast
+       compilation technique that
+       also produces good code
+       (2020)
+   4. Circle C++ with
+       Memory Safety
+   5. Lord Kelvin and His
+       Analog Computer
 
 # NL
    1. Let it roll
