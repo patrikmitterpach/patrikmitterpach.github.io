@@ -1,27 +1,28 @@
 -- Daily Times --
 Sunday, June 02
 
-	When you rave against
-     Heaven, I do not say that
-     you commit sacrilege, but
-     you waste your time.
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Has anyone told
-       Valtteri he’s allowed to
-       relax on his days off?
-   2. Lando Norris was the
+   1. Lando Norris was the
        one who handed Carvajal
        the Champions League award
-   3. 2024 winners so far
-   4. [OT] 15-Year-Old boy
-       dies in Go-Karting event
-   5. Adrian Newey:
-       Mercedes makes lucrative
-       offer
+   2. 2024 winners so far
+   3. [Mercedes F1 on X]
+       104 @F1 race wins in these
+       photos
+   4. Red Bull teases an
+       announcement
+   5. Ducati going blue vs
+       Ferrari going blue....
 
 # Gaming
    1. George Miller’s
@@ -45,31 +46,29 @@ Sunday, June 02
        anime
 
 # HackerNews
-   1. SPI Flash
-   2. A secure embedded
-       operating system for
-       microcontrollers
-   3. Copy-and-patch: Fast
-       compilation technique that
-       also produces good code
-       (2020)
-   4. Circle C++ with
-       Memory Safety
-   5. Lord Kelvin and His
-       Analog Computer
+   1. Upgrading my Chumby
+       8 kernel part 10: RTC
+   2. Everything I know
+       about the fast inverse
+       square root algorithm
+   3. SPI Flash
+   4. Why is Snapshot
+       Isolation not enough?
+   5. Parsing JSON Is a
+       Minefield (2018)
 
 # NL
-   1. Let it roll
+   1. I don't mind small
+       hands (Balatro)
+   2. Let it roll
        (Balatro)
-   2. I can see why his
+   3. I can see why his
        deck was abandoned
        (Balatro)
-   3. I'm a soul farmer
+   4. I'm a soul farmer
        (Cryptmaster)
-   4. It's hard for a
+   5. It's hard for a
        reason (Balatro)
-   5. He's small but he's
-       mighty (Balatro)
 
 # Slovakia
    1. Devín, Leanka,
