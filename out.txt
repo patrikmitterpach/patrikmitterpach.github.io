@@ -1,18 +1,15 @@
 -- Daily Times --
 Sunday, June 02
 
-	It is unpleasant,
-     burdensome, and covers one
-     with shame to have to say,
-     “Give me.” You should spare
-     your friends, and those whom
-     you wish to make your
-     friends, from having to do
-     this; however quick he may
-     be, a man gives too late who
-     gives what he has been asked
-     for.
-                        ~ Seneca
+	the laboring man has not
+     leisure for a true integrity
+     day by day; he cannot afford
+     to sustain the manliest
+     relations to men; his labor
+     would be depreciated in the
+     market. He has no time to be
+     anything but a machine.
+           ~ Henry David Thoreau
 
 
 -- News --
@@ -20,23 +17,21 @@ Sunday, June 02
    1. Has anyone told
        Valtteri he’s allowed to
        relax on his days off?
-   2. [The Race] Average
-       Qualifying Differences
-       between Teammates in 2024
-       (Quicker driver written
-       first)
-   3. Lando Norris was the
+   2. Lando Norris was the
        one who handed Carvajal
        the Champions League award
-   4. [Matt Bishop] Happy
+   3. [Matt Bishop] Happy
        Birthday Martin Brundle,
        65. He started 158 F1 GPs,
        bagged 9 F1 podiums, won
        at Le Mans, & became the
        best TV commentator in the
        business.
-   5. [OT] 15-Year-Old boy
+   4. [OT] 15-Year-Old boy
        dies in Go-Karting event
+   5. Adrian Newey:
+       Mercedes makes lucrative
+       offer
 
 # Gaming
    1. Godzilla Minus One,
@@ -60,16 +55,15 @@ Sunday, June 02
 
 # HackerNews
    1. Parable of the Sofa
-   2. How do our brains
+   2. PyCon US 2024 Recap
+   3. How do our brains
        adapt to control an extra
        body part?
-   3. Unlocking the Duron
-       and Athlon using the
-       pencil (2007)
    4. This Message Does
        Not Exist
-   5. Repairing my mug
-       with Kintsugi
+   5. Unlocking the Duron
+       and Athlon using the
+       pencil (2007)
 
 # NL
    1. Let it roll
