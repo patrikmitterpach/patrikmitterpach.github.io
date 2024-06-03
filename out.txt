@@ -1,22 +1,16 @@
 -- Daily Times --
 Monday, June 03
 
-	When you rave against
-     Heaven, I do not say that
-     you commit sacrilege, but
-     you waste your time.
+	With but few exceptions
+     men’s life comes to an end
+     just as they are preparing
+     to enjoy it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Red Bull teases an
-       announcement
-   2. Daniel Ricciardo
-       “protected” by Christian
-       Horner as Helmut Marko
-       “has lost power”
-   3. [ChrisMedland]
+   1. [ChrisMedland]
        BREAKING: Ocon will leave
        Alpine at the end of this
        season Both sides say they
@@ -24,53 +18,53 @@ Monday, June 03
        ways". No confirmation of
        his next move or
        replacement yet
-   4. Verstappen quashes
-       suggestions he wants to
-       jump Red Bull ship
-   5. [Alpine F1 Team] BWT
+   2. Esteban Ocon via
+       Instagram announcing his
+       departure from Alpine Team
+   3. Red Bull teases an
+       announcement
+   4. [Alpine F1 Team] BWT
        Alpine F1 Team and Esteban
        Ocon agree to part ways at
        the end of the 2024
        season.
+   5. Daniel Ricciardo
+       “protected” by Christian
+       Horner as Helmut Marko
+       “has lost power”
 
 # Gaming
-   1. George Miller’s
-       smartest move in Furiosa
-       is totally dissing
-       Immortan Joe
-   2. Who is Furiosa’s
-       equivalent of the Doof
-       Warrior?
-   3. Godzilla Minus One,
-       the long-awaited Godzilla
-       throwback movie, is
-       finally on Netflix
-   4. Tiana’s Bayou
-       Adventure looks better
-       than Splash Mountain, see
-       for yourself
-   5. Lara Croft roars in
-       the first trailer for
-       Netflix’s Tomb Raider
-       anime
+   1. Diablo 4 never had
+       enough treasure goblins.
+       Next week, that changes
+   2. What time does
+       Genshin Impact 4.7
+       release?
+   3. How to prepare for
+       FFXIV: Dawntrail
+   4. Destiny 2 The Final
+       Shape release time, and
+       when Destiny 2 servers
+       will be back online
+   5. ProZD joins Polygon
+       for a chaotic climbing
+       stream
 
 # HackerNews
    1. How many photons are
        received per bit
        transmitted from Voyager
        1?
-   2. Making USB devices –
-       end to end guide to your
-       first gadget
-   3. Why Ruby's Timeout
-       is dangerous (and
-       Thread.raise is
-       terrifying) (2015)
-   4. Learn CSS Grid with
-       a virtual garden game
-   5. An intuitive guide
-       to Maxwell's equations
-       (2020)
+   2. Ask HN: Who is
+       hiring? (June 2024)
+   3. Posthog –
+       open-source analytics and
+       UX research tool
+   4. Mamba-2 – State
+       Space Duality
+   5. Ogma: Interpretable
+       Symbolic General
+       Problem-Solving Model
 
 # NL
    1. I don't mind small
@@ -86,46 +80,44 @@ Monday, June 03
        reason (Balatro)
 
 # Slovakia
-   1. Last Week:
+   1. Bratislava launching
+       new project that helps
+       hundreds without access to
+       homes
+   2. Last Week:
        Post-attack, authorities
        treat citizens like
        unwitting bystanders
-   2. Devín, Leanka,
+   3. Devín, Leanka,
        Mília? Great Bratislava
        wines still wait to be
        discovered
-   3. News digest: Avert
+   4. News digest: Avert
        your gaze! Šimkovičová is
        appalled by prize-winning
        children's books
-   4. Government approves
+   5. Government approves
        new national hospital in
        Bratislava, sparking
        debate
-   5. Plans for new US
-       Embassy site in central
-       Bratislava are scaled back
 
 # Space
-   1. Why NASA's Europa
-       Clipper mission to
-       Jupiter's icy moon is such
-       a big deal
-   2. Could these black
-       hole 'morsels' finally
-       prove Stephen Hawking's
-       famous theory?
-   3. Astrophotographer
-       captures stunning close-up
-       views of sunspot region
-       that spawned May's auroras
-   4. How auroras on
-       Earth, Saturn and Jupiter
-       could help forecast risky
-       space weather
-   5. 'We awaken to take
-       what is ours:' Watch the
-       haunting new trailer for
-       'Warhammer 40K: Mechanicus
-       2' (video)
+   1. Rogue planets may
+       originate from 'twisted
+       Tatooine' double star
+       systems
+   2. China's Chang'e 6
+       probe starts collecting
+       1st lunar far side samples
+       to be brought to Earth
+   3. China's space plane
+       releases another mystery
+       object into orbit
+   4. Watch China's
+       Chang'e 6 probe land on
+       far side of the moon in
+       dramatic video
+   5. The secrets of
+       supernovas might be locked
+       in moon dust
 
