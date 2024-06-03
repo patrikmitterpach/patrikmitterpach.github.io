@@ -1,10 +1,9 @@
 -- Daily Times --
 Monday, June 03
 
-	With but few exceptions
-     men’s life comes to an end
-     just as they are preparing
-     to enjoy it.
+	How unhappy are they
+     whose appetite can only be
+     aroused by costly food.
                         ~ Seneca
 
 
@@ -21,50 +20,59 @@ Monday, June 03
    2. Esteban Ocon via
        Instagram announcing his
        departure from Alpine Team
-   3. Red Bull teases an
-       announcement
-   4. [Alpine F1 Team] BWT
+   3. [RedBullRacing]: "We
+       understand that, without
+       our agreeement, Alpine F1
+       have released a statement
+       regarding Esteban Ocon,
+       causing wild speculation
+       over our 'Stay tuned'
+       announcement"
+   4. Daniel Ricciardo
+       “protected” by Christian
+       Horner as Helmut Marko
+       “has lost power”
+   5. [Alpine F1 Team] BWT
        Alpine F1 Team and Esteban
        Ocon agree to part ways at
        the end of the 2024
        season.
-   5. Daniel Ricciardo
-       “protected” by Christian
-       Horner as Helmut Marko
-       “has lost power”
 
 # Gaming
-   1. Diablo 4 never had
-       enough treasure goblins.
-       Next week, that changes
-   2. What time does
-       Genshin Impact 4.7
-       release?
-   3. How to prepare for
-       FFXIV: Dawntrail
-   4. Destiny 2 The Final
-       Shape release time, and
-       when Destiny 2 servers
-       will be back online
-   5. ProZD joins Polygon
-       for a chaotic climbing
-       stream
+   1. The next Pokémon TCG
+       expansion of 2024,
+       Shrouded Fates, is now
+       available to pre-order
+   2. What makes a game
+       cinematic? The answer is
+       changing
+   3. The Acolyte,
+       Clipped, and more new TV
+       this week
+   4. Pre-orders for the
+       Cyberpunk: Edgerunners
+       Mission Kit are now open
+   5. This Armored Core 6
+       lore video is the best
+       mecha movie of 2024
 
 # HackerNews
-   1. How many photons are
+   1. Fusion tech finds
+       geothermal energy
+       application
+   2. How many photons are
        received per bit
        transmitted from Voyager
        1?
-   2. Ask HN: Who is
-       hiring? (June 2024)
-   3. Posthog –
-       open-source analytics and
-       UX research tool
-   4. Mamba-2 – State
-       Space Duality
-   5. Ogma: Interpretable
-       Symbolic General
-       Problem-Solving Model
+   3. Oldest largest
+       German Minecraft server
+       shut down and open sourced
+       everything
+   4. The Moral Economy of
+       the Shire
+   5. Libadwaita:
+       Splitting GTK and Design
+       Language
 
 # NL
    1. I don't mind small
@@ -80,44 +88,41 @@ Monday, June 03
        reason (Balatro)
 
 # Slovakia
-   1. Bratislava launching
+   1. YouTube cancels a
+       Hitler-heiling extremist’s
+       channel
+   2. Slovakia sends
+       flying consuls to Asia
+   3. Ukraine captures
+       Slovak dressed in Russian
+       uniform
+   4. Bratislava launching
        new project that helps
        hundreds without access to
        homes
-   2. Last Week:
+   5. Last Week:
        Post-attack, authorities
        treat citizens like
        unwitting bystanders
-   3. Devín, Leanka,
-       Mília? Great Bratislava
-       wines still wait to be
-       discovered
-   4. News digest: Avert
-       your gaze! Šimkovičová is
-       appalled by prize-winning
-       children's books
-   5. Government approves
-       new national hospital in
-       Bratislava, sparking
-       debate
 
 # Space
-   1. Rogue planets may
+   1. SpaceX targeting
+       June 6 for next launch of
+       Starship megarocket
+       (photos)
+   2. India launches
+       nation's 1st 3D-printed
+       rocket engine
+   3. Shuttle fliers David
+       Hilmers, Marsha Ivins
+       enter Astronaut Hall of
+       Fame
+   4. See a Russian
+       inspector satellite get up
+       close and personal with a
+       spacecraft in orbit
+   5. Rogue planets may
        originate from 'twisted
        Tatooine' double star
        systems
-   2. China's Chang'e 6
-       probe starts collecting
-       1st lunar far side samples
-       to be brought to Earth
-   3. China's space plane
-       releases another mystery
-       object into orbit
-   4. Watch China's
-       Chang'e 6 probe land on
-       far side of the moon in
-       dramatic video
-   5. The secrets of
-       supernovas might be locked
-       in moon dust
 
