@@ -1,9 +1,8 @@
 -- Daily Times --
-Monday, June 03
+Tuesday, June 04
 
-	How unhappy are they
-     whose appetite can only be
-     aroused by costly food.
+	“We live a small part
+     only of our lives.”
                         ~ Seneca
 
 
@@ -39,40 +38,40 @@ Monday, June 03
        season.
 
 # Gaming
-   1. The next Pokémon TCG
+   1. Watch one YouTuber’s
+       joyride in a Cold War F-4
+       Phantom turn Top Gun into
+       a buddy comedy
+   2. Where to unlock all
+       extreme trials in FFXIV
+   3. The next Pokémon TCG
        expansion of 2024,
        Shrouded Fates, is now
        available to pre-order
-   2. What makes a game
+   4. What makes a game
        cinematic? The answer is
        changing
-   3. The Acolyte,
+   5. The Acolyte,
        Clipped, and more new TV
        this week
-   4. Pre-orders for the
-       Cyberpunk: Edgerunners
-       Mission Kit are now open
-   5. This Armored Core 6
-       lore video is the best
-       mecha movie of 2024
 
 # HackerNews
-   1. Fusion tech finds
-       geothermal energy
-       application
-   2. How many photons are
+   1. Whiteboard
+       interviews are a test of
+       obedience, not
+       intelligence
+   2. Grokfast:
+       Accelerated Grokking by
+       Amplifying Slow Gradients
+   3. How many photons are
        received per bit
        transmitted from Voyager
        1?
-   3. Oldest largest
-       German Minecraft server
-       shut down and open sourced
-       everything
-   4. The Moral Economy of
-       the Shire
-   5. Libadwaita:
-       Splitting GTK and Design
-       Language
+   4. Fusion tech finds
+       geothermal energy
+       application
+   5. Special-Use Domain
+       'Home.arpa.' (2018)
 
 # NL
    1. I don't mind small
@@ -106,23 +105,23 @@ Monday, June 03
        unwitting bystanders
 
 # Space
-   1. SpaceX targeting
+   1. NASA will give a
+       Hubble Telescope status
+       update on June 4. Should
+       we be worried?
+   2. SpaceX targeting
        June 6 for next launch of
        Starship megarocket
        (photos)
-   2. India launches
+   3. India launches
        nation's 1st 3D-printed
        rocket engine
-   3. Shuttle fliers David
-       Hilmers, Marsha Ivins
-       enter Astronaut Hall of
-       Fame
-   4. See a Russian
+   4. Space shuttle fliers
+       David Hilmers, Marsha
+       Ivins enter Astronaut Hall
+       of Fame
+   5. See a Russian
        inspector satellite get up
        close and personal with a
        spacecraft in orbit
-   5. Rogue planets may
-       originate from 'twisted
-       Tatooine' double star
-       systems
 
