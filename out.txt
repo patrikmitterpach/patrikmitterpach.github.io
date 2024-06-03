@@ -1,28 +1,37 @@
 -- Daily Times --
-Sunday, June 02
+Monday, June 03
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
+	When you rave against
+     Heaven, I do not say that
+     you commit sacrilege, but
+     you waste your time.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Lando Norris was the
-       one who handed Carvajal
-       the Champions League award
-   2. 2024 winners so far
-   3. [Mercedes F1 on X]
-       104 @F1 race wins in these
-       photos
-   4. Red Bull teases an
+   1. Red Bull teases an
        announcement
-   5. Ducati going blue vs
-       Ferrari going blue....
+   2. Daniel Ricciardo
+       “protected” by Christian
+       Horner as Helmut Marko
+       “has lost power”
+   3. [ChrisMedland]
+       BREAKING: Ocon will leave
+       Alpine at the end of this
+       season Both sides say they
+       "have agreed to part
+       ways". No confirmation of
+       his next move or
+       replacement yet
+   4. Verstappen quashes
+       suggestions he wants to
+       jump Red Bull ship
+   5. [Alpine F1 Team] BWT
+       Alpine F1 Team and Esteban
+       Ocon agree to part ways at
+       the end of the 2024
+       season.
 
 # Gaming
    1. George Miller’s
@@ -46,16 +55,22 @@ Sunday, June 02
        anime
 
 # HackerNews
-   1. Upgrading my Chumby
-       8 kernel part 10: RTC
-   2. Everything I know
-       about the fast inverse
-       square root algorithm
-   3. SPI Flash
-   4. Why is Snapshot
-       Isolation not enough?
-   5. Parsing JSON Is a
-       Minefield (2018)
+   1. How many photons are
+       received per bit
+       transmitted from Voyager
+       1?
+   2. Making USB devices –
+       end to end guide to your
+       first gadget
+   3. Why Ruby's Timeout
+       is dangerous (and
+       Thread.raise is
+       terrifying) (2015)
+   4. Learn CSS Grid with
+       a virtual garden game
+   5. An intuitive guide
+       to Maxwell's equations
+       (2020)
 
 # NL
    1. I don't mind small
@@ -71,41 +86,46 @@ Sunday, June 02
        reason (Balatro)
 
 # Slovakia
-   1. Devín, Leanka,
+   1. Last Week:
+       Post-attack, authorities
+       treat citizens like
+       unwitting bystanders
+   2. Devín, Leanka,
        Mília? Great Bratislava
        wines still wait to be
        discovered
-   2. News digest: Avert
+   3. News digest: Avert
        your gaze! Šimkovičová is
        appalled by prize-winning
        children's books
-   3. Government approves
+   4. Government approves
        new national hospital in
        Bratislava, sparking
        debate
-   4. Summer season starts
-       in the High Tatras, along
-       with new regulations
    5. Plans for new US
        Embassy site in central
        Bratislava are scaled back
 
 # Space
-   1. Peru and Slovakia
-       sign the Artemis Accords
-       for peaceful moon
-       exploration
-   2. Is 'Star Wars: The
-       Acolyte' already canceled?
-       Breaking down the rumors
-   3. SpaceX to launch 23
-       Starlink satellites from
-       Florida tonight
-   4. Lego wants you to
-       vote on a new color for
-       its astronaut minifigures
-   5. Moon-mapping could
-       level up for NASA's
-       upcoming Artemis missions.
-       Here's how
+   1. Why NASA's Europa
+       Clipper mission to
+       Jupiter's icy moon is such
+       a big deal
+   2. Could these black
+       hole 'morsels' finally
+       prove Stephen Hawking's
+       famous theory?
+   3. Astrophotographer
+       captures stunning close-up
+       views of sunspot region
+       that spawned May's auroras
+   4. How auroras on
+       Earth, Saturn and Jupiter
+       could help forecast risky
+       space weather
+   5. 'We awaken to take
+       what is ours:' Watch the
+       haunting new trailer for
+       'Warhammer 40K: Mechanicus
+       2' (video)
 
