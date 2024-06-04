@@ -1,25 +1,22 @@
 -- Daily Times --
 Tuesday, June 04
 
-	“We live a small part
-     only of our lives.”
+	How late it is to begin
+     life just when we have to be
+     leaving it! What a foolish
+     forgetfulness of our
+     mortality, to put off
+     wholesome counsels until our
+     fiftieth or sixtieth year,
+     and to choose that our lives
+     shall begin at a point which
+     few of us ever reach.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [ChrisMedland]
-       BREAKING: Ocon will leave
-       Alpine at the end of this
-       season Both sides say they
-       "have agreed to part
-       ways". No confirmation of
-       his next move or
-       replacement yet
-   2. Esteban Ocon via
-       Instagram announcing his
-       departure from Alpine Team
-   3. [RedBullRacing]: "We
+   1. [RedBullRacing]: "We
        understand that, without
        our agreeement, Alpine F1
        have released a statement
@@ -27,51 +24,74 @@ Tuesday, June 04
        causing wild speculation
        over our 'Stay tuned'
        announcement"
-   4. Daniel Ricciardo
-       “protected” by Christian
-       Horner as Helmut Marko
-       “has lost power”
-   5. [Alpine F1 Team] BWT
-       Alpine F1 Team and Esteban
-       Ocon agree to part ways at
-       the end of the 2024
-       season.
+   2. [Red Flags Podcast]
+       [Lawrence Barretto]:
+       ''(Carlos Sainz) doesn't
+       fall into that pool of
+       supernaturally talented
+       drivers like Lando, like
+       Charles, like Max. But I
+       think he probably falls
+       into that pack of like
+       Nico Rosberg 'but better',
+       and Jenson Button 'but
+       better'.''
+   3. [@lawrobarretto]
+       Jack Doohan has a strong
+       shot at replacing Esteban
+       Ocon at Alpine next year.
+       Valtteri Bottas is very
+       much in the mix, too.
+       Alpine are keen on Carlos
+       Sainz, but it seems the
+       Spaniard is leaning
+       towards Williams or
+       Sauber/Audi. Mick
+       Schumacher an outside bet
+   4. Beautiful cover of
+       The Monegasque magazine
+       spotted in Monaco today !
+   5. [@Lewis Hamilton IG]
+       Looking >> to being back
+       in Montreal. Looking << to
+       my first win. 22 years
+       old, my first year in F1
+       and only my 6th race…
 
 # Gaming
-   1. Watch one YouTuber’s
+   1. Can Makuhita be
+       shiny in Pokémon Go?
+   2. Watch one YouTuber’s
        joyride in a Cold War F-4
        Phantom turn Top Gun into
        a buddy comedy
-   2. Where to unlock all
+   3. Where to unlock all
        extreme trials in FFXIV
-   3. The next Pokémon TCG
+   4. The next Pokémon TCG
        expansion of 2024,
        Shrouded Fates, is now
        available to pre-order
-   4. What makes a game
+   5. What makes a game
        cinematic? The answer is
        changing
-   5. The Acolyte,
-       Clipped, and more new TV
-       this week
 
 # HackerNews
-   1. Whiteboard
-       interviews are a test of
-       obedience, not
-       intelligence
-   2. Grokfast:
-       Accelerated Grokking by
-       Amplifying Slow Gradients
-   3. How many photons are
-       received per bit
-       transmitted from Voyager
-       1?
-   4. Fusion tech finds
-       geothermal energy
-       application
-   5. Special-Use Domain
-       'Home.arpa.' (2018)
+   1. Encryption at Rest:
+       Whose Threat Model Is It
+       Anyway?
+   2. Hacking millions of
+       modems and investigating
+       who hacked my modem
+   3. Show HN: Web
+       Development with Htmx,
+       Type-Guided Components,
+       Pure Python
+   4. SaySelf: Teaching
+       LLMs to Express Confidence
+       with Self-Reflective
+       Rationales
+   5. Coding and Keyboards
+       (2023)
 
 # NL
    1. I don't mind small
@@ -87,41 +107,39 @@ Tuesday, June 04
        reason (Balatro)
 
 # Slovakia
-   1. YouTube cancels a
+   1. Slovaks are falling
+       for the charms of digital
+       nomadism
+   2. News digest:
+       Bratislava sees the
+       Danube's rising water
+       levels
+   3. YouTube cancels a
        Hitler-heiling extremist’s
        channel
-   2. Slovakia sends
+   4. Slovakia sends
        flying consuls to Asia
-   3. Ukraine captures
+   5. Ukraine captures
        Slovak dressed in Russian
        uniform
-   4. Bratislava launching
-       new project that helps
-       hundreds without access to
-       homes
-   5. Last Week:
-       Post-attack, authorities
-       treat citizens like
-       unwitting bystanders
 
 # Space
-   1. NASA will give a
+   1. 16 best places to
+       see the 2027 total solar
+       eclipse
+   2. NASA will give a
        Hubble Telescope status
        update on June 4. Should
        we be worried?
-   2. SpaceX targeting
+   3. SpaceX targeting
        June 6 for next launch of
        Starship megarocket
        (photos)
-   3. India launches
+   4. India launches
        nation's 1st 3D-printed
        rocket engine
-   4. Space shuttle fliers
+   5. Space shuttle fliers
        David Hilmers, Marsha
        Ivins enter Astronaut Hall
        of Fame
-   5. See a Russian
-       inspector satellite get up
-       close and personal with a
-       spacecraft in orbit
 
