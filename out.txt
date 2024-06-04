@@ -1,97 +1,73 @@
 -- Daily Times --
 Tuesday, June 04
 
-	How late it is to begin
-     life just when we have to be
-     leaving it! What a foolish
-     forgetfulness of our
-     mortality, to put off
-     wholesome counsels until our
-     fiftieth or sixtieth year,
-     and to choose that our lives
-     shall begin at a point which
-     few of us ever reach.
+	It is your good fortune
+     not to need any good
+     fortune.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [RedBullRacing]: "We
-       understand that, without
-       our agreeement, Alpine F1
-       have released a statement
-       regarding Esteban Ocon,
-       causing wild speculation
-       over our 'Stay tuned'
-       announcement"
-   2. [Red Flags Podcast]
-       [Lawrence Barretto]:
-       ''(Carlos Sainz) doesn't
-       fall into that pool of
-       supernaturally talented
-       drivers like Lando, like
-       Charles, like Max. But I
-       think he probably falls
-       into that pack of like
-       Nico Rosberg 'but better',
-       and Jenson Button 'but
-       better'.''
-   3. [@lawrobarretto]
-       Jack Doohan has a strong
-       shot at replacing Esteban
-       Ocon at Alpine next year.
-       Valtteri Bottas is very
-       much in the mix, too.
-       Alpine are keen on Carlos
-       Sainz, but it seems the
-       Spaniard is leaning
-       towards Williams or
-       Sauber/Audi. Mick
-       Schumacher an outside bet
-   4. Beautiful cover of
-       The Monegasque magazine
-       spotted in Monaco today !
-   5. [@Lewis Hamilton IG]
-       Looking >> to being back
-       in Montreal. Looking << to
-       my first win. 22 years
-       old, my first year in F1
-       and only my 6th race…
+   1. [RedBullRacing] We
+       are pleased to announce
+       @SChecoPerez has signed a
+       two-year extension to his
+       existing contract
+   2. Auto giant Hyundai
+       reported to be keen on F1
+       entry
+   3. [Mark Lane] It was
+       great fun while it lasted
+       mate. You were the one and
+       only driver I met who went
+       out of his way to
+       introduce himself to
+       everyone in the office.
+       All the best for your
+       future
+   4. George Russell
+       ‘wouldn’t be surprised’ if
+       Max Verstappen took shock
+       2026 F1 sabbatical
+   5. [Red Bull Racing]
+       What you’ve all been
+       waiting for… Checo extends
+       his contract!
 
 # Gaming
-   1. Can Makuhita be
-       shiny in Pokémon Go?
-   2. Watch one YouTuber’s
-       joyride in a Cold War F-4
-       Phantom turn Top Gun into
-       a buddy comedy
-   3. Where to unlock all
-       extreme trials in FFXIV
-   4. The next Pokémon TCG
-       expansion of 2024,
-       Shrouded Fates, is now
-       available to pre-order
-   5. What makes a game
-       cinematic? The answer is
-       changing
+   1. Bad Boys: Ride or
+       Die has a troubling case
+       of franchise cancer
+   2. The 7th Citadel,
+       spiritual successor to The
+       7th Continent, is back on
+       Kickstarter for a limited
+       time
+   3. Where to unlock
+       every normal raid in FFXIV
+   4. Star Wars’ real
+       problem isn’t boring Jedi,
+       it’s boring Sith
+   5. The best scenes from
+       Studio Ghibli movies
 
 # HackerNews
-   1. Encryption at Rest:
-       Whose Threat Model Is It
-       Anyway?
-   2. Hacking millions of
-       modems and investigating
-       who hacked my modem
-   3. Show HN: Web
-       Development with Htmx,
-       Type-Guided Components,
-       Pure Python
-   4. SaySelf: Teaching
-       LLMs to Express Confidence
-       with Self-Reflective
-       Rationales
-   5. Coding and Keyboards
-       (2023)
+   1. Some Notes on
+       Influenceering
+   2. Why do electronic
+       components have such odd
+       values? (2021)
+   3. How influencer
+       cartels manipulate social
+       media
+   4. Things the guys who
+       stole my phone have texted
+       me to try to get me to
+       unlock it
+   5. An animated
+       introduction to Fourier
+       Series
 
 # NL
    1. I don't mind small
@@ -107,39 +83,39 @@ Tuesday, June 04
        reason (Balatro)
 
 # Slovakia
-   1. Slovaks are falling
+   1. In this region,
+       everyone is happy.
+       Entrepreneurs earn money,
+       cyclists savour wine.
+   2. How to make the most
+       of PM Fico's tragedy
+   3. Poll: Smer on to
+       winning European elections
+       after attack on its chair
+   4. Bratislava has a new
+       road sign - Kiss and Go
+   5. Slovaks are falling
        for the charms of digital
        nomadism
-   2. News digest:
-       Bratislava sees the
-       Danube's rising water
-       levels
-   3. YouTube cancels a
-       Hitler-heiling extremist’s
-       channel
-   4. Slovakia sends
-       flying consuls to Asia
-   5. Ukraine captures
-       Slovak dressed in Russian
-       uniform
 
 # Space
-   1. 16 best places to
-       see the 2027 total solar
-       eclipse
-   2. NASA will give a
-       Hubble Telescope status
-       update on June 4. Should
-       we be worried?
-   3. SpaceX targeting
-       June 6 for next launch of
-       Starship megarocket
-       (photos)
-   4. India launches
-       nation's 1st 3D-printed
-       rocket engine
-   5. Space shuttle fliers
-       David Hilmers, Marsha
-       Ivins enter Astronaut Hall
-       of Fame
+   1. SpaceX lands FAA
+       license for next Starship
+       megarocket launch on June
+       6
+   2. Intricate lava
+       trails on Jupiter’s
+       volcanic moon Io seen from
+       Earth (image)
+   3. This planet-forming
+       disk shaped like a comet
+       is struggling to survive
+   4. 'Venom: The Last
+       Dance' gets 1st trailer
+       full of alien symbiote
+       mischief and mayhem
+       (video)
+   5. Japan to launch
+       world's 1st wooden
+       satellite in September
 
