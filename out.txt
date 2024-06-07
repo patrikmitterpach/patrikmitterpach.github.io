@@ -1,121 +1,137 @@
 -- Daily Times --
-Friday, June 07
+Saturday, June 08
 
-	There is a way to
-     approach life so that when
-     asked, “Your money or your
-     life?” you say, “I’ll take
-     both, thank you.”
-                   ~ Vicki Robin
+	Yet who would say that
+     nature has dealt grudgingly
+     with the minds of women, and
+     stunted their virtues?
+     Believe me, they have the
+     same intellectual power as
+     men, and the same capacity
+     for honourable and generous
+     action.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. ESPNF1] The FIA have
-       released images of what
-       the 2026 car is expected
-       to look like after the new
-       regulation changes. The
-       cars will be 30kg lighter,
-       200mm shorter and 100m
-       narrower.
-   2. Side by side of the
-       2022 and 2026 show cars
-   3. Lewis Hamilton on
-       the 2026 F1 regulations:
-       "I have spoken to some
-       drivers who have driven it
-       on the simulator and they
-       said it’s pretty slow so
-       we will see if it’s the
-       right direction or not."
-   4. [Oscar Piastri via
-       Twitter] Goodbye old
-       friend, DRS
-   5. 3 years ago , today.
+   1. Apparently the
+       released regs were never
+       finally approved by all
+       teams, and at least two
+       teams are threatening to
+       walk away from the series
+       if they go ahead as
+       released today. There are
+       a LOT of angry team
+       members across the grid.
+       [@dr_obbs on X]
+   2. [Karun Chandhok]
+       Currently pelting
+       hailstones in the
+       paddock…. It’s June….
+       Madness!!
+   3. @mclarenF1 | This
+       time for Lando’s win,
+       @zbrownceo has done it
+       again! A tattoo of the
+       Miami International
+       Autodrome circuit!
+   4. The Race | Brad
+       Pitt's F1 film team
+       spotted at Silverstone
+       today
+   5. Best Results In
+       Canada
 
 # Gaming
-   1. Where to unlock all
-       custom deliveries in FFXIV
-   2. How to get the
-       Overgrown Prismatic Key in
-       Destiny 2
-   3. How to get the
-       Divided Prismatic Key in
-       Destiny 2
-   4. The PlayStation 5
-       Slim just got its first
-       discount
-   5. You can get the Eye
-       of Sauron in Lego form
-       with the new Barad-dûr set
+   1. Ex-Silent Hill devs
+       show off new horror game
+       Slitterhead, a gory mix of
+       The Thing and Driver: San
+       Francisco
+   2. Persona devs’
+       Metaphor: ReFantazio out
+       in October
+   3. Civilization 7
+       announced, coming in 2025
+   4. The Legend of Vox
+       Machina’s new title
+       sequence will have to hold
+       us over till October
+   5. The Watchers might
+       be a compelling thriller
+       if it wasn’t so bafflingly
+       backward
 
 # HackerNews
-   1. Cancel Adobe if you
-       are a creative under NDA
-       with your clients
-   2. Ice - open source
-       bar manager for macOS
-   3. Developer posts
-       secret key on GitHub,
-       loses $40K in 2 minutes
-   4. CPU Energy Meter: A
-       tool for measuring energy
-       consumption of Intel CPUs
-   5. I learned Vulkan and
-       wrote a small game engine
-       with it
+   1. ASCII Silhouettify
+   2. Yes, you can play
+       Duck Hunt without a
+       television (but I can't)
+   3. Feynman's Razor (if
+       an expert can't
+       understand, you've dumbed
+       it down too much)
+   4. The aging U.S. power
+       grid is about to get a
+       jolt
+   5. LaTeX is the first
+       PDF/UA-2 compliance
+       accessible PDF producer
 
 # NL
-   1. Jet lag stays
+   1. We are going to fix
+       the SATs, people
+       (Miscellaneous)
+   2. The planet is
+       thriving, the gods love
+       us, the animals are
+       returning (Reus 2 #ad)
+   3. Now this one I
+       deserved (Balatro)
+   4. You have to spend
+       money to make money
+       (Balatro)
+   5. Jet lag stays
        undefeated (Miscellaneous)
-   2. I have been anointed
-       (Balatro)
-   3. It's in the bag
-       (Balatro)
-   4. Nothing could stop
-       me, except myself...
-       (Balatro)
-   5. I don't mind small
-       hands (Balatro)
 
 # Slovakia
-   1. Weekend: A lot going
+   1. News digest:
+       Thousands of people didn't
+       show up to work on Friday,
+       for a good reason
+   2. Mountain meadows in
+       northern Slovakia are
+       losing a protected
+       butterfly
+   3. Retail chain opens
+       its first 24/7 grocery
+       shop in an unexpected
+       location
+   4. After six years, a
+       Slovak town's unique beach
+       pool will soon reopen
+   5. Weekend: A lot going
        on for history buffs
-   2. Slovakia boosting
-       battery storage
-   3. Holocaust survivor
-       and tireless fighter for
-       freedom celebrates his
-       centenary
-   4. News digest:
-       President honours D-Day
-       heroes, says goodbye to
-       world leaders
-   5. Cave under Nitra
-       Castle once full of
-       rubbish opens to public
 
 # Space
-   1. Massive 'El Gordo'
-       galaxy cluster suggests
-       dark matter smashes into
-       itself
-   2. A billionaire wanted
-       to save the Hubble
-       Telescope — here's why
-       NASA politely declined
-   3. Thruster glitches
-       and helium leaks can't
-       stop Boeing's Starliner
-       astronaut test flight —
-       but why are they
-       happening?
-   4. The 'hole' on Mars
-       making headlines could be
-       crucial to Red Planet
-       exploration
-   5. 'Most unique tree
-       here:' Artemis Moon Tree
-       planted at US Capitol
+   1. NASA's wants new
+       ideas for its troubled
+       Mars Sample Return mission
+   2. Virgin Galactic eyes
+       June 8 for final
+       commercial spaceflight on
+       VSS Unity spaceplane
+   3. SpaceX launching 22
+       Starlink satellites from
+       Florida tonight
+   4. Jupiter's raging gas
+       cyclones may actually
+       mirror Earth's oceans.
+       Here's how
+   5. Why is Neptune's
+       magnetic field so weird?
+       An exotic molecule may be
+       the answer
 
