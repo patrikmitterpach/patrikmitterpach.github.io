@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Dicier;
+    src: url('./Dicier-Round-Heavy.woff2');
+}
+
+:root {
+    --accent: #30ECC9;
+}
+
+
+
+.dicier {
+    font-family: Dicier, sans-serif;
+    font-feature-settings: “liga” 1, “kern” 1, “calt” 1;
+    font-size: 2.5em;
+    line-height: 1.3em;
+    display: inline-block;
+}
+    
+
+body {
+    background-color: #363636;
+    color: aliceblue;
+}
+
+#thrown {
+    display: inline;
+    margin-left: 0%;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+div {
+    font-family: "Comfortaa";
+}
+
+#frame {
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+
+    line-height: 1.2em;
+    display: flex;
+    width: 90%;
+
+    user-select: none;
+    font-size: 2em;
+}
+
+.align_box {
+    display: flex;
+    width: 100px;
+    align-items: center;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+
+
+}
+
+#d20,
+#d12,
+#d10,
+#d8,
+#d6,
+#d4 {
+    bottom: 10px;
+    position: absolute;
+    left: 0px;
+    font-family: "Permanent Marker";
+    color: var(--accent)
+}
+
+.avg {
+    line-height: 1em;
+    font-size: 1.3em;
+
+}
+
+.roll {
+    font-family: "Permanent Marker";
+    color: var(--accent)
+}
+
+button {
+    all: unset;
+    font-size: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}

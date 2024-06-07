@@ -1,121 +1,121 @@
 -- Daily Times --
-Tuesday, June 04
+Friday, June 07
 
-	It is your good fortune
-     not to need any good
-     fortune.
-                        ~ Seneca
+	There is a way to
+     approach life so that when
+     asked, “Your money or your
+     life?” you say, “I’ll take
+     both, thank you.”
+                   ~ Vicki Robin
 
 
 -- News --
 # Formula1
-   1. [RedBullRacing] We
-       are pleased to announce
-       @SChecoPerez has signed a
-       two-year extension to his
-       existing contract
-   2. Auto giant Hyundai
-       reported to be keen on F1
-       entry
-   3. [Mark Lane] It was
-       great fun while it lasted
-       mate. You were the one and
-       only driver I met who went
-       out of his way to
-       introduce himself to
-       everyone in the office.
-       All the best for your
-       future
-   4. George Russell
-       ‘wouldn’t be surprised’ if
-       Max Verstappen took shock
-       2026 F1 sabbatical
-   5. [Red Bull Racing]
-       What you’ve all been
-       waiting for… Checo extends
-       his contract!
+   1. ESPNF1] The FIA have
+       released images of what
+       the 2026 car is expected
+       to look like after the new
+       regulation changes. The
+       cars will be 30kg lighter,
+       200mm shorter and 100m
+       narrower.
+   2. Side by side of the
+       2022 and 2026 show cars
+   3. Lewis Hamilton on
+       the 2026 F1 regulations:
+       "I have spoken to some
+       drivers who have driven it
+       on the simulator and they
+       said it’s pretty slow so
+       we will see if it’s the
+       right direction or not."
+   4. [Oscar Piastri via
+       Twitter] Goodbye old
+       friend, DRS
+   5. 3 years ago , today.
 
 # Gaming
-   1. Bad Boys: Ride or
-       Die has a troubling case
-       of franchise cancer
-   2. The 7th Citadel,
-       spiritual successor to The
-       7th Continent, is back on
-       Kickstarter for a limited
-       time
-   3. Where to unlock
-       every normal raid in FFXIV
-   4. Star Wars’ real
-       problem isn’t boring Jedi,
-       it’s boring Sith
-   5. The best scenes from
-       Studio Ghibli movies
+   1. Where to unlock all
+       custom deliveries in FFXIV
+   2. How to get the
+       Overgrown Prismatic Key in
+       Destiny 2
+   3. How to get the
+       Divided Prismatic Key in
+       Destiny 2
+   4. The PlayStation 5
+       Slim just got its first
+       discount
+   5. You can get the Eye
+       of Sauron in Lego form
+       with the new Barad-dûr set
 
 # HackerNews
-   1. Some Notes on
-       Influenceering
-   2. Why do electronic
-       components have such odd
-       values? (2021)
-   3. How influencer
-       cartels manipulate social
-       media
-   4. Things the guys who
-       stole my phone have texted
-       me to try to get me to
-       unlock it
-   5. An animated
-       introduction to Fourier
-       Series
+   1. Cancel Adobe if you
+       are a creative under NDA
+       with your clients
+   2. Ice - open source
+       bar manager for macOS
+   3. Developer posts
+       secret key on GitHub,
+       loses $40K in 2 minutes
+   4. CPU Energy Meter: A
+       tool for measuring energy
+       consumption of Intel CPUs
+   5. I learned Vulkan and
+       wrote a small game engine
+       with it
 
 # NL
-   1. I don't mind small
+   1. Jet lag stays
+       undefeated (Miscellaneous)
+   2. I have been anointed
+       (Balatro)
+   3. It's in the bag
+       (Balatro)
+   4. Nothing could stop
+       me, except myself...
+       (Balatro)
+   5. I don't mind small
        hands (Balatro)
-   2. Let it roll
-       (Balatro)
-   3. I can see why his
-       deck was abandoned
-       (Balatro)
-   4. I'm a soul farmer
-       (Cryptmaster)
-   5. It's hard for a
-       reason (Balatro)
 
 # Slovakia
-   1. In this region,
-       everyone is happy.
-       Entrepreneurs earn money,
-       cyclists savour wine.
-   2. How to make the most
-       of PM Fico's tragedy
-   3. Poll: Smer on to
-       winning European elections
-       after attack on its chair
-   4. Bratislava has a new
-       road sign - Kiss and Go
-   5. Slovaks are falling
-       for the charms of digital
-       nomadism
+   1. Weekend: A lot going
+       on for history buffs
+   2. Slovakia boosting
+       battery storage
+   3. Holocaust survivor
+       and tireless fighter for
+       freedom celebrates his
+       centenary
+   4. News digest:
+       President honours D-Day
+       heroes, says goodbye to
+       world leaders
+   5. Cave under Nitra
+       Castle once full of
+       rubbish opens to public
 
 # Space
-   1. SpaceX lands FAA
-       license for next Starship
-       megarocket launch on June
-       6
-   2. Intricate lava
-       trails on Jupiter’s
-       volcanic moon Io seen from
-       Earth (image)
-   3. This planet-forming
-       disk shaped like a comet
-       is struggling to survive
-   4. 'Venom: The Last
-       Dance' gets 1st trailer
-       full of alien symbiote
-       mischief and mayhem
-       (video)
-   5. Japan to launch
-       world's 1st wooden
-       satellite in September
+   1. Massive 'El Gordo'
+       galaxy cluster suggests
+       dark matter smashes into
+       itself
+   2. A billionaire wanted
+       to save the Hubble
+       Telescope — here's why
+       NASA politely declined
+   3. Thruster glitches
+       and helium leaks can't
+       stop Boeing's Starliner
+       astronaut test flight —
+       but why are they
+       happening?
+   4. The 'hole' on Mars
+       making headlines could be
+       crucial to Red Planet
+       exploration
+   5. 'Most unique tree
+       here:' Artemis Moon Tree
+       planted at US Capitol
 
