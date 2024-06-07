@@ -1,15 +1,18 @@
 -- Daily Times --
 Saturday, June 08
 
-	Yet who would say that
-     nature has dealt grudgingly
-     with the minds of women, and
-     stunted their virtues?
-     Believe me, they have the
-     same intellectual power as
-     men, and the same capacity
-     for honourable and generous
-     action.
+	A man should be unbiased
+     and not to be conquered by
+     external things: he ought to
+     admire himself alone, to
+     feel confidence in his own
+     spirit, and so to order his
+     life as to be ready alike
+     for good or for bad fortune.
+     Let not his confidence be
+     without knowledge, nor his
+     knowledge without
+     steadfastness.
                         ~ Seneca
 
 
@@ -45,40 +48,36 @@ Saturday, June 08
        Canada
 
 # Gaming
-   1. Ex-Silent Hill devs
+   1. Mighty Morphin Power
+       Rangers: Rita’s Rewind
+       looks like a retro
+       masterpiece
+   2. Ex-Silent Hill devs
        show off new horror game
        Slitterhead, a gory mix of
        The Thing and Driver: San
        Francisco
-   2. Persona devs’
+   3. Persona devs’
        Metaphor: ReFantazio out
        in October
-   3. Civilization 7
+   4. Civilization 7
        announced, coming in 2025
-   4. The Legend of Vox
+   5. The Legend of Vox
        Machina’s new title
        sequence will have to hold
        us over till October
-   5. The Watchers might
-       be a compelling thriller
-       if it wasn’t so bafflingly
-       backward
 
 # HackerNews
    1. ASCII Silhouettify
-   2. Yes, you can play
+   2. Feynman’s Razor
+   3. Yes, you can play
        Duck Hunt without a
        television (but I can't)
-   3. Feynman's Razor (if
-       an expert can't
-       understand, you've dumbed
-       it down too much)
    4. The aging U.S. power
        grid is about to get a
        jolt
-   5. LaTeX is the first
-       PDF/UA-2 compliance
-       accessible PDF producer
+   5. Alarms in medical
+       equipment
 
 # NL
    1. We are going to fix
