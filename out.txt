@@ -1,10 +1,11 @@
 -- Daily Times --
 Saturday, June 08
 
-	And lice destroyed
-     Democritus; and other lice
-     killed Socrates.
-               ~ Marcus Aurelius
+	It is the privilege of a
+     tranquil and peaceful mind
+     to review all the parts of
+     its life.
+                        ~ Seneca
 
 
 -- News --
@@ -24,46 +25,44 @@ Saturday, June 08
        for using Intermediate
        tyres when track wasn't
        declared wet
-   4. @mclarenF1 | This
-       time for Lando’s win,
-       @zbrownceo has done it
-       again! A tattoo of the
-       Miami International
-       Autodrome circuit!
-   5. Best Results In
-       Canada
+   4. [Mercedes]
+       celebrating the return of
+       BOT HAM VER
+   5. No happy ending for
+       Ricciardo's
+       made-for-Netflix
+       redemption arc
 
 # Gaming
-   1. Reality dating game
+   1. The best thrillers
+       to watch on Netflix this
+       June
+   2. Reality dating game
        The Crush House to be
        everything I’ve ever
        wanted in August
-   2. Hyper Light Drifter,
+   3. Hyper Light Drifter,
        Solar Ash developer
        announces moody
        side-scrolling platformer
-   3. Cult of the Lamb is
+   4. Cult of the Lamb is
        getting multiplayer co-op
        — and a goat
-   4. Every big
+   5. Every big
        announcement and trailer
        from Summer Game Fest 2024
-   5. Palworld’s first
-       major expansion adds Pals
-       and a whole new island
 
 # HackerNews
    1. Apollo 8 astronaut
        William Anders ID'd in WA
        plane crash
-   2. Content Injection
-       Attack on GitHub
-   3. What happened to
-       Captura? OSS maintainer
-       burnout (2023)
-   4. Own a weather
+   2. Cars Are Way Less
+       Colorful Today Than They
+       Were 20 Years Ago: Study
+   3. Own a weather
        station? We want your data
-   5. What Is PID 0?
+   4. What Is PID 0?
+   5. ASCII Silhouettify
 
 # NL
    1. We are going to fix
@@ -103,21 +102,22 @@ Saturday, June 08
        pool will soon reopen
 
 # Space
-   1. Apollo 8 astronaut
+   1. At long last:
+       Europe's new Ariane 6
+       rocket set to debut on
+       July 9
+   2. This Week In Space
+       podcast: Episode 114
+       —Starliners & Starships
+   3. SpaceX wants to
+       build 1 Starship
+       megarocket a day with new
+       Starfactory
+   4. Arrokoth the 'space
+       snowman' probably tastes
+       like sweet soap
+   5. Apollo 8 astronaut
        Bill Anders, who captured
        'Earthrise,' killed in
        plane crash
-   2. NASA wants new ideas
-       for its troubled Mars
-       Sample Return mission
-   3. Virgin Galactic eyes
-       June 8 for final
-       commercial spaceflight on
-       VSS Unity spaceplane
-   4. SpaceX lands Falcon
-       9 rocket for 300th time
-   5. Jupiter's raging gas
-       cyclones may actually
-       mirror Earth's oceans.
-       Here's how
 
