@@ -1,40 +1,29 @@
 -- Daily Times --
 Saturday, June 08
 
-	Let us believe nothing
-     unless it forces itself upon
-     our sight and is
-     unmistakable, and let us
-     reprove ourselves for being
-     too ready to believe, as
-     often as our suspicions
-     prove to.
-                        ~ Seneca
+	And lice destroyed
+     Democritus; and other lice
+     killed Socrates.
+               ~ Marcus Aurelius
 
 
 -- News --
 # Formula1
-   1. Apparently the
-       released regs were never
-       finally approved by all
-       teams, and at least two
-       teams are threatening to
-       walk away from the series
-       if they go ahead as
-       released today. There are
-       a LOT of angry team
-       members across the grid.
-       [@dr_obbs on X]
-   2. [Karun Chandhok]
+   1. [Karun Chandhok]
        Currently pelting
        hailstones in the
        paddock…. It’s June….
        Madness!!
-   3. [Sky SportsF1]
+   2. [Sky SportsF1]
        “Why’s he still in F1?” |
        Jacques Villeneuve gives
        his verdict on Daniel
        Ricciardo’s future
+   3. Charles Leclerc
+       summoned to the stewards
+       for using Intermediate
+       tyres when track wasn't
+       declared wet
    4. @mclarenF1 | This
        time for Lando’s win,
        @zbrownceo has done it
@@ -67,13 +56,14 @@ Saturday, June 08
    1. Apollo 8 astronaut
        William Anders ID'd in WA
        plane crash
-   2. Own a weather
+   2. Content Injection
+       Attack on GitHub
+   3. What happened to
+       Captura? OSS maintainer
+       burnout (2023)
+   4. Own a weather
        station? We want your data
-   3. ASCII Silhouettify
-   4. What Is PID 0?
-   5. Xv6, a simple
-       Unix-like teaching
-       operating system
+   5. What Is PID 0?
 
 # NL
    1. We are going to fix
@@ -92,40 +82,42 @@ Saturday, June 08
        undefeated (Miscellaneous)
 
 # Slovakia
-   1. News digest:
+   1. Shining the
+       Spotlight: Bridging
+       cultures through language
+       with Darina Sedlakova
+   2. News digest:
        Thousands of people didn't
        show up to work on Friday,
        for a good reason
-   2. Mountain meadows in
+   3. Mountain meadows in
        northern Slovakia are
        losing a protected
        butterfly
-   3. Retail chain opens
+   4. Retail chain opens
        its first 24/7 grocery
        shop in an unexpected
        location
-   4. After six years, a
+   5. After six years, a
        Slovak town's unique beach
        pool will soon reopen
-   5. Weekend: A lot going
-       on for history buffs
 
 # Space
-   1. NASA wants new ideas
+   1. Apollo 8 astronaut
+       Bill Anders, who captured
+       'Earthrise,' killed in
+       plane crash
+   2. NASA wants new ideas
        for its troubled Mars
        Sample Return mission
-   2. Virgin Galactic eyes
+   3. Virgin Galactic eyes
        June 8 for final
        commercial spaceflight on
        VSS Unity spaceplane
-   3. SpaceX lands Falcon
+   4. SpaceX lands Falcon
        9 rocket for 300th time
-   4. Jupiter's raging gas
+   5. Jupiter's raging gas
        cyclones may actually
        mirror Earth's oceans.
        Here's how
-   5. Why is Neptune's
-       magnetic field so weird?
-       An exotic molecule may be
-       the answer
 
