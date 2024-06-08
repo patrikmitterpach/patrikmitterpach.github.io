@@ -1,18 +1,14 @@
 -- Daily Times --
 Saturday, June 08
 
-	A man should be unbiased
-     and not to be conquered by
-     external things: he ought to
-     admire himself alone, to
-     feel confidence in his own
-     spirit, and so to order his
-     life as to be ready alike
-     for good or for bad fortune.
-     Let not his confidence be
-     without knowledge, nor his
-     knowledge without
-     steadfastness.
+	Let us believe nothing
+     unless it forces itself upon
+     our sight and is
+     unmistakable, and let us
+     reprove ourselves for being
+     too ready to believe, as
+     often as our suspicions
+     prove to.
                         ~ Seneca
 
 
@@ -34,50 +30,50 @@ Saturday, June 08
        hailstones in the
        paddock…. It’s June….
        Madness!!
-   3. @mclarenF1 | This
+   3. [Sky SportsF1]
+       “Why’s he still in F1?” |
+       Jacques Villeneuve gives
+       his verdict on Daniel
+       Ricciardo’s future
+   4. @mclarenF1 | This
        time for Lando’s win,
        @zbrownceo has done it
        again! A tattoo of the
        Miami International
        Autodrome circuit!
-   4. The Race | Brad
-       Pitt's F1 film team
-       spotted at Silverstone
-       today
    5. Best Results In
        Canada
 
 # Gaming
-   1. Mighty Morphin Power
-       Rangers: Rita’s Rewind
-       looks like a retro
-       masterpiece
-   2. Ex-Silent Hill devs
-       show off new horror game
-       Slitterhead, a gory mix of
-       The Thing and Driver: San
-       Francisco
-   3. Persona devs’
-       Metaphor: ReFantazio out
-       in October
-   4. Civilization 7
-       announced, coming in 2025
-   5. The Legend of Vox
-       Machina’s new title
-       sequence will have to hold
-       us over till October
+   1. Reality dating game
+       The Crush House to be
+       everything I’ve ever
+       wanted in August
+   2. Hyper Light Drifter,
+       Solar Ash developer
+       announces moody
+       side-scrolling platformer
+   3. Cult of the Lamb is
+       getting multiplayer co-op
+       — and a goat
+   4. Every big
+       announcement and trailer
+       from Summer Game Fest 2024
+   5. Palworld’s first
+       major expansion adds Pals
+       and a whole new island
 
 # HackerNews
-   1. ASCII Silhouettify
-   2. Feynman’s Razor
-   3. Yes, you can play
-       Duck Hunt without a
-       television (but I can't)
-   4. The aging U.S. power
-       grid is about to get a
-       jolt
-   5. Alarms in medical
-       equipment
+   1. Apollo 8 astronaut
+       William Anders ID'd in WA
+       plane crash
+   2. Own a weather
+       station? We want your data
+   3. ASCII Silhouettify
+   4. What Is PID 0?
+   5. Xv6, a simple
+       Unix-like teaching
+       operating system
 
 # NL
    1. We are going to fix
@@ -115,16 +111,15 @@ Saturday, June 08
        on for history buffs
 
 # Space
-   1. NASA's wants new
-       ideas for its troubled
-       Mars Sample Return mission
+   1. NASA wants new ideas
+       for its troubled Mars
+       Sample Return mission
    2. Virgin Galactic eyes
        June 8 for final
        commercial spaceflight on
        VSS Unity spaceplane
-   3. SpaceX launching 22
-       Starlink satellites from
-       Florida tonight
+   3. SpaceX lands Falcon
+       9 rocket for 300th time
    4. Jupiter's raging gas
        cyclones may actually
        mirror Earth's oceans.
