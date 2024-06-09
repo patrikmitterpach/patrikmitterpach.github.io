@@ -1,145 +1,139 @@
 -- Daily Times --
-Saturday, June 08
+Sunday, June 09
 
-	The man that does good
-     service to the State is not
-     only he who brings forward
-     candidates for public
-     office, defends accused
-     persons, and gives his vote
-     on questions of peace and
-     war, but he who encourages
-     young men in well-doing, who
-     supplies the present dearth
-     of good teachers by
-     instilling into their minds
-     the principles of virtue,
-     who seizes and holds back
-     those who are rushing wildly
-     in pursuit of riches and
-     luxury, and, if he does
-     nothing else, at least
-     checks their course—such a
-     man does service to the
-     public though in a private
-     station.
-                        ~ Seneca
+	Someone driving a
+     $100,000 car might be
+     wealthy. But the only data
+     point you have about their
+     wealth is that they have
+     $100,000 less than they did
+     before they bought the car
+     (or $100,000 more in debt).
+     That’s all you know about
+     them.
+                 ~ Morgan Housel
 
 
 -- News --
 # Formula1
-   1. [Sky SportsF1]
-       “Why’s he still in F1?” |
-       Jacques Villeneuve gives
-       his verdict on Daniel
-       Ricciardo’s future
-   2. Charles Leclerc
-       summoned to the stewards
-       for using Intermediate
-       tyres when track wasn't
-       declared wet
-   3. [mercedesamgf1] Who
-       is he...
-   4. [Mercedes]
-       celebrating the return of
-       BOT HAM VER
-   5. [Chris Medland] An
-       issue for Verstappen who
-       has to jump clear of his
-       car in the garage and Red
-       Bull aren't allowed to
-       touch it - suggests an ERS
-       problem and the car isn't
-       safe
+   1. Russell did his
+       intro pose!!
+   2. [@ChrisMedlandF1]
+       Verstappen sets THE EXACT
+       SAME TIME as Russell! But
+       Russell did it first so is
+       provisional pole!
+   3. The Ferrari press
+       officer tried to show
+       Charles Leclerc what to
+       say ahead of his press pen
+       interviews. Charles: “I
+       will say what I want.”
+   4. Daniel responds to
+       his Villeneuve
+   5. [Adam Cooper] I
+       asked @danielricciardo if
+       Jacques Villeneuve
+       provided extra motivation
+       today: "I still don't know
+       what he said, but I heard
+       he's been talking s**t,
+       but he always does. I
+       think he's hit his head a
+       few too many times. So I
+       don't know if he plays ice
+       hockey or something..."
 
 # Gaming
-   1. Look! 4 games
-       surprise launch at
-       Wholesome Direct
-   2. The best thrillers
-       to watch on Netflix this
-       June
-   3. Reality dating game
-       The Crush House to be
-       everything I’ve ever
-       wanted in August
-   4. Hyper Light Drifter,
-       Solar Ash developer
-       announces moody
-       side-scrolling platformer
-   5. Cult of the Lamb is
-       getting multiplayer co-op
-       — and a goat
+   1. Gears of War: E-Day
+       revealed in Xbox Showcase
+       at Summer Game Fest
+   2. Call of Duty: Black
+       Ops 6 revealed, arrives
+       this October
+   3. Everything announced
+       at the Xbox showcase at
+       Summer Game Fest 2024
+   4. Fallout 76 will
+       finally let sickos play as
+       Ghouls in early 2025
+   5. Diablo 4’s Vessel of
+       Hatred expansion release
+       date announced at Xbox
+       showcase
 
 # HackerNews
-   1. The Backrooms of the
-       Internet Archive
-   2. Detecting a PS2
-       Emulator: When 1*X does
-       not equal X
-   3. Auditing TikTok
-   4. My favorite 1980's
-       Canadian TV show: Bits and
-       Bytes
-   5. Roman Women and the
-       Oppian Law
+   1. Ultrasonic
+       Investigations in Shopping
+       Centres
+   2. Keylogger discovered
+       in image generator
+       extension
+   3. A look at search
+       engines with their own
+       indexes
+   4. Why no one should
+       use the AT&T syntax ever,
+       for any reason (2021)
+   5. Piku: Allows git
+       push deployments to your
+       own servers
 
 # NL
-   1. I didn't mean to
+   1. Thanks for the
+       freebie (Miscellaneous)
+   2. The jokers have
+       chosen us (Balatro)
+   3. When none of the
+       streamers know the answer
+       (Jackbox)
+   4. I didn't mean to
        insult your comfort game,
        I was just yapping
        (Miscellaneous)
-   2. I have lost control
+   5. I have lost control
        of my life (Balatro)
-   3. Welcome back Mr.
-       Cavendish (Balatro)
-   4. We are going to fix
-       the SATs, people
-       (Miscellaneous)
-   5. The planet is
-       thriving, the gods love
-       us, the animals are
-       returning (Reus 2 #ad)
 
 # Slovakia
-   1. Poll: Slovaks know
+   1. European election
+       results: Main takeaways
+       from Slovakia
+   2. Poll: Slovaks know
        little about EU
        institutions, but their
        trust is immense
-   2. Shining the
+   3. Shining the
        Spotlight: Bridging
        cultures through language
        with Darina Sedláková
-   3. News digest:
+   4. News digest:
        Thousands of people didn't
        show up to work on Friday,
        for a good reason
-   4. Mountain meadows in
+   5. Mountain meadows in
        northern Slovakia are
        losing a protected
        butterfly
-   5. Retail chain opens
-       its first 24/7 grocery
-       shop in an unexpected
-       location
 
 # Space
-   1. At long last:
+   1. Sandworms rise from
+       the sands of Arrakis in
+       exclusive sneak peek at
+       'Dune: The Graphic Novel,
+       Book 3'
+   2. What is the 3-body
+       problem, and is it really
+       unsolvable?
+   3. Astronauts test
+       SpaceX Starship hardware
+       and spacesuits for Artemis
+       3 moon mission (photos)
+   4. 'Stellar Dreams'
+       project gifting 100
+       telescopes to 100 families
+       (exclusive)
+   5. At long last:
        Europe's new Ariane 6
        rocket set to debut on
        July 9
-   2. This Week In Space
-       podcast: Episode 114
-       —Starliners & Starships
-   3. SpaceX wants to
-       build 1 Starship
-       megarocket a day with new
-       Starfactory
-   4. Arrokoth the 'space
-       snowman' probably tastes
-       like sweet soap
-   5. Apollo 8 astronaut
-       Bill Anders, who captured
-       'Earthrise,' killed in
-       plane crash
 
