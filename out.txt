@@ -1,116 +1,140 @@
 -- Daily Times --
 Wednesday, June 12
 
-	Man cannot live well if
-     he knows not how to die
-     well.
+	Riches, I say, are not a
+     good thing; for if they
+     were, they would make men
+     good.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Max on Kelly
-       Piquet’s Instagram
-   2. [Valente] It has now
-       been over 700 days since
-       Formula 1 saw Max
-       Verstappen lose
-       back-to-back races.
-   3. Exchange of radio
-       messages between Max and
-       Gianpiero Lambiase (Max's
-       race engineer) just after
-       Max passes Logan who had a
-       crash in Lap 27.
-   4. [Racingnews365] Zak
-       Brown says Red Bull has a
-       pretty toxic environment
-   5. Last doube DNF for
-       each active F1 team
+   1. [rtl_formel1] (on
+       IG): Kimi Antonelli in a
+       Mercedes from 2025! The
+       17-year-old will be
+       Hamilton's successor.
+       According to RTL
+       information, the Mercedes
+       driver pairing for 2025
+       has also been finalised!
+   2. Martin Brundle
+       criticizes the Canadian GP
+       venue in his latest Sky
+       column; says police &
+       security were unhelpful
+       and aggressive, and
+       expresses disappointment
+       in Montreal's facilities
+       which "F1 has outgrown"
+   3. Haas' 2025 lineup
+       will be Ollie Bearman and
+       likely Esteban Ocon...
+       however Zhou's team is
+       offering a lot of money
+       ($30-35m) for the seat.
+   4. [AMuS podcast]
+       Williams has reportedly
+       offered Sainz a 4 year
+       contract. If Vowles’
+       Williams project doesn’t
+       work out as expected,
+       Sainz has the option to
+       leave after 2 years.
+   5. Right now Oscar
+       Piastri has the exact same
+       amount of points as his
+       racing number
 
 # Gaming
-   1. The Acolyte’s silly
-       rock fire in episode 3 is
-       a perfect symbol for its
-       bigger problems
-   2. Best Buy Plus and
-       Totaltech members can get
-       a free $50 credit when you
-       spend $125 on games
-   3. You see this
-       beautiful D&D terrain? It
-       was made with Polish space
-       magic.
-   4. Why clicker game
-       Banana — the ‘legal
-       infinite money glitch’ —
-       is going viral on Steam
-   5. Why’s the Pacific
-       Northwest always so
-       creepy?
+   1. Helldivers 2 poses
+       the ultimate moral
+       quandary in its new Major
+       Order
+   2. Sony buys Alamo
+       Drafthouse theaters with
+       an eye on bolstering
+       Crunchyroll
+   3. The Twenty-Sided
+       Tavern is a new
+       interactive D&D show —
+       just off Broadway
+   4. How to get the
+       Khvostov Exotic and all
+       Lost Encryption locations
+       in Destiny 2
+   5. How to get Motes of
+       Light in Destiny 2: The
+       Final Shape
 
 # HackerNews
-   1. Silicon Valley's
-       best kept secret: Founder
-       liquidity
-   2. Raspberry Pi is now
-       a public company
-   3. I like the RP2040
-   4. When Water Flows
-       Uphill [video]
-   5. How to make colored
-       fire at home (2020)
+   1. The GJK Algorithm: A
+       weird and beautiful way to
+       do a simple thing
+   2. Launch HN: Overwatch
+       (YC S22): OSINT platform
+       for cyber and fraud risk
+   3. Real-Time Settlers
+       of Catan
+   4. Designing the
+       avocado of uncertainty
+       visualization
+   5. Diffractive
+       Chocolate
 
 # NL
-   1. The Druid tech goes
+   1. There should be a
+       mimicophobia setting (Dark
+       and Darker)
+   2. Look at my math
+       teacher dawg (Blue Prince)
+   3. I'll never not take
+       erosion (Balatro)
+   4. The Druid tech goes
        insane (Dark and Darker)
-   2. They turned House of
+   5. They turned House of
        Leaves into a roguelite
        (Blue Prince)
-   3. Green joker, my
-       beloved (Balatro)
-   4. The omegatilt has
-       begun (Balatro)
-   5. You need to be
-       funmaxxing (Balatro)
 
 # Slovakia
-   1. Slovak Matters:
+   1. News digest: Defence
+       Ministry questions
+       legality of MiG-29
+       donation to Ukraine last
+       year
+   2. Fico to receive
+       lifetime pension, public
+       protests to be limited
+   3. Ready to 'spring a
+       few surprises'? Slovakia
+       heads to Euro 2024
+   4. Putin admirer,
+       influencer, long-term
+       politicians. Who are the
+       newly elected Slovak MEPs?
+   5. Slovak Matters:
        Slovak rich in words for
        ugly
-   2. Construction work on
-       new Volvo plant expected
-       to start within weeks
-   3. News digest: Many
-       Slovaks believe that the
-       Earth is flat
-   4. Slovak Roots:
-       reconnecting with the
-       distant past and heritage
-   5. Environment minister
-       replaces experts with
-       party members
 
 # Space
-   1. NASA weighs
-       potential impacts of
-       helium leaks and more on
-       Boeing's Starliner
-       astronaut test flight
-   2. 'Absolutely gutted':
-       How a jammed door is
-       locking astronomers out of
-       the X-ray universe
-   3. 'Starfield' unveils
-       1st look at 'Shattered
-       Space' expansion (video)
-   4. Chinese moon
-       researchers gearing up for
-       June 25 arrival of far
-       side samples
-   5. 'Supernova discovery
-       machine' James Webb Space
-       Telescope finds most
-       distant star explosion on
-       record
+   1. Doctor Who 'Rogue':
+       Who is the eponymous
+       Rogue?
+   2. Watch NASA
+       astronauts collect microbe
+       samples during ISS
+       spacewalk on June 13
+   3. This action-packed
+       'Borderlands' sneak peek
+       is a chaotic blizzard of
+       bullets (video)
+   4. 'Star Wars: The
+       Acolyte' episode 3: How do
+       the Brendok witches use
+       the Force?
+   5. Private Odysseus
+       moon lander reveals which
+       Earth 'technosignatures'
+       aliens might see
 
