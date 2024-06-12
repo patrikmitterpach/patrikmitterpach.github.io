@@ -1,139 +1,116 @@
 -- Daily Times --
-Sunday, June 09
+Wednesday, June 12
 
-	Someone driving a
-     $100,000 car might be
-     wealthy. But the only data
-     point you have about their
-     wealth is that they have
-     $100,000 less than they did
-     before they bought the car
-     (or $100,000 more in debt).
-     That’s all you know about
-     them.
-                 ~ Morgan Housel
+	Man cannot live well if
+     he knows not how to die
+     well.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Russell did his
-       intro pose!!
-   2. [@ChrisMedlandF1]
-       Verstappen sets THE EXACT
-       SAME TIME as Russell! But
-       Russell did it first so is
-       provisional pole!
-   3. The Ferrari press
-       officer tried to show
-       Charles Leclerc what to
-       say ahead of his press pen
-       interviews. Charles: “I
-       will say what I want.”
-   4. Daniel responds to
-       his Villeneuve
-   5. [Adam Cooper] I
-       asked @danielricciardo if
-       Jacques Villeneuve
-       provided extra motivation
-       today: "I still don't know
-       what he said, but I heard
-       he's been talking s**t,
-       but he always does. I
-       think he's hit his head a
-       few too many times. So I
-       don't know if he plays ice
-       hockey or something..."
+   1. Max on Kelly
+       Piquet’s Instagram
+   2. [Valente] It has now
+       been over 700 days since
+       Formula 1 saw Max
+       Verstappen lose
+       back-to-back races.
+   3. Exchange of radio
+       messages between Max and
+       Gianpiero Lambiase (Max's
+       race engineer) just after
+       Max passes Logan who had a
+       crash in Lap 27.
+   4. [Racingnews365] Zak
+       Brown says Red Bull has a
+       pretty toxic environment
+   5. Last doube DNF for
+       each active F1 team
 
 # Gaming
-   1. Gears of War: E-Day
-       revealed in Xbox Showcase
-       at Summer Game Fest
-   2. Call of Duty: Black
-       Ops 6 revealed, arrives
-       this October
-   3. Everything announced
-       at the Xbox showcase at
-       Summer Game Fest 2024
-   4. Fallout 76 will
-       finally let sickos play as
-       Ghouls in early 2025
-   5. Diablo 4’s Vessel of
-       Hatred expansion release
-       date announced at Xbox
-       showcase
+   1. The Acolyte’s silly
+       rock fire in episode 3 is
+       a perfect symbol for its
+       bigger problems
+   2. Best Buy Plus and
+       Totaltech members can get
+       a free $50 credit when you
+       spend $125 on games
+   3. You see this
+       beautiful D&D terrain? It
+       was made with Polish space
+       magic.
+   4. Why clicker game
+       Banana — the ‘legal
+       infinite money glitch’ —
+       is going viral on Steam
+   5. Why’s the Pacific
+       Northwest always so
+       creepy?
 
 # HackerNews
-   1. Ultrasonic
-       Investigations in Shopping
-       Centres
-   2. Keylogger discovered
-       in image generator
-       extension
-   3. A look at search
-       engines with their own
-       indexes
-   4. Why no one should
-       use the AT&T syntax ever,
-       for any reason (2021)
-   5. Piku: Allows git
-       push deployments to your
-       own servers
+   1. Silicon Valley's
+       best kept secret: Founder
+       liquidity
+   2. Raspberry Pi is now
+       a public company
+   3. I like the RP2040
+   4. When Water Flows
+       Uphill [video]
+   5. How to make colored
+       fire at home (2020)
 
 # NL
-   1. Thanks for the
-       freebie (Miscellaneous)
-   2. The jokers have
-       chosen us (Balatro)
-   3. When none of the
-       streamers know the answer
-       (Jackbox)
-   4. I didn't mean to
-       insult your comfort game,
-       I was just yapping
-       (Miscellaneous)
-   5. I have lost control
-       of my life (Balatro)
+   1. The Druid tech goes
+       insane (Dark and Darker)
+   2. They turned House of
+       Leaves into a roguelite
+       (Blue Prince)
+   3. Green joker, my
+       beloved (Balatro)
+   4. The omegatilt has
+       begun (Balatro)
+   5. You need to be
+       funmaxxing (Balatro)
 
 # Slovakia
-   1. European election
-       results: Main takeaways
-       from Slovakia
-   2. Poll: Slovaks know
-       little about EU
-       institutions, but their
-       trust is immense
-   3. Shining the
-       Spotlight: Bridging
-       cultures through language
-       with Darina Sedláková
-   4. News digest:
-       Thousands of people didn't
-       show up to work on Friday,
-       for a good reason
-   5. Mountain meadows in
-       northern Slovakia are
-       losing a protected
-       butterfly
+   1. Slovak Matters:
+       Slovak rich in words for
+       ugly
+   2. Construction work on
+       new Volvo plant expected
+       to start within weeks
+   3. News digest: Many
+       Slovaks believe that the
+       Earth is flat
+   4. Slovak Roots:
+       reconnecting with the
+       distant past and heritage
+   5. Environment minister
+       replaces experts with
+       party members
 
 # Space
-   1. Sandworms rise from
-       the sands of Arrakis in
-       exclusive sneak peek at
-       'Dune: The Graphic Novel,
-       Book 3'
-   2. What is the 3-body
-       problem, and is it really
-       unsolvable?
-   3. Astronauts test
-       SpaceX Starship hardware
-       and spacesuits for Artemis
-       3 moon mission (photos)
-   4. 'Stellar Dreams'
-       project gifting 100
-       telescopes to 100 families
-       (exclusive)
-   5. At long last:
-       Europe's new Ariane 6
-       rocket set to debut on
-       July 9
+   1. NASA weighs
+       potential impacts of
+       helium leaks and more on
+       Boeing's Starliner
+       astronaut test flight
+   2. 'Absolutely gutted':
+       How a jammed door is
+       locking astronomers out of
+       the X-ray universe
+   3. 'Starfield' unveils
+       1st look at 'Shattered
+       Space' expansion (video)
+   4. Chinese moon
+       researchers gearing up for
+       June 25 arrival of far
+       side samples
+   5. 'Supernova discovery
+       machine' James Webb Space
+       Telescope finds most
+       distant star explosion on
+       record
 
