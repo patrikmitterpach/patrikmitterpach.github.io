@@ -1,40 +1,25 @@
 -- Daily Times --
-Wednesday, June 12
+Thursday, June 13
 
-	Riches, I say, are not a
-     good thing; for if they
-     were, they would make men
-     good.
+	We ought to withdraw
+     ourselves from the forum and
+     from public life, and a
+     great mind even in a private
+     station can find room
+     wherein to expand freely.
+     Confinement in dens
+     restrains the springs of
+     lions and wild creatures,
+     but this does not apply to
+     human beings, who often
+     effect the most important
+     works in retirement.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [rtl_formel1] (on
-       IG): Kimi Antonelli in a
-       Mercedes from 2025! The
-       17-year-old will be
-       Hamilton's successor.
-       According to RTL
-       information, the Mercedes
-       driver pairing for 2025
-       has also been finalised!
-   2. Martin Brundle
-       criticizes the Canadian GP
-       venue in his latest Sky
-       column; says police &
-       security were unhelpful
-       and aggressive, and
-       expresses disappointment
-       in Montreal's facilities
-       which "F1 has outgrown"
-   3. Haas' 2025 lineup
-       will be Ollie Bearman and
-       likely Esteban Ocon...
-       however Zhou's team is
-       offering a lot of money
-       ($30-35m) for the seat.
-   4. [AMuS podcast]
+   1. [AMuS podcast]
        Williams has reportedly
        offered Sainz a 4 year
        contract. If Vowles’
@@ -42,46 +27,54 @@ Wednesday, June 12
        work out as expected,
        Sainz has the option to
        leave after 2 years.
-   5. Right now Oscar
-       Piastri has the exact same
-       amount of points as his
-       racing number
+   2. Tally for the Last 3
+       Races
+   3. The McLaren of Lando
+       Norris had a different
+       sound, throughout the race
+       (mirror in comments)
+   4. [Alex Albon] Double
+       overtake and a free
+       hoodie? Cheers
+       @danielricciardo (for
+       both)!
+   5. The F1 Driver
+       Standings after Round 9.
 
 # Gaming
-   1. Helldivers 2 poses
-       the ultimate moral
-       quandary in its new Major
-       Order
-   2. Sony buys Alamo
-       Drafthouse theaters with
-       an eye on bolstering
-       Crunchyroll
-   3. The Twenty-Sided
-       Tavern is a new
-       interactive D&D show —
-       just off Broadway
-   4. How to get the
-       Khvostov Exotic and all
-       Lost Encryption locations
-       in Destiny 2
-   5. How to get Motes of
-       Light in Destiny 2: The
+   1. Giant Helldivers 2
+       update buffs a ton of
+       stratagems and weapons
+   2. The number of games
+       announced for 2025 is
+       already overwhelming
+   3. How to get Exotic
+       class items from ‘Dual
+       Destiny’ in Destiny 2: The
        Final Shape
+   4. Monster Hunter Now
+       monster list
+   5. Monster Hunter Now
+       weapon list and how to
+       unlock new weapon types
 
 # HackerNews
-   1. The GJK Algorithm: A
+   1. Southwest Airlines
+       Boeing 737-8 Max
+       Experienced Dutch Roll
+   2. Indian Startup 3D
+       Prints Rocket Engine in
+       Just 72 Hours
+   3. Potential Ozone
+       Depletion from Satellite
+       Demise During Atmospheric
+       Reentry
+   4. AMD's MI300X
+       Outperforms Nvidia's H100
+       for LLM Inference
+   5. The GJK Algorithm: A
        weird and beautiful way to
        do a simple thing
-   2. Launch HN: Overwatch
-       (YC S22): OSINT platform
-       for cyber and fraud risk
-   3. Real-Time Settlers
-       of Catan
-   4. Designing the
-       avocado of uncertainty
-       visualization
-   5. Diffractive
-       Chocolate
 
 # NL
    1. There should be a
@@ -98,43 +91,43 @@ Wednesday, June 12
        (Blue Prince)
 
 # Slovakia
-   1. News digest: Defence
+   1. 3 things to do in
+       Bratislava for free in the
+       next seven days
+   2. Finalists in the
+       24th Via Bona Slovakia
+       Awards
+   3. Top 10 events in
+       Bratislava for foreigners
+   4. Self-service kayak
+       rental, the first in
+       Slovakia, has opened on
+       the River Hornád
+   5. News digest: Defence
        Ministry questions
        legality of MiG-29
        donation to Ukraine last
        year
-   2. Fico to receive
-       lifetime pension, public
-       protests to be limited
-   3. Ready to 'spring a
-       few surprises'? Slovakia
-       heads to Euro 2024
-   4. Putin admirer,
-       influencer, long-term
-       politicians. Who are the
-       newly elected Slovak MEPs?
-   5. Slovak Matters:
-       Slovak rich in words for
-       ugly
 
 # Space
-   1. Doctor Who 'Rogue':
-       Who is the eponymous
-       Rogue?
-   2. Watch NASA
-       astronauts collect microbe
-       samples during ISS
-       spacewalk on June 13
-   3. This action-packed
-       'Borderlands' sneak peek
-       is a chaotic blizzard of
-       bullets (video)
-   4. 'Star Wars: The
-       Acolyte' episode 3: How do
-       the Brendok witches use
-       the Force?
-   5. Private Odysseus
-       moon lander reveals which
-       Earth 'technosignatures'
-       aliens might see
+   1. Secrets of
+       radioactive 'promethium' —
+       a rare earth element with
+       mysterious applications —
+       uncovered after 80-year
+       search
+   2. NASA calls off
+       spacewalk at International
+       Space Station due to
+       'spacesuit discomfort'
+   3. International Space
+       Station: Live updates
+   4. Cosmic 'koi fish'
+       swims through starry sea
+       in stunning telescope
+       photo
+   5. Radiation will be a
+       real challenge for Mars
+       colonists, powerful solar
+       storm shows
 
