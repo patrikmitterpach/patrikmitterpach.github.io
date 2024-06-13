@@ -1,133 +1,123 @@
 -- Daily Times --
 Thursday, June 13
 
-	We ought to withdraw
-     ourselves from the forum and
-     from public life, and a
-     great mind even in a private
-     station can find room
-     wherein to expand freely.
-     Confinement in dens
-     restrains the springs of
-     lions and wild creatures,
-     but this does not apply to
-     human beings, who often
-     effect the most important
-     works in retirement.
-                        ~ Seneca
+	The single most
+     remarkable and defining
+     moment of the past 500 years
+     came at 05:29:45 on 16 July
+     1945. At that precise
+     second, American scientists
+     detonated the first atomic
+     bomb at Alamogordo, New
+     Mexico. From that point
+     onward, humankind had the
+     capability not only to
+     change the course of
+     history, but to end it.
+             ~ Yuval Noah Harari
 
 
 -- News --
 # Formula1
-   1. [AMuS podcast]
-       Williams has reportedly
-       offered Sainz a 4 year
-       contract. If Vowles’
-       Williams project doesn’t
-       work out as expected,
-       Sainz has the option to
-       leave after 2 years.
-   2. Tally for the Last 3
+   1. Tally for the Last 3
        Races
-   3. The McLaren of Lando
-       Norris had a different
-       sound, throughout the race
-       (mirror in comments)
-   4. [Alex Albon] Double
-       overtake and a free
-       hoodie? Cheers
-       @danielricciardo (for
-       both)!
-   5. The F1 Driver
+   2. Zhou Guanyu’s $30
+       million backing makes him
+       surprise Haas F1 contender
+   3. The F1 Driver
        Standings after Round 9.
+   4. Mick Schumacher on
+       Formula One exile: ‘It has
+       been a draining few years’
+   5. Sauber has already
+       spent more time in the
+       pits in 2024 (9 rounds)
+       than two teams in the
+       whole of 2023 (22 rounds)
 
 # Gaming
-   1. Giant Helldivers 2
-       update buffs a ton of
-       stratagems and weapons
-   2. The number of games
-       announced for 2025 is
-       already overwhelming
-   3. How to get Exotic
-       class items from ‘Dual
-       Destiny’ in Destiny 2: The
-       Final Shape
-   4. Monster Hunter Now
-       monster list
-   5. Monster Hunter Now
-       weapon list and how to
-       unlock new weapon types
+   1. Metallica is
+       bringing its metal guitar
+       — and a new PvP game mode
+       — to Fortnite Festival
+   2. Overwatch 2 bringing
+       back highly coveted Pink
+       Mercy skin for charity
+   3. Donald Glover and
+       Zack Fox’s animated comedy
+       Yoppaman is completely
+       bonkers
+   4. Bridgerton said: gay
+       rights!!
+   5. Meet the rejected
+       candidates for The Seven
 
 # HackerNews
-   1. Southwest Airlines
-       Boeing 737-8 Max
-       Experienced Dutch Roll
-   2. Indian Startup 3D
-       Prints Rocket Engine in
-       Just 72 Hours
-   3. Potential Ozone
-       Depletion from Satellite
-       Demise During Atmospheric
-       Reentry
-   4. AMD's MI300X
-       Outperforms Nvidia's H100
-       for LLM Inference
-   5. The GJK Algorithm: A
-       weird and beautiful way to
-       do a simple thing
+   1. MLow: Meta's low
+       bitrate audio codec
+   2. Show HN: Shpool, a
+       Lightweight Tmux
+       Alternative
+   3. Group chats rule the
+       world
+   4. Indian startup 3D
+       prints rocket engine in 72
+       hours
+   5. AMD CEO Lisa Su
+       reminisces about designing
+       the PS3's infamous Cell
+       processor
 
 # NL
-   1. There should be a
+   1. I do get up to a
+       little chicanery (Lethal
+       Company)
+   2. The ultimate two
+       pair build (Balatro)
+   3. Look at my jokers
+       dog (Balatro)
+   4. There should be a
        mimicophobia setting (Dark
        and Darker)
-   2. Look at my math
+   5. Look at my math
        teacher dawg (Blue Prince)
-   3. I'll never not take
-       erosion (Balatro)
-   4. The Druid tech goes
-       insane (Dark and Darker)
-   5. They turned House of
-       Leaves into a roguelite
-       (Blue Prince)
 
 # Slovakia
-   1. 3 things to do in
+   1. Inspired by the
+       far-right, Fico delivers a
+       manifesto on national
+       conservatism
+   2. Peter Pellegrini's
+       inauguration: What to
+       expect
+   3. 3 things to do in
        Bratislava for free in the
        next seven days
-   2. Finalists in the
+   4. Finalists in the
        24th Via Bona Slovakia
        Awards
-   3. Top 10 events in
+   5. Top 10 events in
        Bratislava for foreigners
-   4. Self-service kayak
-       rental, the first in
-       Slovakia, has opened on
-       the River Hornád
-   5. News digest: Defence
-       Ministry questions
-       legality of MiG-29
-       donation to Ukraine last
-       year
 
 # Space
-   1. Secrets of
-       radioactive 'promethium' —
-       a rare earth element with
-       mysterious applications —
-       uncovered after 80-year
-       search
-   2. NASA calls off
-       spacewalk at International
-       Space Station due to
-       'spacesuit discomfort'
-   3. International Space
-       Station: Live updates
-   4. Cosmic 'koi fish'
-       swims through starry sea
-       in stunning telescope
-       photo
-   5. Radiation will be a
-       real challenge for Mars
-       colonists, powerful solar
-       storm shows
+   1. 'The spacecraft
+       really reacted great:'
+       NASA astronauts praise
+       Boeing Starliner’s
+       performance (video)
+   2. Bark! Meow! Cluck!
+       NASA uses lasers to beam
+       pictures of pet dogs, cats
+       and chickens to the ISS
+   3. NASA's Chandra X-ray
+       telescope captures closest
+       super star cluster to
+       Earth (image)
+   4. Mars meteorites
+       reveal clues about what
+       lies within the Red Planet
+   5. Scientists find a
+       surprise ingredient in
+       exoplanet cake mix —
+       sulfur dioxide
 
