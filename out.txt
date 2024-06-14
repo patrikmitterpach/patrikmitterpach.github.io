@@ -1,69 +1,85 @@
 -- Daily Times --
 Friday, June 14
 
-	You may, then, boldly
-     declare that the highest
-     good is singleness of mind:
-     for where agreement and
-     unity are, there must the
-     virtues be.
+	A man should be unbiased
+     and not to be conquered by
+     external things: he ought to
+     admire himself alone, to
+     feel confidence in his own
+     spirit, and so to order his
+     life as to be ready alike
+     for good or for bad fortune.
+     Let not his confidence be
+     without knowledge, nor his
+     knowledge without
+     steadfastness.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Tally for the Last 3
-       Races
-   2. Ricciardo's response
+   1. Ricciardo's response
        to Alex Albon thanking him
        for the overtake.
-   3. In middle of this
+   2. In middle of this
        question Max
        understandably added "Uh
        woah it's two cars"
-   4. Mick Schumacher on
-       Formula One exile: ‘It has
-       been a draining few years’
-   5. “Why is karting so
+   3. “Why is karting so
        easy for you?” Young Max:
        “Well, [I have] a good
        mechanic, the kart is
        good. And so am I!”
+   4. [RaceFans] The FIA
+       has changed its rules to
+       allow 17-year-olds to race
+       in Formula 1 if they have
+       "consistently demonstrated
+       outstanding ability and
+       maturity in single-seater
+       formula car competition."
+       This would allow Mercedes'
+       Andrea Kimi Antonelli to
+       race in F1 this year.
+   5. Canadian GP had 48
+       Overtakes. The Most at
+       Montreal for a Decade.
+       Full Info in Post.
 
 # Gaming
-   1. NewJeans is the PUBG
+   1. Inside Out 2 revives
+       the old Pixar magic
+   2. NewJeans is the PUBG
        collab I didn’t know I
        needed
-   2. The Jackbox
+   3. The Jackbox
        Megapicker solves the
        biggest issue with the
        Party Packs
-   3. GTA Online update
+   4. GTA Online update
        for the week of June 13
-   4. Ahri ban rate soars
+   5. Ahri ban rate soars
        after ultra expensive new
        League of Legends skin
        drops
-   5. The next Lorcana
-       expansion, Shimmering
-       Skies, is available to
-       pre-order only at Best Buy
 
 # HackerNews
-   1. A look at Apple's
+   1. I Found a 55 Year
+       Old Bug in the First Lunar
+       Lander Game
+   2. Android Drivers -
+       News and updates from the
+       Project Zero team at
+       Google
+   3. A look at Apple's
        technical approach to AI
        including core model
        performance etc.
-   2. Land value tax in
-       online games and virtual
-       worlds
-   3. MLow: Meta's low
+   4. The Surprising
+       Brain-Health Benefits of
+       Weightlifting
+   5. MLow: Meta's low
        bitrate audio codec
-   4. Mouth-based touchpad
-       enables people living with
-       paralysis to use computers
-   5. Fungus breaks down
-       ocean plastic
 
 # NL
    1. The rat tech is free
@@ -80,45 +96,40 @@ Friday, June 14
        and Darker)
 
 # Slovakia
-   1. Slovak architects
+   1. Weekend: Popular
+       vintage train show back
+       with steam engines
+   2. Slovak architects
        give new life to a
        300-year-old house in
        Mallorca
-   2. News digest:
+   3. News digest:
        Journalists quit major
        daily over censorship
-   3. Inspired by the
+   4. Inspired by the
        far-right, Fico delivers a
        manifesto on national
        conservatism
-   4. Peter Pellegrini's
+   5. Peter Pellegrini's
        inauguration: What to
        expect
-   5. 3 things to do in
-       Bratislava for free in the
-       next seven days
 
 # Space
-   1. Former SpaceX
+   1. Boeing's Starliner
+       astronaut taxi spotted at
+       ISS (satellite photo)
+   2. China's Chang'e 6
+       spacecraft finds
+       long-sought particles on
+       far side of the moon
+   3. The sun's magnetic
+       field is about to flip.
+       Here's what to expect.
+   4. The Unistellar
+       eVscope 2 is $1160 off
+       ahead of Prime Day
+   5. Former SpaceX
        employees sue company,
        Elon Musk for retaliation,
        sexual harassment
-   2. NASA telescope spots
-       'cosmic fireworks' and
-       faint echos from the Milky
-       Way's supermassive black
-       hole
-   3. Billion-dollar
-       disasters have been
-       sweeping across the US
-       this year
-   4. 'The spacecraft
-       really reacted great:'
-       NASA astronauts praise
-       Boeing Starliner’s
-       performance (video)
-   5. Bark! Meow! Cluck!
-       NASA uses lasers to beam
-       pictures of pet dogs, cats
-       and chickens to the ISS
 
