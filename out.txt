@@ -1,12 +1,11 @@
 -- Daily Times --
 Friday, June 14
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
+	Know then that every
+     station of life is
+     transitory, and that what
+     has ever happened to anybody
+     may happen to you also.
                         ~ Seneca
 
 
@@ -44,56 +43,61 @@ Friday, June 14
        already gain experience at
        Williams this year, for
        example.
-   5. Canadian GP had 48
-       Overtakes. The Most at
-       Montreal for a Decade.
-       Full Info in Post.
+   5. Guanyu Zhou holding
+       up Lewis Hamilton on lap
+       45 whilst being shown blue
+       flags during the Canadian
+       GP. This cost Hamilton 5
+       seconds when chasing
+       Piastri for P4 at the
+       time.
 
 # Gaming
-   1. All new Exotics in
+   1. Studio Ponoc’s The
+       Imaginary may be the
+       closest we get to a Calvin
+       and Hobbes movie
+   2. Forget House of the
+       Dragon, I am watching ant
+       wars on YouTube
+   3. Rogier’s questline
+       walkthrough and steps in
+       Elden Ring
+   4. All new Exotics in
        Destiny 2: The Final Shape
-   2. Fallout 76 finally
+   5. Fallout 76 finally
        stands triumphant — and
        there’s more to come
-   3. The 32 best movies
-       on Netflix right now
-   4. Crumbling Farum
-       Azula walkthrough steps in
-       Elden Ring
-   5. Netflix’s Ultraman:
-       Rising triumphantly
-       reinvents a tokusatsu
-       legend for newbies
 
 # HackerNews
-   1. I Found a 55 Year
-       Old Bug in the First Lunar
-       Lander Game
+   1. The sun's magnetic
+       field is about to flip
    2. Nvidia Warp: A
        Python framework for high
        performance GPU simulation
        and graphics
-   3. Cost Per 1M tokens
-       Of Self Hosting Llama-3
-   4. Apple set to be
-       first Big Tech group to
-       face charges under EU
-       digital law
-   5. The Problem with
-       OpenTelemetry
+   3. I found a 55 year
+       old bug in the first Lunar
+       Lander game
+   4. The Microsoft Excel
+       superstars throw down in
+       Vegas
+   5. Orange FM Prototype
+       – Analogue Pocket Demo
 
 # NL
-   1. They made a joker
-       just for me (Balatro)
-   2. The rat tech is free
-       (Dark and Darker)
-   3. I do get up to a
-       little chicanery (Lethal
+   1. Who up playing the
+       flute? (Dark and Darker)
+   2. He isn't a bug bro,
+       he's my friend (Lethal
        Company)
-   4. The ultimate two
-       pair build (Balatro)
-   5. Look at my jokers
-       dog (Balatro)
+   3. Once again, they
+       said it couldn't be done
+       (Blue Prince)
+   4. The banana gods have
+       smiled upon us (Balatro)
+   5. They made a joker
+       just for me (Balatro)
 
 # Slovakia
    1. News digest: Summer
@@ -117,23 +121,24 @@ Friday, June 14
        with steam engines
 
 # Space
-   1. Astronauts could mix
+   1. What ultimately
+       happened to the USS
+       Discovery in the 'Star
+       Trek: Discovery' series
+       finale?
+   2. Astronomers get
+       closer to solving the
+       lingering mystery of fast
+       radio bursts
+   3. 12 billion years of
+       black hole history,
+       revealed through X-rays
+       and simulations
+   4. Astronauts could mix
        moon dust with old
        satellites to make fuel
-   2. To calibrate
+   5. To calibrate
        telescopes on Earth,
        NASA's launching an
        'artificial star' to orbit
-   3. Soviet-era cosmonaut
-       Vyacheslav Zudov, who
-       survived only Soyuz
-       splashdown, dies
-   4. NASA delays landing
-       of Boeing's 1st Starliner
-       astronaut mission to June
-       22
-   5. How China's Chang'e
-       6 minirover snapped its
-       epic photo on the moon's
-       far side
 
