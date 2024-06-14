@@ -1,15 +1,12 @@
 -- Daily Times --
 Friday, June 14
 
-	High office, monuments,
-     all that ambition records in
-     decrees or piles up in
-     stone, soon passes away:
-     lapse of time casts down and
-     ruins everything; but those
-     things on which Philosophy
-     has set its seal are beyond
-     the reach of injury.
+	You may, then, boldly
+     declare that the highest
+     good is singleness of mind:
+     for where agreement and
+     unity are, there must the
+     virtues be.
                         ~ Seneca
 
 
@@ -17,21 +14,21 @@ Friday, June 14
 # Formula1
    1. Tally for the Last 3
        Races
-   2. Zhou Guanyu’s $30
-       million backing makes him
-       surprise Haas F1 contender
-   3. Mick Schumacher on
-       Formula One exile: ‘It has
-       been a draining few years’
-   4. In middle of this
+   2. Ricciardo's response
+       to Alex Albon thanking him
+       for the overtake.
+   3. In middle of this
        question Max
        understandably added "Uh
        woah it's two cars"
-   5. Sauber has already
-       spent more time in the
-       pits in 2024 (9 rounds)
-       than two teams in the
-       whole of 2023 (22 rounds)
+   4. Mick Schumacher on
+       Formula One exile: ‘It has
+       been a draining few years’
+   5. “Why is karting so
+       easy for you?” Young Max:
+       “Well, [I have] a good
+       mechanic, the kart is
+       good. And so am I!”
 
 # Gaming
    1. NewJeans is the PUBG
@@ -53,21 +50,20 @@ Friday, June 14
        pre-order only at Best Buy
 
 # HackerNews
-   1. MLow: Meta's low
+   1. A look at Apple's
+       technical approach to AI
+       including core model
+       performance etc.
+   2. Land value tax in
+       online games and virtual
+       worlds
+   3. MLow: Meta's low
        bitrate audio codec
-   2. Mouth-based touchpad
+   4. Mouth-based touchpad
        enables people living with
        paralysis to use computers
-   3. The 'Compact'
-       Version of Stable
-       Diffusion 3 Is Generating
-       Monstrous Human Bodies
-   4. Scan HTML faster
-       with SIMD instructions –
-       Chrome edition
-   5. Show HN: Shpool, a
-       Lightweight Tmux
-       Alternative
+   5. Fungus breaks down
+       ocean plastic
 
 # NL
    1. The rat tech is free
@@ -84,44 +80,45 @@ Friday, June 14
        and Darker)
 
 # Slovakia
-   1. News digest:
+   1. Slovak architects
+       give new life to a
+       300-year-old house in
+       Mallorca
+   2. News digest:
        Journalists quit major
        daily over censorship
-   2. Inspired by the
+   3. Inspired by the
        far-right, Fico delivers a
        manifesto on national
        conservatism
-   3. Peter Pellegrini's
+   4. Peter Pellegrini's
        inauguration: What to
        expect
-   4. 3 things to do in
+   5. 3 things to do in
        Bratislava for free in the
        next seven days
-   5. Finalists in the
-       24th Via Bona Slovakia
-       Awards
 
 # Space
-   1. NASA telescope spots
+   1. Former SpaceX
+       employees sue company,
+       Elon Musk for retaliation,
+       sexual harassment
+   2. NASA telescope spots
        'cosmic fireworks' and
        faint echos from the Milky
        Way's supermassive black
        hole
-   2. Billion-dollar
+   3. Billion-dollar
        disasters have been
        sweeping across the US
        this year
-   3. 'The spacecraft
+   4. 'The spacecraft
        really reacted great:'
        NASA astronauts praise
        Boeing Starliner’s
        performance (video)
-   4. Bark! Meow! Cluck!
+   5. Bark! Meow! Cluck!
        NASA uses lasers to beam
        pictures of pet dogs, cats
        and chickens to the ISS
-   5. NASA's Chandra X-ray
-       telescope captures closest
-       super star cluster to
-       Earth (image)
 
