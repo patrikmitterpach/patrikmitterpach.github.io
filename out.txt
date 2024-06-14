@@ -1,18 +1,12 @@
 -- Daily Times --
 Friday, June 14
 
-	A man should be unbiased
-     and not to be conquered by
-     external things: he ought to
-     admire himself alone, to
-     feel confidence in his own
-     spirit, and so to order his
-     life as to be ready alike
-     for good or for bad fortune.
-     Let not his confidence be
-     without knowledge, nor his
-     knowledge without
-     steadfastness.
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
@@ -21,16 +15,7 @@ Friday, June 14
    1. Ricciardo's response
        to Alex Albon thanking him
        for the overtake.
-   2. In middle of this
-       question Max
-       understandably added "Uh
-       woah it's two cars"
-   3. “Why is karting so
-       easy for you?” Young Max:
-       “Well, [I have] a good
-       mechanic, the kart is
-       good. And so am I!”
-   4. [RaceFans] The FIA
+   2. [RaceFans] The FIA
        has changed its rules to
        allow 17-year-olds to race
        in Formula 1 if they have
@@ -41,95 +26,114 @@ Friday, June 14
        This would allow Mercedes'
        Andrea Kimi Antonelli to
        race in F1 this year.
+   3. [Alexander Rossi]
+       (on FIA's exception for 17
+       year-olds getting SL) Oh
+       so exceptions can be made?
+       Huh.
+   4. [Erik Van Haren] The
+       FIA ​​confirmed that a
+       dispensation request had
+       been submitted and it
+       logically concerned Kimi
+       Antonelli. He will drive
+       for Mercedes next year
+       once Toto Wolff has
+       finally given up hope on
+       Max Verstappen. But could
+       already gain experience at
+       Williams this year, for
+       example.
    5. Canadian GP had 48
        Overtakes. The Most at
        Montreal for a Decade.
        Full Info in Post.
 
 # Gaming
-   1. Inside Out 2 revives
-       the old Pixar magic
-   2. NewJeans is the PUBG
-       collab I didn’t know I
-       needed
-   3. The Jackbox
-       Megapicker solves the
-       biggest issue with the
-       Party Packs
-   4. GTA Online update
-       for the week of June 13
-   5. Ahri ban rate soars
-       after ultra expensive new
-       League of Legends skin
-       drops
+   1. All new Exotics in
+       Destiny 2: The Final Shape
+   2. Fallout 76 finally
+       stands triumphant — and
+       there’s more to come
+   3. The 32 best movies
+       on Netflix right now
+   4. Crumbling Farum
+       Azula walkthrough steps in
+       Elden Ring
+   5. Netflix’s Ultraman:
+       Rising triumphantly
+       reinvents a tokusatsu
+       legend for newbies
 
 # HackerNews
    1. I Found a 55 Year
        Old Bug in the First Lunar
        Lander Game
-   2. Android Drivers -
-       News and updates from the
-       Project Zero team at
-       Google
-   3. A look at Apple's
-       technical approach to AI
-       including core model
-       performance etc.
-   4. The Surprising
-       Brain-Health Benefits of
-       Weightlifting
-   5. MLow: Meta's low
-       bitrate audio codec
+   2. Nvidia Warp: A
+       Python framework for high
+       performance GPU simulation
+       and graphics
+   3. Cost Per 1M tokens
+       Of Self Hosting Llama-3
+   4. Apple set to be
+       first Big Tech group to
+       face charges under EU
+       digital law
+   5. The Problem with
+       OpenTelemetry
 
 # NL
-   1. The rat tech is free
+   1. They made a joker
+       just for me (Balatro)
+   2. The rat tech is free
        (Dark and Darker)
-   2. I do get up to a
+   3. I do get up to a
        little chicanery (Lethal
        Company)
-   3. The ultimate two
+   4. The ultimate two
        pair build (Balatro)
-   4. Look at my jokers
+   5. Look at my jokers
        dog (Balatro)
-   5. There should be a
-       mimicophobia setting (Dark
-       and Darker)
 
 # Slovakia
-   1. Weekend: Popular
+   1. News digest: Summer
+       season officially starts,
+       Bratislava opens its
+       outdoor pools
+   2. After quietly
+       toasting Russia, Foreign
+       Minister Blanár heads to
+       Ukraine peace summit
+   3. President Čaputová:
+       Slovakia, may you have
+       more peaceful times, wise
+       leadership, and greater
+       humanity
+   4. Asylum law changes
+       herald reduced assistance
+       for Ukrainian refugees
+   5. Weekend: Popular
        vintage train show back
        with steam engines
-   2. Slovak architects
-       give new life to a
-       300-year-old house in
-       Mallorca
-   3. News digest:
-       Journalists quit major
-       daily over censorship
-   4. Inspired by the
-       far-right, Fico delivers a
-       manifesto on national
-       conservatism
-   5. Peter Pellegrini's
-       inauguration: What to
-       expect
 
 # Space
-   1. Boeing's Starliner
-       astronaut taxi spotted at
-       ISS (satellite photo)
-   2. China's Chang'e 6
-       spacecraft finds
-       long-sought particles on
-       far side of the moon
-   3. The sun's magnetic
-       field is about to flip.
-       Here's what to expect.
-   4. The Unistellar
-       eVscope 2 is $1160 off
-       ahead of Prime Day
-   5. Former SpaceX
-       employees sue company,
-       Elon Musk for retaliation,
-       sexual harassment
+   1. Astronauts could mix
+       moon dust with old
+       satellites to make fuel
+   2. To calibrate
+       telescopes on Earth,
+       NASA's launching an
+       'artificial star' to orbit
+   3. Soviet-era cosmonaut
+       Vyacheslav Zudov, who
+       survived only Soyuz
+       splashdown, dies
+   4. NASA delays landing
+       of Boeing's 1st Starliner
+       astronaut mission to June
+       22
+   5. How China's Chang'e
+       6 minirover snapped its
+       epic photo on the moon's
+       far side
 
