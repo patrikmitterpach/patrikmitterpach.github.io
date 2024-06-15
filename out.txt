@@ -1,20 +1,16 @@
 -- Daily Times --
-Friday, June 14
+Saturday, June 15
 
-	Know then that every
-     station of life is
-     transitory, and that what
-     has ever happened to anybody
-     may happen to you also.
+	With but few exceptions
+     men’s life comes to an end
+     just as they are preparing
+     to enjoy it.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Ricciardo's response
-       to Alex Albon thanking him
-       for the overtake.
-   2. [RaceFans] The FIA
+   1. [RaceFans] The FIA
        has changed its rules to
        allow 17-year-olds to race
        in Formula 1 if they have
@@ -25,12 +21,33 @@ Friday, June 14
        This would allow Mercedes'
        Andrea Kimi Antonelli to
        race in F1 this year.
+   2. Fun Fact: Per FIA's
+       F1 Superlicence System;24
+       year-old Colton Herta who
+       has 7 Wins,14 Podiums,12
+       Poles in Indycar (second
+       best open-wheel racing
+       series in the world) isn't
+       qualified for F1; whereas
+       17 year-old Kimi Antonelli
+       who has ''0'' Wins,
+       Podiums or Poles in F2 or
+       F3 could be qualified for
+       F1.
    3. [Alexander Rossi]
        (on FIA's exception for 17
        year-olds getting SL) Oh
        so exceptions can be made?
        Huh.
-   4. [Erik Van Haren] The
+   4. Guanyu Zhou holding
+       up Lewis Hamilton on lap
+       45 whilst being shown blue
+       flags during the Canadian
+       GP. This cost Hamilton 5
+       seconds when chasing
+       Piastri for P4 at the
+       time.
+   5. [Erik Van Haren] The
        FIA ​​confirmed that a
        dispensation request had
        been submitted and it
@@ -43,61 +60,55 @@ Friday, June 14
        already gain experience at
        Williams this year, for
        example.
-   5. Guanyu Zhou holding
-       up Lewis Hamilton on lap
-       45 whilst being shown blue
-       flags during the Canadian
-       GP. This cost Hamilton 5
-       seconds when chasing
-       Piastri for P4 at the
-       time.
 
 # Gaming
-   1. Studio Ponoc’s The
+   1. Pokémon Go
+       ‘Spelunker’s Cove’ event
+       and Timed Research tasks
+   2. Netflix’s Ultraman:
+       Rising, I Saw the TV Glow,
+       and every movie new to
+       streaming this week
+   3. Studio Ponoc’s The
        Imaginary may be the
        closest we get to a Calvin
        and Hobbes movie
-   2. Forget House of the
+   4. Forget House of the
        Dragon, I am watching ant
        wars on YouTube
-   3. Rogier’s questline
+   5. Rogier’s questline
        walkthrough and steps in
        Elden Ring
-   4. All new Exotics in
-       Destiny 2: The Final Shape
-   5. Fallout 76 finally
-       stands triumphant — and
-       there’s more to come
 
 # HackerNews
-   1. The sun's magnetic
-       field is about to flip
-   2. Nvidia Warp: A
+   1. Tesla's FSD – A
+       Useless Technology Demo
+   2. Voyager 1 is back
+       online! NASA spacecraft
+       returns data from all 4
+       instruments
+   3. Eden Abhez: The
+       strangest hit songwriter
+   4. Nvidia Warp: A
        Python framework for high
        performance GPU simulation
        and graphics
-   3. I found a 55 year
-       old bug in the first Lunar
-       Lander game
-   4. The Microsoft Excel
-       superstars throw down in
-       Vegas
-   5. Orange FM Prototype
-       – Analogue Pocket Demo
+   5. The sun's magnetic
+       field is about to flip
 
 # NL
-   1. Who up playing the
+   1. And they say I don't
+       know ball (Miscellaneous)
+   2. Who up playing the
        flute? (Dark and Darker)
-   2. He isn't a bug bro,
+   3. He isn't a bug bro,
        he's my friend (Lethal
        Company)
-   3. Once again, they
+   4. Once again, they
        said it couldn't be done
        (Blue Prince)
-   4. The banana gods have
+   5. The banana gods have
        smiled upon us (Balatro)
-   5. They made a joker
-       just for me (Balatro)
 
 # Slovakia
    1. News digest: Summer
@@ -121,24 +132,28 @@ Friday, June 14
        with steam engines
 
 # Space
-   1. What ultimately
+   1. Private
+       space-junk-inspection
+       probe spots discarded
+       rocket in orbit up close
+       (photo)
+   2. SpaceX Falcon 9
+       rocket suffers rare
+       last-second abort during
+       Starlink satellite launch
+       (video)
+   3. Voyager 1 is back
+       online! NASA's most
+       distant spacecraft returns
+       data from all 4
+       instruments
+   4. What ultimately
        happened to the USS
        Discovery in the 'Star
        Trek: Discovery' series
        finale?
-   2. Astronomers get
+   5. Astronomers get
        closer to solving the
        lingering mystery of fast
        radio bursts
-   3. 12 billion years of
-       black hole history,
-       revealed through X-rays
-       and simulations
-   4. Astronauts could mix
-       moon dust with old
-       satellites to make fuel
-   5. To calibrate
-       telescopes on Earth,
-       NASA's launching an
-       'artificial star' to orbit
 
