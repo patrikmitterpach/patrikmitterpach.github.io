@@ -1,27 +1,17 @@
 -- Daily Times --
 Saturday, June 15
 
-	With but few exceptions
-     men’s life comes to an end
-     just as they are preparing
-     to enjoy it.
+	when his last day
+     arrives, the wise man will
+     not hang back, but will walk
+     with a steady step to meet
+     death.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [RaceFans] The FIA
-       has changed its rules to
-       allow 17-year-olds to race
-       in Formula 1 if they have
-       "consistently demonstrated
-       outstanding ability and
-       maturity in single-seater
-       formula car competition."
-       This would allow Mercedes'
-       Andrea Kimi Antonelli to
-       race in F1 this year.
-   2. Fun Fact: Per FIA's
+   1. Fun Fact: Per FIA's
        F1 Superlicence System;24
        year-old Colton Herta who
        has 7 Wins,14 Podiums,12
@@ -34,67 +24,62 @@ Saturday, June 15
        Podiums or Poles in F2 or
        F3 could be qualified for
        F1.
-   3. [Alexander Rossi]
-       (on FIA's exception for 17
-       year-olds getting SL) Oh
-       so exceptions can be made?
-       Huh.
-   4. Guanyu Zhou holding
-       up Lewis Hamilton on lap
-       45 whilst being shown blue
-       flags during the Canadian
-       GP. This cost Hamilton 5
-       seconds when chasing
-       Piastri for P4 at the
-       time.
-   5. [Erik Van Haren] The
-       FIA ​​confirmed that a
-       dispensation request had
-       been submitted and it
-       logically concerned Kimi
-       Antonelli. He will drive
-       for Mercedes next year
-       once Toto Wolff has
-       finally given up hope on
-       Max Verstappen. But could
-       already gain experience at
-       Williams this year, for
-       example.
+   2. [OT] Verstappen
+       reveals he's been
+       ‘contacted’ by teams over
+       an appearance at Le Mans
+   3. Max Verstappen on
+       why he and Fernando Alonso
+       get along so well and his
+       admiration for Alonso: "I
+       remember when I was in
+       go-karting watching him in
+       Formula One and he was
+       always the driver that I
+       was like 'yeah he can
+       race' and that's something
+       as a fan you turn on the
+       TV for"
+   4. [F1BigData] Monza
+       could experiment some
+       changes this year...
+   5. Perez takes longer
+       to adapt to tricky car –
+       Horner
 
 # Gaming
-   1. Pokémon Go
+   1. The House of the
+       Dragon timeline so far
+   2. Pokémon Go
        ‘Spelunker’s Cove’ event
        and Timed Research tasks
-   2. Netflix’s Ultraman:
+   3. Netflix’s Ultraman:
        Rising, I Saw the TV Glow,
        and every movie new to
        streaming this week
-   3. Studio Ponoc’s The
+   4. Studio Ponoc’s The
        Imaginary may be the
        closest we get to a Calvin
        and Hobbes movie
-   4. Forget House of the
+   5. Forget House of the
        Dragon, I am watching ant
        wars on YouTube
-   5. Rogier’s questline
-       walkthrough and steps in
-       Elden Ring
 
 # HackerNews
-   1. Tesla's FSD – A
-       Useless Technology Demo
-   2. Voyager 1 is back
+   1. Leveraging Zig's
+       Allocators
+   2. Threescaper: A
+       website for loading
+       Townscaper models into
+       Three.js
+   3. Address Sanitizer
+       Internals
+   4. Voyager 1 is back
        online! NASA spacecraft
        returns data from all 4
        instruments
-   3. Eden Abhez: The
-       strangest hit songwriter
-   4. Nvidia Warp: A
-       Python framework for high
-       performance GPU simulation
-       and graphics
-   5. The sun's magnetic
-       field is about to flip
+   5. What About libjpeg
+       v9? (2013)
 
 # NL
    1. And they say I don't
@@ -111,49 +96,42 @@ Saturday, June 15
        smiled upon us (Balatro)
 
 # Slovakia
-   1. News digest: Summer
+   1. The Čaputová era:
+       Five years in pictures
+   2. News digest: Summer
        season officially starts,
        Bratislava opens its
        outdoor pools
-   2. After quietly
+   3. After quietly
        toasting Russia, Foreign
        Minister Blanár heads to
        Ukraine peace summit
-   3. President Čaputová:
+   4. President Čaputová:
        Slovakia, may you have
        more peaceful times, wise
        leadership, and greater
        humanity
-   4. Asylum law changes
+   5. Asylum law changes
        herald reduced assistance
        for Ukrainian refugees
-   5. Weekend: Popular
-       vintage train show back
-       with steam engines
 
 # Space
-   1. Private
-       space-junk-inspection
-       probe spots discarded
-       rocket in orbit up close
-       (photo)
-   2. SpaceX Falcon 9
-       rocket suffers rare
-       last-second abort during
-       Starlink satellite launch
-       (video)
-   3. Voyager 1 is back
-       online! NASA's most
-       distant spacecraft returns
-       data from all 4
-       instruments
-   4. What ultimately
-       happened to the USS
-       Discovery in the 'Star
-       Trek: Discovery' series
-       finale?
-   5. Astronomers get
-       closer to solving the
-       lingering mystery of fast
-       radio bursts
+   1. Could nearby stars
+       have habitable exoplanets?
+       NASA's Chandra X-ray
+       Observatory hopes to find
+       out
+   2. This Week In Space
+       podcast: Episode 115 —Our
+       Friendly Mr. Sun
+   3. Space weather
+       forecasting needs an
+       upgrade to protect future
+       Artemis astronauts
+   4. How the world-famous
+       Griffith Observatory
+       became a huge Hollywood
+       star
+   5. How are galaxies
+       destroyed?
 
