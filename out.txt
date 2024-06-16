@@ -1,119 +1,106 @@
 -- Daily Times --
-Saturday, June 15
+Sunday, June 16
 
-	when his last day
-     arrives, the wise man will
-     not hang back, but will walk
-     with a steady step to meet
-     death.
-                        ~ Seneca
+	Near the end of March,
+     1845, I borrowed an axe and
+     went down to the woods by
+     Walden Pond, nearest to
+     where I intended to build my
+     house, and began to cut down
+     some tall, arrowy white
+     pines, still in their youth,
+     for timber.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. Fun Fact: Per FIA's
-       F1 Superlicence System;24
-       year-old Colton Herta who
-       has 7 Wins,14 Podiums,12
-       Poles in Indycar (second
-       best open-wheel racing
-       series in the world) isn't
-       qualified for F1; whereas
-       17 year-old Kimi Antonelli
-       who has ''0'' Wins,
-       Podiums or Poles in F2 or
-       F3 could be qualified for
-       F1.
+   1. Bottas secured his
+       first gravel bike race win
+       today.
    2. [OT] Verstappen
        reveals he's been
        ‘contacted’ by teams over
        an appearance at Le Mans
-   3. Max Verstappen on
-       why he and Fernando Alonso
-       get along so well and his
-       admiration for Alonso: "I
-       remember when I was in
-       go-karting watching him in
-       Formula One and he was
-       always the driver that I
-       was like 'yeah he can
-       race' and that's something
-       as a fan you turn on the
-       TV for"
-   4. [F1BigData] Monza
-       could experiment some
-       changes this year...
-   5. Perez takes longer
-       to adapt to tricky car –
-       Horner
+   3. What generation car
+       does this showcar
+       resemble?
+   4. [OT] Alpine Double
+       Engine Failure at the 24H
+       of Le Mans
+   5. [Autosport] Lewis
+       Hamilton’s only one top 5
+       finish in first 9 races is
+       his worst Season start
+       since 2009
 
 # Gaming
-   1. The House of the
+   1. Inside Out 2 ruins
+       one of Inside Out’s best
+       gags — and it’s no big
+       deal
+   2. The best sci-fi
+       movies to watch on Netflix
+       this June
+   3. The House of the
        Dragon timeline so far
-   2. Pokémon Go
+   4. Pokémon Go
        ‘Spelunker’s Cove’ event
        and Timed Research tasks
-   3. Netflix’s Ultraman:
+   5. Netflix’s Ultraman:
        Rising, I Saw the TV Glow,
        and every movie new to
        streaming this week
-   4. Studio Ponoc’s The
-       Imaginary may be the
-       closest we get to a Calvin
-       and Hobbes movie
-   5. Forget House of the
-       Dragon, I am watching ant
-       wars on YouTube
 
 # HackerNews
-   1. Leveraging Zig's
-       Allocators
-   2. Threescaper: A
-       website for loading
-       Townscaper models into
-       Three.js
-   3. Address Sanitizer
-       Internals
-   4. Voyager 1 is back
-       online! NASA spacecraft
-       returns data from all 4
-       instruments
-   5. What About libjpeg
-       v9? (2013)
+   1. Show HN: We Made The
+       World's Smallest and
+       Cheapest Network Switch
+   2. What You Get After
+       Running an SSH Honeypot
+       for 30 Days
+   3. Just Enough Software
+       Architecture
+   4. VVVV – A hybrid
+       visual/textual development
+       environment for .NET
+   5. The Architecture
+       Behind a One-Person Tech
+       Startup (2021)
 
 # NL
-   1. And they say I don't
+   1. What if Slay the
+       Spire was a claw machine?
+       (Dungeon Clawler)
+   2. The floor spikes are
+       undefeated (Dark and
+       Darker)
+   3. It's Balatro
+       Blackjack (Dungeons and
+       Degenerate Gamblers)
+   4. Dreams do come true
+       (Balatro)
+   5. And they say I don't
        know ball (Miscellaneous)
-   2. Who up playing the
-       flute? (Dark and Darker)
-   3. He isn't a bug bro,
-       he's my friend (Lethal
-       Company)
-   4. Once again, they
-       said it couldn't be done
-       (Blue Prince)
-   5. The banana gods have
-       smiled upon us (Balatro)
 
 # Slovakia
-   1. The Čaputová era:
+   1. Slovak embassy
+       graffitied over vote on
+       Srebrenica genocide
+   2. President Čaputová:
+       We are either afraid or
+       we're free. Let's be free
+   3. President
+       Pellegrini: Slovak
+       interests matter to me
+       more than praise from
+       media and world leaders
+   4. The Čaputová era:
        Five years in pictures
-   2. News digest: Summer
+   5. News digest: Summer
        season officially starts,
        Bratislava opens its
        outdoor pools
-   3. After quietly
-       toasting Russia, Foreign
-       Minister Blanár heads to
-       Ukraine peace summit
-   4. President Čaputová:
-       Slovakia, may you have
-       more peaceful times, wise
-       leadership, and greater
-       humanity
-   5. Asylum law changes
-       herald reduced assistance
-       for Ukrainian refugees
 
 # Space
    1. Could nearby stars
