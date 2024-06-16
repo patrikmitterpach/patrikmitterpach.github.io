@@ -1,20 +1,13 @@
 -- Daily Times --
 Sunday, June 16
 
-	The single most
-     remarkable and defining
-     moment of the past 500 years
-     came at 05:29:45 on 16 July
-     1945. At that precise
-     second, American scientists
-     detonated the first atomic
-     bomb at Alamogordo, New
-     Mexico. From that point
-     onward, humankind had the
-     capability not only to
-     change the course of
-     history, but to end it.
-             ~ Yuval Noah Harari
+	“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
+                        ~ Seneca
 
 
 -- News --
@@ -29,11 +22,8 @@ Sunday, June 16
        last weekend with an old
        Canon F1 camera from the
        early 80's
-   4. [Autosport] Lewis
-       Hamilton’s only one top 5
-       finish in first 9 races is
-       his worst Season start
-       since 2009
+   4. [WEC] Winner of the
+       2024 24 Hours of Le Mans
    5. [Pawel Baran] Kacper
        Sztuka's adventure with
        the Red Bull's academy has
@@ -66,53 +56,54 @@ Sunday, June 16
        and Timed Research tasks
 
 # HackerNews
-   1. The Raspberry Pi 5
-       Is No Match for a
-       Tini-Mini-Micro PC
-   2. NLRB judge declares
-       non-compete clause is an
-       unfair labor practice
-   3. Sales Happen When
-       Buyers Fear Missing Out
-   4. Simple sabotage for
-       software (2023)
-   5. PaperTapeReader: A
-       DIY reader for vintage
-       8-bit paper tapes
+   1. MicroMac, a
+       Macintosh for Under £5
+   2. Experts vs.
+       Imitators
+   3. Quake 1 potential
+       original font
+   4. Building SimCity:
+       How to put the world in a
+       machine
+   5. Japanese Words and
+       Names Sound African. Why?
 
 # NL
-   1. What if Slay the
+   1. Has your jack ever
+       gone infinite? (Dice &
+       Fold)
+   2. I hope you're not
+       lactose intolerant
+       (Balatro)
+   3. What if Slay the
        Spire was a claw machine?
        (Dungeon Clawler)
-   2. The floor spikes are
+   4. The floor spikes are
        undefeated (Dark and
        Darker)
-   3. It's Balatro
+   5. It's Balatro
        Blackjack (Dungeons and
        Degenerate Gamblers)
-   4. Dreams do come true
-       (Balatro)
-   5. And they say I don't
-       know ball (Miscellaneous)
 
 # Slovakia
-   1. Slovak embassy
+   1. Last Week in
+       Slovakia: The new
+       president has outlined his
+       plans. Here’s what to
+       expect
+   2. Slovak embassy
        graffitied over vote on
        Srebrenica genocide
-   2. President Čaputová:
+   3. President Čaputová:
        We are either afraid or
        we're free. Let's be free
-   3. President
+   4. President
        Pellegrini: Slovak
        interests matter to me
        more than praise from
        media and world leaders
-   4. The Čaputová era:
+   5. The Čaputová era:
        Five years in pictures
-   5. News digest: Summer
-       season officially starts,
-       Bratislava opens its
-       outdoor pools
 
 # Space
    1. Who is Dr. Kovich in
