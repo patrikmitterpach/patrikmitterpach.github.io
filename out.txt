@@ -1,16 +1,20 @@
 -- Daily Times --
 Sunday, June 16
 
-	Near the end of March,
-     1845, I borrowed an axe and
-     went down to the woods by
-     Walden Pond, nearest to
-     where I intended to build my
-     house, and began to cut down
-     some tall, arrowy white
-     pines, still in their youth,
-     for timber.
-           ~ Henry David Thoreau
+	The single most
+     remarkable and defining
+     moment of the past 500 years
+     came at 05:29:45 on 16 July
+     1945. At that precise
+     second, American scientists
+     detonated the first atomic
+     bomb at Alamogordo, New
+     Mexico. From that point
+     onward, humankind had the
+     capability not only to
+     change the course of
+     history, but to end it.
+             ~ Yuval Noah Harari
 
 
 -- News --
@@ -18,55 +22,63 @@ Sunday, June 16
    1. Bottas secured his
        first gravel bike race win
        today.
-   2. [OT] Verstappen
-       reveals he's been
-       ‘contacted’ by teams over
-       an appearance at Le Mans
-   3. What generation car
-       does this showcar
-       resemble?
-   4. [OT] Alpine Double
+   2. [OT] Alpine Double
        Engine Failure at the 24H
        of Le Mans
-   5. [Autosport] Lewis
+   3. Some pictures I took
+       last weekend with an old
+       Canon F1 camera from the
+       early 80's
+   4. [Autosport] Lewis
        Hamilton’s only one top 5
        finish in first 9 races is
        his worst Season start
        since 2009
+   5. [Pawel Baran] Kacper
+       Sztuka's adventure with
+       the Red Bull's academy has
+       come to an end. Everyone
+       at Red Bull who directly
+       worked with the Polish
+       driver - including Rocky -
+       assessed the cooperation
+       very positively. Everyone,
+       except Helmut Marko, who
+       without any other
+       opinions, decided to end
+       it.
 
 # Gaming
-   1. Inside Out 2 ruins
+   1. Sports video games
+       made me understand
+       fanfiction
+   2. Inside Out 2 ruins
        one of Inside Out’s best
        gags — and it’s no big
        deal
-   2. The best sci-fi
+   3. The best sci-fi
        movies to watch on Netflix
        this June
-   3. The House of the
+   4. The House of the
        Dragon timeline so far
-   4. Pokémon Go
+   5. Pokémon Go
        ‘Spelunker’s Cove’ event
        and Timed Research tasks
-   5. Netflix’s Ultraman:
-       Rising, I Saw the TV Glow,
-       and every movie new to
-       streaming this week
 
 # HackerNews
-   1. Show HN: We Made The
-       World's Smallest and
-       Cheapest Network Switch
-   2. What You Get After
-       Running an SSH Honeypot
-       for 30 Days
-   3. Just Enough Software
-       Architecture
-   4. VVVV – A hybrid
-       visual/textual development
-       environment for .NET
-   5. The Architecture
-       Behind a One-Person Tech
-       Startup (2021)
+   1. The Raspberry Pi 5
+       Is No Match for a
+       Tini-Mini-Micro PC
+   2. NLRB judge declares
+       non-compete clause is an
+       unfair labor practice
+   3. Sales Happen When
+       Buyers Fear Missing Out
+   4. Simple sabotage for
+       software (2023)
+   5. PaperTapeReader: A
+       DIY reader for vintage
+       8-bit paper tapes
 
 # NL
    1. What if Slay the
@@ -103,22 +115,20 @@ Sunday, June 16
        outdoor pools
 
 # Space
-   1. Could nearby stars
+   1. Who is Dr. Kovich in
+       'Star Trek: Discovery'?
+       The mystery explained
+   2. 10 top tips for
+       planning your 2027 solar
+       eclipse trip
+   3. Where is the center
+       of the universe?
+   4. Could nearby stars
        have habitable exoplanets?
        NASA's Chandra X-ray
        Observatory hopes to find
        out
-   2. This Week In Space
+   5. This Week In Space
        podcast: Episode 115 —Our
        Friendly Mr. Sun
-   3. Space weather
-       forecasting needs an
-       upgrade to protect future
-       Artemis astronauts
-   4. How the world-famous
-       Griffith Observatory
-       became a huge Hollywood
-       star
-   5. How are galaxies
-       destroyed?
 
