@@ -1,72 +1,88 @@
 -- Daily Times --
-Sunday, June 16
+Monday, June 17
 
-	“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
-                        ~ Seneca
+	I see young men, my
+     townsmen, whose misfortune
+     it is to have inherited
+     farms, houses, barns,
+     cattle, and farming tools;
+     for these are more easily
+     acquired than got rid of.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. Bottas secured his
-       first gravel bike race win
-       today.
-   2. [OT] Alpine Double
-       Engine Failure at the 24H
-       of Le Mans
-   3. Some pictures I took
-       last weekend with an old
-       Canon F1 camera from the
-       early 80's
-   4. [WEC] Winner of the
-       2024 24 Hours of Le Mans
-   5. [Pawel Baran] Kacper
-       Sztuka's adventure with
-       the Red Bull's academy has
-       come to an end. Everyone
-       at Red Bull who directly
-       worked with the Polish
-       driver - including Rocky -
-       assessed the cooperation
-       very positively. Everyone,
-       except Helmut Marko, who
-       without any other
-       opinions, decided to end
-       it.
+   1. Carlos Sainz: "There
+       are 20 drivers in Formula
+       1 right now, next year
+       only 2 arrive, and the
+       other 18 will remain"
+   2. [Radio Monaco]
+       Charles Leclerc will be
+       the first torchbearer of
+       the Olympic flame. We are
+       still buzzing with his
+       historic victory at the
+       Grand-Prix of Monaco and
+       the driver of Formule1
+       will have the honor
+       tomorrow of carrying the
+       Olympic flame during its
+       visit to the Principality,
+       from 2:15 p.m.
+   3. [sport360f1] NONE of
+       the Ferrari-powered cars
+       scored points at the
+       Canadian GP
+   4. [Tobi Grüner ] With
+       next years F1 season
+       starting at Melbourne some
+       teams wanted to return to
+       Barcelona for winter
+       testing. But according to
+       our info a majority (7/10)
+       is still in favour of
+       Bahrain - despite higher
+       costs.
+   5. [@f1 on IG] The four
+       drivers on the grid that
+       have won their home race
 
 # Gaming
-   1. Sports video games
-       made me understand
-       fanfiction
-   2. Inside Out 2 ruins
-       one of Inside Out’s best
-       gags — and it’s no big
-       deal
-   3. The best sci-fi
-       movies to watch on Netflix
-       this June
-   4. The House of the
-       Dragon timeline so far
-   5. Pokémon Go
-       ‘Spelunker’s Cove’ event
-       and Timed Research tasks
+   1. Nintendo Direct
+       coming Tuesday — but won’t
+       include Switch successor
+   2. House of the Dragon
+       leaves no room for
+       theories — they’re all
+       doomed
+   3. House of the Dragon
+       season 2’s premiere lets
+       side characters take the
+       spotlight in a way the
+       book never could
+   4. All the House of the
+       Dragon houses and
+       characters you need to
+       know
+   5. All the dragons in
+       House of the Dragon
 
 # HackerNews
-   1. MicroMac, a
-       Macintosh for Under £5
-   2. Experts vs.
-       Imitators
-   3. Quake 1 potential
-       original font
-   4. Building SimCity:
-       How to put the world in a
-       machine
-   5. Japanese Words and
-       Names Sound African. Why?
+   1. Trading cards with
+       e-ink displays (2023)
+   2. Group of 17 London
+       secondary schools join up
+       to go smartphone-free
+   3. Crossing the
+       Impossible FFI Boundary,
+       and My Gradual Descent
+       into Madness
+   4. The Programmer's
+       Brain
+   5. MicroMac, a
+       Macintosh for under £5
 
 # NL
    1. Has your jack ever
@@ -86,40 +102,45 @@ Sunday, June 16
        Degenerate Gamblers)
 
 # Slovakia
-   1. Last Week in
-       Slovakia: The new
-       president has outlined his
-       plans. Here’s what to
-       expect
-   2. Slovak embassy
-       graffitied over vote on
-       Srebrenica genocide
-   3. President Čaputová:
-       We are either afraid or
-       we're free. Let's be free
-   4. President
-       Pellegrini: Slovak
-       interests matter to me
-       more than praise from
-       media and world leaders
-   5. The Čaputová era:
-       Five years in pictures
+   1. Facebook deletes
+       posts mentioning
+       initiatives helping
+       Ukraine
+   2. Toll sticker
+       scammers lure people to
+       support good cause
+   3. Aid to industry
+   4. The headhunting
+       market has grown
+       significantly. Who has
+       experienced the greatest
+       success?
+   5. Jobs that are in
+       great demand, and likely
+       to see salary increases
 
 # Space
-   1. Who is Dr. Kovich in
-       'Star Trek: Discovery'?
-       The mystery explained
-   2. 10 top tips for
-       planning your 2027 solar
-       eclipse trip
-   3. Where is the center
-       of the universe?
-   4. Could nearby stars
-       have habitable exoplanets?
-       NASA's Chandra X-ray
-       Observatory hopes to find
-       out
-   5. This Week In Space
-       podcast: Episode 115 —Our
-       Friendly Mr. Sun
+   1. International Space
+       Station: Live updates
+   2. The universe’s
+       biggest explosions made
+       some of the elements we
+       are composed of. But
+       there’s another mystery
+       source out there
+   3. NASA’s asteroid
+       sample mission gave
+       scientists around the
+       world the rare opportunity
+       to study an artificial
+       meteor
+   4. This long-studied
+       star is actually a stellar
+       duo: 'We were absolutely
+       stunned'
+   5. Something 'kicked'
+       this hypervelocity star
+       racing through the Milky
+       Way at 1.3 million miles
+       per hour (video)
 
