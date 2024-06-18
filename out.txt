@@ -1,134 +1,137 @@
 -- Daily Times --
-Monday, June 17
+Tuesday, June 18
 
-	Near the end of March,
-     1845, I borrowed an axe and
-     went down to the woods by
-     Walden Pond, nearest to
-     where I intended to build my
-     house, and began to cut down
-     some tall, arrowy white
-     pines, still in their youth,
-     for timber.
-           ~ Henry David Thoreau
+	It is above all things
+     necessary to form a true
+     estimate of oneself, because
+     as a rule we think that we
+     can do more than we are
+     able: one man is led too far
+     through confidence in his
+     eloquence, another demands
+     more from his estate than it
+     can produce, another burdens
+     a weakly body with some
+     toilsome duty.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Carlos Sainz: "There
-       are 20 drivers in Formula
-       1 right now, next year
-       only 2 arrive, and the
-       other 18 will remain"
-   2. [@f1 on IG] The four
+   1. [@f1 on IG] The four
        drivers on the grid that
        have won their home race
-   3. [sport360f1] NONE of
-       the Ferrari-powered cars
-       scored points at the
-       Canadian GP
-   4. [Radio Monaco]
-       Charles Leclerc will be
-       the first torchbearer of
-       the Olympic flame. We are
-       still buzzing with his
-       historic victory at the
-       Grand-Prix of Monaco and
-       the driver of Formule1
-       will have the honor
-       tomorrow of carrying the
-       Olympic flame during its
-       visit to the Principality,
-       from 2:15 p.m.
-   5. Alpine could abandon
+   2. Alpine could abandon
        Renault engines and become
        F1 customer team in 2026
+   3. [OT]Ferrari adds the
+       flag for the LeMans 24h
+       win on the factory
+       entrance
+   4. Fernando Alonso on
+       his definitive retirement
+       from the F1 World
+       Championship: "I know it's
+       coming soon"
+   5. Antonio Fuoco [Le
+       Mans 2024 winner] on
+       Charles Leclerc: “We spent
+       the last forty minutes
+       texting each other, he
+       kept asking me the
+       strategy, what was
+       happening. Charles and I
+       have a special
+       relationship, which goes
+       beyond motorsport. We have
+       the same past that binds
+       us, having both lost our
+       fathers"
 
 # Gaming
-   1. Gift ideas for the
-       Elden Ring fan in your
-       life
-   2. Scavengers Reign
-       still has so much more to
-       say
-   3. Habbo Hotel going
-       vintage with original game
-       rerelease
-   4. Orphan Black:
-       Echoes, Shoresy season 3,
-       and more new TV this week
-   5. What time does
-       Honkai: Star Rail version
-       2.3 release?
+   1. Can Roggenrola be
+       shiny in Pokémon Go?
+   2. All Feathers of
+       Light locations in Destiny
+       2: The Final Shape
+   3. You have 3 days left
+       to save on Shadow of the
+       Erdtree pre-orders
+   4. Want the best deals?
+       Subscribe to Polygon’s
+       Shopkeeper
+   5. Sim game Life By You
+       canceled after 3 early
+       access delays
 
 # HackerNews
-   1. FTC sues Adobe for
+   1. Chat Control:
+       Incompatible with
+       Fundamental Rights
+   2. Chat Control Must Be
+       Stopped – Now
+   3. Cyber Scarecrow,
+       making your computer look
+       'scary' to malware
+   4. TikTag: bypassing
+       ARM CPU MemTag via
+       speculative execution
+       attack
+   5. FTC sues Adobe for
        hiding fees and inhibiting
        cancellations
-   2. Making Serverless
-       Orchestration 25x Faster
-   3. Correlation Between
-       Fecal Microplastics and
-       Inflammatory Bowel Disease
-   4. What policy makers
-       need to know about AI (and
-       what goes wrong if they
-       don't)
-   5. Trading cards with
-       e-ink displays (2023)
 
 # NL
-   1. Has your jack ever
+   1. They said I couldn't
+       rap (Jackbox)
+   2. This game has the
+       sauce (Starvaders)
+   3. I said the word
+       wrong so you win
+       (Miscellaneous)
+   4. Has your jack ever
        gone infinite? (Dice &
        Fold)
-   2. I hope you're not
+   5. I hope you're not
        lactose intolerant
        (Balatro)
-   3. What if Slay the
-       Spire was a claw machine?
-       (Dungeon Clawler)
-   4. The floor spikes are
-       undefeated (Dark and
-       Darker)
-   5. It's Balatro
-       Blackjack (Dungeons and
-       Degenerate Gamblers)
 
 # Slovakia
-   1. Facebook deletes
+   1. Information security
+       strategy
+   2. News digest:
+       Slovakia with new
+       president
+   3. Facebook deletes
        posts mentioning
        initiatives helping
        Ukraine
-   2. Toll sticker
+   4. Toll sticker
        scammers lure people to
        support good cause
-   3. Aid to industry
-   4. The headhunting
-       market has grown
-       significantly. Who has
-       experienced the greatest
-       success?
-   5. Jobs that are in
-       great demand, and likely
-       to see salary increases
+   5. Aid to industry
 
 # Space
-   1. The unexpected
+   1. NASA and Boeing will
+       discuss Starliner's
+       delayed ISS departure
+       today, and you can listen
+       live
+   2. NASA's Perseverance
+       Mars rover enters new Red
+       Planet territory: 'Bright
+       Angel'
+   3. The unexpected
        behavior of pulsing stars
        could help us measure the
        universe
-   2. Join the FAA's
+   4. Join the FAA's
        virtual public meeting
        about SpaceX's Starship
        this evening
-   3. Shine on, Starliner!
+   5. Shine on, Starliner!
        Aurora glows green as
        astronauts test spacecraft
        ahead of return to Earth
        June 22 (image, video)
-   4. NASA moon orbiter
-       spots Chinese lander on
-       lunar far side (photo)
-   5. International Space
-       Station: Live updates
 
