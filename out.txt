@@ -1,137 +1,125 @@
 -- Daily Times --
 Tuesday, June 18
 
-	It is above all things
-     necessary to form a true
-     estimate of oneself, because
-     as a rule we think that we
-     can do more than we are
-     able: one man is led too far
-     through confidence in his
-     eloquence, another demands
-     more from his estate than it
-     can produce, another burdens
-     a weakly body with some
-     toilsome duty.
-                        ~ Seneca
+	Near the end of March,
+     1845, I borrowed an axe and
+     went down to the woods by
+     Walden Pond, nearest to
+     where I intended to build my
+     house, and began to cut down
+     some tall, arrowy white
+     pines, still in their youth,
+     for timber.
+           ~ Henry David Thoreau
 
 
 -- News --
 # Formula1
-   1. [@f1 on IG] The four
-       drivers on the grid that
-       have won their home race
-   2. Alpine could abandon
-       Renault engines and become
-       F1 customer team in 2026
-   3. [OT]Ferrari adds the
-       flag for the LeMans 24h
-       win on the factory
-       entrance
+   1. Driver age at 60th
+       win
+   2. Charles carrying the
+       Olympic torch in Monaco
+       today
+   3. [El Hormiguero]
+       Sainz: All the teams that
+       haven’t signed their
+       drivers for next year have
+       me on their list and have
+       offered me a contract.
    4. Fernando Alonso on
        his definitive retirement
        from the F1 World
        Championship: "I know it's
        coming soon"
-   5. Antonio Fuoco [Le
-       Mans 2024 winner] on
-       Charles Leclerc: “We spent
-       the last forty minutes
-       texting each other, he
-       kept asking me the
-       strategy, what was
-       happening. Charles and I
-       have a special
-       relationship, which goes
-       beyond motorsport. We have
-       the same past that binds
-       us, having both lost our
-       fathers"
+   5. Hamilton and Alonso
+       competed against each
+       other in 300 F1 races. No
+       other two drivers faced
+       each other more times in
+       F1 history
 
 # Gaming
-   1. Can Roggenrola be
-       shiny in Pokémon Go?
-   2. All Feathers of
-       Light locations in Destiny
-       2: The Final Shape
-   3. You have 3 days left
-       to save on Shadow of the
-       Erdtree pre-orders
-   4. Want the best deals?
-       Subscribe to Polygon’s
-       Shopkeeper
-   5. Sim game Life By You
-       canceled after 3 early
-       access delays
+   1. Smile 2 is making
+       good on the original’s
+       viral marketing gimmick
+   2. Get 8 LGBTQ stories
+       for just $18 with this
+       pride-themed Humble Bundle
+   3. More than 10 years
+       later, Nintendo is
+       righting its Zelda and
+       Peach crimes
+   4. Get a free week of
+       Max to watch the premiere
+       of House of Dragons
+   5. Valheim: The Board
+       Game boils your server
+       down to a 2-hour play
+       session
 
 # HackerNews
-   1. Chat Control:
-       Incompatible with
-       Fundamental Rights
-   2. Chat Control Must Be
-       Stopped – Now
-   3. Cyber Scarecrow,
-       making your computer look
-       'scary' to malware
-   4. TikTag: bypassing
-       ARM CPU MemTag via
-       speculative execution
-       attack
-   5. FTC sues Adobe for
-       hiding fees and inhibiting
-       cancellations
+   1. Show HN: Billard –
+       Generate music from ball
+       collisions in 2D space
+   2. 3D Gaussian
+       Splatting as Markov Chain
+       Monte Carlo
+   3. Sharing new
+       research, models, and
+       datasets from Meta FAIR
+   4. Sculpting the moon
+       in R: Subdivision surfaces
+       and displacement mapping
+   5. Enhancing Code
+       Completion for Rust in
+       Cody
 
 # NL
-   1. They said I couldn't
+   1. The demo of the
+       year? (Starvaders)
+   2. How about you hit
+       the road, bub (Balatro)
+   3. They said I couldn't
        rap (Jackbox)
-   2. This game has the
+   4. This game has the
        sauce (Starvaders)
-   3. I said the word
+   5. I said the word
        wrong so you win
        (Miscellaneous)
-   4. Has your jack ever
-       gone infinite? (Dice &
-       Fold)
-   5. I hope you're not
-       lactose intolerant
-       (Balatro)
 
 # Slovakia
-   1. Information security
+   1. Many love this
+       mountain chalet, but few
+       know about its underground
+       attraction
+   2. Politico: Slovakia’s
+       ‘smiling racist’ among the
+       weirdest MEPs
+   3. Pellegrini reveals
+       Slovakia’s demands in
+       post-European elections
+       negotiations
+   4. Playing boules by
+       the Danube
+   5. Information security
        strategy
-   2. News digest:
-       Slovakia with new
-       president
-   3. Facebook deletes
-       posts mentioning
-       initiatives helping
-       Ukraine
-   4. Toll sticker
-       scammers lure people to
-       support good cause
-   5. Aid to industry
 
 # Space
-   1. NASA and Boeing will
-       discuss Starliner's
-       delayed ISS departure
-       today, and you can listen
-       live
-   2. NASA's Perseverance
-       Mars rover enters new Red
-       Planet territory: 'Bright
-       Angel'
-   3. The unexpected
-       behavior of pulsing stars
-       could help us measure the
-       universe
-   4. Join the FAA's
-       virtual public meeting
-       about SpaceX's Starship
-       this evening
-   5. Shine on, Starliner!
-       Aurora glows green as
-       astronauts test spacecraft
-       ahead of return to Earth
-       June 22 (image, video)
+   1. NASA reschedules ISS
+       spacewalk after astronaut
+       experiences 'spacesuit
+       discomfort'
+   2. NASA, Boeing delay
+       Starliner astronaut
+       landing to June 26 amid
+       thruster issues
+   3. SpaceX launching
+       European TV satellite
+       today on 1st leg of
+       doubleheader
+   4. Lego Art The Milky
+       Way Galaxy review
+   5. Doctor Who 'The
+       Legend of Ruby Sunday':
+       Who is Susan Triad?
 
