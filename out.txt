@@ -1,22 +1,12 @@
 -- Daily Times --
 Wednesday, June 19
 
-	Let us now pass on to
-     the consideration of
-     property, that most fertile
-     source of human sorrows: for
-     if you compare all the other
-     ills from which we
-     suffer—deaths, sicknesses,
-     fears, regrets, endurance of
-     pains and labours—with those
-     miseries which our money
-     inflicts upon us, the latter
-     will far outweigh all the
-     others. Reflect, then, how
-     much less a grief it is
-     never to have had any money
-     than to have lost it.
+	The gods have not
+     thought you worthy of ill
+     fortune, but have thought
+     that fortune no longer
+     deserved to have any power
+     over you”
                         ~ Seneca
 
 
@@ -36,9 +26,7 @@ Wednesday, June 19
        come into effect. However,
        Verstappen doesn't think
        it's enough
-   3. F1 wins since Spain
-       2016
-   4. [Tobi Grüner] We
+   3. [Tobi Grüner] We
        hear RB will bring the
        biggest upgrade of the
        season to Barcelona: new
@@ -46,6 +34,8 @@ Wednesday, June 19
        sidepods, new rear wing.
        Will it be enough to close
        the gap to Aston Martin?
+   4. F1 wins since Spain
+       2016
    5. [OT][Adam Stern]
        Toyota shareholders
        "accused Chairman Akio
@@ -57,90 +47,89 @@ Wednesday, June 19
        board.".
 
 # Gaming
-   1. The Boys songwriter
+   1. Justice for
+       Kelnacca, The Acolyte’s
+       real hero
+   2. How Disney’s new
+       Princess and the Frog ride
+       connects to the upcoming
+       Tiana TV series
+   3. The Boys songwriter
        behind Vought on Ice did
        the excruciating homework
-   2. Is Star Wars: The
+   4. Is Star Wars: The
        Acolyte just an elaborate
        Force choke origin story?
-   3. How to beat Mohg,
+   5. How to beat Mohg,
        Lord of Blood in Elden
        Ring
-   4. Inside Out 2’s Lance
-       Slashblade was inspired by
-       a real-life secret video
-       game crush
-   5. There’s a... phantom
-       menace... lurking in this
-       week’s Acolyte
 
 # HackerNews
-   1. Recovering an
-       Agilent 2000A/3000A
-       Oscilloscope with Corrupt
-       Firmware NAND Flash
-   2. Astronomers see a
-       black hole awaken in real
-       time
-   3. There's more to
-       mathematics than rigour
-       and proofs (2007)
-   4. Unraveling the
-       Physics of Knitting
-   5. KidPix
+   1. 1/25-scale Cray C90
+       wristwatch
+   2. The demise of the
+       mildly dynamic website
+       (2022)
+   3. Safe
+       Superintelligence Inc.
+   4. F (2006)
+   5. Brain circuit scores
+       identify clinically
+       distinct biotypes in
+       depression/anxiety
 
 # NL
-   1. They don't make
+   1. You've never seen a
+       line like this before
+       (Miscellaneous)
+   2. I know you were
+       waiting for this one (The
+       Game of Sisyphus)
+   3. They don't make
        better jokers than this
        (Balatro)
-   2. They tried to trick
+   4. They tried to trick
        a bio major
        (Miscellaneous)
-   3. The demo of the
+   5. The demo of the
        year? (Starvaders)
-   4. How about you hit
-       the road, bub (Balatro)
-   5. They said I couldn't
-       rap (Jackbox)
 
 # Slovakia
-   1. Law change will give
+   1. News digest: Trust
+       in media among Slovaks is
+       at a record low, report
+       suggests
+   2. Law change will give
        health minister direct
        power over another
        independent agency
-   2. Drone-making plant
+   3. Drone-making plant
        near Prešov plans to grow
        from 26 employees to 200
-   3. Japanese chef: I
+   4. Japanese chef: I
        cannot prepare poisonous
        fish in Slovakia
-   4. History Talks:
+   5. History Talks:
        Picturesque view on St.
        Martin's Cathedral
-   5. News digest:
-       Warnings issued as
-       heatwave toasts parts of
-       Slovakia
 
 # Space
-   1. June solstice 2024
+   1. Best sci-fi TV shows
+       with 90%+ on Rotten
+       Tomatoes
+   2. The speed of sound
+       on Mars is constantly
+       changing, study finds
+   3. June solstice 2024
        brings changing seasons to
        Earth on June 20 — What to
        know
-   2. The 1st 'major lunar
+   4. The 1st 'major lunar
        standstill' in more than
        18 years is about to
        occur. Here's how to see
        it
-   3. A massive black hole
+   5. A massive black hole
        may be 'waking up' in a
        nearby galaxy
-   4. 'ESA Space Bricks'
-       landing at Lego Stores
-       could help build real
-       Artemis moon base
-   5. GOES-U satellite
-       launch this month will
-       bring a solar activity
-       monitor to space
 
