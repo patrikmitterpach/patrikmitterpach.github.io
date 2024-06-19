@@ -1,22 +1,21 @@
 -- Daily Times --
-Wednesday, June 19
+Thursday, June 20
 
-	The gods have not
-     thought you worthy of ill
-     fortune, but have thought
-     that fortune no longer
-     deserved to have any power
-     over you”
+	While all excesses are
+     hurtful, excess of comfort
+     is the most hurtful of all;
+     it affects the brain; it
+     leads men’s minds into vain
+     imaginings; it spreads a
+     thick cloud over the
+     boundaries of truth and
+     falsehood.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-   1. [OT] Pourchaire's
-       now deleted tweet a day
-       before the McLaren's drop
-       announcement
-   2. [Autosport] Max
+    1. [Autosport] Max
        Verstappen believes the
        proposed reduction in
        weight for F1 cars by 30kg
@@ -26,7 +25,7 @@ Wednesday, June 19
        come into effect. However,
        Verstappen doesn't think
        it's enough
-   3. [Tobi Grüner] We
+    2. [Tobi Grüner] We
        hear RB will bring the
        biggest upgrade of the
        season to Barcelona: new
@@ -34,9 +33,9 @@ Wednesday, June 19
        sidepods, new rear wing.
        Will it be enough to close
        the gap to Aston Martin?
-   4. F1 wins since Spain
+    3. F1 wins since Spain
        2016
-   5. [OT][Adam Stern]
+    4. [OT][Adam Stern]
        Toyota shareholders
        "accused Chairman Akio
        Toyoda of spending too
@@ -45,91 +44,101 @@ Wednesday, June 19
        but still reappointed
        Toyoda and the company's
        board.".
+    5. [ErikvHaren] Aston
+       Martin still hopes for the
+       signature of top designer
+       Adrian Newey. According to
+       multiple sources, Briton
+       (65) recently received a
+       tour of the F1 team's
+       factory in Silverstone.
 
 # Gaming
-   1. Justice for
+    1. Justice for
        Kelnacca, The Acolyte’s
        real hero
-   2. How Disney’s new
+    2. How Disney’s new
        Princess and the Frog ride
        connects to the upcoming
        Tiana TV series
-   3. The Boys songwriter
+    3. The Boys songwriter
        behind Vought on Ice did
        the excruciating homework
-   4. Is Star Wars: The
+    4. Is Star Wars: The
        Acolyte just an elaborate
        Force choke origin story?
-   5. How to beat Mohg,
+    5. How to beat Mohg,
        Lord of Blood in Elden
        Ring
 
 # HackerNews
-   1. 1/25-scale Cray C90
+    1. 1/25-scale Cray C90
        wristwatch
-   2. The demise of the
-       mildly dynamic website
-       (2022)
-   3. Safe
-       Superintelligence Inc.
-   4. F (2006)
-   5. Brain circuit scores
-       identify clinically
-       distinct biotypes in
-       depression/anxiety
+    2. The the the the
+       induction of jamais vu:
+       word alienation and
+       semantic satiation
+    3. EasyOS: An
+       Experimental Linux
+       Distribution
+    4. X debut 40 years ago
+       (1984)
+    5. What happens to our
+       breath when we type, tap,
+       scroll
 
 # NL
-   1. You've never seen a
+    1. The swiftest joke
+       boat in history (Jackbox)
+    2. You've never seen a
        line like this before
        (Miscellaneous)
-   2. I know you were
+    3. I know you were
        waiting for this one (The
        Game of Sisyphus)
-   3. They don't make
+    4. They don't make
        better jokers than this
        (Balatro)
-   4. They tried to trick
+    5. They tried to trick
        a bio major
        (Miscellaneous)
-   5. The demo of the
-       year? (Starvaders)
 
 # Slovakia
-   1. News digest: Trust
+    1. News digest: Trust
        in media among Slovaks is
        at a record low, report
        suggests
-   2. Law change will give
+    2. Law change will give
        health minister direct
        power over another
        independent agency
-   3. Drone-making plant
+    3. Drone-making plant
        near Prešov plans to grow
        from 26 employees to 200
-   4. Japanese chef: I
+    4. Japanese chef: I
        cannot prepare poisonous
        fish in Slovakia
-   5. History Talks:
+    5. History Talks:
        Picturesque view on St.
        Martin's Cathedral
 
 # Space
-   1. Best sci-fi TV shows
+    1. Best sci-fi TV shows
        with 90%+ on Rotten
        Tomatoes
-   2. The speed of sound
+    2. The speed of sound
        on Mars is constantly
        changing, study finds
-   3. June solstice 2024
+    3. June solstice 2024
        brings changing seasons to
        Earth on June 20 — What to
        know
-   4. The 1st 'major lunar
+    4. The 1st 'major lunar
        standstill' in more than
        18 years is about to
        occur. Here's how to see
        it
-   5. A massive black hole
+    5. A massive black hole
        may be 'waking up' in a
        nearby galaxy
 
