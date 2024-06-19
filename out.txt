@@ -1,125 +1,146 @@
 -- Daily Times --
-Tuesday, June 18
+Wednesday, June 19
 
-	Near the end of March,
-     1845, I borrowed an axe and
-     went down to the woods by
-     Walden Pond, nearest to
-     where I intended to build my
-     house, and began to cut down
-     some tall, arrowy white
-     pines, still in their youth,
-     for timber.
-           ~ Henry David Thoreau
+	Let us now pass on to
+     the consideration of
+     property, that most fertile
+     source of human sorrows: for
+     if you compare all the other
+     ills from which we
+     suffer—deaths, sicknesses,
+     fears, regrets, endurance of
+     pains and labours—with those
+     miseries which our money
+     inflicts upon us, the latter
+     will far outweigh all the
+     others. Reflect, then, how
+     much less a grief it is
+     never to have had any money
+     than to have lost it.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
-   1. Driver age at 60th
-       win
-   2. Charles carrying the
-       Olympic torch in Monaco
-       today
-   3. [El Hormiguero]
-       Sainz: All the teams that
-       haven’t signed their
-       drivers for next year have
-       me on their list and have
-       offered me a contract.
-   4. Fernando Alonso on
-       his definitive retirement
-       from the F1 World
-       Championship: "I know it's
-       coming soon"
-   5. Hamilton and Alonso
-       competed against each
-       other in 300 F1 races. No
-       other two drivers faced
-       each other more times in
-       F1 history
+   1. [OT] Pourchaire's
+       now deleted tweet a day
+       before the McLaren's drop
+       announcement
+   2. [Autosport] Max
+       Verstappen believes the
+       proposed reduction in
+       weight for F1 cars by 30kg
+       in 2026 should be "at
+       least 100-150kg". A 30kg
+       drop in weight is set to
+       come into effect. However,
+       Verstappen doesn't think
+       it's enough
+   3. F1 wins since Spain
+       2016
+   4. [Tobi Grüner] We
+       hear RB will bring the
+       biggest upgrade of the
+       season to Barcelona: new
+       bodywork, new floor, new
+       sidepods, new rear wing.
+       Will it be enough to close
+       the gap to Aston Martin?
+   5. [OT][Adam Stern]
+       Toyota shareholders
+       "accused Chairman Akio
+       Toyoda of spending too
+       much time on motorsports
+       as his personal 'hobby,'
+       but still reappointed
+       Toyoda and the company's
+       board.".
 
 # Gaming
-   1. Smile 2 is making
-       good on the original’s
-       viral marketing gimmick
-   2. Get 8 LGBTQ stories
-       for just $18 with this
-       pride-themed Humble Bundle
-   3. More than 10 years
-       later, Nintendo is
-       righting its Zelda and
-       Peach crimes
-   4. Get a free week of
-       Max to watch the premiere
-       of House of Dragons
-   5. Valheim: The Board
-       Game boils your server
-       down to a 2-hour play
-       session
+   1. The Boys songwriter
+       behind Vought on Ice did
+       the excruciating homework
+   2. Is Star Wars: The
+       Acolyte just an elaborate
+       Force choke origin story?
+   3. How to beat Mohg,
+       Lord of Blood in Elden
+       Ring
+   4. Inside Out 2’s Lance
+       Slashblade was inspired by
+       a real-life secret video
+       game crush
+   5. There’s a... phantom
+       menace... lurking in this
+       week’s Acolyte
 
 # HackerNews
-   1. Show HN: Billard –
-       Generate music from ball
-       collisions in 2D space
-   2. 3D Gaussian
-       Splatting as Markov Chain
-       Monte Carlo
-   3. Sharing new
-       research, models, and
-       datasets from Meta FAIR
-   4. Sculpting the moon
-       in R: Subdivision surfaces
-       and displacement mapping
-   5. Enhancing Code
-       Completion for Rust in
-       Cody
+   1. Recovering an
+       Agilent 2000A/3000A
+       Oscilloscope with Corrupt
+       Firmware NAND Flash
+   2. Astronomers see a
+       black hole awaken in real
+       time
+   3. There's more to
+       mathematics than rigour
+       and proofs (2007)
+   4. Unraveling the
+       Physics of Knitting
+   5. KidPix
 
 # NL
-   1. The demo of the
-       year? (Starvaders)
-   2. How about you hit
-       the road, bub (Balatro)
-   3. They said I couldn't
-       rap (Jackbox)
-   4. This game has the
-       sauce (Starvaders)
-   5. I said the word
-       wrong so you win
+   1. They don't make
+       better jokers than this
+       (Balatro)
+   2. They tried to trick
+       a bio major
        (Miscellaneous)
+   3. The demo of the
+       year? (Starvaders)
+   4. How about you hit
+       the road, bub (Balatro)
+   5. They said I couldn't
+       rap (Jackbox)
 
 # Slovakia
-   1. Many love this
-       mountain chalet, but few
-       know about its underground
-       attraction
-   2. Politico: Slovakia’s
-       ‘smiling racist’ among the
-       weirdest MEPs
-   3. Pellegrini reveals
-       Slovakia’s demands in
-       post-European elections
-       negotiations
-   4. Playing boules by
-       the Danube
-   5. Information security
-       strategy
+   1. Law change will give
+       health minister direct
+       power over another
+       independent agency
+   2. Drone-making plant
+       near Prešov plans to grow
+       from 26 employees to 200
+   3. Japanese chef: I
+       cannot prepare poisonous
+       fish in Slovakia
+   4. History Talks:
+       Picturesque view on St.
+       Martin's Cathedral
+   5. News digest:
+       Warnings issued as
+       heatwave toasts parts of
+       Slovakia
 
 # Space
-   1. NASA reschedules ISS
-       spacewalk after astronaut
-       experiences 'spacesuit
-       discomfort'
-   2. NASA, Boeing delay
-       Starliner astronaut
-       landing to June 26 amid
-       thruster issues
-   3. SpaceX launching
-       European TV satellite
-       today on 1st leg of
-       doubleheader
-   4. Lego Art The Milky
-       Way Galaxy review
-   5. Doctor Who 'The
-       Legend of Ruby Sunday':
-       Who is Susan Triad?
+   1. June solstice 2024
+       brings changing seasons to
+       Earth on June 20 — What to
+       know
+   2. The 1st 'major lunar
+       standstill' in more than
+       18 years is about to
+       occur. Here's how to see
+       it
+   3. A massive black hole
+       may be 'waking up' in a
+       nearby galaxy
+   4. 'ESA Space Bricks'
+       landing at Lego Stores
+       could help build real
+       Artemis moon base
+   5. GOES-U satellite
+       launch this month will
+       bring a solar activity
+       monitor to space
 
