@@ -1,15 +1,19 @@
 -- Daily Times --
 Sunday, August 11
 
-Yet who would say that
-     nature has dealt grudgingly
-     with the minds of women, and
-     stunted their virtues?
-     Believe me, they have the
-     same intellectual power as
-     men, and the same capacity
-     for honourable and generous
-     action.
+We ought to withdraw
+     ourselves from the forum and
+     from public life, and a
+     great mind even in a private
+     station can find room
+     wherein to expand freely.
+     Confinement in dens
+     restrains the springs of
+     lions and wild creatures,
+     but this does not apply to
+     human beings, who often
+     effect the most important
+     works in retirement.
                         ~ Seneca
 
 
@@ -20,17 +24,17 @@ Yet who would say that
        GP victory. First broken
        bone. Rib’s enjoying the
        break
-    2. Heard it was on display
-       for only another hour.
-       Went to American Honda HQ
-       as quickly as I could so
-       my tiny Honda RA272 could
-       meet the OG RA272.
-    3. Ricciardo vs Tsunoda
-    4. Piastri reveals he won
+    2. I really hope the F1
+       broadcast team takes a cue
+       from the upcoming movie,
+       and starts using more wide
+       angle on-board cameras. It
+       looks amazing!
+    3. Piastri reveals he won
        Hungarian Grand Prix with
        fractured rib |
        Racefans.net
+    4. Ricciardo vs Tsunoda
     5. Sebastian Vettel in 2011
        [@F1BigData on X]
     6. Was walking through the
@@ -39,110 +43,115 @@ Yet who would say that
        Hamilton's F1 W12
     7. Today Imola circuit is
        opened to all cyclists!
-    8. [@jeanericvergne on IG]
-       Teach them young
-       @maxverstappen1
+    8. Timeline of World
+       Champions
     9. The Benchmark: Nicholas
        Latifi
-    10. Timeline of World
-       Champions
+    10. Red Bull estimates F1
+       difference between Perez
+       and Verstappen |
+       Motorsportweek.com
 
 # Gaming
-    1. Polygon’s favorite
+    1. Lorelei and the Laser
+       Eyes’ Daniel Olsén
+       channeled Twin Peaks’
+       moody music
+    2. Polygon’s favorite
        audiobooks
-    2. Elden Ring composer Yuka
+    3. Elden Ring composer Yuka
        Kitamura used Zelda songs
        to motivate her piano
        practice
-    3. The Witcher 4: Everything
+    4. The Witcher 4: Everything
        we know about CD Projekt
        Red’s new Witcher saga
-    4. A Short Hike’s composer
+    5. A Short Hike’s composer
        might never have gotten
        into games if not for The
        Binding of Isaac
-    5. Disney is for real doing a
+    6. Disney is for real doing a
        Villains Landa
-    6. Robert Downey Jr. returns
+    7. Robert Downey Jr. returns
        as Iron Man — for a giant
        expansion to Disney’s
        Avengers land
-    7. Every game soundtrack is a
+    8. Every game soundtrack is a
        ‘try and fail’ journey for
        Payday’s Simon Viklund
-    8. Jesper Kyd composed
+    9. Jesper Kyd composed
        Assassin’s Creed
        Valhalla’s soundtrack
        using 100-year-old
        instruments
-    9. Ryan Reynolds had very
+    10. Ryan Reynolds had very
        specific tech (and humor)
        requirements for
        Wolverine’s corpse
-    10. When does video game music
-       get too repetitive?
 
 # HackerNews
     1. Verso – web browser built
        on top of the Servo web
        engine
-    2. Firefox Browser Ported to
+    2. Server Mono: A Typeface
+       Inspired by Typewriters,
+       Apple's SF Mono, and CLIs
+    3. Firefox Browser Ported to
        HaikuOS
-    3. Things I've learned
+    4. Show HN: My 70 year old
+       grandma is learning to
+       code and made a word game
+    5. Things I've learned
        building a modern TUI
        Framework
-    4. OpenDevin: An Open
+    6. Segment Anything Model and
+       Friends
+    7. CrowdStrike accepting the
+       PwnieAwards for "most epic
+       fail" at defcon
+    8. OpenDevin: An Open
        Platform for AI Software
        Developers as Generalist
        Agents
-    5. Building data
-       infrastructure that will
-       last
-    6. Show HN: Rust GUI Library
-       via Flutter
-    7. Limits to running speed in
-       dogs, horses and human
-    8. I Created 175 Fonts Using
-       Rust
-    9. CrowdStrike accepting the
-       PwnieAwards for "most epic
-       fail" at defcon
-    10. A high energy hadron
-       collider on the Moon
+    9. Finite State Machine
+       Designer
+    10. Introduction to Golang
+       Preemption Mechanisms
 
 # NL
-    1. They don't make boss
+    1. They made Balatro
+       Blackjack and it is GOOD
+       (Dungeons and Degenerate
+       Gamblers)
+    2. They don't make boss
        fights like this anymore
        (Nintendo World
        Championships: NES
        Edition)
-    2. He doesn't know shapes
+    3. He doesn't know shapes
        (Miscellaneous)
-    3. An elegant walk (Slay the
+    4. An elegant walk (Slay the
        Spire)
-    4. Sorry the video is so
+    5. Sorry the video is so
        long, I'm bad at Kirby
        (Nintendo World
        Championships: NES
        Edition)
-    5. I told no lies
+    6. I told no lies
        (Miscellaneous)
-    6. Is this the smoothest line
+    7. Is this the smoothest line
        in history? (Slay the
        Spire)
-    7. Sometimes you need the
+    8. Sometimes you need the
        Type As (Nintendo World
        Championships: NES
        Edition)
-    8. How could I do this to me
+    9. How could I do this to me
        (Slay the Spire)
-    9. Look who decided to leave
+    10. Look who decided to leave
        their cave (Nintendo World
        Championships: NES
        Edition)
-    10. Most underrated card in
-       Slay the Spire history
-       (Slay the Spire)
 
 # Slovakia
     1. Bratislava’s exquisite
