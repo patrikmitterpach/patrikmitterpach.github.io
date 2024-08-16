@@ -1,30 +1,17 @@
 -- Daily Times --
 Friday, August 16
 
-“I must not fear. Fear is
-     the mind-killer. Fear is the
-     little-death that brings
-     total obliteration. I will
-     face my fear. I will permit
-     it to pass over me and
-     through me. And when it has
-     gone past I will turn the
-     inner eye to see its path.
-     Where the fear has gone
-     there will be nothing. Only
-     I will remain.”
-                 ~ Frank Herbert
+It is the privilege of a
+     tranquil and peaceful mind
+     to review all the parts of
+     its life.
+                        ~ Seneca
 
 
 -- News --
 # Formula1
     1. Max's sim set up at home
-    2. In case you were not
-       aware, there's another 1
-       month break incoming after
-       Singapore.
-    3. Laps Led In 2024
-    4. [Peter Windsor] Looks as
+    2. [Peter Windsor] Looks as
        though RBR might have been
        running a clever rear
        cross-brake inertia valve
@@ -34,6 +21,23 @@ Friday, August 16
        RR brake drama in MEL and
        his turn-in grief since
        China.
+    3. Max on his 2015
+       Blanchimont overtake: We
+       tried it on the sim. When
+       I went for the move in
+       real life, the car was
+       moving around more. Helmut
+       told me, "never do that
+       again". I was like, "I
+       passed him". Now I
+       understand why. I was 17
+       still, and I was like, "I
+       go for it". Probably I
+       wouldn't do it now.
+    4. Hockenheimring to receive
+       250 million Euros for
+       renovations & new
+       buildings
     5. Danny Ric all smiles on
        summer break
     6. [Craig Scarborough] This
@@ -48,161 +52,147 @@ Friday, August 16
        could do this. Altering
        the effort between the
        calipers as the car turns
-    7. Hockenheimring to receive
-       250 million Euros for
-       renovations & new
-       buildings
-    8. Max on his 2015
-       Blanchimont overtake: We
-       tried it on the sim. When
-       I went for the move in
-       real life, the car was
-       moving around more. Helmut
-       told me, "never do that
-       again". I was like, "I
-       passed him". Now I
-       understand why. I was 17
-       still, and I was like, "I
-       go for it". Probably I
-       wouldn't do it now.
-    9. I am sure these 2 had gone
+    7. [@ScuderiaFerrari]
+       Michael, Unseen.
+    8. I am sure these 2 had gone
        on to have many more title
        battles…
-    10. K-Mag's making moves. The
-       drivers with the most
-       positions gained in Grands
-       Prix across 2024
+    9. Oscar Piastri admits to
+       ‘moments of rage’
+    10. Christian Horner and Toto
+       Wolff challenged by Zak
+       Brown to F1 team boss race
 
 # Gaming
 
 # HackerNews
-    1. JPlag – Detecting Software
-       Plagiarism
-    2. Crafting a 13KB Game: The
+    1. A Texas "Moth Man"
+       Photographed 550 Species
+       in His Own Yard
+    2. The Apple IIGS Megahertz
+       Myth – Userlandia
+    3. Discrete Mathematics – An
+       Open Introduction 4ed (By
+       Oscar Levin)
+    4. Does Reasoning Emerge?
+       Probabilities of Causation
+       in Large Language Models
+    5. Good programmers worry
+       about data structures and
+       their relationships
+    6. Can Large Language Models
+       Understand Symbolic
+       Graphics Programs?
+    7. Crafting a 13KB Game: The
        Story of Space Huggers
-    3. Cleed – simple feed reader
-       for the command line
-    4. PyScript: An open source
-       platform for Python in the
-       browser
-    5. Show HN: Wikipedia Browser
-       a La Andy Matuschak's
-       Evergreen Notes
-    6. Supporting game design
-       with evolutionary
-       algorithms
-    7. Reversing the AMD Secure
-       Processor (PSP) – Part 2:
-       Cryptographic Co-Processor
-    8. From Bede (731) to BONE
-       (1991-2004): A sparrow's
-       flight through the ages
-    9. Show HN: I made an
-       open-source personal
-       dashboard builder
-    10. Automating My /Now Page
+    8. Banks Are Now Accused of
+       Cheating Customers
+       Billions
+    9. Aviator (YC S21) Is Hiring
+       Engineers to Build DevEx
+       Platform
+    10. FUTO
 
 # NL
-    1. Take me back, man
+    1. Double my damage and give
+       it to the next guy (Slay
+       the Spire)
+    2. Consider that body
+       reinforced (Slay the
+       Spire)
+    3. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    2. The ID is giving us good
+    4. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    3. I've got the powers (Slay
+    5. I've got the powers (Slay
        the Spire)
-    4. My insane pace (Nintendo
+    6. My insane pace (Nintendo
        World Championships: NES
        Edition)
-    5. I'm Chorba Frick!!!
+    7. I'm Chorba Frick!!!
        (Miscellaneous)
-    6. What the heck do I do with
+    8. What the heck do I do with
        this (Slay the Spire)
-    7. Insane that the first
+    9. Insane that the first
        videogame ever is this
        good (Nintendo World
        Championships: NES
        Edition)
-    8. Only the last HP matters
+    10. Only the last HP matters
        (Slay the Spire)
-    9. This Prince of Persia
-       metroidvania blew me away
-       (Prince Of Persia: The
-       Lost Crown #ad)
-    10. In the caves straight
-       smacking it (Nintendo
-       World Championships: NES
-       Edition)
 
 # Slovakia
-    1. A hostile state receives a
+    1. News digest: Dua Lipa has
+       Radical Optimism, Martina
+       Šimkovičová has Radical
+       Reads
+    2. A hostile state receives a
        controversially warm
        welcome
-    2. Weekend: Vietnamese
+    3. Weekend: Vietnamese
        community sharing its
        culture
-    3. Slovakia's national dish
+    4. Slovakia's national dish
        briefly goes global,
        thanks to an influencer –
        and the Olympics
-    4. ‘ChatGPT’s arrival changed
+    5. ‘ChatGPT’s arrival changed
        clients’ mindsets’
-    5. Step back in time at
+    6. Step back in time at
        Slanec Castle—just a
        half-hour from Košice
-    6. News digest: Culture
+    7. News digest: Culture
        minister fabricates claims
        to discredit NGO
-    7. Completion of the
+    8. Completion of the
        Bratislava-Košice highway
        is one step closer, but
        don’t celebrate just yet
-    8. Czech maestro quits Košice
+    9. Czech maestro quits Košice
        Philharmonic after
        criticising culture
        minister
-    9. A 2,000-kilometre land
+    10. A 2,000-kilometre land
        journey from Ireland to
        Slovakia that opened my
        eyes
-    10. Top 10 events in
-       Bratislava for foreigners
 
 # Space
-    1. Watch live as SpaceX
+    1. Angel City Brewery
+       releases Weyland-Yutani's
+       Aspen Beer from 1979's
+       'Alien'
+    2. Astronomers find black
+       hole's favorite snack:
+       'The star appears to be
+       living to die another day'
+    3. Dark Energy Camera's new
+       galactic portrait delves
+       into dark-matter central
+    4. Astrophotographers capture
+       rare Jupiter and Mars
+       encounter (photos)
+    5. Watch live as SpaceX
        Transporter 11 sends new
        payloads to space today
-    2. Lenovo ThinkPad X1 Fold
+    6. Lenovo ThinkPad X1 Fold
        Gen 2 laptop review
-    3. Scientists drill
+    7. Scientists drill
        longest-ever piece of
        Earth's mantle from
        underwater mountain near
        'Lost City'
-    4. How a quantum sensor on
+    8. How a quantum sensor on
        the ISS could
        revolutionize space
        exploration
-    5. Here's what Boeing
+    9. Here's what Boeing
        Starliner astronauts are
        doing on the ISS as NASA
        works on their ride home
-    6. HP Spectre x360 14 (2024)
+    10. HP Spectre x360 14 (2024)
        laptop review
-    7. James Webb Space Telescope
-       adds to the confusing
-       drama of Hubble tension
-    8. The sun might've just had
-       a record-breaking number
-       of visible sunspots
-    9. Intense solar storm opens
-       '2-way highway' for
-       charged particles,
-       sparking rare auroras on
-       the sun
-    10. The discovery of a new
-       Earth-like planet could
-       shed further light on what
-       makes a planet habitable
 
