@@ -1,212 +1,208 @@
 -- Daily Times --
-Tuesday, August 13
+Friday, August 16
 
-We ought to withdraw
-     ourselves from the forum and
-     from public life, and a
-     great mind even in a private
-     station can find room
-     wherein to expand freely.
-     Confinement in dens
-     restrains the springs of
-     lions and wild creatures,
-     but this does not apply to
-     human beings, who often
-     effect the most important
-     works in retirement.
-                        ~ Seneca
+“I must not fear. Fear is
+     the mind-killer. Fear is the
+     little-death that brings
+     total obliteration. I will
+     face my fear. I will permit
+     it to pass over me and
+     through me. And when it has
+     gone past I will turn the
+     inner eye to see its path.
+     Where the fear has gone
+     there will be nothing. Only
+     I will remain.”
+                 ~ Frank Herbert
 
 
 -- News --
 # Formula1
-    1. Porsche declares F1 "a
-       closed chapter" after
-       failed Red Bull bid
-    2. Hamilton predicts ‘one
-       hell of a second half’ to
-       2024
-    3. TIL Eddie Cheever has
-       claimed that the 1981
-       Tyrrell had a special wing
-       for the weight check that
-       had to be lifted by 4 men
-       and that he was sure was
-       "made of lead".
-    4. Can McLaren's culture
-       survive two number one
-       drivers in F1?
-    5. To this day, John Surtees
-       remains the only driver to
-       have won a World
-       Championship on both two
-       and four wheels. After
-       winning 7 World
-       Championships in
-       350cc/500cc, Surtees made
-       the switch to F1 and won
-       the 1964 WDC with Ferrari.
-       He also remains the only
-       Ferrari driver to claim an
-       F1 title in blue.
-    6. 1946 Turin Grand Prix
-       starting grid (also known
-       as III Gran Premio del
-       Valentino) at Valentino
-       Park circuit in Turin,
-       Italy. First ever F1 race,
-       as the race regulations
-       anticipated the official
-       introduction of the new
-       formula on January 1947
-       (4428x3000)
-    7. Number Of Overtakes Per
-       Race 2023 vs 2024 Summer
-       Break
-    8. Redbull RB-19 Driving
-       through Prague on a
-       special tram right now.
-    9. Driver laps - head to head
-       comparisons - Belgian
-       Grand Prix 2024
-    10. What Audi's new bosses
-       must do to avoid wasting
-       its potential
+    1. Max's sim set up at home
+    2. In case you were not
+       aware, there's another 1
+       month break incoming after
+       Singapore.
+    3. Laps Led In 2024
+    4. [Peter Windsor] Looks as
+       though RBR might have been
+       running a clever rear
+       cross-brake inertia valve
+       before they were obliged
+       to remove it before Miami.
+       This could explain Max's
+       RR brake drama in MEL and
+       his turn-in grief since
+       China.
+    5. Danny Ric all smiles on
+       summer break
+    6. [Craig Scarborough] This
+       makes sense and underlined
+       by the tech reg change. A
+       return of the Newey fiddle
+       brake, but automatic &
+       creating a turning moment
+       with the rear brakes. A
+       simple weighted valve in
+       the rear brake splitter
+       could do this. Altering
+       the effort between the
+       calipers as the car turns
+    7. Hockenheimring to receive
+       250 million Euros for
+       renovations & new
+       buildings
+    8. Max on his 2015
+       Blanchimont overtake: We
+       tried it on the sim. When
+       I went for the move in
+       real life, the car was
+       moving around more. Helmut
+       told me, "never do that
+       again". I was like, "I
+       passed him". Now I
+       understand why. I was 17
+       still, and I was like, "I
+       go for it". Probably I
+       wouldn't do it now.
+    9. I am sure these 2 had gone
+       on to have many more title
+       battles…
+    10. K-Mag's making moves. The
+       drivers with the most
+       positions gained in Grands
+       Prix across 2024
 
 # Gaming
 
 # HackerNews
-    1. Launch HN: Trellis (YC
-       W24) – AI-powered
-       workflows for unstructured
-       data
-    2. A C/C++ library for audio
-       and music analysis
-    3. From object transition to
-       RCE in the Chrome renderer
-    4. The Webb Telescope further
-       deepens the biggest
-       controversy in cosmology
-    5. Launch HN: Shaped (YC W22)
-       – AI-Powered
-       Recommendations and Search
-    6. An open-source flow
-       battery kit
-    7. What you learn by making a
-       new programming language
-    8. Retell AI (YC W24) Is
-       Hiring a Full Stack
-       Engineer and a Support
-       Engineer
-    9. Emacs: Contextual
-       Interfaces in Casual Calc
-    10. Callisto: Reverse polish
-       notation programming
-       language inspired by
-       YSL-C3, Forth
+    1. JPlag – Detecting Software
+       Plagiarism
+    2. Crafting a 13KB Game: The
+       Story of Space Huggers
+    3. Cleed – simple feed reader
+       for the command line
+    4. PyScript: An open source
+       platform for Python in the
+       browser
+    5. Show HN: Wikipedia Browser
+       a La Andy Matuschak's
+       Evergreen Notes
+    6. Supporting game design
+       with evolutionary
+       algorithms
+    7. Reversing the AMD Secure
+       Processor (PSP) – Part 2:
+       Cryptographic Co-Processor
+    8. From Bede (731) to BONE
+       (1991-2004): A sparrow's
+       flight through the ages
+    9. Show HN: I made an
+       open-source personal
+       dashboard builder
+    10. Automating My /Now Page
 
 # NL
-    1. Only the last HP matters
-       (Slay the Spire)
-    2. This Prince of Persia
-       metroidvania blew me away
-       (Prince Of Persia: The
-       Lost Crown #ad)
-    3. In the caves straight
-       smacking it (Nintendo
-       World Championships: NES
-       Edition)
-    4. Hes chipped up to the
-       gills (Dungeons and
-       Degenerate Gamblers)
-    5. I see why they call this
-       game "Zelda 2" (Nintendo
-       World Championships: NES
-       Edition)
-    6. They thought I didn't know
-       Austin Powers
-       (Miscellaneous)
-    7. They made Balatro
-       Blackjack and it is GOOD
-       (Dungeons and Degenerate
-       Gamblers)
-    8. They don't make boss
-       fights like this anymore
+    1. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    9. He doesn't know shapes
+    2. The ID is giving us good
+       vibes (Dungeons and
+       Degenerate Gamblers)
+    3. I've got the powers (Slay
+       the Spire)
+    4. My insane pace (Nintendo
+       World Championships: NES
+       Edition)
+    5. I'm Chorba Frick!!!
        (Miscellaneous)
-    10. An elegant walk (Slay the
-       Spire)
+    6. What the heck do I do with
+       this (Slay the Spire)
+    7. Insane that the first
+       videogame ever is this
+       good (Nintendo World
+       Championships: NES
+       Edition)
+    8. Only the last HP matters
+       (Slay the Spire)
+    9. This Prince of Persia
+       metroidvania blew me away
+       (Prince Of Persia: The
+       Lost Crown #ad)
+    10. In the caves straight
+       smacking it (Nintendo
+       World Championships: NES
+       Edition)
 
 # Slovakia
-    1. The two-way street of
-       US-Slovak military ties
-    2. Irin., Bratislava: “A
-       three-hour epicurean
-       adventure” - restaurant
-       review
-    3. Tracing roots: Cemeteries
-       and lost names of Slovak
-       towns
-    4. News digest: Czech Radio
-       no longer cooperates with
-       Slovakia's state
-       broadcaster
-    5. Meta blocks social media
-       of Slovak pro-Russian bike
-       group
-    6. It's as if time stopped.
-       Few know about unusual
-       lake in south Slovakia
-    7. Young HR professional:
-       Work with horses can be
-       inspirational in HR
-    8. Bratislava’s exquisite
-       healing garden gears up
-       for revitalisation
-    9. News digest: Danko floats
-       'Don't say gay' schools
-       bill; Minister is
-       unimpressed
-    10. The interior minister said
-       there was a Tajik
-       'terrorist' in Slovakia.
-       But he's still here
+    1. A hostile state receives a
+       controversially warm
+       welcome
+    2. Weekend: Vietnamese
+       community sharing its
+       culture
+    3. Slovakia's national dish
+       briefly goes global,
+       thanks to an influencer –
+       and the Olympics
+    4. ‘ChatGPT’s arrival changed
+       clients’ mindsets’
+    5. Step back in time at
+       Slanec Castle—just a
+       half-hour from Košice
+    6. News digest: Culture
+       minister fabricates claims
+       to discredit NGO
+    7. Completion of the
+       Bratislava-Košice highway
+       is one step closer, but
+       don’t celebrate just yet
+    8. Czech maestro quits Košice
+       Philharmonic after
+       criticising culture
+       minister
+    9. A 2,000-kilometre land
+       journey from Ireland to
+       Slovakia that opened my
+       eyes
+    10. Top 10 events in
+       Bratislava for foreigners
 
 # Space
-    1. Highly magnetic dead star
-       launches mysterious blast
-       of energy
-    2. Roller coaster tech could
-       help NASA’s Artemis moon
-       astronauts in case of a
-       launch emergency
-    3. Ocean's worth of water may
-       be buried within Mars —
-       but can we get to it?
-    4. Drugs can partially
-       prevent muscle loss caused
-       by microgravity,
-       experimental study finds
-    5. Airplane contrails are a
-       tricky, and surprising,
-       contributor to global
-       warming
-    6. 'Star Wars: Skeleton
-       Crew:' First adventurous
-       trailer lands at Disney's
-       D23 fan event
-    7. Newly found star 30 times
-       the size of the sun has an
-       unexpected chemical
-       composition
-    8. Chinese company CAS Space
-       takes steps toward 1st
-       launch of reusable rocket
-    9. Recent star death leaves
-       behind highly magnetic
-       stellar corpse
-    10. Lego Technic planet earth
-       and moon in orbit review
+    1. Watch live as SpaceX
+       Transporter 11 sends new
+       payloads to space today
+    2. Lenovo ThinkPad X1 Fold
+       Gen 2 laptop review
+    3. Scientists drill
+       longest-ever piece of
+       Earth's mantle from
+       underwater mountain near
+       'Lost City'
+    4. How a quantum sensor on
+       the ISS could
+       revolutionize space
+       exploration
+    5. Here's what Boeing
+       Starliner astronauts are
+       doing on the ISS as NASA
+       works on their ride home
+    6. HP Spectre x360 14 (2024)
+       laptop review
+    7. James Webb Space Telescope
+       adds to the confusing
+       drama of Hubble tension
+    8. The sun might've just had
+       a record-breaking number
+       of visible sunspots
+    9. Intense solar storm opens
+       '2-way highway' for
+       charged particles,
+       sparking rare auroras on
+       the sun
+    10. The discovery of a new
+       Earth-like planet could
+       shed further light on what
+       makes a planet habitable
 
