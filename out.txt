@@ -1,25 +1,32 @@
 -- Daily Times --
 Saturday, August 17
 
-It is the privilege of a
-     tranquil and peaceful mind
-     to review all the parts of
-     its life.
+when his last day arrives,
+     the wise man will not hang
+     back, but will walk with a
+     steady step to meet death.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Christian Horner and Toto
-       Wolff challenged by Zak
-       Brown to F1 team boss race
-    2. Saw a familiar face on
-       this old advertisement
-       while in Greece today “For
-       even better performance”
-    3. One more week until F1 is
-       back!
-    4. F1 standings if using an
+    1. [F1] Three years on, this
+       is still the most
+       impressive thing we've
+       ever seen in Grill the
+       Grid! No one did it like
+       Seb
+    2. 2024 Standings if it was
+       one long Endurance Rally,
+       adjusted for unraced laps
+       + Avg Speed so far!
+    3. [Motorsport.com] Age is
+       just a number
+    4. Only one more week friends
+    5. World Destructors
+       Championship - After
+       Belgium
+    6. F1 standings if using an
        Olympic-style table. The
        main difference is for
        Hamilton due to his two
@@ -31,81 +38,75 @@ It is the privilege of a
        instead of Hamilton) and
        2016(Hamilton instead of
        Rosberg) have changed.
-    5. 2024 Standings if it was
-       one long Endurance Rally,
-       adjusted for unraced laps
-       + Avg Speed so far!
-    6. Could a Formula 1 team be
-       worth an 11-figure sum?
-    7. Your thoughts on the
-       Zandvoort circuit
-    8. [The Mobile Chicane] The
-       Williams Woes of Mark
-       Webber
-    9. Ask r/Formula1 Anything -
-       Daily Discussion Thread
-    10. [Josh Revell]The Worst
-       Ferrari F1 Driver EVER?
+    7. F1 Arcade Coming to Center
+       City Philadelphia
+    8. Leclerc hails Vasseur F1
+       culture change at Ferrari
+    9. [Aidan Millward]DOMINATION
+       FOR 50 QUID! The Story of
+       McLaren's Second Brake
+       Pedal (1997-8)
+    10. Best of the Cooldown Room
+       So Far in 2024!
 
 # Gaming
 
 # HackerNews
-    1. Xapian Is an Open Source
-       Search Engine Library
-    2. Just use Postgres
-    3. Google Removed Organic
-       Maps from the Playstore
-    4. Interviewing the
-       Interviewer: Questions to
-       Uncover a Company's True
-       Culture
-    5. X to pay €550k to employee
-       fired for not replying to
-       yes-or-resign ultimatum
-    6. Smol Business
-    7. VanillaJSX.com
-    8. NIST Announces
-       Post-Quantum Cryptography
-       Standards
-    9. 'Kafkaesque': bank blocks
-       cash transfer, saying it
-       could be an AI scam
-    10. Epic Games Store and
-       Fortnite Arrive on EU
-       iPhones
+    1. Magic Wormhole: get things
+       from one computer to
+       another, safely
+    2. mpv a free, open-source,
+       and cross-platform media
+       player
+    3. Blockbuster Video VHS
+       insert template
+    4. Are you smarter than a
+       language model?
+    5. Increasing Retention
+       Without Increasing Study
+       Time [pdf]
+    6. The Blue Collar Jobs of
+       Philip Glass
+    7. DifuzCam: Replacing Camera
+       Lens with a Mask and a
+       Diffusion Model
+    8. Releasing everyone's SSN
+       and the hacks used to
+       acquire them
+    9. BMX: A Freshly Baked Take
+       on BM25
+    10. Colorize Lidar point
+       clouds with camera images
 
 # NL
-    1. We take these PBs
+    1. tfw exact change (Slay the
+       Spire)
+    2. We take these PBs
        (Nintendo World
        Championships: NES
        Edition)
-    2. Double my damage and give
+    3. Double my damage and give
        it to the next guy (Slay
        the Spire)
-    3. Consider that body
+    4. Consider that body
        reinforced (Slay the
        Spire)
-    4. Take me back, man
+    5. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    5. The ID is giving us good
+    6. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    6. I've got the powers (Slay
+    7. I've got the powers (Slay
        the Spire)
-    7. My insane pace (Nintendo
+    8. My insane pace (Nintendo
        World Championships: NES
        Edition)
-    8. I'm Chorba Frick!!!
+    9. I'm Chorba Frick!!!
        (Miscellaneous)
-    9. What the heck do I do with
+    10. What the heck do I do with
        this (Slay the Spire)
-    10. Insane that the first
-       videogame ever is this
-       good (Nintendo World
-       Championships: NES
-       Edition)
 
 # Slovakia
     1. News digest: Dua Lipa has
@@ -144,41 +145,44 @@ It is the privilege of a
        eyes
 
 # Space
-    1. Why is a
+    1. Perseid meteor shower
+       rains 'shooting stars'
+       over Stonehenge in
+       glorious astrophotography
+       image
+    2. Robotic Russian Progress
+       89 cargo ship docks at ISS
+       with tons of fresh
+       supplies (video)
+    3. This Week In Space
+       podcast: Episode 124
+       —Space For Everyone
+    4. 'Star Trek: Prodigy' is
+       the 'Voyager' spin-off you
+       never knew you wanted —
+       and we love it
+    5. Why is a
        'once-in-a-decade'
        Supermoon Blue Moon
        happening twice in 2
        years?
-    2. Celestron Outland X 10x50
+    6. Celestron Outland X 10x50
        monocular review
-    3. 'Alien: Romulus' is a
+    7. 'Alien: Romulus' is a
        visceral return to form
        for a venerable sci-fi
        franchise (review)
-    4. SpaceX launches 116
+    8. SpaceX launches 116
        satellites on epic
        Transporter 11 rideshare
        mission, lands rocket
        (video)
-    5. Angel City Brewery
+    9. Angel City Brewery
        releases Weyland-Yutani's
        Aspen Beer from 1979's
        'Alien'
-    6. Astronomers find black
+    10. Astronomers find black
        hole's favorite snack:
        'The star appears to be
        living to die another day'
-    7. Dark Energy Camera's new
-       galactic portrait delves
-       into dark-matter central
-    8. Astrophotographers capture
-       rare Jupiter and Mars
-       encounter (photos)
-    9. Lenovo ThinkPad X1 Fold
-       Gen 2 laptop review
-    10. Scientists drill
-       longest-ever piece of
-       Earth's mantle from
-       underwater mountain near
-       'Lost City'
 
