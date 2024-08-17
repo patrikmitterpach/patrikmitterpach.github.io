@@ -1,5 +1,5 @@
 -- Daily Times --
-Friday, August 16
+Saturday, August 17
 
 It is the privilege of a
      tranquil and peaceful mind
@@ -10,119 +10,102 @@ It is the privilege of a
 
 -- News --
 # Formula1
-    1. Max's sim set up at home
-    2. [Peter Windsor] Looks as
-       though RBR might have been
-       running a clever rear
-       cross-brake inertia valve
-       before they were obliged
-       to remove it before Miami.
-       This could explain Max's
-       RR brake drama in MEL and
-       his turn-in grief since
-       China.
-    3. Max on his 2015
-       Blanchimont overtake: We
-       tried it on the sim. When
-       I went for the move in
-       real life, the car was
-       moving around more. Helmut
-       told me, "never do that
-       again". I was like, "I
-       passed him". Now I
-       understand why. I was 17
-       still, and I was like, "I
-       go for it". Probably I
-       wouldn't do it now.
-    4. Hockenheimring to receive
-       250 million Euros for
-       renovations & new
-       buildings
-    5. Danny Ric all smiles on
-       summer break
-    6. [Craig Scarborough] This
-       makes sense and underlined
-       by the tech reg change. A
-       return of the Newey fiddle
-       brake, but automatic &
-       creating a turning moment
-       with the rear brakes. A
-       simple weighted valve in
-       the rear brake splitter
-       could do this. Altering
-       the effort between the
-       calipers as the car turns
-    7. [@ScuderiaFerrari]
-       Michael, Unseen.
-    8. I am sure these 2 had gone
-       on to have many more title
-       battles…
-    9. Oscar Piastri admits to
-       ‘moments of rage’
-    10. Christian Horner and Toto
+    1. Christian Horner and Toto
        Wolff challenged by Zak
        Brown to F1 team boss race
+    2. Saw a familiar face on
+       this old advertisement
+       while in Greece today “For
+       even better performance”
+    3. One more week until F1 is
+       back!
+    4. F1 standings if using an
+       Olympic-style table. The
+       main difference is for
+       Hamilton due to his two
+       wins. I looked back to
+       past years and most of the
+       time it didn't affect
+       Driver's champion. Since
+       2000, only 2008(Massa
+       instead of Hamilton) and
+       2016(Hamilton instead of
+       Rosberg) have changed.
+    5. 2024 Standings if it was
+       one long Endurance Rally,
+       adjusted for unraced laps
+       + Avg Speed so far!
+    6. Could a Formula 1 team be
+       worth an 11-figure sum?
+    7. Your thoughts on the
+       Zandvoort circuit
+    8. [The Mobile Chicane] The
+       Williams Woes of Mark
+       Webber
+    9. Ask r/Formula1 Anything -
+       Daily Discussion Thread
+    10. [Josh Revell]The Worst
+       Ferrari F1 Driver EVER?
 
 # Gaming
 
 # HackerNews
-    1. A Texas "Moth Man"
-       Photographed 550 Species
-       in His Own Yard
-    2. The Apple IIGS Megahertz
-       Myth – Userlandia
-    3. Discrete Mathematics – An
-       Open Introduction 4ed (By
-       Oscar Levin)
-    4. Does Reasoning Emerge?
-       Probabilities of Causation
-       in Large Language Models
-    5. Good programmers worry
-       about data structures and
-       their relationships
-    6. Can Large Language Models
-       Understand Symbolic
-       Graphics Programs?
-    7. Crafting a 13KB Game: The
-       Story of Space Huggers
-    8. Banks Are Now Accused of
-       Cheating Customers
-       Billions
-    9. Aviator (YC S21) Is Hiring
-       Engineers to Build DevEx
-       Platform
-    10. FUTO
+    1. Xapian Is an Open Source
+       Search Engine Library
+    2. Just use Postgres
+    3. Google Removed Organic
+       Maps from the Playstore
+    4. Interviewing the
+       Interviewer: Questions to
+       Uncover a Company's True
+       Culture
+    5. X to pay €550k to employee
+       fired for not replying to
+       yes-or-resign ultimatum
+    6. Smol Business
+    7. VanillaJSX.com
+    8. NIST Announces
+       Post-Quantum Cryptography
+       Standards
+    9. 'Kafkaesque': bank blocks
+       cash transfer, saying it
+       could be an AI scam
+    10. Epic Games Store and
+       Fortnite Arrive on EU
+       iPhones
 
 # NL
-    1. Double my damage and give
-       it to the next guy (Slay
-       the Spire)
-    2. Consider that body
-       reinforced (Slay the
-       Spire)
-    3. Take me back, man
+    1. We take these PBs
        (Nintendo World
        Championships: NES
        Edition)
-    4. The ID is giving us good
+    2. Double my damage and give
+       it to the next guy (Slay
+       the Spire)
+    3. Consider that body
+       reinforced (Slay the
+       Spire)
+    4. Take me back, man
+       (Nintendo World
+       Championships: NES
+       Edition)
+    5. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    5. I've got the powers (Slay
+    6. I've got the powers (Slay
        the Spire)
-    6. My insane pace (Nintendo
+    7. My insane pace (Nintendo
        World Championships: NES
        Edition)
-    7. I'm Chorba Frick!!!
+    8. I'm Chorba Frick!!!
        (Miscellaneous)
-    8. What the heck do I do with
+    9. What the heck do I do with
        this (Slay the Spire)
-    9. Insane that the first
+    10. Insane that the first
        videogame ever is this
        good (Nintendo World
        Championships: NES
        Edition)
-    10. Only the last HP matters
-       (Slay the Spire)
 
 # Slovakia
     1. News digest: Dua Lipa has
@@ -161,38 +144,41 @@ It is the privilege of a
        eyes
 
 # Space
-    1. Angel City Brewery
+    1. Why is a
+       'once-in-a-decade'
+       Supermoon Blue Moon
+       happening twice in 2
+       years?
+    2. Celestron Outland X 10x50
+       monocular review
+    3. 'Alien: Romulus' is a
+       visceral return to form
+       for a venerable sci-fi
+       franchise (review)
+    4. SpaceX launches 116
+       satellites on epic
+       Transporter 11 rideshare
+       mission, lands rocket
+       (video)
+    5. Angel City Brewery
        releases Weyland-Yutani's
        Aspen Beer from 1979's
        'Alien'
-    2. Astronomers find black
+    6. Astronomers find black
        hole's favorite snack:
        'The star appears to be
        living to die another day'
-    3. Dark Energy Camera's new
+    7. Dark Energy Camera's new
        galactic portrait delves
        into dark-matter central
-    4. Astrophotographers capture
+    8. Astrophotographers capture
        rare Jupiter and Mars
        encounter (photos)
-    5. Watch live as SpaceX
-       Transporter 11 sends new
-       payloads to space today
-    6. Lenovo ThinkPad X1 Fold
+    9. Lenovo ThinkPad X1 Fold
        Gen 2 laptop review
-    7. Scientists drill
+    10. Scientists drill
        longest-ever piece of
        Earth's mantle from
        underwater mountain near
        'Lost City'
-    8. How a quantum sensor on
-       the ISS could
-       revolutionize space
-       exploration
-    9. Here's what Boeing
-       Starliner astronauts are
-       doing on the ISS as NASA
-       works on their ride home
-    10. HP Spectre x360 14 (2024)
-       laptop review
 
