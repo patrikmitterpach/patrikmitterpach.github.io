@@ -1,10 +1,8 @@
 -- Daily Times --
-Saturday, August 17
+Sunday, August 18
 
-when his last day arrives,
-     the wise man will not hang
-     back, but will walk with a
-     steady step to meet death.
+Can heights be reached by a
+     level path?
                         ~ Seneca
 
 
@@ -16,97 +14,106 @@ when his last day arrives,
        ever seen in Grill the
        Grid! No one did it like
        Seb
-    2. 2024 Standings if it was
-       one long Endurance Rally,
-       adjusted for unraced laps
-       + Avg Speed so far!
+    2. Ollie: “Does my soulmate
+       exist? Yes. You just have
+       to find her.” Kimi: “Well…
+       Soulmate could be also
+       your race car.”
     3. [Motorsport.com] Age is
        just a number
-    4. Only one more week friends
-    5. World Destructors
+    4. World Destructors
        Championship - After
        Belgium
-    6. F1 standings if using an
-       Olympic-style table. The
-       main difference is for
-       Hamilton due to his two
-       wins. I looked back to
-       past years and most of the
-       time it didn't affect
-       Driver's champion. Since
-       2000, only 2008(Massa
-       instead of Hamilton) and
-       2016(Hamilton instead of
-       Rosberg) have changed.
-    7. F1 Arcade Coming to Center
-       City Philadelphia
-    8. Leclerc hails Vasseur F1
+    5. Leclerc hails Vasseur F1
        culture change at Ferrari
-    9. [Aidan Millward]DOMINATION
-       FOR 50 QUID! The Story of
-       McLaren's Second Brake
-       Pedal (1997-8)
-    10. Best of the Cooldown Room
-       So Far in 2024!
+    6. Happy 90th birthday to
+       Swiss driver-engineer
+       Michael May - the inventor
+       of the elevated wing in
+       motorsports! (article in
+       comments)
+    7. What makes Kimi Antonelli
+       so special?
+    8. Redline's team manager
+       Atze on Max: He brings his
+       laptop, he's driving on
+       his controller in his off
+       time at the F1 race to
+       help the team make a
+       setup. And that's how he
+       is. That's what you don't
+       see on TV. But the guy is
+       pushing through every wall
+       just to help | Max: You
+       still get the same
+       emotions!
+    9. F1 Arcade Coming to Center
+       City Philadelphia
+    10. Formula 1 | Bottas and
+       Zhou go head to head!
+       Here's how the Stake F1
+       Team KICK Sauber duo
+       compare.
 
 # Gaming
 
 # HackerNews
-    1. Magic Wormhole: get things
-       from one computer to
-       another, safely
-    2. mpv a free, open-source,
+    1. Mpv – A free, open-source,
        and cross-platform media
        player
-    3. Blockbuster Video VHS
+    2. Ask for Advice, Not
+       Permission (2015)
+    3. Magic Wormhole: get things
+       from one computer to
+       another, safely
+    4. Games People Play with
+       Cash Flow (2020)
+    5. FlightAware Leaks Customer
+       Data (Name, Email
+       Addresses and Passwords)
+    6. Postmortem of my 9 year
+       journey at Google
+    7. Abel, the Mozart of
+       Mathematics
+    8. Blockbuster Video VHS
        insert template
-    4. Are you smarter than a
-       language model?
-    5. Increasing Retention
-       Without Increasing Study
-       Time [pdf]
-    6. The Blue Collar Jobs of
-       Philip Glass
-    7. DifuzCam: Replacing Camera
-       Lens with a Mask and a
-       Diffusion Model
-    8. Releasing everyone's SSN
-       and the hacks used to
-       acquire them
-    9. BMX: A Freshly Baked Take
-       on BM25
-    10. Colorize Lidar point
-       clouds with camera images
+    9. Flaw has Microsoft
+       Authenticator overwriting
+       MFA accounts, locking
+       users out
+    10. Yesterday's Pixels, Today
 
 # NL
-    1. tfw exact change (Slay the
-       Spire)
-    2. We take these PBs
+    1. It was a good week
        (Nintendo World
        Championships: NES
        Edition)
-    3. Double my damage and give
+    2. tfw exact change (Slay the
+       Spire)
+    3. We take these PBs
+       (Nintendo World
+       Championships: NES
+       Edition)
+    4. Double my damage and give
        it to the next guy (Slay
        the Spire)
-    4. Consider that body
+    5. Consider that body
        reinforced (Slay the
        Spire)
-    5. Take me back, man
+    6. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    6. The ID is giving us good
+    7. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    7. I've got the powers (Slay
+    8. I've got the powers (Slay
        the Spire)
-    8. My insane pace (Nintendo
+    9. My insane pace (Nintendo
        World Championships: NES
        Edition)
-    9. I'm Chorba Frick!!!
+    10. I'm Chorba Frick!!!
        (Miscellaneous)
-    10. What the heck do I do with
-       this (Slay the Spire)
 
 # Slovakia
     1. News digest: Dua Lipa has
@@ -145,44 +152,41 @@ when his last day arrives,
        eyes
 
 # Space
-    1. Perseid meteor shower
+    1. Google Pixel 8a review
+    2. Perseid meteor shower
        rains 'shooting stars'
        over Stonehenge in
        glorious astrophotography
        image
-    2. Robotic Russian Progress
+    3. Robotic Russian Progress
        89 cargo ship docks at ISS
        with tons of fresh
        supplies (video)
-    3. This Week In Space
+    4. This Week In Space
        podcast: Episode 124
        —Space For Everyone
-    4. 'Star Trek: Prodigy' is
+    5. 'Star Trek: Prodigy' is
        the 'Voyager' spin-off you
        never knew you wanted —
        and we love it
-    5. Why is a
+    6. Why is a
        'once-in-a-decade'
        Supermoon Blue Moon
        happening twice in 2
        years?
-    6. Celestron Outland X 10x50
+    7. Celestron Outland X 10x50
        monocular review
-    7. 'Alien: Romulus' is a
+    8. 'Alien: Romulus' is a
        visceral return to form
        for a venerable sci-fi
        franchise (review)
-    8. SpaceX launches 116
+    9. SpaceX launches 116
        satellites on epic
        Transporter 11 rideshare
        mission, lands rocket
        (video)
-    9. Angel City Brewery
+    10. Angel City Brewery
        releases Weyland-Yutani's
        Aspen Beer from 1979's
        'Alien'
-    10. Astronomers find black
-       hole's favorite snack:
-       'The star appears to be
-       living to die another day'
 
