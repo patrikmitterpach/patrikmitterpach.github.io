@@ -1,40 +1,24 @@
 -- Daily Times --
 Sunday, August 18
 
-Can heights be reached by a
-     level path?
+The wise man is neither
+     elated by prosperity nor
+     depressed by adversity; for
+     he has always endeavoured to
+     depend chiefly upon himself
+     and to derive all his joys
+     from himself.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. [F1] Three years on, this
-       is still the most
-       impressive thing we've
-       ever seen in Grill the
-       Grid! No one did it like
-       Seb
-    2. Ollie: “Does my soulmate
+    1. Ollie: “Does my soulmate
        exist? Yes. You just have
        to find her.” Kimi: “Well…
        Soulmate could be also
        your race car.”
-    3. [Motorsport.com] Age is
-       just a number
-    4. World Destructors
-       Championship - After
-       Belgium
-    5. Leclerc hails Vasseur F1
-       culture change at Ferrari
-    6. Happy 90th birthday to
-       Swiss driver-engineer
-       Michael May - the inventor
-       of the elevated wing in
-       motorsports! (article in
-       comments)
-    7. What makes Kimi Antonelli
-       so special?
-    8. Redline's team manager
+    2. Redline's team manager
        Atze on Max: He brings his
        laptop, he's driving on
        his controller in his off
@@ -47,73 +31,94 @@ Can heights be reached by a
        just to help | Max: You
        still get the same
        emotions!
-    9. F1 Arcade Coming to Center
-       City Philadelphia
-    10. Formula 1 | Bottas and
+    3. [Instagram] Sunned and
+       healed. Ready for some
+       more race cars. - Oscar
+       Piastri
+    4. Happy 90th birthday to
+       Swiss driver-engineer
+       Michael May - the inventor
+       of the elevated wing in
+       motorsports! (article in
+       comments)
+    5. Formula 1 | Bottas and
        Zhou go head to head!
        Here's how the Stake F1
        Team KICK Sauber duo
        compare.
+    6. Updates on Marina Bay
+       Street Circuit
+    7. [Instagram] Carlos Sainz:
+       Fully recharged and ready
+       for the 2nd half of the
+       season
+    8. RB7 in Prague (21:9)
+    9. Ask r/Formula1 Anything -
+       Daily Discussion Thread
+    10. Midseason Moments Tier
+       List | 2024 F1 Season
 
 # Gaming
 
 # HackerNews
-    1. Mpv – A free, open-source,
-       and cross-platform media
-       player
-    2. Ask for Advice, Not
-       Permission (2015)
-    3. Magic Wormhole: get things
-       from one computer to
-       another, safely
-    4. Games People Play with
-       Cash Flow (2020)
-    5. FlightAware Leaks Customer
-       Data (Name, Email
-       Addresses and Passwords)
-    6. Postmortem of my 9 year
-       journey at Google
-    7. Abel, the Mozart of
-       Mathematics
-    8. Blockbuster Video VHS
-       insert template
-    9. Flaw has Microsoft
-       Authenticator overwriting
-       MFA accounts, locking
-       users out
-    10. Yesterday's Pixels, Today
+    1. TomWright/dasel: Select,
+       put and delete data from
+       JSON, TOML, YAML, XML and
+       CSV
+    2. Algorithms We Develop
+       Software By
+    3. Police Cannot Seize
+       Property Indefinitely
+       After an Arrest, Federal
+       Court Rules
+    4. Leaving Neovim for Zed
+    5. The Expert Mind [pdf]
+       (2006)
+    6. How the instrument landing
+       system at Antarctica's
+       McMurdo Station works
+    7. Fear Not the Association
+       of Types
+    8. `noexcept` affects
+       libstdc++'s
+       `unordered_set`
+    9. Bold Edit: An editor
+       written by power users
+    10. Getting back into C
+       programming for CP/M
 
 # NL
-    1. It was a good week
-       (Nintendo World
-       Championships: NES
-       Edition)
-    2. tfw exact change (Slay the
+    1. Perhaps I have been too
+       harsh on you (Slay the
        Spire)
-    3. We take these PBs
+    2. It was a good week
        (Nintendo World
        Championships: NES
        Edition)
-    4. Double my damage and give
+    3. tfw exact change (Slay the
+       Spire)
+    4. We take these PBs
+       (Nintendo World
+       Championships: NES
+       Edition)
+    5. Double my damage and give
        it to the next guy (Slay
        the Spire)
-    5. Consider that body
+    6. Consider that body
        reinforced (Slay the
        Spire)
-    6. Take me back, man
+    7. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    7. The ID is giving us good
+    8. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    8. I've got the powers (Slay
+    9. I've got the powers (Slay
        the Spire)
-    9. My insane pace (Nintendo
+    10. My insane pace (Nintendo
        World Championships: NES
        Edition)
-    10. I'm Chorba Frick!!!
-       (Miscellaneous)
 
 # Slovakia
     1. News digest: Dua Lipa has
@@ -152,41 +157,41 @@ Can heights be reached by a
        eyes
 
 # Space
-    1. Google Pixel 8a review
-    2. Perseid meteor shower
+    1. Nikon Trailblazer 8x25 ATB
+       compact binoculars review
+    2. 'Star Trek: Discovery'
+       final season lands on DVD,
+       Blu-ray and limited
+       edition Steelbook
+    3. Dinosaur-killing asteroid
+       was a rare rock from
+       beyond Jupiter, new study
+       reveals
+    4. Para-astronaut John McFall
+       hopes to see an ISS
+       astronaut with a
+       disability fly by 2030
+       (exclusive, video)
+    5. Google Pixel 8a review
+    6. Perseid meteor shower
        rains 'shooting stars'
        over Stonehenge in
        glorious astrophotography
        image
-    3. Robotic Russian Progress
+    7. Robotic Russian Progress
        89 cargo ship docks at ISS
        with tons of fresh
        supplies (video)
-    4. This Week In Space
+    8. This Week In Space
        podcast: Episode 124
        —Space For Everyone
-    5. 'Star Trek: Prodigy' is
+    9. 'Star Trek: Prodigy' is
        the 'Voyager' spin-off you
        never knew you wanted —
        and we love it
-    6. Why is a
+    10. Why is a
        'once-in-a-decade'
        Supermoon Blue Moon
        happening twice in 2
        years?
-    7. Celestron Outland X 10x50
-       monocular review
-    8. 'Alien: Romulus' is a
-       visceral return to form
-       for a venerable sci-fi
-       franchise (review)
-    9. SpaceX launches 116
-       satellites on epic
-       Transporter 11 rideshare
-       mission, lands rocket
-       (video)
-    10. Angel City Brewery
-       releases Weyland-Yutani's
-       Aspen Beer from 1979's
-       'Alien'
 
