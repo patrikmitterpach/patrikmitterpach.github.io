@@ -1,24 +1,25 @@
 -- Daily Times --
-Sunday, August 18
+Monday, August 19
 
-The wise man is neither
-     elated by prosperity nor
-     depressed by adversity; for
-     he has always endeavoured to
-     depend chiefly upon himself
-     and to derive all his joys
-     from himself.
+We ought to withdraw
+     ourselves from the forum and
+     from public life, and a
+     great mind even in a private
+     station can find room
+     wherein to expand freely.
+     Confinement in dens
+     restrains the springs of
+     lions and wild creatures,
+     but this does not apply to
+     human beings, who often
+     effect the most important
+     works in retirement.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Ollie: “Does my soulmate
-       exist? Yes. You just have
-       to find her.” Kimi: “Well…
-       Soulmate could be also
-       your race car.”
-    2. Redline's team manager
+    1. Redline's team manager
        Atze on Max: He brings his
        laptop, he's driving on
        his controller in his off
@@ -31,10 +32,14 @@ The wise man is neither
        just to help | Max: You
        still get the same
        emotions!
-    3. [Instagram] Sunned and
+    2. [Instagram] Sunned and
        healed. Ready for some
        more race cars. - Oscar
        Piastri
+    3. [Instagram] Carlos Sainz:
+       Fully recharged and ready
+       for the 2nd half of the
+       season
     4. Happy 90th birthday to
        Swiss driver-engineer
        Michael May - the inventor
@@ -48,113 +53,121 @@ The wise man is neither
        compare.
     6. Updates on Marina Bay
        Street Circuit
-    7. [Instagram] Carlos Sainz:
-       Fully recharged and ready
-       for the 2nd half of the
-       season
-    8. RB7 in Prague (21:9)
-    9. Ask r/Formula1 Anything -
+    7. Formula 1 is reportedly
+       forcing some F1 creators
+       to change their names
+    8. Ask r/Formula1 Anything -
        Daily Discussion Thread
-    10. Midseason Moments Tier
+    9. Midseason Moments Tier
        List | 2024 F1 Season
+    10. [Mr V's Garage] ALL the
+       ABANDONED F1 TRACKS you
+       can explore
 
 # Gaming
 
 # HackerNews
-    1. TomWright/dasel: Select,
-       put and delete data from
-       JSON, TOML, YAML, XML and
-       CSV
-    2. Algorithms We Develop
-       Software By
-    3. Police Cannot Seize
+    1. Show HN: PgQueuer –
+       Transform PostgreSQL into
+       a Job Queue
+    2. Interposer to Fix the
+       Symmetricom SyncServer
+       S200 GPS Week Rollover
+       Problem
+    3. Dasel: Select, put and
+       delete data from JSON,
+       TOML, YAML, XML and CSV
+    4. Debugging operating
+       systems with
+       time-traveling virtual
+       machines [pdf]
+    5. Leaving Neovim for Zed
+    6. Police Cannot Seize
        Property Indefinitely
        After an Arrest, Federal
        Court Rules
-    4. Leaving Neovim for Zed
-    5. The Expert Mind [pdf]
-       (2006)
-    6. How the instrument landing
-       system at Antarctica's
-       McMurdo Station works
-    7. Fear Not the Association
-       of Types
-    8. `noexcept` affects
-       libstdc++'s
-       `unordered_set`
-    9. Bold Edit: An editor
+    7. Linux Memory Overcommit
+       (2007)
+    8. Energy economics and
+       rocket science with Casey
+       Handmer
+    9. Parents outraged at Snoo
+       after smart bassinet
+       company charges fee to
+       rock crib
+    10. Bold Edit: An editor
        written by power users
-    10. Getting back into C
-       programming for CP/M
 
 # NL
-    1. Perhaps I have been too
+    1. The game so nice they made
+       it thrice (Nintendo World
+       Championships: NES
+       Edition)
+    2. Perhaps I have been too
        harsh on you (Slay the
        Spire)
-    2. It was a good week
+    3. It was a good week
        (Nintendo World
        Championships: NES
        Edition)
-    3. tfw exact change (Slay the
+    4. tfw exact change (Slay the
        Spire)
-    4. We take these PBs
+    5. We take these PBs
        (Nintendo World
        Championships: NES
        Edition)
-    5. Double my damage and give
+    6. Double my damage and give
        it to the next guy (Slay
        the Spire)
-    6. Consider that body
+    7. Consider that body
        reinforced (Slay the
        Spire)
-    7. Take me back, man
+    8. Take me back, man
        (Nintendo World
        Championships: NES
        Edition)
-    8. The ID is giving us good
+    9. The ID is giving us good
        vibes (Dungeons and
        Degenerate Gamblers)
-    9. I've got the powers (Slay
+    10. I've got the powers (Slay
        the Spire)
-    10. My insane pace (Nintendo
-       World Championships: NES
-       Edition)
 
 # Slovakia
-    1. News digest: Dua Lipa has
+    1. Last Week: Who is
+       Slovakia’s culture
+       minister, and why do so
+       many people want her to
+       go?
+    2. News digest: Dua Lipa has
        Radical Optimism, Martina
        Šimkovičová has Radical
        Reads
-    2. A hostile state receives a
+    3. A hostile state receives a
        controversially warm
        welcome
-    3. Weekend: Vietnamese
+    4. Weekend: Vietnamese
        community sharing its
        culture
-    4. Slovakia's national dish
+    5. Slovakia's national dish
        briefly goes global,
        thanks to an influencer –
        and the Olympics
-    5. ‘ChatGPT’s arrival changed
+    6. ‘ChatGPT’s arrival changed
        clients’ mindsets’
-    6. Step back in time at
+    7. Step back in time at
        Slanec Castle—just a
        half-hour from Košice
-    7. News digest: Culture
+    8. News digest: Culture
        minister fabricates claims
        to discredit NGO
-    8. Completion of the
+    9. Completion of the
        Bratislava-Košice highway
        is one step closer, but
        don’t celebrate just yet
-    9. Czech maestro quits Košice
+    10. Czech maestro quits Košice
        Philharmonic after
        criticising culture
        minister
-    10. A 2,000-kilometre land
-       journey from Ireland to
-       Slovakia that opened my
-       eyes
 
 # Space
     1. Nikon Trailblazer 8x25 ATB
