@@ -1,102 +1,76 @@
 -- Daily Times --
 Monday, August 19
 
-We ought to withdraw
-     ourselves from the forum and
-     from public life, and a
-     great mind even in a private
-     station can find room
-     wherein to expand freely.
-     Confinement in dens
-     restrains the springs of
-     lions and wild creatures,
-     but this does not apply to
-     human beings, who often
-     effect the most important
-     works in retirement.
+It is the privilege of a
+     tranquil and peaceful mind
+     to review all the parts of
+     its life.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Redline's team manager
-       Atze on Max: He brings his
-       laptop, he's driving on
-       his controller in his off
-       time at the F1 race to
-       help the team make a
-       setup. And that's how he
-       is. That's what you don't
-       see on TV. But the guy is
-       pushing through every wall
-       just to help | Max: You
-       still get the same
-       emotions!
-    2. [Instagram] Sunned and
+    1. [Instagram] Sunned and
        healed. Ready for some
        more race cars. - Oscar
        Piastri
+    2. Formula 1 is reportedly
+       forcing some F1 creators
+       to change their names
     3. [Instagram] Carlos Sainz:
        Fully recharged and ready
        for the 2nd half of the
        season
-    4. Happy 90th birthday to
-       Swiss driver-engineer
-       Michael May - the inventor
-       of the elevated wing in
-       motorsports! (article in
-       comments)
-    5. Formula 1 | Bottas and
-       Zhou go head to head!
-       Here's how the Stake F1
-       Team KICK Sauber duo
-       compare.
+    4. Hamilton "learned to be a
+       better team mate" during
+       Mercedes' wilderness years
+    5. [F1] Guess who's back?!
     6. Updates on Marina Bay
        Street Circuit
-    7. Formula 1 is reportedly
-       forcing some F1 creators
-       to change their names
-    8. Ask r/Formula1 Anything -
-       Daily Discussion Thread
-    9. Midseason Moments Tier
-       List | 2024 F1 Season
-    10. [Mr V's Garage] ALL the
-       ABANDONED F1 TRACKS you
-       can explore
+    7. [@F1] Summer break is
+       over. It's race week.
+    8. Haas F1 Team | Happy
+       Birthday Hulk! Celebrating
+       our #27 with the best
+       present possible… back to
+       work for race week!
+    9. The F1 ‘super-weapon’? How
+       the development battle
+       between the Formula 1
+       factories has ignited the
+       2024 season | Formula 1®
+    10. Alpine race week poster
+       for the 2024 Dutch GP.
 
 # Gaming
 
 # HackerNews
-    1. Show HN: PgQueuer –
+    1. Parsing protobuf at
+       2+GB/s: how I learned to
+       love tail calls in C
+       (2021)
+    2. Archiving "The Famous
+       Computer Cafe"
+    3. Bit-Banging a Basic
+       Birthday
+    4. The Charming, Eccentric,
+       Blessed Life of Lee
+       Maxwell
+    5. Stripe's Monorepo
+       Developer Environment
+    6. Bitmovin (YC S15) Is
+       Hiring Software Engineers
+       in Austria
+    7. Show HN: PgQueuer –
        Transform PostgreSQL into
        a Job Queue
-    2. Interposer to Fix the
-       Symmetricom SyncServer
-       S200 GPS Week Rollover
-       Problem
-    3. Dasel: Select, put and
+    8. Dasel: Select, put and
        delete data from JSON,
        TOML, YAML, XML and CSV
-    4. Debugging operating
-       systems with
-       time-traveling virtual
-       machines [pdf]
-    5. Leaving Neovim for Zed
-    6. Police Cannot Seize
-       Property Indefinitely
-       After an Arrest, Federal
-       Court Rules
-    7. Linux Memory Overcommit
-       (2007)
-    8. Energy economics and
-       rocket science with Casey
-       Handmer
-    9. Parents outraged at Snoo
-       after smart bassinet
-       company charges fee to
-       rock crib
-    10. Bold Edit: An editor
-       written by power users
+    9. FindMy Flipper – AirTag
+       and SmartTag Emulator
+    10. Markov chains are funnier
+       than LLMs
 
 # NL
     1. The game so nice they made
@@ -133,78 +107,74 @@ We ought to withdraw
        the Spire)
 
 # Slovakia
-    1. Last Week: Who is
+    1. Six cinemas in Bratislava,
+       where a ticket costs only
+       six euros
+    2. The Slovak diplomat who
+       introduced his country to
+       the world
+    3. New lab will test latest
+       microchips for electric
+       cars
+    4. Last Week: Who is
        Slovakia’s culture
        minister, and why do so
        many people want her to
        go?
-    2. News digest: Dua Lipa has
+    5. News digest: Dua Lipa has
        Radical Optimism, Martina
        Šimkovičová has Radical
        Reads
-    3. A hostile state receives a
+    6. A hostile state receives a
        controversially warm
        welcome
-    4. Weekend: Vietnamese
+    7. Weekend: Vietnamese
        community sharing its
        culture
-    5. Slovakia's national dish
+    8. Slovakia's national dish
        briefly goes global,
        thanks to an influencer –
        and the Olympics
-    6. ‘ChatGPT’s arrival changed
+    9. ‘ChatGPT’s arrival changed
        clients’ mindsets’
-    7. Step back in time at
+    10. Step back in time at
        Slanec Castle—just a
        half-hour from Košice
-    8. News digest: Culture
-       minister fabricates claims
-       to discredit NGO
-    9. Completion of the
-       Bratislava-Košice highway
-       is one step closer, but
-       don’t celebrate just yet
-    10. Czech maestro quits Košice
-       Philharmonic after
-       criticising culture
-       minister
 
 # Space
-    1. Nikon Trailblazer 8x25 ATB
+    1. Help scientists find new
+       black holes with this free
+       smartphone app
+    2. How satellites could
+       protect archaeology sites
+       vulnerable to climate
+       change
+    3. Watch the Supermoon Blue
+       Moon rise today with this
+       free livestream
+    4. Nikon Trailblazer 8x25 ATB
        compact binoculars review
-    2. 'Star Trek: Discovery'
+    5. 'Star Trek: Discovery'
        final season lands on DVD,
        Blu-ray and limited
        edition Steelbook
-    3. Dinosaur-killing asteroid
+    6. Dinosaur-killing asteroid
        was a rare rock from
        beyond Jupiter, new study
        reveals
-    4. Para-astronaut John McFall
+    7. Para-astronaut John McFall
        hopes to see an ISS
        astronaut with a
        disability fly by 2030
        (exclusive, video)
-    5. Google Pixel 8a review
-    6. Perseid meteor shower
+    8. Google Pixel 8a review
+    9. Perseid meteor shower
        rains 'shooting stars'
        over Stonehenge in
        glorious astrophotography
        image
-    7. Robotic Russian Progress
+    10. Robotic Russian Progress
        89 cargo ship docks at ISS
        with tons of fresh
        supplies (video)
-    8. This Week In Space
-       podcast: Episode 124
-       —Space For Everyone
-    9. 'Star Trek: Prodigy' is
-       the 'Voyager' spin-off you
-       never knew you wanted —
-       and we love it
-    10. Why is a
-       'once-in-a-decade'
-       Supermoon Blue Moon
-       happening twice in 2
-       years?
 
