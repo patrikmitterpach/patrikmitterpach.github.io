@@ -1,0 +1,18 @@
+{
+  "name": "gravichess",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build:watch && http-server",
+    "build:watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "typescript": "^5.5.4"
+  }
+}
