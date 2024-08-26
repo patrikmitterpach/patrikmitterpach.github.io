@@ -1,187 +1,188 @@
 -- Daily Times --
-Tuesday, August 20
+Monday, August 26
 
-When you rave against
-     Heaven, I do not say that
-     you commit sacrilege, but
-     you waste your time.
+“Fortune bids me follow
+     philosophy in lighter
+     marching order.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Red Bull admits RB20
-       concept may have reached
-       its development ceiling
-    2. Thousands of tickets still
-       available for Dutch Grand
-       Prix, says F1 organizer
-    3. This is how we are going
-       to kick off the second
-       half of the year!
-    4. Podiums Before Their First
-       Wins
-    5. What was really behind the
-       FIA's F1 asymmetric brake
-       rule change
-    6. [Sergio Perez] Ready for
-       the second half, fully
-       recharged
-    7. Ferrari is reported to be
-       considering a switch from
-       push rod suspension to
-       pull rod next year
-    8. A few of my photos from
-       Spa. Amazing watching the
-       drivers in the changing
-       conditions
-    9. Discounted 2024 USGP
-       passes at Costco in Austin
-    10. [Sauber] Breaking:
-       @ShwartzmanRob will take
-       part in FP1 for Stake F1
-       Team KICK Sauber at this
-       weekend’s Dutch Grand
-       Prix.
+    1. Norris made own call to go
+       for fastest lap; McLaren
+       would have said no
+    2. Haas assets seized, cannot
+       leave Zandvoort
+    3. [Decalspotters] First
+       official look at Ferrari's
+       team kit for the Italian
+       GP
+    4. [F1] Déjà vu, anyone? Both
+       of Lando Norris' race wins
+       have seen Max Verstappen
+       in second and Charles
+       Leclerc third
+    5. [The Race] The older-spec
+       floor Verstappen used was
+       believed by the team
+       post-race to have been
+       around 0.2s slower than
+       the newer version used by
+       Sergio Perez
+    6. What’s the story with
+       these trophies?
+    7. Williams Team Principal
+       James Vowles talking to
+       DAZN about Carlos Sainz,
+       "It was shockingly close
+       to dating. It started with
+       messages and it ended with
+       my going to his hotel
+       room."
+    8. it's gran premio d'Italia
+       week!!! [via Mercedes-AMG
+       PETRONAS F1 WhatsApp)
+    9. Money arrived to Russians:
+       F1 team Haas may leave the
+       Netherlands
+    10. The difference between Max
+       & Lando in the 1st race of
+       the season vs. 1st race
+       after the break
 
 # Gaming
 
 # HackerNews
-    1. Data Exfiltration from
-       Slack AI via indirect
-       prompt injection
-    2. MIT leaders describe the
-       experience of not renewing
-       Elsevier contract
-    3. Basic Mechanisms In Fire
-       Control Computers (1953)
-       [video]
-    4. Why are Texas interchanges
-       so tall?
-    5. Making database systems
-       usable
-    6. Emerge Tools (YC W21) is
-       hiring a senior front end
-       engineer
-    7. Launch HN: MinusX (YC S24)
-       – AI assistant for data
-       tools like
-       Jupyter/Metabase
-    8. Toasts are bad UX
-    9. I wag, therefore I am: the
-       philosophy of dogs
-    10. Nasir Ahmed's
-       digital-compression
-       breakthrough helped make
-       JPEGs/MPEGs possible
+    1. Dokku: My favorite
+       personal serverless
+       platform
+    2. Eating the Birds of
+       America: Audubon's
+       Culinary Reviews of
+       America's Birds
+    3. NSA releases 1982 Grace
+       Hopper lecture
+    4. Show HN: Remove-bg –
+       open-source remove
+       background using WebGPU
+    5. Launch HN: Parity (YC S24)
+       – AI for on-call engineers
+       working with Kubernetes
+    6. IOGraphica
+    7. Fixing a bug in Google
+       Chrome as a first-time
+       contributor
+    8. Matching dinosaur
+       footprints found on
+       opposite sides of the
+       Atlantic Ocean
+    9. ProhostAI (YC S24) Is
+       Hiring an iOS Engineer
+       (SF)
+    10. Poor Foundations in
+       Geometric Algebra
 
 # NL
-    1. I can't be the only one
-       who did this, right?
-       (Nintendo World
+    1. I've never seen this guy
+       before in my life
+       (Miscellaneous)
+    2. I was in over my head here
+       (Slay the Spire)
+    3. We may have gotten a
+       little silly (Clank)
+    4. I just can't with this
+       game (Nintendo World
        Championships: NES
        Edition)
-    2. britney voice: It's toxic
-       I'm picking upgrades (Slay
+    5. Your daily dose of
+       discourse (Miscellaneous)
+    6. Gimme that loot (Clank)
+    7. This tech is blowing my
+       mind (Nintendo World
+       Championships: NES
+       Edition)
+    8. The mineral respector has
+       logged on (GeoGuessr)
+    9. All you need is one (Slay
        the Spire)
-    3. I can't break the dang
-       blocks (Nintendo World
-       Championships: NES
-       Edition)
-    4. The game so nice they made
-       it thrice (Nintendo World
-       Championships: NES
-       Edition)
-    5. Perhaps I have been too
-       harsh on you (Slay the
-       Spire)
-    6. It was a good week
-       (Nintendo World
-       Championships: NES
-       Edition)
-    7. tfw exact change (Slay the
-       Spire)
-    8. We take these PBs
-       (Nintendo World
-       Championships: NES
-       Edition)
-    9. Double my damage and give
-       it to the next guy (Slay
-       the Spire)
-    10. Consider that body
-       reinforced (Slay the
+    10. You never need two
+       corruptions (Slay the
        Spire)
 
 # Slovakia
-    1. Dedinky’s cable car
-       captivates visitors with
-       stunning views
-    2. Retailers sound the alarm
-       as Penal Code changes
-       spark shoplifting surge
-    3. Irish influencer’s
-       Bratislava trip turns into
-       a mosquito nightmare
-    4. A Portuguese tourist
-       enjoyed a visit to
-       Bratislava’s Devín Castle
-       – then he was attacked
-    5. 55 years ago:
-       Czechoslovakia’s first
-       anniversary of invasion
-       brings historic protests
-    6. Slovak prologue to 1968
-    7. News digest: SNG deletes
-       post of support for former
-       director from webpage,
-       social media
-    8. Pro-Russian bikers sprayed
-       over WWII memorial
-    9. Who misses KHL players on
-       national team? Ice-hockey
-       no longer unites, but
-       divides
-    10. Six cinemas in Bratislava,
-       where a ticket costs only
-       €6
+    1. News digest: After months
+       of waiting, President
+       appoints Fico's nominee to
+       head top spy agency
+    2. Bust of Hungarian king
+       unveiled in Nové Zámky,
+       accompanied by light show
+    3. Shops to be closed on
+       Thursday due to SNP
+       celebrations
+    4. They thought Financial
+       Times email was spam.
+       Their garage business is a
+       European leader
+    5. Last Week: Inside the
+       world of Robert Fico
+    6. Dangerous words
+    7. News digest: Breaking his
+       silence, the president
+       speaks. But what did he
+       actually say?
+    8. No knights coming out of
+       Sitno Hill yet to help
+       Slovakia
+    9. Cabinet approves
+       40-percent highway toll
+       hike for hauliers, but SNS
+       is opposed
+    10. One tourist spot fewer:
+       Upper Nitra's unique
+       mining museum closes after
+       21 years
 
 # Space
-    1. 'Star Wars: The Acolyte'
-       canceled after just 1
-       season
-    2. Some rocky exoplanets
-       could have huge amounts of
-       water in their molten
-       cores
-    3. Orange you glad there's
-       fruit in space? These
-       astronauts sure are
-       (video)
-    4. Europe's 1st commercial
-       rocket by RFA explodes on
-       test stand at Scotland
-       spaceport
-    5. Get $240 off the Celestron
-       NexStar 8SE computerized
-       telescope
-    6. SpaceX launches 22
-       Starlink internet
-       satellites into orbit,
-       lands brand-new rocket
-       (video)
-    7. Have astronomers found the
-       'secret recipe' for rapid
-       planet growth?
-    8. Photographer captures rare
-       double 'moonbow' ahead of
-       Supermoon Blue Moon. 'It
-       was a wonderful sight to
-       behold!'
-    9. Are we alone? Intelligent
-       aliens may be rare, new
-       study suggests
-    10. Satellites capture
-       Hurricane Ernesto racing
-       across the Atlantic
-       (images)
+    1. SpaceX fires up Falcon 9
+       rocket ahead of Polaris
+       Dawn astronaut launch
+       (photos)
+    2. Europe's JUICE probe snaps
+       hi-res pics of Earth and
+       the moon on its way to
+       Jupiter (photos)
+    3. Get a sneak peek at the
+       new video game anthology
+       series 'Secret Level'
+       (trailer)
+    4. Ancient grains of dust
+       from space can be found on
+       Earth − and provide clues
+       about the life cycle of
+       stars
+    5. SpaceX 'go' to launch
+       private Polaris Dawn
+       spacewalk mission on
+       farthest human spaceflight
+       since Apollo
+    6. 'Fireflies' help NASA map
+       radiation around Jupiter
+       and its moons
+    7. How can we protect humans
+       on Mars from dangerous
+       solar storm radiation?
+    8. What time does SpaceX's
+       Polaris Dawn private
+       spacewalk mission launch?
+    9. Rare Milky Way star
+       cluster is packed with red
+       supergiants 1 million
+       times brighter than the
+       sun
+    10. Physicists find
+       superconductor behavior at
+       temperatures once thought
+       'impossible'
 
