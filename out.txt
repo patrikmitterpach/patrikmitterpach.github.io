@@ -1,10 +1,12 @@
 -- Daily Times --
 Tuesday, August 27
 
-How far more endurable what
-     I have feared seems to be
-     than what I have lusted
-     after.
+“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
@@ -18,11 +20,7 @@ How far more endurable what
        messages and it ended with
        my going to his hotel
        room."
-    2. [Decalspotters] First
-       official look at Ferrari's
-       team kit for the Italian
-       GP
-    3. Christian Horner : I mean,
+    2. Christian Horner : I mean,
        we were winning races by
        20, 25 seconds and Stefano
        [Domenicali, F1 CEO] was
@@ -30,37 +28,12 @@ How far more endurable what
        the first five races. It
        can change very quickly,
        no need to Panic
-    4. Money arrived to Russians:
-       F1 team Haas may leave the
-       Netherlands
-    5. [@MercedesAMGF1] Exciting
-       news! Kimi Antonelli will
-       be making his FP1 debut at
-       Monza this weekend. He’ll
-       be driving George’s W15 in
-       front of his home crowd
-    6. Buxton: What I like about
-       Oscar is he’s still new to
-       all of this so he’s not
-       trying to play up to a
-       preconception of who he
-       needs to be. Like George
-       is trying to be this weird
-       talented Mr Ripley type
-       person. [...] Daniel is
-       still trying to play up to
-       being like the 24,
-       25-year-old Daniel.
-    7. Vettel backs Schumacher
+    3. Vettel backs Schumacher
        for F1 comeback with
        Williams
-    8. Max Verstappen has the
-       second longest winning
-       slump after 7 wins in a
-       season in F1 history. If
-       he loses this week he will
-       tie for first.
-    9. [Thomas Maher] No
+    4. My drawing of Sebastian
+       Vettel
+    5. [Thomas Maher] No
        decisions made yet
        regarding a possible
        Williams change for this
@@ -72,45 +45,56 @@ How far more endurable what
        understood to not be on
        board with this, meaning
        Schumacher more likely.
-    10. [Chris Medland] Haas
-       trucks are finally on the
-       move to Monza after
-       waiting overnight in the
-       Netherlands. Former title
-       sponsor Uralkali has
-       confirmed receipt of last
-       Friday’s payment that was
-       due back to it, so the
-       Haas trucks will make
-       their way immediately to
-       Italy
+    6. Ferrari Race Suits for
+       Monza 2024
+    7. Lando Norris: Red Bull
+       boss Christian Horner says
+       it's 'remarkable' McLaren
+       driver hasn't won more
+       races in 2024
+    8. 2024 Italian Grand Prix
+       trophies called VROOOM
+    9. Zandvoort 2024 was the
+       15th race in F1 history
+       when all cars finished
+    10. [Andrew Benson] Aston
+       Martin have made him an
+       offer, which Newey is
+       evaluating. Williams,
+       where Newey achieved his
+       first successes in F1 from
+       1991-96, have expressed
+       their interest. And Alpine
+       have now entered the race.
+       Newey is said to have had
+       pretty extensive talks
+       with Flavio Briatore.
 
 # Gaming
 
 # HackerNews
-    1. Box64 and RISC-V in 2024:
+    1. New 0-Day Attacks Linked
+       to China's 'Volt Typhoon'
+    2. Box64 and RISC-V in 2024:
        What It Takes to Run the
        Witcher 3 on RISC-V
-    2. Firewalling Your Code
     3. Ruby in Jupyter Notebook
-    4. How to run Valgrind on a
-       CGI program in C
-    5. Vanilla Prime: A simpler,
-       more sustainable way of
-       web development
-    6. The Google Fit APIs will
-       no longer be available
-       after June 30, 2025
-    7. Dokku: My favorite
-       personal serverless
-       platform
-    8. NSA releases 1982 Grace
-       Hopper lecture
-    9. Erasure Coding for
-       Distributed Systems
-    10. Tinybox of tinygrad by
-       George Hotz is finally
-       entering production
+    4. Splatt3R: Zero-Shot
+       Gaussian Splatting from
+       Uncalibrated Image Pairs
+    5. Eazel, ex-Apple led Linux
+       startup
+    6. Parochialism in time and
+       space (2021)
+    7. MiniJinja: Learnings from
+       Building a Template Engine
+       in Rust
+    8. Clay (short for C Layout)
+       is a high performance 2D
+       UI layout library
+    9. Firewalling your code
+    10. QuestDB (YC S20) Is Hiring
+       a Core Database Engineer
 
 # NL
     1. Keep it like a secret
@@ -139,76 +123,73 @@ How far more endurable what
        the Spire)
 
 # Slovakia
-    1. How a Facebook group
+    1. Top German diplomat:
+       Risking the Slovak-German
+       relationship would be
+       utterly foolish
+    2. How a Facebook group
        exploded into a
        Slovak-American cultural
        phenomenon
-    2. News digest: After months
+    3. News digest: After months
        of waiting, President
        appoints Fico's nominee to
        head top spy agency
-    3. Bust of Hungarian king
+    4. Bust of Hungarian king
        unveiled in Nové Zámky,
        accompanied by light show
-    4. Shops to be closed on
+    5. Shops to be closed on
        Thursday due to SNP
        celebrations
-    5. They thought Financial
+    6. They thought Financial
        Times email was spam.
        Their garage business is a
        European leader
-    6. Last Week: Inside the
+    7. Last Week: Inside the
        world of Robert Fico
-    7. Dangerous words
-    8. News digest: Breaking his
+    8. Dangerous words
+    9. News digest: Breaking his
        silence, the president
        speaks. But what did he
        actually say?
-    9. No knights coming out of
+    10. No knights coming out of
        Sitno Hill yet to help
        Slovakia
-    10. Cabinet approves
-       40-percent highway toll
-       hike for hauliers, but SNS
-       is opposed
 
 # Space
-    1. India to launch Gaganyaan
+    1. How did Wesley Crusher
+       turn into a time-traveling
+       space god on 'Star Trek?'
+    2. 'Terminator Zero' embraces
+       the horror of
+       time-traveling killer
+       robots in new Netflix
+       series
+    3. New Hubble Telescope image
+       captures peculiar
+       ring-shaped galaxy
+    4. India to launch Gaganyaan
        crew capsule test flight
        by end of 2024
-    2. SpaceX delays Polaris Dawn
+    5. SpaceX delays Polaris Dawn
        astronaut launch to Aug.
        28 due to helium leak
-    3. SpaceX Polaris Dawn
+    6. SpaceX Polaris Dawn
        astronauts will conduct
        high-flying research in
        Earth orbit
-    4. Blue Origin's next space
+    7. Blue Origin's next space
        tourism flight will launch
        on Aug. 29
-    5. Mattel rolling out
+    8. Mattel rolling out
        Matchbox toy of SpaceX's
        Tesla astronaut transport
-    6. SpaceX fires up Falcon 9
+    9. SpaceX fires up Falcon 9
        rocket ahead of Polaris
        Dawn astronaut launch
        (photos)
-    7. Europe's JUICE probe snaps
+    10. Europe's JUICE probe snaps
        hi-res pics of Earth and
        the moon on its way to
        Jupiter (photos)
-    8. Get a sneak peek at the
-       new video game anthology
-       series 'Secret Level'
-       (trailer)
-    9. Ancient grains of dust
-       from space can be found on
-       Earth − and provide clues
-       about the life cycle of
-       stars
-    10. SpaceX 'go' to launch
-       private Polaris Dawn
-       spacewalk mission on
-       farthest human spaceflight
-       since Apollo
 
