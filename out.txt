@@ -1,38 +1,16 @@
 -- Daily Times --
-Monday, August 26
+Tuesday, August 27
 
-“Fortune bids me follow
-     philosophy in lighter
-     marching order.”
+How far more endurable what
+     I have feared seems to be
+     than what I have lusted
+     after.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Norris made own call to go
-       for fastest lap; McLaren
-       would have said no
-    2. Haas assets seized, cannot
-       leave Zandvoort
-    3. [Decalspotters] First
-       official look at Ferrari's
-       team kit for the Italian
-       GP
-    4. [F1] Déjà vu, anyone? Both
-       of Lando Norris' race wins
-       have seen Max Verstappen
-       in second and Charles
-       Leclerc third
-    5. [The Race] The older-spec
-       floor Verstappen used was
-       believed by the team
-       post-race to have been
-       around 0.2s slower than
-       the newer version used by
-       Sergio Perez
-    6. What’s the story with
-       these trophies?
-    7. Williams Team Principal
+    1. Williams Team Principal
        James Vowles talking to
        DAZN about Carlos Sainz,
        "It was shockingly close
@@ -40,149 +18,197 @@ Monday, August 26
        messages and it ended with
        my going to his hotel
        room."
-    8. it's gran premio d'Italia
-       week!!! [via Mercedes-AMG
-       PETRONAS F1 WhatsApp)
-    9. Money arrived to Russians:
+    2. [Decalspotters] First
+       official look at Ferrari's
+       team kit for the Italian
+       GP
+    3. Christian Horner : I mean,
+       we were winning races by
+       20, 25 seconds and Stefano
+       [Domenicali, F1 CEO] was
+       asking us to slow down in
+       the first five races. It
+       can change very quickly,
+       no need to Panic
+    4. Money arrived to Russians:
        F1 team Haas may leave the
        Netherlands
-    10. The difference between Max
-       & Lando in the 1st race of
-       the season vs. 1st race
-       after the break
+    5. [@MercedesAMGF1] Exciting
+       news! Kimi Antonelli will
+       be making his FP1 debut at
+       Monza this weekend. He’ll
+       be driving George’s W15 in
+       front of his home crowd
+    6. Buxton: What I like about
+       Oscar is he’s still new to
+       all of this so he’s not
+       trying to play up to a
+       preconception of who he
+       needs to be. Like George
+       is trying to be this weird
+       talented Mr Ripley type
+       person. [...] Daniel is
+       still trying to play up to
+       being like the 24,
+       25-year-old Daniel.
+    7. Vettel backs Schumacher
+       for F1 comeback with
+       Williams
+    8. Max Verstappen has the
+       second longest winning
+       slump after 7 wins in a
+       season in F1 history. If
+       he loses this week he will
+       tie for first.
+    9. [Thomas Maher] No
+       decisions made yet
+       regarding a possible
+       Williams change for this
+       weekend but wind is
+       blowing against a Lawson
+       switch as Red Bull wish to
+       be able to pull him back
+       if needed. Vowles
+       understood to not be on
+       board with this, meaning
+       Schumacher more likely.
+    10. [Chris Medland] Haas
+       trucks are finally on the
+       move to Monza after
+       waiting overnight in the
+       Netherlands. Former title
+       sponsor Uralkali has
+       confirmed receipt of last
+       Friday’s payment that was
+       due back to it, so the
+       Haas trucks will make
+       their way immediately to
+       Italy
 
 # Gaming
 
 # HackerNews
-    1. Dokku: My favorite
+    1. Box64 and RISC-V in 2024:
+       What It Takes to Run the
+       Witcher 3 on RISC-V
+    2. Firewalling Your Code
+    3. Ruby in Jupyter Notebook
+    4. How to run Valgrind on a
+       CGI program in C
+    5. Vanilla Prime: A simpler,
+       more sustainable way of
+       web development
+    6. The Google Fit APIs will
+       no longer be available
+       after June 30, 2025
+    7. Dokku: My favorite
        personal serverless
        platform
-    2. Eating the Birds of
-       America: Audubon's
-       Culinary Reviews of
-       America's Birds
-    3. NSA releases 1982 Grace
+    8. NSA releases 1982 Grace
        Hopper lecture
-    4. Show HN: Remove-bg –
-       open-source remove
-       background using WebGPU
-    5. Launch HN: Parity (YC S24)
-       – AI for on-call engineers
-       working with Kubernetes
-    6. IOGraphica
-    7. Fixing a bug in Google
-       Chrome as a first-time
-       contributor
-    8. Matching dinosaur
-       footprints found on
-       opposite sides of the
-       Atlantic Ocean
-    9. ProhostAI (YC S24) Is
-       Hiring an iOS Engineer
-       (SF)
-    10. Poor Foundations in
-       Geometric Algebra
+    9. Erasure Coding for
+       Distributed Systems
+    10. Tinybox of tinygrad by
+       George Hotz is finally
+       entering production
 
 # NL
-    1. I've never seen this guy
+    1. Keep it like a secret
+       (Clank)
+    2. I've never seen this guy
        before in my life
        (Miscellaneous)
-    2. I was in over my head here
+    3. I was in over my head here
        (Slay the Spire)
-    3. We may have gotten a
+    4. We may have gotten a
        little silly (Clank)
-    4. I just can't with this
+    5. I just can't with this
        game (Nintendo World
        Championships: NES
        Edition)
-    5. Your daily dose of
+    6. Your daily dose of
        discourse (Miscellaneous)
-    6. Gimme that loot (Clank)
-    7. This tech is blowing my
+    7. Gimme that loot (Clank)
+    8. This tech is blowing my
        mind (Nintendo World
        Championships: NES
        Edition)
-    8. The mineral respector has
+    9. The mineral respector has
        logged on (GeoGuessr)
-    9. All you need is one (Slay
+    10. All you need is one (Slay
        the Spire)
-    10. You never need two
-       corruptions (Slay the
-       Spire)
 
 # Slovakia
-    1. News digest: After months
+    1. How a Facebook group
+       exploded into a
+       Slovak-American cultural
+       phenomenon
+    2. News digest: After months
        of waiting, President
        appoints Fico's nominee to
        head top spy agency
-    2. Bust of Hungarian king
+    3. Bust of Hungarian king
        unveiled in Nové Zámky,
        accompanied by light show
-    3. Shops to be closed on
+    4. Shops to be closed on
        Thursday due to SNP
        celebrations
-    4. They thought Financial
+    5. They thought Financial
        Times email was spam.
        Their garage business is a
        European leader
-    5. Last Week: Inside the
+    6. Last Week: Inside the
        world of Robert Fico
-    6. Dangerous words
-    7. News digest: Breaking his
+    7. Dangerous words
+    8. News digest: Breaking his
        silence, the president
        speaks. But what did he
        actually say?
-    8. No knights coming out of
+    9. No knights coming out of
        Sitno Hill yet to help
        Slovakia
-    9. Cabinet approves
+    10. Cabinet approves
        40-percent highway toll
        hike for hauliers, but SNS
        is opposed
-    10. One tourist spot fewer:
-       Upper Nitra's unique
-       mining museum closes after
-       21 years
 
 # Space
-    1. SpaceX fires up Falcon 9
+    1. India to launch Gaganyaan
+       crew capsule test flight
+       by end of 2024
+    2. SpaceX delays Polaris Dawn
+       astronaut launch to Aug.
+       28 due to helium leak
+    3. SpaceX Polaris Dawn
+       astronauts will conduct
+       high-flying research in
+       Earth orbit
+    4. Blue Origin's next space
+       tourism flight will launch
+       on Aug. 29
+    5. Mattel rolling out
+       Matchbox toy of SpaceX's
+       Tesla astronaut transport
+    6. SpaceX fires up Falcon 9
        rocket ahead of Polaris
        Dawn astronaut launch
        (photos)
-    2. Europe's JUICE probe snaps
+    7. Europe's JUICE probe snaps
        hi-res pics of Earth and
        the moon on its way to
        Jupiter (photos)
-    3. Get a sneak peek at the
+    8. Get a sneak peek at the
        new video game anthology
        series 'Secret Level'
        (trailer)
-    4. Ancient grains of dust
+    9. Ancient grains of dust
        from space can be found on
        Earth − and provide clues
        about the life cycle of
        stars
-    5. SpaceX 'go' to launch
+    10. SpaceX 'go' to launch
        private Polaris Dawn
        spacewalk mission on
        farthest human spaceflight
        since Apollo
-    6. 'Fireflies' help NASA map
-       radiation around Jupiter
-       and its moons
-    7. How can we protect humans
-       on Mars from dangerous
-       solar storm radiation?
-    8. What time does SpaceX's
-       Polaris Dawn private
-       spacewalk mission launch?
-    9. Rare Milky Way star
-       cluster is packed with red
-       supergiants 1 million
-       times brighter than the
-       sun
-    10. Physicists find
-       superconductor behavior at
-       temperatures once thought
-       'impossible'
 
