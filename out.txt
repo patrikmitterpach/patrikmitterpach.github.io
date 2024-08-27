@@ -1,39 +1,67 @@
 -- Daily Times --
 Tuesday, August 27
 
-“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
-                        ~ Seneca
+“I must not fear. Fear is
+     the mind-killer. Fear is the
+     little-death that brings
+     total obliteration. I will
+     face my fear. I will permit
+     it to pass over me and
+     through me. And when it has
+     gone past I will turn the
+     inner eye to see its path.
+     Where the fear has gone
+     there will be nothing. Only
+     I will remain.”
+                 ~ Frank Herbert
 
 
 -- News --
 # Formula1
-    1. Williams Team Principal
-       James Vowles talking to
-       DAZN about Carlos Sainz,
-       "It was shockingly close
-       to dating. It started with
-       messages and it ended with
-       my going to his hotel
-       room."
-    2. Christian Horner : I mean,
-       we were winning races by
-       20, 25 seconds and Stefano
-       [Domenicali, F1 CEO] was
-       asking us to slow down in
-       the first five races. It
-       can change very quickly,
-       no need to Panic
+    1. [Williams Racing] Williams
+       Racing announces that
+       Franco Colapinto will race
+       with the team for the
+       remainder of the 2024 FIA
+       Formula 1 World
+       Championship season
+    2. [Erik van Haren] It looks
+       like Logan Sargeant has
+       lost his place at Williams
+       with immediate effect.
+       Williams junior Franco
+       Colapinto will be allowed
+       to finish the season,
+       multiple sources report.
+       Nine races to go.
+       Argentinian (21) drove for
+       MP Motorsport in F2.
+       Confirmation expected
+       later today
     3. Vettel backs Schumacher
        for F1 comeback with
        Williams
-    4. My drawing of Sebastian
+    4. [Williams] We’d like to
+       thank Logan for everything
+       he has done the past two
+       seasons. He will remain a
+       member of the Williams
+       family and we will be
+       supporting him to continue
+       his racing career.
+    5. Ferrari Race Suits for
+       Monza 2024
+    6. My drawing of Sebastian
        Vettel
-    5. [Thomas Maher] No
+    7. Zandvoort 2024 was the
+       15th race in F1 history
+       when all cars finished
+    8. Lando Norris: Red Bull
+       boss Christian Horner says
+       it's 'remarkable' McLaren
+       driver hasn't won more
+       races in 2024
+    9. [Thomas Maher] No
        decisions made yet
        regarding a possible
        Williams change for this
@@ -45,151 +73,141 @@ Tuesday, August 27
        understood to not be on
        board with this, meaning
        Schumacher more likely.
-    6. Ferrari Race Suits for
-       Monza 2024
-    7. Lando Norris: Red Bull
-       boss Christian Horner says
-       it's 'remarkable' McLaren
-       driver hasn't won more
-       races in 2024
-    8. 2024 Italian Grand Prix
+    10. 2024 Italian Grand Prix
        trophies called VROOOM
-    9. Zandvoort 2024 was the
-       15th race in F1 history
-       when all cars finished
-    10. [Andrew Benson] Aston
-       Martin have made him an
-       offer, which Newey is
-       evaluating. Williams,
-       where Newey achieved his
-       first successes in F1 from
-       1991-96, have expressed
-       their interest. And Alpine
-       have now entered the race.
-       Newey is said to have had
-       pretty extensive talks
-       with Flavio Briatore.
 
 # Gaming
 
 # HackerNews
-    1. New 0-Day Attacks Linked
-       to China's 'Volt Typhoon'
-    2. Box64 and RISC-V in 2024:
-       What It Takes to Run the
-       Witcher 3 on RISC-V
-    3. Ruby in Jupyter Notebook
-    4. Splatt3R: Zero-Shot
-       Gaussian Splatting from
-       Uncalibrated Image Pairs
-    5. Eazel, ex-Apple led Linux
-       startup
-    6. Parochialism in time and
-       space (2021)
-    7. MiniJinja: Learnings from
-       Building a Template Engine
-       in Rust
-    8. Clay (short for C Layout)
-       is a high performance 2D
-       UI layout library
-    9. Firewalling your code
-    10. QuestDB (YC S20) Is Hiring
-       a Core Database Engineer
+    1. Microsoft donates the Mono
+       Project to the Wine team
+    2. U.S. Ambassador says
+       Canadians are consuming
+       'unhealthy' amount of
+       American news
+    3. Sainsbury Wing contractors
+       find 1990 letter from
+       donor
+    4. A Collection of Free
+       Public APIs That Is Tested
+       Daily
+    5. DisTrO – a family of low
+       latency distributed
+       optimizers
+    6. Vulnerabilities show why
+       STARTTLS should be avoided
+       if possible
+    7. Blitzortung – real time
+       lightning strikes around
+       the world
+    8. Why is the Oral-B iOS app
+       almost 300 MB? And why is
+       Colgate's app even
+       bigger..?
+    9. Launch HN: Bucket Robotics
+       (YC S24) – Defect
+       detection for molded and
+       cast parts
+    10. Rustproofing Linux (Part
+       1/4 Leaking Addresses)
+       (2023)
 
 # NL
-    1. Keep it like a secret
+    1. You got XCOM in my Into
+       the Breach (Tactical
+       Breach Wizards)
+    2. What is happening (Slay
+       the Spire)
+    3. Keep it like a secret
        (Clank)
-    2. I've never seen this guy
+    4. I've never seen this guy
        before in my life
        (Miscellaneous)
-    3. I was in over my head here
+    5. I was in over my head here
        (Slay the Spire)
-    4. We may have gotten a
+    6. We may have gotten a
        little silly (Clank)
-    5. I just can't with this
+    7. I just can't with this
        game (Nintendo World
        Championships: NES
        Edition)
-    6. Your daily dose of
+    8. Your daily dose of
        discourse (Miscellaneous)
-    7. Gimme that loot (Clank)
-    8. This tech is blowing my
+    9. Gimme that loot (Clank)
+    10. This tech is blowing my
        mind (Nintendo World
        Championships: NES
        Edition)
-    9. The mineral respector has
-       logged on (GeoGuessr)
-    10. All you need is one (Slay
-       the Spire)
 
 # Slovakia
-    1. Top German diplomat:
+    1. Constitutional Court
+       dismisses anti-corruption
+       officers’ complaints over
+       controversial recordings
+    2. This farm is Slovakia’s
+       cheese champion and
+       another hidden gem
+    3. Top German diplomat:
        Risking the Slovak-German
        relationship would be
        utterly foolish
-    2. How a Facebook group
+    4. How a Facebook group
        exploded into a
        Slovak-American cultural
        phenomenon
-    3. News digest: After months
+    5. News digest: After months
        of waiting, President
        appoints Fico's nominee to
        head top spy agency
-    4. Bust of Hungarian king
+    6. Bust of Hungarian king
        unveiled in Nové Zámky,
        accompanied by light show
-    5. Shops to be closed on
+    7. Shops to be closed on
        Thursday due to SNP
        celebrations
-    6. They thought Financial
+    8. They thought Financial
        Times email was spam.
        Their garage business is a
        European leader
-    7. Last Week: Inside the
+    9. Last Week: Inside the
        world of Robert Fico
-    8. Dangerous words
-    9. News digest: Breaking his
-       silence, the president
-       speaks. But what did he
-       actually say?
-    10. No knights coming out of
-       Sitno Hill yet to help
-       Slovakia
+    10. Dangerous words
 
 # Space
-    1. How did Wesley Crusher
+    1. Salsa's last dance: This
+       European satellite will
+       fall from space soon in a
+       spicy reentry
+    2. Why the 1st private lunar
+       lander failed
+    3. James Webb Space Telescope
+       finds 6 wandering 'rogue'
+       planets that formed just
+       like stars
+    4. The Local Bubble: How our
+       solar system got caught up
+       in a cosmic crime scene
+    5. How 2 fatal shuttle
+       disasters weighed on
+       NASA's decision to bring
+       Boeing Starliner
+       astronauts home on SpaceX
+       Dragon
+    6. How did Wesley Crusher
        turn into a time-traveling
        space god on 'Star Trek?'
-    2. 'Terminator Zero' embraces
+    7. 'Terminator Zero' embraces
        the horror of
        time-traveling killer
        robots in new Netflix
        series
-    3. New Hubble Telescope image
+    8. New Hubble Telescope image
        captures peculiar
        ring-shaped galaxy
-    4. India to launch Gaganyaan
+    9. India to launch Gaganyaan
        crew capsule test flight
        by end of 2024
-    5. SpaceX delays Polaris Dawn
+    10. SpaceX delays Polaris Dawn
        astronaut launch to Aug.
        28 due to helium leak
-    6. SpaceX Polaris Dawn
-       astronauts will conduct
-       high-flying research in
-       Earth orbit
-    7. Blue Origin's next space
-       tourism flight will launch
-       on Aug. 29
-    8. Mattel rolling out
-       Matchbox toy of SpaceX's
-       Tesla astronaut transport
-    9. SpaceX fires up Falcon 9
-       rocket ahead of Polaris
-       Dawn astronaut launch
-       (photos)
-    10. Europe's JUICE probe snaps
-       hi-res pics of Earth and
-       the moon on its way to
-       Jupiter (photos)
 
