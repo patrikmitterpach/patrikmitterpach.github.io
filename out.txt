@@ -1,12 +1,9 @@
 -- Daily Times --
-Thursday, August 29
+Friday, August 30
 
-Virtue is free, inviolable,
-     not to be moved, not to be
-     shaken, and so hardened
-     against misfortunes that she
-     cannot be bent, let alone
-     overcome by them.
+To live happily, then, is
+     the same thing as to live
+     according to Nature.
                         ~ Seneca
 
 
@@ -17,20 +14,15 @@ Virtue is free, inviolable,
        Monza. Bernd Mayländer
        crashed with the safety
        car.
-    2. Colapinto's name is
-       already on the pitlane...
-       misspelled
-    3. Michael Jackson Instagram
-       account post about
-       Mohammed Ben Sulayem
-    4. [Williams Racing] Checkin’
-       in as a FORMULA 1 DRIVER
-       for the first time
-    5. Ferrari's poster for the
-       Italian Grand Prix
-    6. Safety Car crashes at
+    2. Duracell’s farewell to
+       Logan via Twitter
+    3. Lewis Hamilton’s reply on
+       Twitter
+    4. Carlos Sainz’s Helmet for
+       2024 Italian Grand Prix
+    5. Safety Car crashes at
        Parabolica
-    7. [@formulaLau16] Daniel
+    6. [@formulaLau16] Daniel
        Ricciardo: “Throw out a
        simply lovely after the
        race….I know as much as
@@ -40,147 +32,148 @@ Virtue is free, inviolable,
        very nicely or too well so
        we will see how he reacts
        this weekend”
-    8. F1 News: Helmut Marko
-       claims Jos Verstappen’s
-       bond with Toto Wolff is
-       stronger than with
-       Christian Horner
-    9. Lewis arriving today
-    10. [@Motorsport] ‪”I still
+    7. Formula 1 drivers’
+       WhatsApp group lit up by
+       Monza changes
+    8. [@Motorsport] ‪”I still
        get so nervous for
        Qualifying. I barely eat
        anything on Sundays. I
        struggle to drink anything
        because of nerves and
        pressure.‬” – Norris
+    9. Piastri surprised by
+       Sargeant’s F1 struggles:
+       “His potential was much
+       greater”
+    10. F1 News: Helmut Marko
+       claims Jos Verstappen’s
+       bond with Toto Wolff is
+       stronger than with
+       Christian Horner
 
 # Gaming
 
 # HackerNews
-    1. Bypassing airport security
+    1. The secret inside One
+       Million Checkboxes
+    2. Rearchiving 2M hours of
+       digital radio, a
+       comprehensive process
+    3. Six Things I Know for Sure
+       About Marketing to
+       Engineers
+    4. Bypassing airport security
        via SQL injection
-    2. Dawn of a new era in
-       Search: Balancing
-       innovation, competition,
-       and public good
-    3. OpenAI is good at
-       unminifying code
-    4. Chrome Is Entrenching
-       Third-Party Cookies That
-       Will Mislead Users
-    5. Raspberry Pi Pico does
-       line rate 100M Ethernet
-    6. Launch HN: CodeViz (YC
-       S24) – Visual maps of your
-       codebase in VS Code
-    7. Launch HN: Patchwork (YC
-       S24) – Automatically add
-       structured logs to your
-       code
-    8. MindsDB (YC W20) Is Hiring
-    9. Can solar costs keep
-       shrinking?
-    10. Judge Rules $400M
-       Algorithmic System
-       Illegally Denied People's
-       Medicaid Benefits
+    5. Time-Memory Trade-Offs
+       Sound the Death Knell for
+       GPRS and GSM
+    6. Micrograd.jl
+    7. Elasticsearch is open
+       source, again
+    8. Pie doesn't need to be
+       original (unless you claim
+       it so)
+    9. SDL3 new GPU API merged
+    10. Chrome is entrenching
+       third-party cookies that
+       will mislead users
 
 # NL
-    1. This is my Tom Cruise
+    1. Its party time (Lethal
+       Company)
+    2. Vibes were off from the
+       start (Clank)
+    3. This is my Tom Cruise
        moment fr (Tactical Breach
        Wizards)
-    2. Jon Voip was running wild
+    4. Jon Voip was running wild
        in this one (Lethal
        Company)
-    3. That's why they call it a
+    5. That's why they call it a
        deckbuilder (Clank)
-    4. It's about confidence
+    6. It's about confidence
        (Tactical Breach Wizards)
-    5. I'm dancing, I'm dancin'
+    7. I'm dancing, I'm dancin'
        (Slay the Spire)
-    6. A little greed can be good
+    8. A little greed can be good
        (Clank)
-    7. You got XCOM in my Into
+    9. You got XCOM in my Into
        the Breach (Tactical
        Breach Wizards)
-    8. What is happening (Slay
+    10. What is happening (Slay
        the Spire)
-    9. Keep it like a secret
-       (Clank)
-    10. I've never seen this guy
-       before in my life
-       (Miscellaneous)
 
 # Slovakia
-    1. 3 things to do in
+    1. Weekend: Festivals and
+       fairy tales, end your
+       summer with these events
+    2. I swear it’s not a
+       Photoshop. Slovak rapper
+       pops up in NYC
+    3. 3 things to do in
        Bratislava for free in the
        next seven days
-    2. Top 10 events in
+    4. Top 10 events in
        Bratislava for foreigners
-    3. Slovan Bratislava makes
+    5. Slovan Bratislava makes
        history as fourth Slovak
        club to reach Champions
        League group stage
-    4. News digest: Remembering
+    6. News digest: Remembering
        one of the most important
        events in the history of
        Slovakia
-    5. Extra carriages, trains
+    7. Extra carriages, trains
        laid on ahead of start of
        school year
-    6. Even coalition MPs say
+    8. Even coalition MPs say
        Šimkovičová is terrible,
        claims shadow culture
        minister
-    7. Bojnice used to grow one
+    9. Bojnice used to grow one
        of the most expensive
        spices, tradition now
        returns after 200 years
-    8. History Talks: Time
+    10. History Talks: Time
        honoured tax dodging
-    9. In the heart of the
-       Uprising: The tragic tale
-       of America’s mission
-    10. French volunteers:
-       Fighting in the Slovak
-       National Uprising by
-       choice
 
 # Space
-    1. Polaris Dawn crew
+    1. Aurora season is here:
+       What to expect from the
+       northern lights in 2024/25
+    2. Boeing's 1st crewed
+       Starliner to return to
+       Earth without astronauts
+       on Sept. 6
+    3. New record: Blue Origin
+       launches youngest woman
+       beyond Kármán line
+    4. Private astronauts of
+       Polaris Dawn mission
        patiently await SpaceX
        launch amid multiple
        delays
-    2. Netflix's 'Terminator
+    5. Netflix's 'Terminator
        Zero' restores faith in an
        ailing sci-fi franchise
        (review)
-    3. SETI searches for alien
+    6. SETI searches for alien
        life in over 1,000
        galaxies using unexplored
        radio frequencies
-    4. NASA Inspector General
+    7. NASA Inspector General
        issues harsh report on
        delayed SLS mobile
        launcher project
-    5. Archaeologists find huge,
+    8. Archaeologists find huge,
        2,500-year-old Egyptian
        astronomy observatory
-    6. Satellite watches as
+    9. Satellite watches as
        hazardous wildfire
        particles drift into the
        air
-    7. Trump says he'd create a
+    10. Trump says he'd create a
        Space National Guard if
        elected
-    8. Blue Origin's powerful New
-       Glenn rocket to debut Oct.
-       13 with NASA Mars launch
-    9. Space tourism: What are
-       the pros and cons?
-    10. 'One of the cleanest
-       flights I've seen.' Blue
-       Origin launches 6 people
-       to space, lands safely on
-       NS-26 flight
 
