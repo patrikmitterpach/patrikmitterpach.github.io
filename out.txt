@@ -1,83 +1,83 @@
 -- Daily Times --
 Friday, August 30
 
-To live happily, then, is
-     the same thing as to live
-     according to Nature.
-                        ~ Seneca
+Someone driving a $100,000
+     car might be wealthy. But
+     the only data point you have
+     about their wealth is that
+     they have $100,000 less than
+     they did before they bought
+     the car (or $100,000 more in
+     debt). That’s all you know
+     about them.
+                 ~ Morgan Housel
 
 
 -- News --
 # Formula1
-    1. [Erik Van Haren] First
-       crash of this weekend in
-       Monza. Bernd Mayländer
-       crashed with the safety
-       car.
-    2. Duracell’s farewell to
+    1. Duracell’s farewell to
        Logan via Twitter
-    3. Lewis Hamilton’s reply on
-       Twitter
-    4. Carlos Sainz’s Helmet for
+    2. Red Flag: Antonelli
+       Crashes in FP1
+    3. Carlos Sainz’s Helmet for
        2024 Italian Grand Prix
-    5. Safety Car crashes at
-       Parabolica
-    6. [@formulaLau16] Daniel
-       Ricciardo: “Throw out a
-       simply lovely after the
-       race….I know as much as
-       they are friends…..I know
-       how competitive max is he
-       would’ve not taken that
-       very nicely or too well so
-       we will see how he reacts
-       this weekend”
-    7. Formula 1 drivers’
+    4. Lewis Hamilton’s reply on
+       Twitter
+    5. Toto's Reaction to
+       Antonelli's Crash
+    6. Formula 1 drivers’
        WhatsApp group lit up by
        Monza changes
-    8. [@Motorsport] ‪”I still
-       get so nervous for
-       Qualifying. I barely eat
-       anything on Sundays. I
-       struggle to drink anything
-       because of nerves and
-       pressure.‬” – Norris
-    9. Piastri surprised by
+    7. Piastri surprised by
        Sargeant’s F1 struggles:
        “His potential was much
        greater”
-    10. F1 News: Helmut Marko
-       claims Jos Verstappen’s
-       bond with Toto Wolff is
-       stronger than with
-       Christian Horner
+    8. [Motorsport] Vowles on
+       Sargeant: "He's reached
+       the limit of what he's
+       able to achieve & in fact
+       it's almost unfair on him
+       continuing that."
+    9. Lewis: “In Imola there was
+       this amazing picture of
+       me, you and Fred. Did you
+       see it?" Charles: “As
+       Saints? Yeah I saw that”
+    10. [Motosport.com] Vowles:
+       "Mick isn't special, he
+       would just be good. I
+       think he would come with a
+       lot more experience than
+       Franco does. But the
+       future of Williams isn't
+       investing in the past."
 
 # Gaming
 
 # HackerNews
-    1. The secret inside One
+    1. End of the Road: An
+       AnandTech Farewell
+    2. The secret inside One
        Million Checkboxes
-    2. Rearchiving 2M hours of
+    3. Leader Election with S3
+       Conditional Writes
+    4. Rearchiving 2M hours of
        digital radio, a
        comprehensive process
-    3. Six Things I Know for Sure
-       About Marketing to
-       Engineers
-    4. Bypassing airport security
+    5. Bypassing airport security
        via SQL injection
-    5. Time-Memory Trade-Offs
+    6. Marketing to Engineers
+    7. Micrograd.jl
+    8. Time-Memory Trade-Offs
        Sound the Death Knell for
        GPRS and GSM
-    6. Micrograd.jl
-    7. Elasticsearch is open
-       source, again
-    8. Pie doesn't need to be
-       original (unless you claim
-       it so)
-    9. SDL3 new GPU API merged
-    10. Chrome is entrenching
-       third-party cookies that
-       will mislead users
+    9. The fight to ban
+       gas-powered cars in the
+       1960s
+    10. Rubi: Symbolic integrator
+       based on an extensive
+       system of integration
+       rules
 
 # NL
     1. Its party time (Lethal
@@ -105,75 +105,78 @@ To live happily, then, is
        the Spire)
 
 # Slovakia
-    1. Weekend: Festivals and
+    1. Last year, he illegally
+       swam to Russia; this year,
+       he robbed a shop in Košice
+    2. Can you handle the splash?
+       Check out Slovakia’s 10
+       biggest aquaparks with
+       epic pools and slides
+    3. Slovan Bratislava ready
+       for Champions League
+       battle against Europe’s
+       giants
+    4. Weekend: Festivals and
        fairy tales, end your
        summer with these events
-    2. I swear it’s not a
+    5. I swear it’s not a
        Photoshop. Slovak rapper
        pops up in NYC
-    3. 3 things to do in
+    6. 3 things to do in
        Bratislava for free in the
        next seven days
-    4. Top 10 events in
+    7. Top 10 events in
        Bratislava for foreigners
-    5. Slovan Bratislava makes
+    8. Slovan Bratislava makes
        history as fourth Slovak
        club to reach Champions
        League group stage
-    6. News digest: Remembering
+    9. News digest: Remembering
        one of the most important
        events in the history of
        Slovakia
-    7. Extra carriages, trains
+    10. Extra carriages, trains
        laid on ahead of start of
        school year
-    8. Even coalition MPs say
-       Šimkovičová is terrible,
-       claims shadow culture
-       minister
-    9. Bojnice used to grow one
-       of the most expensive
-       spices, tradition now
-       returns after 200 years
-    10. History Talks: Time
-       honoured tax dodging
 
 # Space
-    1. Aurora season is here:
+    1. 'Doomed' comet
+       Tsuchinshan-ATLAS survives
+       brush with sun — may be
+       visible to naked eye this
+       fall
+    2. Early galaxies weren't
+       mystifyingly massive after
+       all, James Webb Space
+       Telescope finds
+    3. How AI is revealing the
+       universe's original
+       'settings'
+    4. Aurora season is here:
        What to expect from the
        northern lights in 2024/25
-    2. Boeing's 1st crewed
+    5. Boeing's 1st crewed
        Starliner to return to
        Earth without astronauts
        on Sept. 6
-    3. New record: Blue Origin
+    6. New record: Blue Origin
        launches youngest woman
        beyond Kármán line
-    4. Private astronauts of
+    7. Private astronauts of
        Polaris Dawn mission
        patiently await SpaceX
        launch amid multiple
        delays
-    5. Netflix's 'Terminator
+    8. Netflix's 'Terminator
        Zero' restores faith in an
        ailing sci-fi franchise
        (review)
-    6. SETI searches for alien
+    9. SETI searches for alien
        life in over 1,000
        galaxies using unexplored
        radio frequencies
-    7. NASA Inspector General
+    10. NASA Inspector General
        issues harsh report on
        delayed SLS mobile
        launcher project
-    8. Archaeologists find huge,
-       2,500-year-old Egyptian
-       astronomy observatory
-    9. Satellite watches as
-       hazardous wildfire
-       particles drift into the
-       air
-    10. Trump says he'd create a
-       Space National Guard if
-       elected
 
