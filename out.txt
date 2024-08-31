@@ -1,12 +1,11 @@
 -- Daily Times --
 Saturday, August 31
 
-There is a way to approach
-     life so that when asked,
-     “Your money or your life?”
-     you say, “I’ll take both,
-     thank you.”
-                   ~ Vicki Robin
+Riches, I say, are not a
+     good thing; for if they
+     were, they would make men
+     good.
+                        ~ Seneca
 
 
 -- News --
@@ -17,88 +16,101 @@ There is a way to approach
     2. Kimi Raikkonen & Mattia
        Binotto in Sauber garage
     3. What A Wholesome Moment
-    4. Red Flag: Magnussen
-       Crashes in FP2
-    5. The barrier logo couldn’t
-       have been more perfect
-    6. [Julianne Cerasoli]
-       Antonelli did not give the
-       interview scheduled for
-       after the second F1 free
-       practice session because
-       he went to the hotel
-       early, as he was not
-       feeling 100%. The impact
-       was 45G, according to Toto
-       Wolff. After the crash, he
-       was 6th in the F2
-       qualifying.
-    7. Wolff: Vowles "could have
-       done without" Schumacher
-       comments
-    8. Different Rear Wing Design
-       in Monza
-    9. [F1] Yuki woke up and
-       chose chaos
-    10. Why does Aston Martin even
+    4. Lando Norris takes pole
+       position for the 2024
+       Italian Grand Prix
+    5. [Motorsport] Spotted in
+       Monza
+    6. Kimi Antonelli will be the
+       third-youngest F1 racer in
+       history when he debuts in
+       Australia - behind only
+       Max Verstappen and Lance
+       Stroll.
+    7. Why does Aston Martin even
        bother having a “young
        driver academy”
+    8. [Adam Cooper] Class from
+       Kimi Antonelli: "It's not
+       possible to replace Lewis
+       Hamilton. He's such a
+       great figure in the sport
+       of today, and he has
+       achieved so much in his
+       career, so I don't want to
+       be seen as his
+       replacement. I'm just the
+       next driver for Mercedes
+       in '25".
+    9. [@verstappenews]: Max on
+       lando saying ‘simply
+       lovely’: "I heard that
+       people heard that.. You
+       know, I was just not happy
+       with the race, we have
+       enough things to focus
+       ourselves on.. That kind
+       of stuff... in the end I
+       don't care. I have to make
+       sure the car gets better”
+    10. 5 years ago today we lost
+       Anthoine Hubert
 
 # Gaming
 
 # HackerNews
-    1. Is my vision that bad? No,
-       it's just a bug in Apple's
-       Calculator
-    2. Show HN: A retro terminal
+    1. Harder Drive: hard drives
+       we didn't want, or need
+       [video] (2022)
+    2. Artifacts are now
+       generally available
+    3. My fake job in Y2K
+       preparedness
+    4. Lucee: A light-weight
+       dynamic CFML scripting
+       language for the JVM
+    5. Nearly half of Nvidia's
+       revenue comes from four
+       mystery whales each buying
+       $3B+
+    6. Show HN: A retro terminal
        text editor for GNU/Linux
        coded in C (C-edit)
-    3. Crows are even smarter
-       than we thought
-    4. Deepwater Sub Recovers
-       Roman Battering Ram Used
-       in Carthage in Punic Wars
-       Battle
-    5. Show HN: Asyncpal:
-       Preemptive concurrency and
-       parallelism for sporadic
-       workloads
-    6. Rediscovering the Small
-       Web (2020)
-    7. Orphaning bcachefs-tools
-       in Debian
-    8. About synchronous disk
-       replication
-    9. Building Bubbletea
+    7. Is my vision that bad? No,
+       it's just a bug in Apple's
+       Calculator
+    8. What it's like take a
+       train across America, a
+       visual diary
+    9. Show HN: Typeform
+       alternative, turns
+       Markdown to forms
+    10. Building Bubbletea
        Programs
-    10. Changes in Need for
-       Uniqueness From 2000 Until
-       2020
 
 # NL
-    1. Uh-huh, I get the picture
+    1. This is what getting older
+       looks like (Fishlike)
+    2. The be all and end all
+       (Slay the Spire)
+    3. Uh-huh, I get the picture
        (Tactical Breach Wizards)
-    2. The dragon was angry that
+    4. The dragon was angry that
        day my friends (Clank)
-    3. She got a little saucy
+    5. She got a little saucy
        today (Miscellaneous)
-    4. Somebody get me a
+    6. Somebody get me a
        calculator (Slay the
        Spire)
-    5. It's WarioWare but every
+    7. It's WarioWare but every
        game has a fish (Fishlike)
-    6. Its party time (Lethal
+    8. Its party time (Lethal
        Company)
-    7. Vibes were off from the
+    9. Vibes were off from the
        start (Clank)
-    8. This is my Tom Cruise
+    10. This is my Tom Cruise
        moment fr (Tactical Breach
        Wizards)
-    9. Jon Voip was running wild
-       in this one (Lethal
-       Company)
-    10. That's why they call it a
-       deckbuilder (Clank)
 
 # Slovakia
     1. Golden hat-trick complete!
@@ -137,41 +149,41 @@ There is a way to approach
        League group stage
 
 # Space
-    1. This Week In Space
+    1. Rocket Lab's Mars probes
+       reach launch site ahead of
+       1st flight on Blue Origin
+       New Glenn rocket (photos)
+    2. This Week In Space
        podcast: Episode 126
        —Danger! Rogue Planets!
-    2. Roll out with Optimus
+    3. Roll out with Optimus
        Prime in new 'Transformers
        One' trailer (video)
-    3. Who is Rook, the
+    4. Who is Rook, the
        Renaissance station's
        robot science officer in
        'Alien: Romulus?'
-    4. NASA's solar sail
+    5. NASA's solar sail
        successfully spreads its
        wings in space
-    5. SpaceX's Falcon 9 rocket
+    6. SpaceX's Falcon 9 rocket
        can return to flight, FAA
        says
-    6. No, NASA's DART asteroid
+    7. No, NASA's DART asteroid
        impact probably won't
        spark meteor showers on
        Earth — but maybe on Mars
-    7. 'Deadpool & Wolverine' has
+    8. 'Deadpool & Wolverine' has
        a sneaky Canadarm robot
        arm cameo at the end of
        time — but blink and
        you'll miss it
-    8. 'Slingshot' is a surreal
+    9. 'Slingshot' is a surreal
        sci-fi head trip that
        questions its own reality
        (review)
-    9. Former U.S. Navy Seal
+    10. Former U.S. Navy Seal
        Jonny Kim will be 1st
        Korean-American astronaut
        on ISS in March 2025
-    10. What were the Bell Riots
-       in the greatest 'Star
-       Trek: Deep Space Nine'
-       time travel episode?
 
