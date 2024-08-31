@@ -1,10 +1,10 @@
 -- Daily Times --
-Saturday, August 31
+Sunday, September 01
 
-Riches, I say, are not a
-     good thing; for if they
-     were, they would make men
-     good.
+How far more endurable what
+     I have feared seems to be
+     than what I have lusted
+     after.
                         ~ Seneca
 
 
@@ -15,33 +15,28 @@ Riches, I say, are not a
        Mercedes from 2025!
     2. Kimi Raikkonen & Mattia
        Binotto in Sauber garage
-    3. What A Wholesome Moment
-    4. Lando Norris takes pole
+    3. Lando Norris takes pole
        position for the 2024
        Italian Grand Prix
+    4. What A Wholesome Moment
     5. [Motorsport] Spotted in
        Monza
-    6. Kimi Antonelli will be the
-       third-youngest F1 racer in
-       history when he debuts in
-       Australia - behind only
-       Max Verstappen and Lance
-       Stroll.
-    7. Why does Aston Martin even
-       bother having a “young
-       driver academy”
-    8. [Adam Cooper] Class from
-       Kimi Antonelli: "It's not
-       possible to replace Lewis
-       Hamilton. He's such a
-       great figure in the sport
-       of today, and he has
-       achieved so much in his
-       career, so I don't want to
-       be seen as his
-       replacement. I'm just the
-       next driver for Mercedes
-       in '25".
+    6. [Autosport] P7 in Monza is
+       the worst Q3 result for
+       Max Verstappen since he
+       finished P9 in Miami last
+       year!
+    7. [SkySportsF1] "I'm
+       furious... I could have
+       been on pole, I just
+       didn't do the job" A
+       frustrated Lewis Hamilton
+       after qualifying P6 in
+       Monza
+    8. If the race finishes in
+       qualifying order then
+       McLaren will get ahead of
+       Red Bull by 3 points
     9. [@verstappenews]: Max on
        lando saying ‘simply
        lovely’: "I heard that
@@ -53,8 +48,12 @@ Riches, I say, are not a
        of stuff... in the end I
        don't care. I have to make
        sure the car gets better”
-    10. 5 years ago today we lost
-       Anthoine Hubert
+    10. Kimi Antonelli will be the
+       third-youngest F1 racer in
+       history when he debuts in
+       Australia - behind only
+       Max Verstappen and Lance
+       Stroll.
 
 # Gaming
 
@@ -62,55 +61,55 @@ Riches, I say, are not a
     1. Harder Drive: hard drives
        we didn't want, or need
        [video] (2022)
-    2. Artifacts are now
-       generally available
-    3. My fake job in Y2K
-       preparedness
-    4. Lucee: A light-weight
-       dynamic CFML scripting
-       language for the JVM
-    5. Nearly half of Nvidia's
-       revenue comes from four
-       mystery whales each buying
-       $3B+
-    6. Show HN: A retro terminal
-       text editor for GNU/Linux
-       coded in C (C-edit)
-    7. Is my vision that bad? No,
-       it's just a bug in Apple's
-       Calculator
-    8. What it's like take a
-       train across America, a
-       visual diary
-    9. Show HN: Typeform
-       alternative, turns
-       Markdown to forms
-    10. Building Bubbletea
-       Programs
+    2. WatchYourLAN: Lightweight
+       Network IP Scanner
+    3. Did your car witness a
+       crime?
+    4. Building LLMs from the
+       Ground Up: A 3-Hour Coding
+       Workshop
+    5. Meta enforces purpose
+       limitation via Privacy
+       Aware Infrastructure at
+       scale
+    6. Greece announces new rules
+       banning mobile phones in
+       schools from September
+    7. Compilation of JavaScript
+       to WASM, Part 2:
+       Ahead-of-Time vs. JIT
+    8. Continue (YC S23) Is
+       Hiring a Software Engineer
+       in San Francisco
+    9. Signals for Tailwind CSS
+       (styling based on ancestor
+       state via style queries)
+    10. Landlords Face a $1.5T
+       Commercial Real Estate
+       Maturity Wall
 
 # NL
-    1. This is what getting older
-       looks like (Fishlike)
-    2. The be all and end all
-       (Slay the Spire)
-    3. Uh-huh, I get the picture
+    1. Joke's on you, I got
+       another freaking Jen
        (Tactical Breach Wizards)
-    4. The dragon was angry that
+    2. I love gold (Clank)
+    3. This is what getting older
+       looks like (Fishlike)
+    4. The be all and end all
+       (Slay the Spire)
+    5. Uh-huh, I get the picture
+       (Tactical Breach Wizards)
+    6. The dragon was angry that
        day my friends (Clank)
-    5. She got a little saucy
+    7. She got a little saucy
        today (Miscellaneous)
-    6. Somebody get me a
+    8. Somebody get me a
        calculator (Slay the
        Spire)
-    7. It's WarioWare but every
+    9. It's WarioWare but every
        game has a fish (Fishlike)
-    8. Its party time (Lethal
+    10. Its party time (Lethal
        Company)
-    9. Vibes were off from the
-       start (Clank)
-    10. This is my Tom Cruise
-       moment fr (Tactical Breach
-       Wizards)
 
 # Slovakia
     1. Golden hat-trick complete!
@@ -149,41 +148,43 @@ Riches, I say, are not a
        League group stage
 
 # Space
-    1. Rocket Lab's Mars probes
+    1. SpaceX launches
+       back-to-back Falcon 9
+       rockets within 65 minutes
+       and aces 2 landings days
+       after a failed booster
+       touchdown
+    2. Rocket Lab's Mars probes
        reach launch site ahead of
        1st flight on Blue Origin
        New Glenn rocket (photos)
-    2. This Week In Space
+    3. This Week In Space
        podcast: Episode 126
        —Danger! Rogue Planets!
-    3. Roll out with Optimus
+    4. Roll out with Optimus
        Prime in new 'Transformers
        One' trailer (video)
-    4. Who is Rook, the
+    5. Who is Rook, the
        Renaissance station's
        robot science officer in
        'Alien: Romulus?'
-    5. NASA's solar sail
+    6. NASA's solar sail
        successfully spreads its
        wings in space
-    6. SpaceX's Falcon 9 rocket
+    7. SpaceX's Falcon 9 rocket
        can return to flight, FAA
        says
-    7. No, NASA's DART asteroid
+    8. No, NASA's DART asteroid
        impact probably won't
        spark meteor showers on
        Earth — but maybe on Mars
-    8. 'Deadpool & Wolverine' has
+    9. 'Deadpool & Wolverine' has
        a sneaky Canadarm robot
        arm cameo at the end of
        time — but blink and
        you'll miss it
-    9. 'Slingshot' is a surreal
+    10. 'Slingshot' is a surreal
        sci-fi head trip that
        questions its own reality
        (review)
-    10. Former U.S. Navy Seal
-       Jonny Kim will be 1st
-       Korean-American astronaut
-       on ISS in March 2025
 
