@@ -1,52 +1,27 @@
 -- Daily Times --
 Saturday, August 31
 
-“Why, if the wise man
-     receives neither injury nor
-     insult, he punishes those
-     who do these things?” He
-     does not revenge himself,
-     but corrects them.
-                        ~ Seneca
+There is a way to approach
+     life so that when asked,
+     “Your money or your life?”
+     you say, “I’ll take both,
+     thank you.”
+                   ~ Vicki Robin
 
 
 -- News --
 # Formula1
-    1. Red Flag: Antonelli
-       Crashes in FP1
-    2. Toto's Reaction to
-       Antonelli's Crash
-    3. Russell's reaction to
-       antonelli's crash
-    4. [@F1] BREAKING: Andrea
+    1. [@F1] BREAKING: Andrea
        Kimi Antonelli to race for
        Mercedes from 2025!
-    5. Red Flag: Magnussen
+    2. Kimi Raikkonen & Mattia
+       Binotto in Sauber garage
+    3. What A Wholesome Moment
+    4. Red Flag: Magnussen
        Crashes in FP2
-    6. [Adam Cooper] James Vowles
-       says that pesos played no
-       part in choosing Franco
-       Colapinto - but the
-       decision is now paying
-       off: "The phone is still
-       ringing off the hook. A
-       number of Argentine
-       companies, of which there
-       are many, are calling, and
-       they're paying market rate
-       for stickers on the car."
-    7. What A Wholesome Moment
-    8. The barrier logo couldn’t
+    5. The barrier logo couldn’t
        have been more perfect
-    9. [Motosport.com] Vowles:
-       "Mick isn't special, he
-       would just be good. I
-       think he would come with a
-       lot more experience than
-       Franco does. But the
-       future of Williams isn't
-       investing in the past."
-    10. [Julianne Cerasoli]
+    6. [Julianne Cerasoli]
        Antonelli did not give the
        interview scheduled for
        after the second F1 free
@@ -58,33 +33,47 @@ Saturday, August 31
        Wolff. After the crash, he
        was 6th in the F2
        qualifying.
+    7. Wolff: Vowles "could have
+       done without" Schumacher
+       comments
+    8. Different Rear Wing Design
+       in Monza
+    9. [F1] Yuki woke up and
+       chose chaos
+    10. Why does Aston Martin even
+       bother having a “young
+       driver academy”
 
 # Gaming
 
 # HackerNews
-    1. EU ChatControl is back on
-       the agenda
-    2. Is my vision that bad? No,
+    1. Is my vision that bad? No,
        it's just a bug in Apple's
        Calculator
+    2. Show HN: A retro terminal
+       text editor for GNU/Linux
+       coded in C (C-edit)
     3. Crows are even smarter
        than we thought
-    4. Google Cloud: synchronous
-       disk replication
-    5. Bundling Information
-       Goods: Pricing, Profits,
-       and Efficiency (1999)
+    4. Deepwater Sub Recovers
+       Roman Battering Ram Used
+       in Carthage in Punic Wars
+       Battle
+    5. Show HN: Asyncpal:
+       Preemptive concurrency and
+       parallelism for sporadic
+       workloads
     6. Rediscovering the Small
        Web (2020)
     7. Orphaning bcachefs-tools
        in Debian
-    8. Fortran Bug Urban Legend
-    9. Stonebraker Seeks to
-       Invert the Computing
-       Paradigm with DBOS
-    10. Iron as an inexpensive
-       storage medium for
-       hydrogen
+    8. About synchronous disk
+       replication
+    9. Building Bubbletea
+       Programs
+    10. Changes in Need for
+       Uniqueness From 2000 Until
+       2020
 
 # NL
     1. Uh-huh, I get the picture
@@ -112,76 +101,77 @@ Saturday, August 31
        deckbuilder (Clank)
 
 # Slovakia
-    1. News digest: It's
+    1. Golden hat-trick complete!
+       Metelka wins Paralympic
+       gold after rival’s fall
+    2. News digest: It's
        confirmed: NAKA will end
        on Sep 1; it was
        'ineffective', claims
        Eštok
-    2. Last year, he illegally
+    3. Last year, he illegally
        swam to Russia; this year,
        he robbed a shop in Košice
-    3. Can you handle the splash?
+    4. Can you handle the splash?
        Check out Slovakia’s 10
        biggest aquaparks with
        epic pools and slides
-    4. Slovan Bratislava ready
+    5. Slovan Bratislava ready
        for Champions League
        battle against Europe’s
        giants
-    5. Weekend: Festivals and
+    6. Weekend: Festivals and
        fairy tales, end your
        summer with these events
-    6. I swear it’s not a
+    7. I swear it’s not a
        Photoshop. Slovak rapper
        pops up in NYC
-    7. 3 things to do in
+    8. 3 things to do in
        Bratislava for free in the
        next seven days
-    8. Top 10 events in
+    9. Top 10 events in
        Bratislava for foreigners
-    9. Slovan Bratislava makes
+    10. Slovan Bratislava makes
        history as fourth Slovak
        club to reach Champions
        League group stage
-    10. News digest: Remembering
-       one of the most important
-       events in the history of
-       Slovakia
 
 # Space
-    1. NASA's solar sail
+    1. This Week In Space
+       podcast: Episode 126
+       —Danger! Rogue Planets!
+    2. Roll out with Optimus
+       Prime in new 'Transformers
+       One' trailer (video)
+    3. Who is Rook, the
+       Renaissance station's
+       robot science officer in
+       'Alien: Romulus?'
+    4. NASA's solar sail
        successfully spreads its
        wings in space
-    2. SpaceX's Falcon 9 rocket
+    5. SpaceX's Falcon 9 rocket
        can return to flight, FAA
        says
-    3. No, NASA's DART asteroid
+    6. No, NASA's DART asteroid
        impact probably won't
        spark meteor showers on
        Earth — but maybe on Mars
-    4. 'Deadpool & Wolverine' has
+    7. 'Deadpool & Wolverine' has
        a sneaky Canadarm robot
        arm cameo at the end of
        time — but blink and
        you'll miss it
-    5. 'Slingshot' is a surreal
+    8. 'Slingshot' is a surreal
        sci-fi head trip that
        questions its own reality
        (review)
-    6. Former U.S. Navy Seal
+    9. Former U.S. Navy Seal
        Jonny Kim will be 1st
        Korean-American astronaut
        on ISS in March 2025
-    7. What were the Bell Riots
+    10. What were the Bell Riots
        in the greatest 'Star
        Trek: Deep Space Nine'
        time travel episode?
-    8. The best 50s sci-fi movies
-    9. NASA gives Intuitive
-       Machines $117 million for
-       2027 mission to moon's
-       south pole
-    10. NASA's Perseverance rover
-       begins ambitious ascent up
-       a Mars crater rim
 
