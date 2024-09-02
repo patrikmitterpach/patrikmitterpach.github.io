@@ -1,190 +1,198 @@
--- Daily Times --
-Sunday, September 01
+<head>
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <meta name="title" content="mitterpach.dev">
+        <meta name="description" content="mitterpach's personal site"
+</head>
+<body>
+<div>
 
-How far more endurable what
-     I have feared seems to be
-     than what I have lusted
-     after.
+        <h1>mitterpach.dev</h1>
+        <h2>Daily News</h2>
+
+
+<pre>
+        
+                 .                      .
+                 .                      ;
+      *          :                  - --+- -
+        .        !           .          !
+                 |        .             .
+                 |_         +
+              ,  | `.
+          --- +-<#>-+- --- 
+              `._|_,'
+                 T
+                 |                  + .
+                 !
+                 :         . : 
+                 .       *
+</pre>
+Monday, September 02
+
+“Fortune bids me follow
+     philosophy in lighter
+     marching order.”
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. [@F1] BREAKING: Andrea
-       Kimi Antonelli to race for
-       Mercedes from 2025!
-    2. Kimi Raikkonen & Mattia
-       Binotto in Sauber garage
-    3. Lando Norris takes pole
-       position for the 2024
-       Italian Grand Prix
-    4. What A Wholesome Moment
-    5. [Motorsport] Spotted in
-       Monza
-    6. [Autosport] P7 in Monza is
-       the worst Q3 result for
-       Max Verstappen since he
-       finished P9 in Miami last
-       year!
-    7. [SkySportsF1] "I'm
-       furious... I could have
-       been on pole, I just
-       didn't do the job" A
-       frustrated Lewis Hamilton
-       after qualifying P6 in
-       Monza
-    8. If the race finishes in
-       qualifying order then
-       McLaren will get ahead of
-       Red Bull by 3 points
-    9. [@verstappenews]: Max on
-       lando saying ‘simply
-       lovely’: "I heard that
-       people heard that.. You
-       know, I was just not happy
-       with the race, we have
-       enough things to focus
-       ourselves on.. That kind
-       of stuff... in the end I
-       don't care. I have to make
-       sure the car gets better”
-    10. Kimi Antonelli will be the
-       third-youngest F1 racer in
-       history when he debuts in
-       Australia - behind only
-       Max Verstappen and Lance
-       Stroll.
+    1. Charles Leclerc wins the
+       2024 Italian Grand Prix
+    2. Max Verstappen
+       congratulates Charles
+       Leclerc after the race!
+    3. Kevin Magnussen receives 2
+       penalty points for his
+       collision with Pierre
+       Gasly, totaling to 12
+       points; gets an automatic
+       race ban
+    4. Difference a Day Can Make
+    5. Don't be fooled by certain
+       narratives.
+    6. “He had stroll driving
+       like it was his first
+       go-kart race, I don’t know
+       what went through his
+       brain when he saw his blue
+       flag but that cost another
+       second”
+    7. Ferrari winning in Monza
+       is like winning a
+       championship
+    8. Mclaren is now 10 points
+       behind Red Bull
+    9. Kevin Magnussen received a
+       one-race ban
+    10. Leo didn't want to
+       third-wheel so he joined
+       the kiss!
 
 # Gaming
 
 # HackerNews
-    1. Harder Drive: hard drives
-       we didn't want, or need
-       [video] (2022)
-    2. WatchYourLAN: Lightweight
-       Network IP Scanner
-    3. Did your car witness a
-       crime?
-    4. Building LLMs from the
-       Ground Up: A 3-Hour Coding
-       Workshop
-    5. Meta enforces purpose
-       limitation via Privacy
-       Aware Infrastructure at
-       scale
-    6. Greece announces new rules
-       banning mobile phones in
-       schools from September
-    7. Compilation of JavaScript
-       to WASM, Part 2:
-       Ahead-of-Time vs. JIT
-    8. Continue (YC S23) Is
-       Hiring a Software Engineer
-       in San Francisco
-    9. Signals for Tailwind CSS
-       (styling based on ancestor
-       state via style queries)
-    10. Landlords Face a $1.5T
-       Commercial Real Estate
-       Maturity Wall
+    1. DOjS – A DOS JavaScript
+       Canvas with Sound
+    2. Full Text, Full Archive
+       RSS Feeds for Any Blog
+    3. 1M Users
+    4. Show HN: Defrag the Game
+    5. Upgrading a Toshiba NAS
+       HDD Firmware on Linux
+    6. Telephone Line Rural
+       Outside Plant
+    7. Extreme Pi Boot
+       Optimization
+    8. The Case for Hypochondria
+    9. Bitmovin (YC S15) Is
+       Hiring Various Roles in
+       Austria
+    10. The Pentium as a Navajo
+       Weaving
 
 # NL
-    1. Joke's on you, I got
+    1. Zan is a glue guy
+       (Tactical Breach Wizards)
+    2. He's going Clanko mode
+       (Clank)
+    3. I took that personally
+       (Fishlike)
+    4. What more could you ask
+       for (Slay the Spire)
+    5. Joke's on you, I got
        another freaking Jen
        (Tactical Breach Wizards)
-    2. I love gold (Clank)
-    3. This is what getting older
+    6. I love gold (Clank)
+    7. This is what getting older
        looks like (Fishlike)
-    4. The be all and end all
+    8. The be all and end all
        (Slay the Spire)
-    5. Uh-huh, I get the picture
+    9. Uh-huh, I get the picture
        (Tactical Breach Wizards)
-    6. The dragon was angry that
+    10. The dragon was angry that
        day my friends (Clank)
-    7. She got a little saucy
-       today (Miscellaneous)
-    8. Somebody get me a
-       calculator (Slay the
-       Spire)
-    9. It's WarioWare but every
-       game has a fish (Fishlike)
-    10. Its party time (Lethal
-       Company)
 
 # Slovakia
-    1. Golden hat-trick complete!
+    1. Instead of siren sound,
+       residents heard PM Fico
+       criticising Progressive
+       Slovakia chair
+    2. New AHK Slowakei head
+       wants to beat drum in
+       Germany for Slovakia
+    3. Last Week: Slovakia is
+       living proof of how
+       damaging a lack of
+       historical memory can be
+    4. Slovak shooters and table
+       tennis heroes capture
+       Paralympic medals
+    5. Slovak artist paused her
+       work to tell the stories
+       of Ukrainian refugees; now
+       she wants America to see
+       them.
+    6. Golden hat-trick complete!
        Metelka wins Paralympic
        gold after rival’s fall
-    2. News digest: It's
+    7. News digest: It's
        confirmed: NAKA will end
        on Sep 1; it was
        'ineffective', claims
        Eštok
-    3. Last year, he illegally
+    8. Last year, he illegally
        swam to Russia; this year,
        he robbed a shop in Košice
-    4. Can you handle the splash?
+    9. Can you handle the splash?
        Check out Slovakia’s 10
        biggest aquaparks with
        epic pools and slides
-    5. Slovan Bratislava ready
+    10. Slovan Bratislava ready
        for Champions League
        battle against Europe’s
        giants
-    6. Weekend: Festivals and
-       fairy tales, end your
-       summer with these events
-    7. I swear it’s not a
-       Photoshop. Slovak rapper
-       pops up in NYC
-    8. 3 things to do in
-       Bratislava for free in the
-       next seven days
-    9. Top 10 events in
-       Bratislava for foreigners
-    10. Slovan Bratislava makes
-       history as fourth Slovak
-       club to reach Champions
-       League group stage
 
 # Space
-    1. SpaceX launches
+    1. Astrophotographer captures
+       Comet C/2023 E1 Atlas in
+       rare encounter with Flying
+       Bat and Squid Nebula
+    2. Astronomers discover
+       oldest known eclipse
+       reference in
+       6,000-year-old Hindu text
+    3. NASA astronaut Butch
+       Wilmore reports 'strange
+       noise' coming from
+       Boeing's Starliner
+       spacecraft, 'I don't know
+       what's making it'
+    4. 1 month until the annular
+       solar eclipse 2024: Here's
+       what you need to know
+    5. Best Alien comic books of
+       all time
+    6. Weird mystery waves that
+       baffle scientists may be
+       'everywhere' inside
+       Earth's mantle
+    7. Astrophotographer captures
+       Comet 13P/Olbers and the
+       Black Eye Galaxy M64 in
+       stunning detail (photo)
+    8. SpaceX launches
        back-to-back Falcon 9
        rockets within 65 minutes
        and aces 2 landings days
        after a failed booster
-       touchdown
-    2. Rocket Lab's Mars probes
+       touchdown (video)
+    9. Rocket Lab's Mars probes
        reach launch site ahead of
        1st flight on Blue Origin
        New Glenn rocket (photos)
-    3. This Week In Space
+    10. This Week In Space
        podcast: Episode 126
        —Danger! Rogue Planets!
-    4. Roll out with Optimus
-       Prime in new 'Transformers
-       One' trailer (video)
-    5. Who is Rook, the
-       Renaissance station's
-       robot science officer in
-       'Alien: Romulus?'
-    6. NASA's solar sail
-       successfully spreads its
-       wings in space
-    7. SpaceX's Falcon 9 rocket
-       can return to flight, FAA
-       says
-    8. No, NASA's DART asteroid
-       impact probably won't
-       spark meteor showers on
-       Earth — but maybe on Mars
-    9. 'Deadpool & Wolverine' has
-       a sneaky Canadarm robot
-       arm cameo at the end of
-       time — but blink and
-       you'll miss it
-    10. 'Slingshot' is a surreal
-       sci-fi head trip that
-       questions its own reality
-       (review)
+
 

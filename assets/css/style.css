@@ -1,3 +1,9 @@
+ @font-face {
+  font-family: SF Mono;
+  src: url(../fonts/SFMono-Regular.otf);
+}
+
+
 a:link {color: blue;}      /* unvisited link */
 a:visited {color: blue;}   /* visited link */
 a:hover {color: blue;}     /* mouse over link */
@@ -8,7 +14,7 @@ html {
 }
 
 div {
-	max-width: 40em;
+	max-width: 30em;
 	position: absolute;
 	top:1em;
 	bottom: 1em;
@@ -20,8 +26,8 @@ div {
 }
 
 * {
-	font-family: monospace !important;
-}
+	font-family: SF Mono, monospace !important;
+        }
 
 
 pre {
