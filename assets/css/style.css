@@ -1,0 +1,91 @@
+a:link {color: blue;}      /* unvisited link */
+a:visited {color: blue;}   /* visited link */
+a:hover {color: blue;}     /* mouse over link */
+a:active {color: blue;}    /* selected link */
+html {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+div {
+	max-width: 40em;
+	position: absolute;
+	top:1em;
+	bottom: 1em;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	padding-right: 1em;
+	padding-left: 1em;
+}
+
+* {
+	font-family: monospace !important;
+}
+
+
+pre {
+	max-width: 40em;
+	text-align: left;
+	overflow: hidden;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 1em;
+	font-weight: normal;
+}
+
+
+h1, h2 {
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+h3 {
+	padding-top: 2em;
+}
+h3::before {
+	content: "[ ";
+}
+h3::after {
+	content: " ]";
+}
+
+
+/* Create ULs that look like ascii: */
+
+ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+	list-style-position: outside;
+}
+
+li {
+	padding-left: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+li::before {
+	content: "-";
+	padding-right: 5px;
+}
+
+
+.asciiRule {
+	padding-top: 2em;
+	text-align: center;
+	max-width: 40em;
+	width: 100vw;
+	overflow: hidden;
+}
+
+.back {
+	padding-left: 1em;
+}
+
+.back::before {
+	content: "<-- ";
+}
