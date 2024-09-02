@@ -29,89 +29,119 @@
 </pre>
 Monday, September 02
 
-“Fortune bids me follow
-     philosophy in lighter
-     marching order.”
+You were born to die, and a
+     silent death is the least
+     wretched. Write something
+     therefore in a simple style,
+     merely to pass the time, for
+     your own use, and not for
+     publication. Less labour is
+     needed when one does not
+     look beyond the present.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Charles Leclerc wins the
-       2024 Italian Grand Prix
-    2. Max Verstappen
-       congratulates Charles
-       Leclerc after the race!
-    3. Kevin Magnussen receives 2
-       penalty points for his
-       collision with Pierre
-       Gasly, totaling to 12
-       points; gets an automatic
-       race ban
-    4. Difference a Day Can Make
-    5. Don't be fooled by certain
+    1. Don't be fooled by certain
        narratives.
-    6. “He had stroll driving
-       like it was his first
-       go-kart race, I don’t know
-       what went through his
-       brain when he saw his blue
-       flag but that cost another
-       second”
-    7. Ferrari winning in Monza
+    2. Ferrari winning in Monza
        is like winning a
        championship
-    8. Mclaren is now 10 points
-       behind Red Bull
-    9. Kevin Magnussen received a
-       one-race ban
-    10. Leo didn't want to
-       third-wheel so he joined
-       the kiss!
+    3. Third Ferrari Flag has
+       been added at the factory
+       entrance in Maranello for
+       the Italian GP win
+    4. Robert Kubica joins the
+       likes of Fernando Alonso
+       and Mark Webber as he
+       becomes the third driver
+       to have won a (*overall)
+       race in both F1 and WEC
+    5. @kevinmagnussen on
+       Instangram| Good stuff:
+       One point in Monza. Bad
+       stuff: Race ban in Baku.
+       See you in Singapore!
+    6. ‘I'm not here to beg for
+       someone to let me past’
+       says Norris
+    7. [@LH44updates] Aww, a race
+       marshal ran along the
+       track after the parade
+       truck to get Lewis'
+       autograph. Lewis saw him,
+       stopped filming, signed
+       his cap while the marshal
+       kept running, telling him,
+       "Still we rise, still we
+       rise," and then they shook
+       hands
+    8. 8 years ago, Haas
+       announced in June 2016
+       that Charles Leclerc, GP3
+       winner, will get his first
+       F1 practice outings with
+       them in the coming British
+       GP.
+    9. Norris is now 14-2 in
+       qualifying, +44 points, 10
+       podiums vs 5, 4 pole
+       positions vs 0 when
+       compared against his team
+       mate Piastri
+    10. Charles Leclerc on the
+       front pages of Italian
+       newspapers today
 
 # Gaming
 
 # HackerNews
-    1. DOjS – A DOS JavaScript
+    1. Launch HN: Fortress (YC
+       S24) – Database platform
+       for multi-tenant SaaS
+    2. DOjS – A DOS JavaScript
        Canvas with Sound
-    2. Full Text, Full Archive
+    3. In the Beginning, There
+       Was Computation
+    4. Sleep on it: How the brain
+       processes many experiences
+       – even when 'offline'
+    5. Full Text, Full Archive
        RSS Feeds for Any Blog
-    3. 1M Users
-    4. Show HN: Defrag the Game
-    5. Upgrading a Toshiba NAS
-       HDD Firmware on Linux
-    6. Telephone Line Rural
-       Outside Plant
-    7. Extreme Pi Boot
-       Optimization
-    8. The Case for Hypochondria
-    9. Bitmovin (YC S15) Is
-       Hiring Various Roles in
-       Austria
-    10. The Pentium as a Navajo
-       Weaving
+    6. America's Oldest Board
+       Game Teaches 19th-Century
+       Geography
+    7. What Does It Mean to
+       Learn?
+    8. Show HN: Defrag the Game
+    9. GoGoGrandparent (YC S16)
+       Is Hiring Back End and
+       Full-Stack Engineers
+    10. Owners of 1-Time Passcode
+       Theft Service Plead Guilty
 
 # NL
-    1. Zan is a glue guy
+    1. We call this Millennial
+       bonding (Fishlike)
+    2. The most chaotic run of
+       all time (Slay the Spire)
+    3. Zan is a glue guy
        (Tactical Breach Wizards)
-    2. He's going Clanko mode
+    4. He's going Clanko mode
        (Clank)
-    3. I took that personally
+    5. I took that personally
        (Fishlike)
-    4. What more could you ask
+    6. What more could you ask
        for (Slay the Spire)
-    5. Joke's on you, I got
+    7. Joke's on you, I got
        another freaking Jen
        (Tactical Breach Wizards)
-    6. I love gold (Clank)
-    7. This is what getting older
+    8. I love gold (Clank)
+    9. This is what getting older
        looks like (Fishlike)
-    8. The be all and end all
+    10. The be all and end all
        (Slay the Spire)
-    9. Uh-huh, I get the picture
-       (Tactical Breach Wizards)
-    10. The dragon was angry that
-       day my friends (Clank)
 
 # Slovakia
     1. Instead of siren sound,
@@ -154,45 +184,42 @@ Monday, September 02
        giants
 
 # Space
-    1. Astrophotographer captures
+    1. Heaviest antimatter
+       particle ever discovered
+       could hold secrets to our
+       universe's origins
+    2. Orion capsule used in
+       abort test 'lands' at
+       University of North Dakota
+    3. The pieces of NASA's next
+       3 Artemis moon missions
+       head to Florida launch
+       site (photos)
+    4. 'Warm Jupiter' exoplanet
+       300 light-years away found
+       by amateur astronomers
+    5. Astrophotographer captures
        Comet C/2023 E1 Atlas in
        rare encounter with Flying
        Bat and Squid Nebula
-    2. Astronomers discover
+    6. Astronomers discover
        oldest known eclipse
        reference in
        6,000-year-old Hindu text
-    3. NASA astronaut Butch
+    7. NASA astronaut Butch
        Wilmore reports 'strange
        noise' coming from
        Boeing's Starliner
        spacecraft, 'I don't know
        what's making it'
-    4. 1 month until the annular
+    8. 1 month until the annular
        solar eclipse 2024: Here's
        what you need to know
-    5. Best Alien comic books of
+    9. Best Alien comic books of
        all time
-    6. Weird mystery waves that
+    10. Weird mystery waves that
        baffle scientists may be
        'everywhere' inside
        Earth's mantle
-    7. Astrophotographer captures
-       Comet 13P/Olbers and the
-       Black Eye Galaxy M64 in
-       stunning detail (photo)
-    8. SpaceX launches
-       back-to-back Falcon 9
-       rockets within 65 minutes
-       and aces 2 landings days
-       after a failed booster
-       touchdown (video)
-    9. Rocket Lab's Mars probes
-       reach launch site ahead of
-       1st flight on Blue Origin
-       New Glenn rocket (photos)
-    10. This Week In Space
-       podcast: Episode 126
-       —Danger! Rogue Planets!
 
 
