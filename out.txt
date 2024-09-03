@@ -27,46 +27,52 @@
                  :         . : 
                  .       *
 </pre>
-Monday, September 02
+Tuesday, September 03
 
-You were born to die, and a
-     silent death is the least
-     wretched. Write something
-     therefore in a simple style,
-     merely to pass the time, for
-     your own use, and not for
-     publication. Less labour is
-     needed when one does not
-     look beyond the present.
+“Why, if the wise man
+     receives neither injury nor
+     insult, he punishes those
+     who do these things?” He
+     does not revenge himself,
+     but corrects them.
                         ~ Seneca
 
 
 -- News --
 # Formula1
-    1. Don't be fooled by certain
-       narratives.
-    2. Ferrari winning in Monza
-       is like winning a
-       championship
-    3. Third Ferrari Flag has
-       been added at the factory
-       entrance in Maranello for
-       the Italian GP win
-    4. Robert Kubica joins the
-       likes of Fernando Alonso
-       and Mark Webber as he
-       becomes the third driver
-       to have won a (*overall)
-       race in both F1 and WEC
-    5. @kevinmagnussen on
+    1. Colapinto commenting on
+       Kym Illman's post: "Never
+       thought I could be part of
+       the women of the paddock"
+    2. ‘I'm not here to beg for
+       someone to let me past’
+       says Norris
+    3. 2 extra flags in Maranello
+       after Ferrari won the
+       Italian GP and the 6 hours
+       of COTA.
+    4. @kevinmagnussen on
        Instangram| Good stuff:
        One point in Monza. Bad
        stuff: Race ban in Baku.
        See you in Singapore!
-    6. ‘I'm not here to beg for
-       someone to let me past’
-       says Norris
-    7. [@LH44updates] Aww, a race
+    5. Piastri's pursuit of
+       Leclerc delayed by Stroll
+       "driving like it was his
+       first go-kart race"
+    6. [F1GuyDan] Leclerc joins
+       Verstappen, Vettel &
+       Alonso as the only drivers
+       to win Monza & Monaco in
+       the same season over the
+       last 30 years
+    7. Norris is now 14-2 in
+       qualifying, +44 points, 10
+       podiums vs 5, 4 pole
+       positions vs 0 when
+       compared against his team
+       mate Piastri
+    8. [@LH44updates] Aww, a race
        marshal ran along the
        track after the parade
        truck to get Lewis'
@@ -77,149 +83,140 @@ You were born to die, and a
        "Still we rise, still we
        rise," and then they shook
        hands
-    8. 8 years ago, Haas
-       announced in June 2016
-       that Charles Leclerc, GP3
-       winner, will get his first
-       F1 practice outings with
-       them in the coming British
-       GP.
-    9. Norris is now 14-2 in
-       qualifying, +44 points, 10
-       podiums vs 5, 4 pole
-       positions vs 0 when
-       compared against his team
-       mate Piastri
-    10. Charles Leclerc on the
-       front pages of Italian
-       newspapers today
+    9. If you ever wondered why
+       there’s always a dude in
+       the first row waving a
+       “Croatian” flag the last
+       few years in Monza:
+    10. Mattia Binotto seen
+       talking to Gabriel
+       Bortoleto
 
 # Gaming
 
 # HackerNews
-    1. Launch HN: Fortress (YC
-       S24) – Database platform
-       for multi-tenant SaaS
-    2. DOjS – A DOS JavaScript
-       Canvas with Sound
-    3. In the Beginning, There
-       Was Computation
-    4. Sleep on it: How the brain
-       processes many experiences
-       – even when 'offline'
-    5. Full Text, Full Archive
-       RSS Feeds for Any Blog
-    6. America's Oldest Board
-       Game Teaches 19th-Century
-       Geography
-    7. What Does It Mean to
-       Learn?
-    8. Show HN: Defrag the Game
-    9. GoGoGrandparent (YC S16)
-       Is Hiring Back End and
-       Full-Stack Engineers
-    10. Owners of 1-Time Passcode
-       Theft Service Plead Guilty
+    1. Greppability is an
+       underrated code metric
+    2. Is My Blue Your Blue?
+    3. The Art of Finishing
+    4. IPMI
+    5. Open Mathematics
+       Depository
+    6. Show HN: A modern way to
+       type in African languages
+    7. Jennifer in paradise: the
+       story of the first
+       Photoshopped image (2014)
+    8. Sleep on it: How the brain
+       processes many
+       experiences, even when
+       'offline'
+    9. Feds Kill Plan to Curb
+       Medicare Advantage
+       Overbilling After Industry
+       Opposition
+    10. Notes on Distributed
+       Systems for Young Bloods
 
 # NL
-    1. We call this Millennial
+    1. A new wizard joins the
+       fray (Tactical Breach
+       Wizards)
+    2. The highest scoring game
+       in history (Clank)
+    3. We played Wingspan for 2
+       hours (Wingspan)
+    4. We call this Millennial
        bonding (Fishlike)
-    2. The most chaotic run of
+    5. The most chaotic run of
        all time (Slay the Spire)
-    3. Zan is a glue guy
+    6. Zan is a glue guy
        (Tactical Breach Wizards)
-    4. He's going Clanko mode
+    7. He's going Clanko mode
        (Clank)
-    5. I took that personally
+    8. I took that personally
        (Fishlike)
-    6. What more could you ask
+    9. What more could you ask
        for (Slay the Spire)
-    7. Joke's on you, I got
+    10. Joke's on you, I got
        another freaking Jen
        (Tactical Breach Wizards)
-    8. I love gold (Clank)
-    9. This is what getting older
-       looks like (Fishlike)
-    10. The be all and end all
-       (Slay the Spire)
 
 # Slovakia
-    1. Instead of siren sound,
+    1. Archaeologists discover
+       first evidence of Pit
+       Grave culture in Slovakia
+    2. News digest: Though autumn
+       is almost here, weather
+       does not seem to have
+       noticed
+    3. Instead of siren sound,
        residents heard PM Fico
        criticising Progressive
        Slovakia chair
-    2. New AHK Slowakei head
+    4. New AHK Slowakei head
        wants to beat drum in
        Germany for Slovakia
-    3. Last Week: Slovakia is
+    5. Last Week: Slovakia is
        living proof of how
        damaging a lack of
        historical memory can be
-    4. Slovak shooters and table
+    6. Slovak shooters and table
        tennis heroes capture
        Paralympic medals
-    5. Slovak artist paused her
+    7. Slovak artist paused her
        work to tell the stories
        of Ukrainian refugees; now
        she wants America to see
        them.
-    6. Golden hat-trick complete!
+    8. Golden hat-trick complete!
        Metelka wins Paralympic
        gold after rival’s fall
-    7. News digest: It's
+    9. News digest: It's
        confirmed: NAKA will end
        on Sep 1; it was
        'ineffective', claims
        Eštok
-    8. Last year, he illegally
+    10. Last year, he illegally
        swam to Russia; this year,
        he robbed a shop in Košice
-    9. Can you handle the splash?
-       Check out Slovakia’s 10
-       biggest aquaparks with
-       epic pools and slides
-    10. Slovan Bratislava ready
-       for Champions League
-       battle against Europe’s
-       giants
 
 # Space
-    1. Heaviest antimatter
+    1. Satellites are making the
+       night sky brighter — as a
+       launch site, New Zealand
+       has a duty to combat light
+       pollution
+    2. Stick to the shade in new
+       extended 'Dune: Awakening'
+       gameplay trailer (video)
+    3. 'Unbreakable' quantum
+       communication closer to
+       reality thanks to new,
+       exceptionally bright
+       photons
+    4. Star-packed Triangulum
+       Galaxy shines in new
+       Hubble Telescope image
+    5. Lego Star Wars Mos Espa
+       Podrace Diorama review
+    6. Heaviest antimatter
        particle ever discovered
        could hold secrets to our
        universe's origins
-    2. Orion capsule used in
+    7. Orion capsule used in
        abort test 'lands' at
        University of North Dakota
-    3. The pieces of NASA's next
+    8. The pieces of NASA's next
        3 Artemis moon missions
        head to Florida launch
        site (photos)
-    4. 'Warm Jupiter' exoplanet
+    9. 'Warm Jupiter' exoplanet
        300 light-years away found
        by amateur astronomers
-    5. Astrophotographer captures
+    10. Astrophotographer captures
        Comet C/2023 E1 Atlas in
        rare encounter with Flying
        Bat and Squid Nebula
-    6. Astronomers discover
-       oldest known eclipse
-       reference in
-       6,000-year-old Hindu text
-    7. NASA astronaut Butch
-       Wilmore reports 'strange
-       noise' coming from
-       Boeing's Starliner
-       spacecraft, 'I don't know
-       what's making it'
-    8. 1 month until the annular
-       solar eclipse 2024: Here's
-       what you need to know
-    9. Best Alien comic books of
-       all time
-    10. Weird mystery waves that
-       baffle scientists may be
-       'everywhere' inside
-       Earth's mantle
 
 
