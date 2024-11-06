@@ -11,7 +11,7 @@ html {
 
 div {
 	max-width: 30em;
-	position: absolute;
+	/* position: absolute; */
 	top:1em;
 	bottom: 1em;
 	left: 0;
