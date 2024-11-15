@@ -1,44 +1,27 @@
-html {
-	margin-left: auto;
-	margin-right: auto;
-}
 
 div {
-	max-width: auto;
-	position: initial;
-	top:auto;
-	bottom: auto;
-	left: initial;
-	right: initial;
-	margin: 0 auto;
-	padding-right: initial;
-	padding-left: initial;
+	margin: initial;
 }
 
 
 #container {
-    /* max-width: 100%; */
-    position: relative;
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #image {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 60vw;
-  
+    min-width: 60vw;
+    /* max-width: 60vw; */
     position: absolute;
 }
 
 #overlay {
+    min-width: 60vw;
     position: absolute;
-    max-width: 60vw;
-
-    margin-left: auto;
-    margin-right: auto;
-
-    /* top: 0; */
-    /* left: 0; */
     pointer-events: none; 
-    background-color:aqua;
+
+    border: red 10px ;
     
 }
