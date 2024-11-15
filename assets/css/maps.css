@@ -12,16 +12,17 @@ div {
 }
 
 #image {
-    min-width: 60vw;
-    /* max-width: 60vw; */
+    width:60%;  
+    top: 0; left: 0;
     position: absolute;
 }
 
 #overlay {
-    min-width: 60vw;
+    /* width: max-content; */
+    width:60%;  height:100%;
+    top: 0; left: 0;
+
+    height: auto;
     position: absolute;
     pointer-events: none; 
-
-    border: red 10px ;
-    
 }

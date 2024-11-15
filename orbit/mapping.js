@@ -1,61 +1,79 @@
-import { getLatLngObj } from "/orbit/tle.js/index.js";
+import { getLatLngObj } from "./tle.js/index.mjs";
 
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const ctx = canvas.getContext('2d');
 
-LATITUDE_OFFSET = 2.2
-LONGITUDE_OFFSET = -8.5
+var icon = new Image();
+
+icon.src = 'icon.svg';
+
+
+const LATITUDE_OFFSET = 2.2
+const LONGITUDE_OFFSET = -8.5
+
+if (image.complete) {
+    canvas.width = image.width;
+    canvas.height = image.height;
+}
 
 image.onload = () => {
     canvas.width = image.width;
     canvas.height = image.height;
+    // // Bratislava
+    // drawPointByCoordinates(48.0991776, 16.9519043, 4)
 
-    // Bratislava
-    drawPointByCoordinates(48.0991776, 16.9519043, 4)
+    // // Buenos Aires
+    // drawPointByCoordinates( -34.6483135,-58.579101, 4)
 
-    // Buenos Aires
-    drawPointByCoordinates( -34.6483135,-58.579101, 4)
-
-    // Guinean Gulf
-    drawPointByCoordinates(0, 0, 4)
-
-    // for (i = -180; i < 190; i+=2) {
-    //     for (j = -90; j < 90; j+=5) {
-    //         drawPointByCoordinates(j, i, 2 )
-    //         if (j == 0) {
-    //             drawPointByCoordinates(j, i, 4 )
-    //         }
-    //     }
-    // }
-
-
-
+    // // Guinean Gulf
+    // drawPointByCoordinates(0, 0, 4)
 };
 
-function drawPointByCoordinates(latitude, longitude, size=6) {
+function displayTLE(tle) {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    if (!tle) {
+        tle = `ISS (ZARYA)
+1 25544U 98067A   24318.40073414  .00018836  00000-0  32023-3 0  9990
+2 25544  51.6381 296.1395 0008363 170.0219 190.0938 15.51437269481692`;
+    }
+
+    const LatLanObj = getLatLngObj(tle)
+    console.log(LatLanObj)
+
+    drawPointByCoordinates(LatLanObj["lat"], LatLanObj["lng"], 1, icon)
+
+}
+
+function drawPointByCoordinates(latitude, longitude, size=6, img) {
     // latitude    = 41.145556; // (φ)
     // longitude   = -73.995;   // (λ)
-    const tle = `ISS (ZARYA)
-1 25544U 98067A   17206.18396726  .00001961  00000-0  36771-4 0  9993
-2 25544  51.6400 208.9163 0006317  69.9862  25.2906 15.54225995 67660`;
-    console.log(getLatLngObj(tle))
+    
 
-    mapWidth    = canvas.width; 
-    mapHeight   = canvas.height;
+    var mapWidth    = canvas.width; 
+    var mapHeight   = canvas.height;
 
     // get x value
-    x = (longitude+180+LONGITUDE_OFFSET)*(mapWidth/360)
+    var x = (longitude+180+LONGITUDE_OFFSET)*(mapWidth/360)
 
     // convert from degrees to radians
-    latRad = (latitude+LATITUDE_OFFSET)*Math.PI/180;
+    var latRad = (latitude+LATITUDE_OFFSET)*Math.PI/180;
 
     // get y value
-    mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
-    y     = ((mapHeight)/2)-(mapWidth*mercN/(2*Math.PI));
+    var mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
+    var y     = ((mapHeight)/2)-(mapWidth*mercN/(2*Math.PI));
         
     ctx.fillStyle = '#ae5d40';
     ctx.beginPath();
-    ctx.arc(x, y, size, 0, Math.PI * 2); // A small circle as a point
+
+    if (img) { ctx.drawImage(icon, x, y, 20, 20); }
+    
     ctx.fill();
 }
+
+
+console.log("hello")
+drawPointByCoordinates(0, 0, 4)
+
+setInterval(displayTLE, 1000);

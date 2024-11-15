@@ -1,4 +1,4 @@
-import { parseTLE } from "./parsing";
+import { parseTLE } from "./parsing.mjs";
 import {
 	catalogNumber2,
 	checksum2,
@@ -10,8 +10,8 @@ import {
 	perigee,
 	revNumberAtEpoch,
 	rightAscension
-} from "./line-2-definitions";
-import { getFromTLE } from "./utils";
+} from "./line-2-definitions.mjs";
+import { getFromTLE } from "./utils.mjs";
 
 /**
  * General helper to get a piece of data from the second line of a TLE.

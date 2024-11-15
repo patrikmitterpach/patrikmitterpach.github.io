@@ -1,4 +1,4 @@
-import { _TLE_DATA_TYPES } from "./constants";
+import { _TLE_DATA_TYPES } from "./constants.mjs";
 
 /**
  * Two-Line Element Set (TLE) format definitions, Line 2

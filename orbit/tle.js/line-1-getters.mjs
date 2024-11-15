@@ -1,4 +1,4 @@
-import { parseTLE } from "./parsing";
+import { parseTLE } from "./parsing.mjs";
 import {
 	bstarDrag,
 	catalogNumber1,
@@ -14,8 +14,8 @@ import {
 	orbitModel,
 	secondTimeDerivative,
 	tleSetNumber
-} from "./line-1-definitions";
-import { getFromTLE } from "./utils";
+} from "./line-1-definitions.mjs";
+import { getFromTLE } from "./utils.mjs";
 
 /**
  * General helper to get a piece of data from the first line of a TLE.

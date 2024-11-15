@@ -7,20 +7,20 @@ import {
 	ecfToLookAngles,
 	degreesLong,
 	degreesLat
-} from "satellite.js";
-import { parseTLE } from "./parsing";
+} from "./satellite-js/index.mjs";
+import { parseTLE } from "./parsing.mjs";
 import {
 	getAverageOrbitTimeMins,
 	getAverageOrbitTimeMS,
 	getEpochTimestamp
-} from "./sugar-getters";
-import { _MS_IN_A_DAY, _MS_IN_A_MINUTE } from "./constants";
+} from "./sugar-getters.mjs";
+import { _MS_IN_A_DAY, _MS_IN_A_MINUTE } from "./constants.mjs";
 import {
 	_degreesToRadians,
 	_radiansToDegrees,
 	_crossesAntemeridian,
 	_getObjLength
-} from "./utils";
+} from "./utils.mjs";
 
 const _SAT_REC_ERRORS = {
 	_DEFAULT: "Problematic TLE with unknown error.",

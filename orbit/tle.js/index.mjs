@@ -11,7 +11,7 @@ export {
 	getSatBearing,
 	getSatelliteInfo,
 	getVisibleSatellites
-} from "./sgp4";
+} from "./sgp4.mjs";
 export {
 	getBstarDrag,
 	getCatalogNumber1 as getCatalogNumber,
@@ -28,7 +28,7 @@ export {
 	getOrbitModel,
 	getSecondTimeDerivative,
 	getTleSetNumber
-} from "./line-1-getters";
+} from "./line-1-getters.mjs";
 export {
 	getCatalogNumber2,
 	getChecksum2,
@@ -40,7 +40,7 @@ export {
 	getPerigee,
 	getRevNumberAtEpoch,
 	getRightAscension
-} from "./line-2-getters";
+} from "./line-2-getters.mjs";
 export {
 	getCOSPAR,
 	getSatelliteName,
@@ -48,5 +48,5 @@ export {
 	getAverageOrbitTimeMS,
 	getAverageOrbitTimeMins,
 	getAverageOrbitTimeS
-} from "./sugar-getters";
-export { parseTLE, isValidTLE, computeChecksum, clearTLEParseCache } from "./parsing";
+} from "./sugar-getters.mjs";
+export { parseTLE, isValidTLE, computeChecksum, clearTLEParseCache } from "./parsing.mjs";

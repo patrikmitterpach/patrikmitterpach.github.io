@@ -1,14 +1,14 @@
-import { _MS_IN_A_DAY, _MS_IN_A_MINUTE, _MS_IN_A_SECOND } from "./constants";
-import { _dayOfYearToTimeStamp, _getFullYear } from "./utils";
+import { _MS_IN_A_DAY, _MS_IN_A_MINUTE, _MS_IN_A_SECOND } from "./constants.mjs";
+import { _dayOfYearToTimeStamp, _getFullYear } from "./utils.mjs";
 import {
 	getEpochDay,
 	getEpochYear,
 	getIntDesignatorLaunchNumber,
 	getIntDesignatorPieceOfLaunch,
 	getIntDesignatorYear
-} from "./line-1-getters";
-import { getMeanMotion } from "./line-2-getters";
-import { parseTLE } from "./parsing";
+} from "./line-1-getters.mjs";
+import { getMeanMotion } from "./line-2-getters.mjs";
+import { parseTLE } from "./parsing.mjs";
 
 /**
  * Determines COSPAR ID.

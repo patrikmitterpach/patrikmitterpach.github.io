@@ -1,4 +1,4 @@
-import { _MS_IN_A_DAY, _TLE_DATA_TYPES, _DATA_TYPES } from "./constants";
+import { _MS_IN_A_DAY, _TLE_DATA_TYPES, _DATA_TYPES } from "./constants.mjs";
 
 /**
  * General helper that provides more useful info than JavaScript's built-in "typeof" operator.
