@@ -3,6 +3,11 @@
   src: url(../fonts/SFMono-Regular.otf);
 }
 
+:root {
+	--color-white: #d2c9a5; 
+	--color-black: #4d4539; 
+	--color-accent: #8caba1; 
+}
 
 html {
 	margin-left: 1em;
@@ -94,7 +99,7 @@ li::before {
 }
 
 a {
-    color: black;
+    color: var(--color-black);
     text-decoration: none;
 }
 
@@ -105,5 +110,5 @@ a:hover {
 
 /* Visited state */
 a:visited {
-    color: gray
+    color: var(--color-accent)
 }

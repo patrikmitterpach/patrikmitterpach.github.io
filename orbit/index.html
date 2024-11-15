@@ -2,32 +2,17 @@
 <head>
         <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
         <link rel="stylesheet" type="text/css" href="/assets/css/gallery.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/maps.css">
         
         <meta name="title" content="mitterpach.dev">
         <meta name="description" content="mitterpach's personal site">
 </head>
 <body>
-<div>
-
-        <h1>mitterpach.dev</h1>
-        <h2>student, space devops engineer</h2>
-</div>
-<div>
-    <pre>
+        <!--https://vemaps.com/world/wrld-18-->
+<div id="container">
+        <canvas id="overlay"></canvas>
+        <img id="image" src="mercator.svg" style="background-color: blueviolet;">
         
-                 .                      .
-                 .                      ;
-      *          :                  - --+- -
-        .        !           .          !
-                 |        .             .
-                 |_         +
-              ,  | `.
-          --- +-<#>-+- --- 
-              `._|_,'
-                 T
-                 |                  + .
-                 !
-                 :         . : 
-                 .       *
-    </pre>
+        <script src="mapping.js"></script>
 </div>
+

@@ -1,3 +1,9 @@
+:root {
+	--color-white: #d2c9a5; 
+	--color-black: #4d4539; 
+	--color-accent: #8caba1;  
+}
+
     .gallery {
       display: flex;
       flex-wrap: wrap;
@@ -8,7 +14,7 @@
       margin-bottom: 1em;
       padding: 30px;
 
-      border: 2px solid #fff;
+      border: 2px solid var(--color-white);
 
     }
 
@@ -25,6 +31,6 @@
     }
 
     body {
-      color: #fff;
-      background-color: #111;
+      color: var(--color-white);
+      background-color: var(--color-black);
     }
