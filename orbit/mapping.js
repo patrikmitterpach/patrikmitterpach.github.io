@@ -1,3 +1,5 @@
+import { getLatLngObj } from "/orbit/tle.js/index.js";
+
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const ctx = canvas.getContext('2d');
@@ -34,6 +36,10 @@ image.onload = () => {
 function drawPointByCoordinates(latitude, longitude, size=6) {
     // latitude    = 41.145556; // (φ)
     // longitude   = -73.995;   // (λ)
+    const tle = `ISS (ZARYA)
+1 25544U 98067A   17206.18396726  .00001961  00000-0  36771-4 0  9993
+2 25544  51.6400 208.9163 0006317  69.9862  25.2906 15.54225995 67660`;
+    console.log(getLatLngObj(tle))
 
     mapWidth    = canvas.width; 
     mapHeight   = canvas.height;
