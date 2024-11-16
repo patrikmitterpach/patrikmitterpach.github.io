@@ -2,15 +2,15 @@ import { getLatLngObj } from "./tle.js/index.mjs";
 
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
+const icon = document.getElementById('icon')
+
 const ctx = canvas.getContext('2d');
 
-var icon = new Image();
+const LATITUDE_OFFSET = 0
+const LONGITUDE_OFFSET = 0
 
-icon.src = 'icon.svg';
-
-
-const LATITUDE_OFFSET = 2.2
-const LONGITUDE_OFFSET = -8.5
+var counter = 0
+var previous_longitude = null
 
 if (image.complete) {
     canvas.width = image.width;
@@ -20,6 +20,8 @@ if (image.complete) {
 image.onload = () => {
     canvas.width = image.width;
     canvas.height = image.height;
+
+    displayTLE()
     // // Bratislava
     // drawPointByCoordinates(48.0991776, 16.9519043, 4)
 
@@ -30,27 +32,39 @@ image.onload = () => {
     // drawPointByCoordinates(0, 0, 4)
 };
 
-function displayTLE(tle) {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
+function displayTLE(tle=null, time=Date.now()) {
 
     if (!tle) {
         tle = `ISS (ZARYA)
-1 25544U 98067A   24318.40073414  .00018836  00000-0  32023-3 0  9990
-2 25544  51.6381 296.1395 0008363 170.0219 190.0938 15.51437269481692`;
+1 25544U 98067A   24321.20587963  .00018228  00000-0  32812-3 0  9992
+2 25544  51.6409 282.2382 0007650 221.8173 321.1701 15.49845766482123`;
     }
 
     const LatLanObj = getLatLngObj(tle)
     console.log(LatLanObj)
 
-    drawPointByCoordinates(LatLanObj["lat"], LatLanObj["lng"], 1, icon)
+    moveIcon(LatLanObj["lat"], LatLanObj["lng"])
+
+    
+    // if (counter % 10 == 0) {
+    if (counter % 10 == 0) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        for (var i = -93; i < 94; i++) {
+            var coordinates = getLatLngObj(tle, Date.now()+(i*60000))
+            if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
+    
+            drawPointByCoordinates(
+                coordinates["lat"], coordinates["lng"]
+            )
+        }
+    }
+
+    previous_longitude = NaN
+    counter++;
 
 }
 
-function drawPointByCoordinates(latitude, longitude, size=6, img) {
-    // latitude    = 41.145556; // (φ)
-    // longitude   = -73.995;   // (λ)
-    
-
+function transformCoordinatesToPixels(latitude, longitude) {
     var mapWidth    = canvas.width; 
     var mapHeight   = canvas.height;
 
@@ -63,17 +77,44 @@ function drawPointByCoordinates(latitude, longitude, size=6, img) {
     // get y value
     var mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
     var y     = ((mapHeight)/2)-(mapWidth*mercN/(2*Math.PI));
-        
-    ctx.fillStyle = '#ae5d40';
-    ctx.beginPath();
 
-    if (img) { ctx.drawImage(icon, x, y, 20, 20); }
+    return {"x": x, "y": y}
+}
+
+
+function moveIcon(latitude, longitude) {
+    const dimensions = transformCoordinatesToPixels(latitude, longitude)
+    icon.style.transform = `translate(${dimensions['x']-10}px, ${dimensions['y']-10}px)`;    
+}
+
+function drawPointByCoordinates(latitude, longitude, size=6) {
+    // latitude    = 41.145556; // (φ)
+    // longitude   = -73.995;   // (λ)
     
-    ctx.fill();
+    const dimensions = transformCoordinatesToPixels(latitude, longitude)
+    
+    ctx.fillStyle = '#ae5d40';
+
+    if (previous_longitude && previous_longitude <= dimensions["x"])  {
+        ctx.lineTo(dimensions["x"], dimensions["y"])
+
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = "#d1b187"
+        ctx.stroke();
+        
+        previous_longitude = NaN
+
+    } else {
+        ctx.beginPath();
+        ctx.moveTo(dimensions["x"], dimensions["y"])
+        previous_longitude = dimensions["x"]
+    }
+
+
+    
 }
 
 
 console.log("hello")
-drawPointByCoordinates(0, 0, 4)
 
 setInterval(displayTLE, 1000);

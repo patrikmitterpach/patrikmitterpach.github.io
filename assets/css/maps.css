@@ -12,17 +12,21 @@ div {
 }
 
 #image {
-    width:60%;  
-    top: 0; left: 0;
+    /* width:60%;   */
+    /* top: 0; left: 0; */
     position: absolute;
 }
 
 #overlay {
     /* width: max-content; */
-    width:60%;  height:100%;
-    top: 0; left: 0;
+    /* width:60%;  height:100%; */
+    /* top: 0; left: 0; */
 
     height: auto;
     position: absolute;
     pointer-events: none; 
+}
+
+#icon {
+    position: absolute;
 }
