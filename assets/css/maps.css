@@ -37,8 +37,9 @@ div {
 
 h1, h2, h3 {
     padding: 0;
+    text-align: end;
+
 }
 
-h3 {
-    text-align: end;
+.counter {
 }
