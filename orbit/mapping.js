@@ -1,4 +1,4 @@
-import { getLatLngObj } from "./tle.js/index.mjs";
+import { getLatLngObj, getSatelliteInfo } from "./tle.js/index.mjs";
 
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
@@ -6,7 +6,8 @@ const icon = document.getElementById('icon')
 
 const lat_update = document.getElementById('latitude-update')
 const lng_update = document.getElementById('longitude-update')
-
+const vel_update = document.getElementById('velocity-update')
+const hgt_update = document.getElementById('height-update')
 
 const ctx = canvas.getContext('2d');
 
@@ -14,8 +15,8 @@ const ctx = canvas.getContext('2d');
 // 
 // Note, lines_ahead only represents minutes when granularity
 //  is set to 60 - 1 minute.
-const lines_ahead = 86
-const lines_behind = 86
+const lines_ahead = 60
+const lines_behind = 60
 
 // Each line represents the span of ${granularity} seconds
 const granularity = 60 
@@ -38,6 +39,7 @@ function displayTLE(tle=null, time=Date.now()) {
 2 25544  51.6409 282.2382 0007650 221.8173 321.1701 15.49845766482123`;
     }
 
+    updateCounters(tle)
     const LatLanObj = getLatLngObj(tle)
 
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
@@ -64,7 +66,20 @@ function displayTLE(tle=null, time=Date.now()) {
     }
     previous_longitude = NaN
 
+    
 }
+
+function updateCounters(tle) {
+    info = getSatelliteInfo(tle)
+
+    console.log(info)
+
+    lat_update.textContent = info["lat"].toFixed(3);
+    lng_update.textContent = info["lng"].toFixed(3);
+    vel_update.textContent = info["velocity"].toFixed(3) + " km/s"
+    hgt_update.textContent = info["height"].toFixed(3) + " km"
+
+} 
 
 function transformCoordinatesToPixels(latitude, longitude) {
     var mapWidth    = canvas.width; 
@@ -87,8 +102,7 @@ function transformCoordinatesToPixels(latitude, longitude) {
 function moveIcon(latitude, longitude) {
     // The following code assures the correct position of the satellite icon, as well
     //  as the correct position of the canvas, which is used for drawing the lines ahead and behind.
-    lat_update.textContent = latitude.toFixed(3);
-    lng_update.textContent = longitude.toFixed(3);
+    
 
     const dimensions = transformCoordinatesToPixels(latitude, longitude)
 
