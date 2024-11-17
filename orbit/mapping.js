@@ -4,33 +4,31 @@ const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const icon = document.getElementById('icon')
 
+const lat_update = document.getElementById('latitude-update')
+const lng_update = document.getElementById('longitude-update')
+
+
 const ctx = canvas.getContext('2d');
 
-const LATITUDE_OFFSET = 0
-const LONGITUDE_OFFSET = 0
+// How many minutes ahead or behind to display as dashed lines.
+// 
+// Note, lines_ahead only represents minutes when granularity
+//  is set to 60 - 1 minute.
+const lines_ahead = 86
+const lines_behind = 86
 
-var counter = 0
+// Each line represents the span of ${granularity} seconds
+const granularity = 60 
+
+// Technical global variables for counters and trackers
 var previous_longitude = null
 
 if (image.complete) {
     canvas.width = image.width;
     canvas.height = image.height;
+
+    displayTLE();
 }
-
-image.onload = () => {
-    canvas.width = image.width;
-    canvas.height = image.height;
-
-    displayTLE()
-    // // Bratislava
-    // drawPointByCoordinates(48.0991776, 16.9519043, 4)
-
-    // // Buenos Aires
-    // drawPointByCoordinates( -34.6483135,-58.579101, 4)
-
-    // // Guinean Gulf
-    // drawPointByCoordinates(0, 0, 4)
-};
 
 function displayTLE(tle=null, time=Date.now()) {
 
@@ -41,26 +39,30 @@ function displayTLE(tle=null, time=Date.now()) {
     }
 
     const LatLanObj = getLatLngObj(tle)
-    console.log(LatLanObj)
 
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
 
     
-    // if (counter % 10 == 0) {
-    if (counter % 10 == 0) {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        for (var i = -93; i < 94; i++) {
-            var coordinates = getLatLngObj(tle, Date.now()+(i*60000))
-            if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
-    
-            drawPointByCoordinates(
-                coordinates["lat"], coordinates["lng"]
-            )
-        }
-    }
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    for (var i = 0; i < lines_ahead; i++) {
+        var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
+        if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
 
+        drawPointByCoordinates(
+            coordinates["lat"], coordinates["lng"], 6, false
+        )
+    }
     previous_longitude = NaN
-    counter++;
+    for (var i = 0; i > -lines_behind; i--) {
+        var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
+
+        if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
+
+        drawPointByCoordinates(
+            coordinates["lat"], coordinates["lng"], 6, true
+        )
+    }
+    previous_longitude = NaN
 
 }
 
@@ -69,10 +71,10 @@ function transformCoordinatesToPixels(latitude, longitude) {
     var mapHeight   = canvas.height;
 
     // get x value
-    var x = (longitude+180+LONGITUDE_OFFSET)*(mapWidth/360)
+    var x = (longitude+180)*(mapWidth/360)
 
     // convert from degrees to radians
-    var latRad = (latitude+LATITUDE_OFFSET)*Math.PI/180;
+    var latRad = (latitude)*Math.PI/180;
 
     // get y value
     var mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
@@ -83,23 +85,30 @@ function transformCoordinatesToPixels(latitude, longitude) {
 
 
 function moveIcon(latitude, longitude) {
+    // The following code assures the correct position of the satellite icon, as well
+    //  as the correct position of the canvas, which is used for drawing the lines ahead and behind.
+    lat_update.textContent = latitude.toFixed(3);
+    lng_update.textContent = longitude.toFixed(3);
+
     const dimensions = transformCoordinatesToPixels(latitude, longitude)
-    icon.style.transform = `translate(${dimensions['x']-10}px, ${dimensions['y']-10}px)`;    
+
+    // Get coordinates relative to the viewport
+    const rect = image.getBoundingClientRect();
+    canvas.style.setProperty("top", rect.top+"px")
+    icon.style.transform = `translate(${dimensions['x']-10+rect.left}px, ${dimensions['y']-10+rect.top}px)`;    
 }
 
-function drawPointByCoordinates(latitude, longitude, size=6) {
-    // latitude    = 41.145556; // (φ)
-    // longitude   = -73.995;   // (λ)
-    
+function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false) {
     const dimensions = transformCoordinatesToPixels(latitude, longitude)
-    
-    ctx.fillStyle = '#ae5d40';
-
-    if (previous_longitude && previous_longitude <= dimensions["x"])  {
+    if (previous_longitude && (
+            (!is_backwards && previous_longitude <= dimensions["x"]) || 
+            ( is_backwards && previous_longitude >= dimensions["x"])
+            )
+        ) {
         ctx.lineTo(dimensions["x"], dimensions["y"])
 
         ctx.lineWidth = 2;
-        ctx.strokeStyle = "#d1b187"
+        ctx.strokeStyle = is_backwards ?  "#d1b187" : "#d2c9a5"  
         ctx.stroke();
         
         previous_longitude = NaN
@@ -109,12 +118,5 @@ function drawPointByCoordinates(latitude, longitude, size=6) {
         ctx.moveTo(dimensions["x"], dimensions["y"])
         previous_longitude = dimensions["x"]
     }
-
-
-    
 }
-
-
-console.log("hello")
-
-setInterval(displayTLE, 1000);
+setInterval(displayTLE, 5000);

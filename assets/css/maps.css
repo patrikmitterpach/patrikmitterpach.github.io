@@ -5,28 +5,40 @@ div {
 
 
 #container {
-    /* text-align: center; */
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-right: auto; */
 
 }
 
 #image {
     /* width:60%;   */
-    /* top: 0; left: 0; */
-    position: absolute;
+    /* top: 0;  */
+    left: 0;
+    /* position: absolute; */
 }
 
 #overlay {
-    /* width: max-content; */
-    /* width:60%;  height:100%; */
     /* top: 0; left: 0; */
 
-    height: auto;
     position: absolute;
     pointer-events: none; 
 }
 
 #icon {
     position: absolute;
+    top: 0; left: 0;
+
+
+}
+
+#map-and-info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1, h2, h3 {
+    padding: 0;
+}
+
+h3 {
+    text-align: end;
 }

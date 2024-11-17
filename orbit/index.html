@@ -10,13 +10,22 @@
 </head>
 <body>
         <!--https://vemaps.com/world/wrld-18-->
-<div id="container">
-        <img id="image" src="mercator.svg">
-        <img id="icon" src="icon.svg" width="20" height="20">
-        <canvas id="overlay"></canvas>
-
-
-
+<div id="map-and-info">
+        <div id="container">
+                <img id="image" src="mercator.svg">
+                <img id="icon" src="icon.svg" width="20" height="20">
+                <canvas id="overlay"></canvas>
+        </div>
+        <div id="info">
+                <h2>Longitude:</h2>
+                <h3 class="counter" id="longitude-update">0</h3>
+                
+                <h2>Latitude:</h2>
+                <h3 class="counter" id="latitude-update" >0</h3>
+        </div>
 </div>
+        <!-- <div>
+        <h2>Current latitude:</h2>
+</div> -->
 
 <script type="module" src="./mapping.js"></script>

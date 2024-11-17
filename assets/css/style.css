@@ -15,13 +15,13 @@ html {
 }
 
 div {
-	/* max-width: 30em; */
+	/* max-width: 60em; */
 	/* position: absolute; */
 	top:1em;
 	bottom: 1em;
 	left: 0;
 	right: 0;
-	margin: 0 auto;
+	margin: auto;
 	padding-right: 1em;
 	padding-left: 1em;
 }
