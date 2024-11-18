@@ -10,28 +10,44 @@
 </head>
 <body>
         <!--https://vemaps.com/world/wrld-18-->
+
+<h1>ISS (Zarya)</h1>
 <div id="map-and-info">
         <div id="container">
                 <img id="image" src="mercator.svg">
                 <img id="icon" src="icon.svg" width="20" height="20">
                 <canvas id="overlay"></canvas>
         </div>
-        <div id="info">
-                <h2>Longitude:</h2>
-                <h3 class="counter" id="longitude-update">0</h3>
-                
-                <h2>Latitude:</h2>
-                <h3 class="counter" id="latitude-update" >0</h3>
+        <div id="panel">
 
-                <h2>Current velocity:</h2>
-                <h3 class="counter" id="velocity-update" >0</h3>
+                <div id="info">
+                        <h2 class="counter">Longitude:</h2>
+                        <h3 class="counter" id="longitude-update">0</h3>
+                </div>
+                <div id="info">
+                        <h2 class="counter">Latitude:</h2>
+                        <h3 class="counter" id="latitude-update" >0</h3>
+                </div>        
+                <div id="info">
 
-                <h2>Current height:</h2>
-                <h3 class="counter" id="height-update" >0</h3>
+                        <h2 class="counter">Current velocity:</h2>
+                        <h3 class="counter" id="velocity-update" >0</h3>
+                </div>
+                <div id="info">
+                        <h2 class="counter">Current height:</h2>
+                        <h3 class="counter" id="height-update" >0</h3>
+                </div>
         </div>
+        </div>  
 </div>
-        <!-- <div>
-        <h2>Current latitude:</h2>
-</div> -->
+<br><br>
+<div>
+        <h2>Custom TLE: (what is this?)</h2>
+        <textarea rows="3" cols="69"></textarea>
+</div>
+<br><br>
+<div>
+        <h1>Frequently Asked Questions (FAQ)</h1>
+</div>
 
 <script type="module" src="./mapping.js"></script>

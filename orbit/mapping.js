@@ -3,6 +3,7 @@ import { getLatLngObj, getSatelliteInfo } from "./tle.js/index.mjs";
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const icon = document.getElementById('icon')
+const panel = document.getElementById('panel')
 
 const lat_update = document.getElementById('latitude-update')
 const lng_update = document.getElementById('longitude-update')
@@ -32,6 +33,7 @@ if (image.complete) {
 }
 
 function displayTLE(tle=null, time=Date.now()) {
+    panel.style = "width: " + image.width + "px" 
 
     if (!tle) {
         tle = `ISS (ZARYA)
@@ -40,11 +42,10 @@ function displayTLE(tle=null, time=Date.now()) {
     }
 
     updateCounters(tle)
-    const LatLanObj = getLatLngObj(tle)
 
+    const LatLanObj = getLatLngObj(tle)
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
 
-    
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     for (var i = 0; i < lines_ahead; i++) {
         var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
@@ -54,6 +55,7 @@ function displayTLE(tle=null, time=Date.now()) {
             coordinates["lat"], coordinates["lng"], 6, false
         )
     }
+
     previous_longitude = NaN
     for (var i = 0; i > -lines_behind; i--) {
         var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
@@ -133,4 +135,10 @@ function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false)
         previous_longitude = dimensions["x"]
     }
 }
-setInterval(displayTLE, 5000);
+
+setInterval(displayTLE, 1000);
+window.onresize = resize;
+function resize() {
+   displayTLE()
+}
+

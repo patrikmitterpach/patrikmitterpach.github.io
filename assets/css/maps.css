@@ -4,11 +4,6 @@ div {
 }
 
 
-#container {
-    /* margin-right: auto; */
-
-}
-
 #image {
     /* width:60%;   */
     /* top: 0;  */
@@ -33,13 +28,38 @@ div {
 #map-and-info {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 h1, h2, h3 {
     padding: 0;
-    text-align: end;
 
 }
 
 .counter {
+    text-align: center;
+
+}
+
+#panel {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d2c9a5;
+    border-color: unset;
+    
+}
+
+textarea:focus {
+    outline: none;
+  border-color: #79444a;
+  box-shadow: 0 0 6px #79444a;
+  -moz-box-shadow: 0 0 6px #79444a;
+  -webkit-box-shadow: 0 0 6px #79444a;
 }
