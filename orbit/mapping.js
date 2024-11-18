@@ -23,11 +23,11 @@ const ctx = canvas.getContext('2d');
 // 
 // Note, lines_ahead only represents minutes when granularity
 //  is set to 60 - 1 minute.
-const lines_ahead = 60
-const lines_behind = 60
+const lines_ahead = 120
+const lines_behind = 120
 
 // Each line represents the span of ${granularity} seconds
-const granularity = 60 
+const granularity = 30 
 
 // Technical global variables for counters and trackers
 var previous_longitude = null
@@ -39,32 +39,36 @@ if (image.complete) {
     displayTLE();
 }
 
-function displayTLE(time=Date.now()) {
+function displayTLE(update_counters=true, time=Date.now()) {
     panel.style = "width: " + image.width + "px" 
 
-    updateCounters(TLE)
+    if (update_counters) {
+        updateCounters(TLE)
+    }
 
     const LatLanObj = getLatLngObj(TLE)
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
 
+
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    for (var i = 0; i < lines_ahead; i++) {
+    previous_longitude = NaN
+    for (var i = 1; i < lines_ahead; i++) {
+        // console.log("drawing line")
         var coordinates = getLatLngObj(TLE, Date.now()+(i * granularity * 1000))
-        if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
+        
 
         drawPointByCoordinates(
-            coordinates["lat"], coordinates["lng"], 6, false
+            coordinates["lat"], coordinates["lng"], 7, false
         )
     }
 
     previous_longitude = NaN
-    for (var i = 0; i > -lines_behind; i--) {
+    for (var i = -2; i > -lines_behind; i--) {
         var coordinates = getLatLngObj(TLE, Date.now()+(i * granularity * 1000))
 
-        if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
 
         drawPointByCoordinates(
-            coordinates["lat"], coordinates["lng"], 6, true
+            coordinates["lat"], coordinates["lng"], 7, true
         )
     }
     previous_longitude = NaN
@@ -77,6 +81,12 @@ function hello() {
 
     console.log(input.textContent)
     
+}
+
+function updateTitle() {
+    const title = document.getElementById('title')
+
+    title.textContent = "Currently tracking: " + TLE.split('\n')[0]
 }
 
 function updateCounters(tle) {
@@ -94,14 +104,18 @@ function transformCoordinatesToPixels(latitude, longitude) {
     var mapHeight   = canvas.height;
 
     // get x value
-    var x = (longitude+180)*(mapWidth/360)
+    // var x = (longitude+180)*(mapWidth/360)
 
-    // convert from degrees to radians
-    var latRad = (latitude)*Math.PI/180;
+    // // convert from degrees to radians
+    // var latRad = (latitude)*Math.PI/180;
 
-    // get y value
-    var mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
-    var y     = ((mapHeight)/2)-(mapWidth*mercN/(2*Math.PI));
+    // // get y value
+    // var mercN = Math.log(Math.tan((Math.PI/4)+(latRad/2)));
+    // var y     = ((mapHeight)/2)-(mapWidth*mercN/(2*Math.PI));
+    var x = ((longitude + 180) * (mapWidth  / 360));
+    var y = (((latitude * -1) + 90) * (mapHeight/ 180));
+  
+
 
     return {"x": x, "y": y}
 }
@@ -122,12 +136,20 @@ function moveIcon(latitude, longitude) {
 
 function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false) {
     const dimensions = transformCoordinatesToPixels(latitude, longitude)
-    if (previous_longitude && (
-            (!is_backwards && previous_longitude <= dimensions["x"]) || 
-            ( is_backwards && previous_longitude >= dimensions["x"])
-            )
-        ) {
+
+    // The following logic avoids drawing a line between furthermost right and left points,
+    //  when the line would cross over the side.
+    if (Math.abs(previous_longitude-dimensions["x"]) > 180) {
+        previous_longitude = NaN
+        return
+    }
+
+    // console.log(dimensions["x"], previous_longitude)
+
+    if (previous_longitude) {
+    // if (previous_longitude) {
         ctx.lineTo(dimensions["x"], dimensions["y"])
+
 
         ctx.lineWidth = 2;
         ctx.strokeStyle = is_backwards ?  "#d1b187" : "#d2c9a5"  
@@ -147,19 +169,23 @@ window.onresize = update;
 window.onscroll = update;
 
 function update() {
-   displayTLE()
+   displayTLE(false)
 }
 
 button.addEventListener("onclick", hello)
 
 button.addEventListener("click", (event) => {
     try {
-        console.log(input.value())
-        getSatelliteInfo(input.textContent)
-
-        TLE = input.value();
+        console.log(input.value)
+        getSatelliteInfo(input.value)
+        
+        TLE = input.value;
 
     } catch {
-        console.log("Incorrect TLE file!")
+        input.value = "Incorrect TLE definition."
     }
+    displayTLE()
+    updateTitle()
   });
+
+  updateTitle()
