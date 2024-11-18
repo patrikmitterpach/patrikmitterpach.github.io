@@ -1,6 +1,9 @@
 
 div {
 	margin: initial;
+    position: initial;
+	max-width: initial;
+
 }
 
 
@@ -14,18 +17,19 @@ div {
 #overlay {
     /* top: 0; left: 0; */
 
-    position: absolute;
+    position: fixed;
     pointer-events: none; 
 }
 
 #icon {
-    position: absolute;
+    position: fixed;
     top: 0; left: 0;
 
 
 }
 
 #map-and-info {
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -63,3 +67,18 @@ textarea:focus {
   -moz-box-shadow: 0 0 6px #79444a;
   -webkit-box-shadow: 0 0 6px #79444a;
 }
+
+p, ul {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    display: flex;
+    justify-content: centers;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+

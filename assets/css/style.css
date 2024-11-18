@@ -15,15 +15,15 @@ html {
 }
 
 div {
-	/* max-width: 60em; */
-	/* position: absolute; */
+	max-width: 30em;
+	position: absolute;
 	top:1em;
 	bottom: 1em;
 	left: 0;
 	right: 0;
-	margin: auto;
-	padding-right: 1em;
-	padding-left: 1em;
+	/* margin: auto; */
+	margin-right: auto;
+	margin-left: auto;
 }
 
 * {
@@ -45,13 +45,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-h1, h2 {
+h1, h2, h3 {
 	text-align: center;
-	padding-bottom: 1em;
 }
 
 h3 {
-	padding-top: 2em;
+	padding-top: 1em;
 }
 h3::before {
 	content: "[ ";
@@ -99,7 +98,7 @@ li::before {
 }
 
 a {
-    color: var(--color-black);
+    color: var(--color-accent);
     text-decoration: none;
 }
 

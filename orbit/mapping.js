@@ -1,9 +1,16 @@
 import { getLatLngObj, getSatelliteInfo } from "./tle.js/index.mjs";
 
+var TLE = `ISS (ZARYA)
+1 25544U 98067A   24321.20587963  .00018228  00000-0  32812-3 0  9992
+2 25544  51.6409 282.2382 0007650 221.8173 321.1701 15.49845766482123`;
+    
+
 const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const icon = document.getElementById('icon')
 const panel = document.getElementById('panel')
+const button = document.getElementById('tle-button')
+const input = document.getElementById('tle-input')
 
 const lat_update = document.getElementById('latitude-update')
 const lng_update = document.getElementById('longitude-update')
@@ -32,23 +39,17 @@ if (image.complete) {
     displayTLE();
 }
 
-function displayTLE(tle=null, time=Date.now()) {
+function displayTLE(time=Date.now()) {
     panel.style = "width: " + image.width + "px" 
 
-    if (!tle) {
-        tle = `ISS (ZARYA)
-1 25544U 98067A   24321.20587963  .00018228  00000-0  32812-3 0  9992
-2 25544  51.6409 282.2382 0007650 221.8173 321.1701 15.49845766482123`;
-    }
+    updateCounters(TLE)
 
-    updateCounters(tle)
-
-    const LatLanObj = getLatLngObj(tle)
+    const LatLanObj = getLatLngObj(TLE)
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
 
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     for (var i = 0; i < lines_ahead; i++) {
-        var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
+        var coordinates = getLatLngObj(TLE, Date.now()+(i * granularity * 1000))
         if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
 
         drawPointByCoordinates(
@@ -58,7 +59,7 @@ function displayTLE(tle=null, time=Date.now()) {
 
     previous_longitude = NaN
     for (var i = 0; i > -lines_behind; i--) {
-        var coordinates = getLatLngObj(tle, Date.now()+(i * granularity * 1000))
+        var coordinates = getLatLngObj(TLE, Date.now()+(i * granularity * 1000))
 
         if (Math.abs(i) < 2) { previous_longitude = NaN; continue }
 
@@ -71,10 +72,15 @@ function displayTLE(tle=null, time=Date.now()) {
     
 }
 
+function hello() {
+    const input = document.getElementById("tle-input")
+
+    console.log(input.textContent)
+    
+}
+
 function updateCounters(tle) {
     info = getSatelliteInfo(tle)
-
-    console.log(info)
 
     lat_update.textContent = info["lat"].toFixed(3);
     lng_update.textContent = info["lng"].toFixed(3);
@@ -137,8 +143,23 @@ function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false)
 }
 
 setInterval(displayTLE, 1000);
-window.onresize = resize;
-function resize() {
+window.onresize = update;
+window.onscroll = update;
+
+function update() {
    displayTLE()
 }
 
+button.addEventListener("onclick", hello)
+
+button.addEventListener("click", (event) => {
+    try {
+        console.log(input.value())
+        getSatelliteInfo(input.textContent)
+
+        TLE = input.value();
+
+    } catch {
+        console.log("Incorrect TLE file!")
+    }
+  });
