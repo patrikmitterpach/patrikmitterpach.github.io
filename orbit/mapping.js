@@ -9,8 +9,11 @@ const image = document.getElementById('image');
 const canvas = document.getElementById('overlay');
 const icon = document.getElementById('icon')
 const panel = document.getElementById('panel')
+
 const button = document.getElementById('tle-button')
 const input = document.getElementById('tle-input')
+
+const minutes = document.getElementById('minutes')
 
 const lat_update = document.getElementById('latitude-update')
 const lng_update = document.getElementById('longitude-update')
@@ -28,8 +31,7 @@ const ctx = canvas.getContext('2d');
 // 
 // Note, lines_ahead only represents minutes when granularity
 //  is set to 60 - 1 minute.
-const lines_ahead = 120
-const lines_behind = 120
+var lines_ahead = 120
 
 // Each line represents the span of ${granularity} seconds
 const granularity = 30 
@@ -70,7 +72,7 @@ function displayTLE(update_counters=true, time=Date.now()) {
     }
 
     previous_longitude = NaN
-    for (var i = -2; i > -lines_behind; i--) {
+    for (var i = -2; i > -lines_ahead; i--) {
         var coordinates = getLatLngObj(TLE, Date.now()+(i * granularity * 1000))
 
 
@@ -98,6 +100,7 @@ function updateCounters(tle) {
 } 
 
 function updateGroundCenter() {
+
     const coordinates = transformCoordinatesToPixels(parseFloat(gs_lat.value), parseFloat(gs_lon.value))
 
     ctx.beginPath();
@@ -105,6 +108,8 @@ function updateGroundCenter() {
     
     ctx.globalAlpha = 0.2;
     ctx.fillStyle = "#8caba1"  
+
+    ctx.lineWidth = 1;
 
     ctx.arc(coordinates["x"], coordinates["y"], parseInt(gs_ran.value)/30, 0, 180);
     ctx.fill()
@@ -147,7 +152,7 @@ function moveIcon(latitude, longitude) {
     canvas.style.setProperty("top", rect.top+"px")
     canvas.style.setProperty("left", rect.left+"px")
 
-    icon.style.transform = `translate(${dimensions['x']-10+rect.left}px, ${dimensions['y']-10+rect.top}px)`;    
+    icon.style.transform = `translate(${dimensions['x']-10}px, ${dimensions['y']-10}px)`;    
 }
 
 function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false) {
@@ -181,16 +186,21 @@ function drawPointByCoordinates(latitude, longitude, size=6, is_backwards=false)
 }
 
 setInterval(displayTLE, 1000);
-window.onresize = update;
-window.onscroll = update;
+// window.onresize = update;
+// window.onscroll = update;
 
 gs_lat.oninput = update;
 gs_lon.oninput = update;
 gs_ran.oninput = update;
 
+minutes.oninput = updateMinutes
+
 
 function update() {
    displayTLE(false)
+}
+function updateMinutes() {
+    lines_ahead = minutes.value/2 > 10 ? minutes.value/2 : 10
 }
 
 button.addEventListener("click", (event) => {
@@ -208,4 +218,3 @@ button.addEventListener("click", (event) => {
   });
 
   updateTitle()
-  updateGroundCenter()
