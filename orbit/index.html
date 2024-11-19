@@ -20,26 +20,45 @@
                 <img id="icon" src="icon.svg" width="20" height="20">
                 <canvas id="overlay"></canvas>
         </div>
-        <div id="panel">
+        <div class="panel" style="flex-direction: column;">
 
-                <div id="info">
-                        <h2 class="counter">Longitude:</h2>
-                        <h3 class="counter" id="longitude-update">0</h3>
+                <div class="panel" id="panel">
+                        <div id="info">
+                                <h2 class="counter">Longitude:</h2>
+                                <h3 class="counter" id="longitude-update">0</h3>
+                        </div>
+                        <div id="info">
+                                <h2 class="counter">Latitude:</h2>
+                                <h3 class="counter" id="latitude-update" >0</h3>
+                        </div>        
+                        <div id="info">
+                                <h2 class="counter">Current velocity:</h2>
+                                <h3 class="counter" id="velocity-update" >0</h3>
+                        </div>
+                        <div id="info">
+                                <h2 class="counter">Current height:</h2>
+                                <h3 class="counter" id="height-update" >0</h3>
+                        </div>
+                        
                 </div>
-                <div id="info">
-                        <h2 class="counter">Latitude:</h2>
-                        <h3 class="counter" id="latitude-update" >0</h3>
-                </div>        
-                <div id="info">
+                <div class="panel">   
+                <div>
+                        <h2>Ground Station Latitude</h2>
+                        <input id="gs-latitude" type="number" value="50">
+                </div>
+                <div>
+                        <h2>Ground Station Longitude</h2>
+                        <input id="gs-longitude" type="number" value="14"
+                                oninput="">
+                </div>
+                <div>
+                        <h2>Ground Station Range</h2>
+                        <input type="number" value="1200" id="gs-range">
 
-                        <h2 class="counter">Current velocity:</h2>
-                        <h3 class="counter" id="velocity-update" >0</h3>
-                </div>
-                <div id="info">
-                        <h2 class="counter">Current height:</h2>
-                        <h3 class="counter" id="height-update" >0</h3>
                 </div>
         </div>
+        </div>
+
         </div>  
 </div>
 <br><br>
@@ -76,10 +95,11 @@
                 <ul>
                         <li><input type="checkbox" checked> Pretty colors</li>
                         <li><input type="checkbox" checked> Custom TLEs</li>
-                        <li><input type="checkbox"> Ground Stations (GS)</li>
-                        <li><input type="checkbox"> Custom GS location</li>
+                        <li><input type="checkbox" checked> Ground Stations (GS)</li>
+                        <li><input type="checkbox" checked> Custom GS location</li>
+                        <li><input type="checkbox" checked> GS communication range</li>
+                        <li><input type="checkbox"> Make GS range noncircular</li>
                         <li><input type="checkbox"> More orbits at once</li>
-                        <li><input type="checkbox"> GS communication range</li>
                         <li><input type="checkbox"> Satellite information relative to GS</li>
                         <li><input type="checkbox"> Dynamic TLE fetch</li>
                         <li><input type="checkbox"> Satellite favorites</li>

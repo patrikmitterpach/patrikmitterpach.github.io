@@ -17,6 +17,11 @@ const lng_update = document.getElementById('longitude-update')
 const vel_update = document.getElementById('velocity-update')
 const hgt_update = document.getElementById('height-update')
 
+const gs_lat = document.getElementById('gs-latitude')
+const gs_lon = document.getElementById('gs-longitude')
+const gs_ran = document.getElementById('gs-range')
+
+
 const ctx = canvas.getContext('2d');
 
 // How many minutes ahead or behind to display as dashed lines.
@@ -40,8 +45,11 @@ if (image.complete) {
 }
 
 function displayTLE(update_counters=true, time=Date.now()) {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    
     panel.style = "width: " + image.width + "px" 
 
+    updateGroundCenter()
     if (update_counters) {
         updateCounters(TLE)
     }
@@ -50,7 +58,6 @@ function displayTLE(update_counters=true, time=Date.now()) {
     moveIcon(LatLanObj["lat"], LatLanObj["lng"])
 
 
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
     previous_longitude = NaN
     for (var i = 1; i < lines_ahead; i++) {
         // console.log("drawing line")
@@ -75,14 +82,6 @@ function displayTLE(update_counters=true, time=Date.now()) {
 
     
 }
-
-function hello() {
-    const input = document.getElementById("tle-input")
-
-    console.log(input.textContent)
-    
-}
-
 function updateTitle() {
     const title = document.getElementById('title')
 
@@ -90,14 +89,30 @@ function updateTitle() {
 }
 
 function updateCounters(tle) {
-    info = getSatelliteInfo(tle)
+    var info = getSatelliteInfo(tle)
 
     lat_update.textContent = info["lat"].toFixed(3);
     lng_update.textContent = info["lng"].toFixed(3);
     vel_update.textContent = info["velocity"].toFixed(3) + " km/s"
     hgt_update.textContent = info["height"].toFixed(3) + " km"
-
 } 
+
+function updateGroundCenter() {
+    const coordinates = transformCoordinatesToPixels(parseFloat(gs_lat.value), parseFloat(gs_lon.value))
+
+    ctx.beginPath();
+    ctx.strokeStyle = "#8caba1" 
+    
+    ctx.globalAlpha = 0.2;
+    ctx.fillStyle = "#8caba1"  
+
+    ctx.arc(coordinates["x"], coordinates["y"], parseInt(gs_ran.value)/30, 0, 180);
+    ctx.fill()
+    ctx.globalAlpha = 1;
+    ctx.stroke();
+
+
+}
 
 function transformCoordinatesToPixels(latitude, longitude) {
     var mapWidth    = canvas.width; 
@@ -115,8 +130,7 @@ function transformCoordinatesToPixels(latitude, longitude) {
     var x = ((longitude + 180) * (mapWidth  / 360));
     var y = (((latitude * -1) + 90) * (mapHeight/ 180));
   
-
-
+    
     return {"x": x, "y": y}
 }
 
@@ -131,6 +145,8 @@ function moveIcon(latitude, longitude) {
     // Get coordinates relative to the viewport
     const rect = image.getBoundingClientRect();
     canvas.style.setProperty("top", rect.top+"px")
+    canvas.style.setProperty("left", rect.left+"px")
+
     icon.style.transform = `translate(${dimensions['x']-10+rect.left}px, ${dimensions['y']-10+rect.top}px)`;    
 }
 
@@ -168,11 +184,14 @@ setInterval(displayTLE, 1000);
 window.onresize = update;
 window.onscroll = update;
 
+gs_lat.oninput = update;
+gs_lon.oninput = update;
+gs_ran.oninput = update;
+
+
 function update() {
    displayTLE(false)
 }
-
-button.addEventListener("onclick", hello)
 
 button.addEventListener("click", (event) => {
     try {
@@ -189,3 +208,4 @@ button.addEventListener("click", (event) => {
   });
 
   updateTitle()
+  updateGroundCenter()

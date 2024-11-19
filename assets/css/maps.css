@@ -3,7 +3,7 @@ div {
 	margin: initial;
     position: initial;
 	max-width: initial;
-
+    min-width: fit-content;
 }
 
 
@@ -45,11 +45,13 @@ h1, h2, h3 {
 
 }
 
-#panel {
+.panel {
     display: flex;
     text-align: center;
     justify-content: space-around;
 }
+
+
 
 textarea {
     display: block;
