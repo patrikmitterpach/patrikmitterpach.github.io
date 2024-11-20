@@ -101,4 +101,7 @@ input {
     border-radius: 5px;
     padding: 5px;
     background-color: #d2c9a5;
+    border-inline: 0;
+  border: none;
+  padding: 10px;
 }

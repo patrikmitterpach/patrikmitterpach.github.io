@@ -39,6 +39,9 @@ const granularity = 30
 // Technical global variables for counters and trackers
 var previous_longitude = null
 
+var max_latitude = 91;
+
+
 if (image.complete) {
     canvas.width = image.width;
     canvas.height = image.height;
@@ -100,24 +103,83 @@ function updateCounters(tle) {
 } 
 
 function updateGroundCenter() {
-
-    const coordinates = transformCoordinatesToPixels(parseFloat(gs_lat.value), parseFloat(gs_lon.value))
-
-    ctx.beginPath();
-    ctx.strokeStyle = "#8caba1" 
-    
-    ctx.globalAlpha = 0.2;
-    ctx.fillStyle = "#8caba1"  
-
-    ctx.lineWidth = 1;
-
-    ctx.arc(coordinates["x"], coordinates["y"], parseInt(gs_ran.value)/30, 0, 180);
-    ctx.fill()
-    ctx.globalAlpha = 1;
-    ctx.stroke();
-
-
+drawCirclePointByPoint(ctx, parseFloat(gs_lat.value), parseFloat(gs_lon.value), parseFloat(gs_ran.value), canvas.width, canvas.height);
 }
+function drawCirclePointByPoint(ctx, centerLat, centerLon, radiusKm, mapWidth, mapHeight) {
+    const EARTH_RADIUS = 6371;
+
+    // Convert degrees to radians
+    function toRadians(degrees) {
+        return degrees * (Math.PI / 180);
+    }
+
+    // Convert lat/lon to canvas coordinates
+    function clampLatitude(lat) {
+        return Math.max(-90, Math.min(90, lat));
+    }
+
+    // Convert lat/lon to canvas coordinates
+    function getCanvasCoordinates(lat, lon) {
+        const clampedLat = clampLatitude(lat);
+        const x = (lon + 180) * (mapWidth / 360);
+        const y = (90 - clampedLat) * (mapHeight / 180);
+        return { x, y };
+    }
+
+    // Haversine formula to calculate point on great circle
+    function destinationPoint(lat, lon, bearing, distance) {
+        const δ = distance / EARTH_RADIUS;
+        const φ1 = toRadians(lat);
+        const λ1 = toRadians(lon);
+        const θ = toRadians(bearing);
+
+        const φ2 = Math.asin(Math.sin(φ1) * Math.cos(δ) + 
+                   Math.cos(φ1) * Math.sin(δ) * Math.cos(θ));
+        const λ2 = λ1 + Math.atan2(Math.sin(θ) * Math.sin(δ) * Math.cos(φ1), 
+                   Math.cos(δ) - Math.sin(φ1) * Math.sin(φ2));
+
+        return {
+            lat: clampLatitude(φ2 * 180 / Math.PI),
+            lon: λ2 * 180 / Math.PI
+        };
+    }
+
+    // Draw circle point by point
+    ctx.beginPath();
+    ctx.strokeStyle = 'red';
+
+    
+    const pointCount = 360; // Number of points to draw the circle
+    for (let i = 0; i < pointCount; i++) {
+        const bearing = i * (360 / pointCount);
+        const point = destinationPoint(centerLat, centerLon, bearing, radiusKm);
+        var canvasPoint = getCanvasCoordinates(point.lat, point.lon);
+        if (canvasPoint.y < 2 && max_latitude == 91) {
+            max_latitude = centerLat;
+            console.log("Setting maximum latitude")
+        }
+
+        if (max_latitude != 91 && (i == 0 || i == pointCount-1)) {
+            canvasPoint.y = 0
+        }
+
+        if (i === 0) {
+            ctx.moveTo(canvasPoint.x, canvasPoint.y);
+        } else {
+            ctx.lineTo(canvasPoint.x, canvasPoint.y);
+        }
+
+        
+    }
+    
+    ctx.closePath();
+    ctx.stroke();
+    ctx.fillStyle = 'rgba(255, 0, 0, 0.2)';
+    ctx.fill();
+}
+
+// Example usage:
+    
 
 function transformCoordinatesToPixels(latitude, longitude) {
     var mapWidth    = canvas.width; 
@@ -189,12 +251,16 @@ setInterval(displayTLE, 1000);
 // window.onresize = update;
 // window.onscroll = update;
 
-gs_lat.oninput = update;
-gs_lon.oninput = update;
-gs_ran.oninput = update;
+gs_lat.oninput = updateGs;
+gs_lon.oninput = updateGs;
+gs_ran.oninput = updateGs;
 
 minutes.oninput = updateMinutes
 
+function updateGs() {
+    console.log("hello")
+    updateGroundCenter()
+}
 
 function update() {
    displayTLE(false)
