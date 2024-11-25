@@ -154,13 +154,16 @@ function drawCirclePointByPoint(ctx, centerLat, centerLon, radiusKm, mapWidth, m
         const bearing = i * (360 / pointCount);
         const point = destinationPoint(centerLat, centerLon, bearing, radiusKm);
         var canvasPoint = getCanvasCoordinates(point.lat, point.lon);
+        
         if (canvasPoint.y < 2 && max_latitude == 91) {
             max_latitude = centerLat;
+            ctx.lineTo(canvasPoint.x, 0)
             console.log("Setting maximum latitude")
         }
 
-        if (max_latitude != 91 && (i == 0 || i == pointCount-1)) {
+        if (max_latitude != 91 && (i == 0 || i == pointCount)) {
             canvasPoint.y = 0
+
         }
 
         if (i === 0) {
@@ -171,6 +174,8 @@ function drawCirclePointByPoint(ctx, centerLat, centerLon, radiusKm, mapWidth, m
 
         
     }
+    max_latitude = 91;
+
     
     ctx.closePath();
     ctx.stroke();
@@ -251,16 +256,11 @@ setInterval(displayTLE, 1000);
 // window.onresize = update;
 // window.onscroll = update;
 
-gs_lat.oninput = updateGs;
-gs_lon.oninput = updateGs;
-gs_ran.oninput = updateGs;
+gs_lat.oninput = update;
+gs_lon.oninput = update;
+gs_ran.oninput = update;
 
 minutes.oninput = updateMinutes
-
-function updateGs() {
-    console.log("hello")
-    updateGroundCenter()
-}
 
 function update() {
    displayTLE(false)
