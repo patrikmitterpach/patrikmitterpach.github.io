@@ -150,31 +150,56 @@ function drawCirclePointByPoint(ctx, centerLat, centerLon, radiusKm, mapWidth, m
 
     
     const pointCount = 360; // Number of points to draw the circle
+    var start = -99
+    var last_point = -99
+
     for (let i = 0; i < pointCount; i++) {
         const bearing = i * (360 / pointCount);
+
+        
         const point = destinationPoint(centerLat, centerLon, bearing, radiusKm);
         var canvasPoint = getCanvasCoordinates(point.lat, point.lon);
+        if (start == -99) { start = canvasPoint }
+        if (last_point == -99) { last_point = canvasPoint }
+
+        if (Math.abs(last_point.x - canvasPoint.x) > 600) {
+            console.log("GAP DETECTED")
+            ctx.lineTo(canvas.width, last_point.y);
+            ctx.lineTo(canvas.width, canvas.height);
+
+
+            ctx.lineTo(last_point.x, canvas.height);
+            ctx.lineTo(last_point.x, canvas.height);
+
+            ctx.lineTo(0, canvas.height);
+            ctx.lineTo(0, canvasPoint.y);
+
+
+        }
         
-        if (canvasPoint.y < 2 && max_latitude == 91) {
-            max_latitude = centerLat;
-            ctx.lineTo(canvasPoint.x, 0)
-            console.log("Setting maximum latitude")
-        }
-
-        if (max_latitude != 91 && (i == 0 || i == pointCount)) {
-            canvasPoint.y = 0
-
-        }
-
         if (i === 0) {
             ctx.moveTo(canvasPoint.x, canvasPoint.y);
         } else {
             ctx.lineTo(canvasPoint.x, canvasPoint.y);
         }
 
+        last_point = canvasPoint;
+
+        
         
     }
-    max_latitude = 91;
+    if (Math.abs(start["x"] - canvasPoint["x"]) > 600) { 
+        console.log("TOO WIDE")
+        ctx.lineTo(0, canvasPoint.y);
+        ctx.lineTo(0, 0);
+
+        ctx.lineTo(canvas.width, 0);
+        ctx.lineTo(canvas.width, canvasPoint.y);
+
+
+    }
+
+    console.log(start["x"] +":"+ start["y"] + " | " + canvasPoint["x"] +":"+ canvasPoint["y"])
 
     
     ctx.closePath();
