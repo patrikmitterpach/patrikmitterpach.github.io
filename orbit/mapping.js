@@ -31,10 +31,10 @@ const ctx = canvas.getContext('2d');
 // 
 // Note, lines_ahead only represents minutes when granularity
 //  is set to 60 - 1 minute.
-var lines_ahead = 120
+var lines_ahead = 60
 
 // Each line represents the span of ${granularity} seconds
-const granularity = 30 
+const granularity = 60
 
 // Technical global variables for counters and trackers
 var previous_longitude = null
