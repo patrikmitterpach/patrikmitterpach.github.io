@@ -176,6 +176,10 @@ function handleArrowKeys(event) {
         currentVal.value = ""
 
       break;
+      case 'Delete':
+        currentVal.value = ""
+  
+        break;
     case " ":
       direction = direction == "h" ? "v" : "h";
       handleOnFocus(event);
