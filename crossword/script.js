@@ -139,31 +139,12 @@ function handleOnFocus(event) {
     block: 'nearest',  // Only scroll if needed
     inline: 'nearest'
 });
-  // document.getElementsByClassName("game")[0].scrollIntoView();
+  document.getElementsByClassName("game")[0].scrollIntoView();
 
-  if (isMobile()) {
-    focusTop();
-  }
 }
 
 // Mobile focus management
-function isMobile() {
-    return window.innerWidth <= 768 || 
-           /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-}
 
-function focusTop() {
-    if (isMobile()) {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
-        
-        // Alternative method for better browser support
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-    }
-}
 
 function handleArrowKeys(event) {
   const currentInput = event.target;
