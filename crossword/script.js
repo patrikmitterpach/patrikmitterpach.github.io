@@ -129,18 +129,10 @@ function handleOnFocus(event) {
   var arrow = document.getElementById("directionArrow")
   arrow.src = direction == "h" ? "right_arrow.png" : "down_arrow.png"
 
-  currentAcrossHint.scrollIntoView({
-    behavior: 'smooth',
-    block: 'nearest',  // Only scroll if needed
-    inline: 'nearest'
-});
-  currentDownHint.scrollIntoView({
-    behavior: 'smooth',
-    block: 'nearest',  // Only scroll if needed
-    inline: 'nearest'
-});
-  document.getElementsByClassName("game")[0].scrollIntoView();
+  currentAcrossHint.focus();
+  currentDownHint.focus();
 
+  document.getElementsByClassName("main-hint-highlight")[0].focus();
 }
 
 // Mobile focus management
