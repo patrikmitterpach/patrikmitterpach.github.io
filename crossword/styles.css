@@ -159,7 +159,14 @@ img {
     padding: 16px;
     margin: 15px 0;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    position: relative
+    position: sticky;
+    top: 10px;    
+    z-index: 100;
+}
+
+div#scrollable {
+    overflow-y: scroll;
+    height: 100%;
 }
 
 .main-hint-text {

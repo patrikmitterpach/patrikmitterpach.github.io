@@ -12,6 +12,8 @@ var perpColor = "white"
 var acrossIds = new Set();
 var downIds = new Set();
 
+
+
 function createGrid() {
   const crosswordGrid = document.getElementById('crosswordGrid');
   for (let i = 0; i < numRows; i++) {
@@ -30,6 +32,8 @@ function createGrid() {
 
       input.addEventListener('keydown', handleArrowKeys);
       input.addEventListener('focus', handleOnFocus)
+
+      
 
       cell.appendChild(input);
 
