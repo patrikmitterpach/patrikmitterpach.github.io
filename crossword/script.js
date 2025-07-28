@@ -129,10 +129,40 @@ function handleOnFocus(event) {
   var arrow = document.getElementById("directionArrow")
   arrow.src = direction == "h" ? "right_arrow.png" : "down_arrow.png"
 
-  currentAcrossHint.scrollIntoView();
-  currentDownHint.scrollIntoView();
-  document.getElementsByClassName("game")[0].scrollIntoView();
-  currentVal.focus()
+  currentAcrossHint.scrollIntoView({
+    behavior: 'smooth',
+    block: 'nearest',  // Only scroll if needed
+    inline: 'nearest'
+});
+  currentDownHint.scrollIntoView({
+    behavior: 'smooth',
+    block: 'nearest',  // Only scroll if needed
+    inline: 'nearest'
+});
+  // document.getElementsByClassName("game")[0].scrollIntoView();
+
+  if (isMobile()) {
+    focusTop();
+  }
+}
+
+// Mobile focus management
+function isMobile() {
+    return window.innerWidth <= 768 || 
+           /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
+
+function focusTop() {
+    if (isMobile()) {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+        
+        // Alternative method for better browser support
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
 }
 
 function handleArrowKeys(event) {
@@ -148,7 +178,6 @@ function handleArrowKeys(event) {
   // Check for backspace
   const old_direction = direction;
   // Handle arrow key presses
-  currentVal.focus()  
   switch (event.key) {
     case 'ArrowUp':
       direction = "v"
@@ -195,6 +224,7 @@ function handleArrowKeys(event) {
     if (!nextInput) return
     if (checkCellFree(nextInput)) {
       nextInput.focus()
+      
     
     } else if (nextInput.parentElement.classList[0] == "noselect" && event.key != "Backspace"){
       const nextInput = document.querySelector(`input[data-row="${nextRow+(nextRow-currentRow)}"][data-col="${nextCol+(nextCol-currentCol)}"]`);
