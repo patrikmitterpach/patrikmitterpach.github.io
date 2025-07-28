@@ -5,8 +5,8 @@ const numCols = 12;
 var mapCorrectCount = 0;
 var globalMappedArr;
 var direction = "h";
-var focusColor = "#fabd2f"
-var plusColor = "#ADD8E6"
+var focusColor = "#fff3e0"
+var plusColor = "#e3f2fd"
 var perpColor = "white"
 
 var acrossIds = new Set();
