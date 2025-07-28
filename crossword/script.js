@@ -189,7 +189,7 @@ function handleArrowKeys(event) {
     case " ":
       direction = direction == "h" ? "v" : "h";
       handleOnFocus(event);
-      event.preventDefault();
+      event.preventDefault(); 
 
       return;
     default:
@@ -211,7 +211,7 @@ function handleArrowKeys(event) {
   } else {
     handleOnFocus(event)
   }
-  event.preventDefault();
+  // event.preventDefault();
   validateMap();
   // currentVal.scrollIntoView();
 
@@ -347,7 +347,7 @@ function handleInput(event) {
       previousCell.value = previous+current;
       
       currentVal.value = originalVal.length == 1 ? "" : originalVal.slice(0, -1) ;
-      event.preventDefault();
+      // event.preventDefault();
       validateMap();
       
       return
