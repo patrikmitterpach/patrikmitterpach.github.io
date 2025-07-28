@@ -159,14 +159,28 @@ img {
     padding: 16px;
     margin: 15px 0;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    
+}
+.main-hint-highlight-wrap {
     position: -webkit-sticky;
     position: -moz-sticky;
     position: -ms-sticky;
     position: -o-sticky;
+    
     position: sticky;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px 0;
     top: 10px;    
+    
+    
+    height: 60px;
+    width: 100%;
     z-index: 100;
+
 }
+
 
 div#scrollable {
     overflow-y: scroll;
