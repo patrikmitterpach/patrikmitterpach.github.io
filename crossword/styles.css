@@ -159,6 +159,10 @@ img {
     padding: 16px;
     margin: 15px 0;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
     position: sticky;
     top: 10px;    
     z-index: 100;
