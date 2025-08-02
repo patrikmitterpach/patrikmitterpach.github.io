@@ -12,8 +12,6 @@ var perpColor = "white"
 var acrossIds = new Set();
 var downIds = new Set();
 
-
-
 function createGrid() {
   const crosswordGrid = document.getElementById('crosswordGrid');
   for (let i = 0; i < numRows; i++) {
@@ -32,8 +30,6 @@ function createGrid() {
 
       input.addEventListener('keydown', handleArrowKeys);
       input.addEventListener('focus', handleOnFocus)
-
-      
 
       cell.appendChild(input);
 
@@ -136,7 +132,7 @@ function handleOnFocus(event) {
   currentAcrossHint.focus();
   currentDownHint.focus();
 
-  document.getElementsByClassName("main-hint-highlight")[0].focus();
+  // document.getElementsByClassName("main-hint-highlight")[0].focus();
 }
 
 // Mobile focus management
@@ -307,10 +303,12 @@ function validateMap() {
 }
 
 function checkCellFree(nextInput) {
-  return (nextInput && nextInput.parentElement.classList[0] != "noselect")
+  return (nextInput && nextInput.parentElement.classList[0] != "noselect" )
 }
 
 function handleInput(event) {
+  
+
   const inputVal = event.data; // Get the input value
   const target = event.target; // Get the event target input element
 
@@ -339,6 +337,8 @@ function handleInput(event) {
       validateMap();
       return
     }
+      currentVal.value = inputVal
+
   }
   if (previousCell) {
     var current = inputVal.toLowerCase();
@@ -363,6 +363,7 @@ function handleInput(event) {
   if (checkCellFree(nextInput)) nextInput.focus();
 
   validateMap();
+  adjustPosition();
 }
 
 async function prepareMap() {
@@ -552,14 +553,48 @@ async function prepareHints() {
   
 }
 
+function adjustPosition() { return }
+function fixIOSKeyboard() {
+  const hint = document.getElementById('hint');
+  const isIOS = /Android|iPad|iPhone|iPod/.test(navigator.userAgent);
+ 
+  if (isIOS) {
+    // Add CSS transition
+    hint.style.transition = 'transform 0.05s ease-out';
+    
+    function adjustPosition() {
+      if (window.screen.height - 100 > window.visualViewport.height) {
+        // Keyboard is open
+        hint.style.position = 'absolute';
+        hint.style.top = '0px';
+        hint.style.transform = `translateY(${document.documentElement.scrollTop}px)`;
+      } else {
+        // Keyboard is closed
+        hint.style.position = 'fixed';
+        hint.style.top = '0px';
+        hint.style.transform = `translateY(0px)`;
+      }
+      // document.getElementsByClassName("main-hint-text")[0].textContent = `${(window.screen.height - 100 > window.visualViewport.height)}, ${document.documentElement.scrollTop}px, ${window.screen.height}, ${window.visualViewport.height}`;
+    }
+   
+    window.addEventListener('resize', adjustPosition);
+    window.addEventListener('scroll', adjustPosition);
+  }
+}
 
-// -- //
+// Call when DOM is ready
+document.addEventListener('DOMContentLoaded', fixIOSKeyboard);
 window.addEventListener('DOMContentLoaded', () => {
   prepareGrid();
   createGrid();
   updateDate();
   prepareHints();
   startStopwatch();
+
+  if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+    fixIOSKeyboard();
+    adjustPosition();
+  }
   
 
   
