@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=DM+Mono:wght@400;500&family=Outfit:wght@400;500&display=swap');
+
+  :root {
+    --bg:         #0E0E12;
+    --bg1:        #141418;
+    --bg2:        #1C1C24;
+    --bg3:        #24242F;
+    --bg4:        #2C2C3A;
+
+    --violet:     #8B6FFF;
+    --violet-lt:  #B09FFF;
+    --violet-dk:  #6450CC;
+
+    --orange:     #FF7A35;
+    --orange-lt:  #FFB080;
+    --orange-dk:  #CC5518;
+
+    --purple:     #C470E8;
+    --purple-lt:  #D89CF0;
+
+    --fg:         #F0EEF8;
+    --fg-2:       #C4BEDD;
+    --fg-3:       #8880AA;
+    --fg-4:       #504A6A;
+
+    --border:     rgba(139,111,255,0.15);
+    --border-dim: rgba(255,255,255,0.06);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--fg); font-family: 'Outfit', sans-serif; font-size: 14px; line-height: 1.6; }
+  .page { max-width: 900px; margin: 0 auto; padding: 52px 36px; }
+
+  .sl {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    letter-spacing: 0.22em; text-transform: uppercase; color: var(--violet-lt);
+    margin-bottom: 22px; display: flex; align-items: center; gap: 12px;
+  }
+  .sl::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+  .sec { margin-bottom: 64px; }
+  .div { border: none; border-top: 1px solid var(--border-dim); margin: 48px 0; }
+
+  /* ── LOGO PLACEHOLDER ── */
+  .logo-stage {
+    background: var(--bg1);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 64px 40px;
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 16px;
+    position: relative; overflow: hidden;
+  }
+  .logo-stage::before {
+    content: ''; position: absolute;
+    width: 320px; height: 320px; top: -100px; right: -80px;
+    background: radial-gradient(circle, rgba(139,111,255,0.09) 0%, transparent 65%);
+  }
+  .logo-stage::after {
+    content: ''; position: absolute;
+    width: 220px; height: 220px; bottom: -70px; left: 15%;
+    background: radial-gradient(circle, rgba(255,122,53,0.07) 0%, transparent 65%);
+  }
+  .lockup { display: flex; align-items: center; gap: 20px; z-index: 1; }
+  .logo-box {
+    width: 72px; height: 72px;
+    border: 1px dashed rgba(139,111,255,0.35);
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+  .logo-box span {
+    font-family: 'DM Mono', monospace; font-size: 10px;
+    letter-spacing: 0.1em; color: var(--fg-3); text-align: center; line-height: 1.5;
+    text-transform: uppercase;
+  }
+  .wordmark {
+    font-family: 'Rajdhani', sans-serif; font-weight: 700;
+    font-size: 60px; letter-spacing: 0.1em; text-transform: uppercase;
+    line-height: 1; color: var(--fg);
+  }
+
+  /* variant row */
+  .var-row { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+  .vc {
+    border-radius: 10px; padding: 22px 16px;
+    display: flex; flex-direction: column; align-items: center; gap: 12px;
+  }
+  .vc.on-dark  { background: var(--bg1); border: 1px solid var(--border-dim); }
+  .vc.on-light { background: #EEEAF8; border: 1px solid rgba(0,0,0,0.07); }
+  .vc.on-mid   { background: var(--bg3); border: 1px solid var(--border); }
+  .vl { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--fg-4); }
+  .vc.on-light .vl { color: #9990BB; }
+  .sm-lock { display: flex; align-items: center; gap: 10px; }
+  .sm-box {
+    width: 28px; height: 28px; border-radius: 5px; border: 1px dashed rgba(139,111,255,0.4);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .sm-box-lt {
+    width: 28px; height: 28px; border-radius: 5px; border: 1px dashed rgba(100,80,204,0.45);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .sm-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--violet); }
+  .sm-dot-lt { width: 8px; height: 8px; border-radius: 50%; background: var(--violet-dk); }
+  .sm-word { font-family: 'Rajdhani', sans-serif; font-weight: 700; font-size: 22px; letter-spacing: 0.1em; text-transform: uppercase; line-height: 1; }
+
+  /* usage grid */
+  .ug { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 20px; }
+  .ui { background: var(--bg1); border: 1px solid var(--border-dim); border-radius: 8px; padding: 14px 16px; display: flex; gap: 12px; align-items: flex-start; }
+  .uic { width: 18px; height: 18px; border-radius: 3px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; margin-top: 1px; font-weight: 700; }
+  .uic.do   { background: rgba(139,111,255,0.15); color: var(--violet-lt); }
+  .uic.dont { background: rgba(255,122,53,0.15);  color: var(--orange-lt); }
+  .uit { font-size: 12px; color: var(--fg-3); line-height: 1.5; }
+  .uit strong { color: var(--fg-2); font-weight: 500; }
+
+  /* ── COLORS ── */
+  .cg { display: grid; grid-template-columns: repeat(6,1fr); gap: 10px; margin-bottom: 16px; }
+  .cs { border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.04); }
+  .cb { height: 60px; }
+  .ci { background: var(--bg2); padding: 8px 10px; }
+  .cn { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--fg-2); display: block; margin-bottom: 1px; }
+  .ch { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--fg-4); display: block; }
+
+  .role-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .role-card { background: var(--bg2); border: 1px solid var(--border-dim); border-radius: 8px; padding: 16px; }
+  .role-head { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--fg-4); margin-bottom: 8px; }
+  .role-body { font-size: 13px; color: var(--fg-3); line-height: 1.6; }
+
+  /* ── TYPE ── */
+  .ts { display: flex; flex-direction: column; gap: 0; }
+  .tr { display: flex; align-items: baseline; gap: 28px; padding: 24px 0; border-bottom: 1px solid var(--border-dim); }
+  .tr:last-child { border-bottom: none; }
+  .tm { width: 130px; flex-shrink: 0; }
+  .tr-role { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--violet-lt); display: block; margin-bottom: 3px; }
+  .tr-spec { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--fg-4); display: block; line-height: 1.6; }
+
+  /* ── COMPONENTS ── */
+  .eg { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .ec { background: var(--bg1); border: 1px solid var(--border-dim); border-radius: 12px; padding: 24px; }
+  .et { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--fg-4); margin-bottom: 16px; }
+
+  .bs { display: flex; flex-direction: column; gap: 10px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: 'Rajdhani', sans-serif; font-weight: 500; font-size: 13px;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 9px 18px; border-radius: 6px; border: none; cursor: pointer; width: fit-content;
+  }
+  .bp { background: var(--violet); color: #ffffff; }
+  .bo { background: var(--orange); color: #ffffff; }
+  .blo { background: transparent; color: var(--violet-lt); border: 1px solid rgba(139,111,255,0.35); }
+  .bg { background: rgba(255,255,255,0.05); color: var(--fg-2); border: 1px solid var(--border-dim); }
+  .bd { background: rgba(255,122,53,0.12); color: var(--orange-lt); border: 1px solid rgba(255,122,53,0.28); }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 18px; }
+  .tag { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; padding: 4px 10px; border-radius: 4px; }
+  .tv  { background: rgba(139,111,255,0.14); color: var(--violet-lt);  border: 1px solid rgba(139,111,255,0.28); }
+  .to  { background: rgba(255,122,53,0.12);  color: var(--orange-lt);  border: 1px solid rgba(255,122,53,0.26); }
+  .tp  { background: rgba(196,112,232,0.12); color: var(--purple-lt);  border: 1px solid rgba(196,112,232,0.26); }
+  .tw  { background: rgba(255,255,255,0.05); color: var(--fg-3);       border: 1px solid var(--border-dim); }
+
+  .dc { background: rgba(139,111,255,0.08); border: 1px solid rgba(139,111,255,0.2); border-radius: 8px; padding: 16px; }
+  .dl { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--fg-4); margin-bottom: 4px; }
+  .dv { font-family: 'Rajdhani', sans-serif; font-size: 30px; font-weight: 700; color: var(--fg); line-height: 1; }
+  .du { font-size: 14px; color: var(--violet-lt); margin-left: 3px; }
+  .ds { font-size: 12px; color: var(--fg-4); margin-top: 4px; }
+
+  /* ── VOICE ── */
+  .vg { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .vcard { background: var(--bg2); border: 1px solid var(--border-dim); border-radius: 10px; padding: 20px; }
+  .vtitle { font-family: 'Rajdhani', sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 0.06em; margin-bottom: 8px; text-transform: uppercase; }
+  .vbody { font-size: 12px; color: var(--fg-3); line-height: 1.6; }
+
+  /* ── GRADIENT STRIP ── */
+  .grad-strip { display: flex; height: 40px; border-radius: 8px; overflow: hidden; margin-bottom: 16px; }
+  .gs { flex: 1; display: flex; align-items: center; justify-content: center; font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div style="margin-bottom:52px;">
+    <div style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.22em;text-transform:uppercase;color:var(--fg-4);margin-bottom:10px;">Brand Identity System</div>
+    <div style="font-family:'Rajdhani',sans-serif;font-weight:700;font-size:40px;color:var(--fg);letter-spacing:0.08em;text-transform:uppercase;line-height:1;">Vissar</div>
+    <div style="font-size:13px;color:var(--fg-4);margin-top:6px;">Aerial Systems · Brand Guidelines v2.0</div>
+  </div>
+
+  <!-- 01 LOGO -->
+  <div class="sec">
+    <div class="sl">01 — Logo Mark</div>
+    <div class="logo-stage">
+      <div class="lockup">
+        <div class="logo-box"><span>Logo<br>here</span></div>
+        <div class="wordmark">Vissar</div>
+      </div>
+    </div>
+
+    <div class="var-row">
+      <div class="vc on-dark">
+        <div class="sm-lock">
+          <div class="sm-box"><div class="sm-dot"></div></div>
+          <div class="sm-word" style="color:var(--fg);">Vissar</div>
+        </div>
+        <span class="vl">Primary dark</span>
+      </div>
+      <div class="vc on-light">
+        <div class="sm-lock">
+          <div class="sm-box-lt"><div class="sm-dot-lt"></div></div>
+          <div class="sm-word" style="color:#1C1C24;">Vissar</div>
+        </div>
+        <span class="vl">Light version</span>
+      </div>
+      <div class="vc on-mid">
+        <div class="sm-box" style="width:36px;height:36px;border-radius:8px;">
+          <div class="sm-dot" style="width:12px;height:12px;"></div>
+        </div>
+        <span class="vl">Icon mark only</span>
+      </div>
+    </div>
+
+    <div class="ug">
+      <div class="ui"><div class="uic do">✓</div><div class="uit"><strong>Do</strong> use on backgrounds darker than #1A1A22</div></div>
+      <div class="ui"><div class="uic dont">✕</div><div class="uit"><strong>Don't</strong> distort, rotate, or recolor the mark</div></div>
+      <div class="ui"><div class="uic do">✓</div><div class="uit"><strong>Do</strong> maintain 16px minimum clear space on all sides</div></div>
+      <div class="ui"><div class="uic dont">✕</div><div class="uit"><strong>Don't</strong> place on busy photographic backgrounds without overlay</div></div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- 02 COLORS -->
+  <div class="sec">
+    <div class="sl">02 — Color System</div>
+
+    <!-- gradient palette strip -->
+    <div class="grad-strip" style="margin-bottom:10px;">
+      <div class="gs" style="background:#0E0E12;color:#504A6A;flex:1.2;">Void</div>
+      <div class="gs" style="background:#24242F;color:#8880AA;">Surface</div>
+      <div class="gs" style="background:#6450CC;color:#D0C8FF;">Violet dk</div>
+      <div class="gs" style="background:#8B6FFF;color:#fff;">Violet</div>
+      <div class="gs" style="background:#B09FFF;color:#3A2F8A;">Violet lt</div>
+      <div class="gs" style="background:#CC5518;color:#FFD0A8;">Ember dk</div>
+      <div class="gs" style="background:#FF7A35;color:#fff;">Ember</div>
+      <div class="gs" style="background:#FFB080;color:#7A3210;">Flame lt</div>
+    </div>
+
+    <div class="cg">
+      <div class="cs"><div class="cb" style="background:#0E0E12;"></div><div class="ci"><span class="cn">Void</span><span class="ch">#0E0E12</span></div></div>
+      <div class="cs"><div class="cb" style="background:#141418;"></div><div class="ci"><span class="cn">Pitch</span><span class="ch">#141418</span></div></div>
+      <div class="cs"><div class="cb" style="background:#24242F;"></div><div class="ci"><span class="cn">Surface</span><span class="ch">#24242F</span></div></div>
+      <div class="cs"><div class="cb" style="background:#8B6FFF;"></div><div class="ci"><span class="cn">Violet</span><span class="ch">#8B6FFF</span></div></div>
+      <div class="cs"><div class="cb" style="background:#B09FFF;"></div><div class="ci"><span class="cn">Violet Lt</span><span class="ch">#B09FFF</span></div></div>
+      <div class="cs"><div class="cb" style="background:#6450CC;"></div><div class="ci"><span class="cn">Violet Dk</span><span class="ch">#6450CC</span></div></div>
+      <div class="cs"><div class="cb" style="background:#FF7A35;"></div><div class="ci"><span class="cn">Ember</span><span class="ch">#FF7A35</span></div></div>
+      <div class="cs"><div class="cb" style="background:#FFB080;"></div><div class="ci"><span class="cn">Flame Lt</span><span class="ch">#FFB080</span></div></div>
+      <div class="cs"><div class="cb" style="background:#CC5518;"></div><div class="ci"><span class="cn">Ember Dk</span><span class="ch">#CC5518</span></div></div>
+      <div class="cs"><div class="cb" style="background:#C470E8;"></div><div class="ci"><span class="cn">Purple</span><span class="ch">#C470E8</span></div></div>
+      <div class="cs"><div class="cb" style="background:#F0EEF8;"></div><div class="ci"><span class="cn">Fog</span><span class="ch">#F0EEF8</span></div></div>
+      <div class="cs"><div class="cb" style="background:#8880AA;"></div><div class="ci"><span class="cn">Mist</span><span class="ch">#8880AA</span></div></div>
+    </div>
+
+    <div class="role-row">
+      <div class="role-card">
+        <div class="role-head">Violet family — primary</div>
+        <div class="role-body">All brand interactions, logo mark, navigation, and UI chrome. <span style="color:var(--violet-lt);">Violet (#8B6FFF)</span> is the identity anchor. Use Violet Lt on dark surfaces for text, Violet Dk for pressed states and borders.</div>
+      </div>
+      <div class="role-card">
+        <div class="role-head">Ember family — accent</div>
+        <div class="role-body"><span style="color:var(--orange-lt);">Ember (#FF7A35)</span> drives call-to-action, power states, and heat indicators — it's the brand's energy. Flame Lt only on dark backgrounds for legible text. Ember Dk for borders and hover.</div>
+      </div>
+    </div>
+
+    <!-- contrast note -->
+    <div style="margin-top:12px;background:var(--bg2);border:1px solid var(--border-dim);border-radius:8px;padding:14px 16px;display:flex;gap:24px;align-items:center;">
+      <div style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--fg-4);flex-shrink:0;">Contrast ratios</div>
+      <div style="display:flex;gap:20px;flex-wrap:wrap;">
+        <div><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--violet-lt);">#B09FFF</span><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--fg-4);"> on void — </span><span style="font-family:'DM Mono',monospace;font-size:11px;color:#7CCC7C;">8.4:1 AAA</span></div>
+        <div><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--orange-lt);">#FFB080</span><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--fg-4);"> on void — </span><span style="font-family:'DM Mono',monospace;font-size:11px;color:#7CCC7C;">7.1:1 AAA</span></div>
+        <div><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--fg-2);">#C4BEDD</span><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--fg-4);"> on void — </span><span style="font-family:'DM Mono',monospace;font-size:11px;color:#7CCC7C;">9.2:1 AAA</span></div>
+        <div><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--violet);">#8B6FFF</span><span style="font-family:'DM Mono',monospace;font-size:11px;color:var(--fg-4);"> on void — </span><span style="font-family:'DM Mono',monospace;font-size:11px;color:#E8C040;">5.2:1 AA</span></div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- 03 TYPE -->
+  <div class="sec">
+    <div class="sl">03 — Typography</div>
+    <div class="ts">
+      <div class="tr">
+        <div class="tm"><span class="tr-role">Display</span><span class="tr-spec">Rajdhani 700<br>52–72px · 0.05em tracking</span></div>
+        <div style="font-family:'Rajdhani',sans-serif;font-weight:700;font-size:52px;line-height:1;color:var(--fg);letter-spacing:0.05em;">Beyond the horizon.</div>
+      </div>
+      <div class="tr">
+        <div class="tm"><span class="tr-role">Heading</span><span class="tr-spec">Rajdhani 500<br>24–36px · 0.03em tracking</span></div>
+        <div style="font-family:'Rajdhani',sans-serif;font-weight:500;font-size:30px;line-height:1.15;color:var(--fg-2);letter-spacing:0.03em;">Advanced aerial systems for demanding environments</div>
+      </div>
+      <div class="tr">
+        <div class="tm"><span class="tr-role">Body</span><span class="tr-spec">Outfit 400<br>15–16px · 1.7 leading</span></div>
+        <div style="font-family:'Outfit',sans-serif;font-size:15px;line-height:1.7;color:var(--fg-3);max-width:480px;">Vissar aerial platforms deliver sub-centimeter precision across industrial, cinematic, and defense-grade deployment scenarios. Engineered for the edge.</div>
+      </div>
+      <div class="tr">
+        <div class="tm"><span class="tr-role">Label / UI</span><span class="tr-spec">Outfit 500<br>13px · 0.01em tracking</span></div>
+        <div style="font-family:'Outfit',sans-serif;font-weight:500;font-size:13px;color:var(--fg-2);">Mission status · Flight altitude · Payload class · Battery level</div>
+      </div>
+      <div class="tr">
+        <div class="tm"><span class="tr-role">Mono / Data</span><span class="tr-spec">DM Mono 400<br>11–13px · 0.08em tracking</span></div>
+        <div style="font-family:'DM Mono',monospace;font-size:13px;color:var(--violet-lt);letter-spacing:0.08em;">ALT: 312m · SPD: 84km/h · BAT: 94% · GPS: LOCKED</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- 04 COMPONENTS -->
+  <div class="sec">
+    <div class="sl">04 — UI Components</div>
+    <div class="eg">
+      <div class="ec">
+        <div class="et">Buttons</div>
+        <div class="bs">
+          <button class="btn bp">Request a demo</button>
+          <button class="btn bo">Launch mission</button>
+          <button class="btn blo">View specifications</button>
+          <button class="btn bg">Learn more</button>
+          <button class="btn bd">Emergency stop</button>
+        </div>
+      </div>
+      <div class="ec">
+        <div class="et">Status tags</div>
+        <div class="tags">
+          <span class="tag tv">In flight</span>
+          <span class="tag tv">Auto mode</span>
+          <span class="tag to">Low battery</span>
+          <span class="tag tp">Mission active</span>
+          <span class="tag tw">Offline</span>
+          <span class="tag to">Industrial</span>
+          <span class="tag tw">Standby</span>
+        </div>
+        <div class="et">Data card</div>
+        <div class="dc">
+          <div class="dl">Max altitude</div>
+          <div class="dv">6,200<span class="du">m</span></div>
+          <div class="ds">Above sea level · Certified</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Input / form sample -->
+    <div style="margin-top:16px;background:var(--bg1);border:1px solid var(--border-dim);border-radius:12px;padding:24px;">
+      <div class="et">Form elements</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
+        <div>
+          <div style="font-family:'Outfit',sans-serif;font-weight:500;font-size:12px;color:var(--fg-3);margin-bottom:6px;">Operator callsign</div>
+          <div style="background:var(--bg2);border:1px solid rgba(139,111,255,0.22);border-radius:6px;padding:9px 12px;font-family:'Outfit',sans-serif;font-size:13px;color:var(--fg);">V-SIERRA-01</div>
+        </div>
+        <div>
+          <div style="font-family:'Outfit',sans-serif;font-weight:500;font-size:12px;color:var(--fg-3);margin-bottom:6px;">Mission type</div>
+          <div style="background:var(--bg2);border:1px solid var(--border-dim);border-radius:6px;padding:9px 12px;font-family:'Outfit',sans-serif;font-size:13px;color:var(--fg-3);">Select type ▾</div>
+        </div>
+        <div style="grid-column:1/-1;display:flex;align-items:center;gap:12px;margin-top:4px;">
+          <div style="width:16px;height:16px;border-radius:3px;background:var(--violet);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+            <svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 2.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <span style="font-family:'Outfit',sans-serif;font-size:13px;color:var(--fg-2);">I confirm this mission complies with local airspace regulations</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <!-- 05 VOICE -->
+  <div class="sec">
+    <div class="sl">05 — Voice & Tone</div>
+    <div class="vg">
+      <div class="vcard">
+        <div class="vtitle" style="color:var(--violet-lt);">Precise</div>
+        <div class="vbody">Every word earns its place. Specs are stated exactly. No fluff. Technical claims are always verifiable and cited.</div>
+      </div>
+      <div class="vcard">
+        <div class="vtitle" style="color:var(--orange-lt);">Charged</div>
+        <div class="vbody">Copy carries momentum. Declarative, direct, impossible to ignore. We don't ask — we state. Energy without noise.</div>
+      </div>
+      <div class="vcard">
+        <div class="vtitle" style="color:var(--purple-lt);">Forward</div>
+        <div class="vbody">Vissar lives at the frontier. Language anticipates what's next. The voice never looks backward or hedges needlessly.</div>
+      </div>
+    </div>
+
+    <!-- tone examples -->
+    <div style="margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+      <div style="background:var(--bg2);border:1px solid rgba(255,122,53,0.14);border-left:2px solid var(--orange-dk);border-radius:0 8px 8px 0;padding:14px 16px;">
+        <div style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--orange-dk);margin-bottom:6px;">Don't write</div>
+        <div style="font-size:13px;color:var(--fg-3);font-style:italic;">"Our innovative platform helps teams maybe improve their operational workflows potentially."</div>
+      </div>
+      <div style="background:var(--bg2);border:1px solid rgba(139,111,255,0.18);border-left:2px solid var(--violet);border-radius:0 8px 8px 0;padding:14px 16px;">
+        <div style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--violet-lt);margin-bottom:6px;">Write this instead</div>
+        <div style="font-size:13px;color:var(--fg-2);">"Sub-centimeter precision. 6,200m certified ceiling. Deploy in under four minutes."</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="div">
+
+  <div style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--fg-4);text-align:center;">
+    Vissar · Brand Identity v2.0 · Confidential
+  </div>
+
+</div>
+</body>
+</html>
