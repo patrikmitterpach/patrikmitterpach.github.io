@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500&display=swap');
+
+  /* ====== EVERFOREST DARK MEDIUM PALETTE ====== */
+  :root {
+    --bg-dim:    #1E2326;
+    --bg0:       #272E33;
+    --bg1:       #2E383C;
+    --bg2:       #374145;
+    --bg3:       #414B50;
+    --bg4:       #495156;
+    --bg5:       #4F5B58;
+    --fg:        #D3C6AA;
+    --fg-muted:  #9DA9A0;
+    --fg-dim:    #859289;
+    --fg-faint:  #7A8478;
+    --green:     #A7C080;
+    --aqua:      #83C092;
+    --blue:      #7FBBB3;
+    --yellow:    #DBBC7F;
+    --orange:    #E69875;
+    --red:       #E67E80;
+    --purple:    #D699B6;
+    --bg-green:  #3C4841;
+    --bg-blue:   #384B55;
+    --bg-red:    #493B40;
+    --bg-yellow: #45443C;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg-dim);
+    color: var(--fg);
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .page { max-width: 860px; margin: 0 auto; padding: 48px 32px; }
+
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--green);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, rgba(167,192,128,0.25), transparent);
+  }
+
+  .section { margin-bottom: 60px; }
+  hr.divider { border: none; border-top: 1px solid rgba(255,255,255,0.06); margin: 40px 0; }
+
+  /* ======= LOGO ======= */
+  .logo-hero {
+    background: var(--bg0);
+    border: 1px solid rgba(167,192,128,0.12);
+    border-radius: 16px;
+    padding: 56px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .logo-hero::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 240px; height: 240px;
+    background: radial-gradient(circle, rgba(131,192,146,0.07) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .logo-hero::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: 25%;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(230,152,117,0.05) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .logo-lockup { display: flex; align-items: center; gap: 22px; position: relative; z-index: 1; }
+  .logo-wordmark {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    letter-spacing: 0.08em;
+    color: var(--fg);
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  .logo-variants {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .variant-card {
+    border-radius: 10px;
+    padding: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .variant-card.dark  { background: var(--bg0); border: 1px solid rgba(255,255,255,0.06); }
+  .variant-card.light { background: #F3EAD3; border: 1px solid rgba(0,0,0,0.08); }
+  .variant-card.mid   { background: var(--bg-green); border: 1px solid rgba(167,192,128,0.18); }
+  .variant-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--fg-faint);
+    text-transform: uppercase;
+  }
+  .variant-card.light .variant-label { color: #859289; }
+
+  .small-lockup { display: flex; align-items: center; gap: 10px; }
+  .small-wordmark {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    line-height: 1;
+  }
+
+  /* ======= COLORS ======= */
+  .color-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-bottom: 16px; }
+  .color-swatch { border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.05); }
+  .swatch-block { height: 64px; }
+  .swatch-info { background: var(--bg1); padding: 8px 10px; }
+  .swatch-name { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.05em; color: var(--fg); display: block; margin-bottom: 2px; }
+  .swatch-hex  { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--fg-faint); display: block; }
+
+  /* ======= TYPE ======= */
+  .type-samples { display: flex; flex-direction: column; gap: 24px; }
+  .type-row { display: flex; align-items: baseline; gap: 24px; padding-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+  .type-row:last-child { border-bottom: none; }
+  .type-meta { width: 120px; flex-shrink: 0; }
+  .type-role { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--green); display: block; margin-bottom: 2px; }
+  .type-spec  { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--fg-faint); display: block; }
+
+  /* ======= COMPONENTS ======= */
+  .elements-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .element-card { background: var(--bg0); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; padding: 24px; }
+  .element-title { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--fg-faint); margin-bottom: 16px; }
+
+  .btn-samples { display: flex; flex-direction: column; gap: 10px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: 'Rajdhani', sans-serif; font-weight: 500; font-size: 14px;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    padding: 10px 20px; border-radius: 6px; border: none; cursor: pointer; width: fit-content;
+  }
+  .btn-primary { background: var(--green); color: var(--bg-dim); }
+  .btn-outline  { background: transparent; color: var(--green); border: 1px solid rgba(167,192,128,0.35); }
+  .btn-ghost    { background: rgba(255,255,255,0.04); color: var(--fg); border: 1px solid rgba(255,255,255,0.08); }
+  .btn-danger   { background: var(--bg-red); color: var(--red); border: 1px solid rgba(230,126,128,0.25); }
+
+  .tag-samples { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; padding: 4px 10px; border-radius: 4px; }
+  .tag-green  { background: var(--bg-green);  color: var(--green);  border: 1px solid rgba(167,192,128,0.22); }
+  .tag-blue   { background: var(--bg-blue);   color: var(--blue);   border: 1px solid rgba(127,187,179,0.22); }
+  .tag-red    { background: var(--bg-red);    color: var(--red);    border: 1px solid rgba(230,126,128,0.22); }
+  .tag-yellow { background: var(--bg-yellow); color: var(--yellow); border: 1px solid rgba(219,188,127,0.22); }
+  .tag-orange { background: rgba(70,50,35,0.6); color: var(--orange); border: 1px solid rgba(230,152,117,0.22); }
+  .tag-aqua   { background: rgba(35,55,50,0.8); color: var(--aqua); border: 1px solid rgba(131,192,146,0.22); }
+
+  .stat-card { background: var(--bg-green); border: 1px solid rgba(167,192,128,0.18); border-radius: 8px; padding: 16px; margin-bottom: 10px; }
+  .stat-label { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--fg-faint); margin-bottom: 4px; }
+  .stat-value { font-family: 'Rajdhani', sans-serif; font-size: 28px; font-weight: 700; color: var(--fg); line-height: 1; }
+  .stat-unit  { font-size: 14px; color: var(--green); margin-left: 4px; }
+  .stat-sub   { font-size: 12px; color: var(--fg-dim); margin-top: 4px; }
+
+  .usage-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 20px; }
+  .usage-item { background: var(--bg0); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 16px; display: flex; gap: 12px; align-items: flex-start; }
+  .usage-icon { width: 20px; height: 20px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 11px; flex-shrink: 0; margin-top: 1px; }
+  .usage-icon.do   { background: var(--bg-green); color: var(--green); }
+  .usage-icon.dont { background: var(--bg-red);   color: var(--red);   }
+  .usage-text { font-size: 12px; color: var(--fg-muted); line-height: 1.5; }
+  .usage-text strong { color: var(--fg); font-weight: 500; }
+
+  .voice-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+  .voice-card { background: var(--bg0); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 20px; }
+  .voice-title { font-family: 'Rajdhani', sans-serif; font-size: 16px; font-weight: 700; color: var(--green); margin-bottom: 8px; letter-spacing: 0.05em; }
+  .voice-body  { font-size: 12px; color: var(--fg-faint); line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- BRAND HEADER -->
+  <div style="margin-bottom:48px;">
+    <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:var(--fg-faint); margin-bottom:8px;">Brand Identity System</div>
+    <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:36px; color:var(--fg); letter-spacing:0.08em; text-transform:uppercase;">Vissar</div>
+    <div style="font-size:13px; color:var(--fg-faint); margin-top:4px;">Aerial Systems · Everforest Edition</div>
+  </div>
+
+  <!-- LOGO -->
+  <div class="section">
+    <div class="section-label">01 — Logo Mark</div>
+    <div class="logo-hero">
+      <div class="logo-lockup">
+        <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- Wings -->
+          <path d="M10 38 L6 20 L24 30 Z" fill="#A7C080" opacity="0.65"/>
+          <path d="M70 38 L74 20 L56 30 Z" fill="#A7C080" opacity="0.65"/>
+          <!-- Wing veins -->
+          <line x1="10" y1="38" x2="18" y2="28" stroke="rgba(167,192,128,0.35)" stroke-width="0.8"/>
+          <line x1="10" y1="38" x2="22" y2="34" stroke="rgba(167,192,128,0.35)" stroke-width="0.8"/>
+          <line x1="70" y1="38" x2="62" y2="28" stroke="rgba(167,192,128,0.35)" stroke-width="0.8"/>
+          <line x1="70" y1="38" x2="58" y2="34" stroke="rgba(167,192,128,0.35)" stroke-width="0.8"/>
+          <!-- Head/neck -->
+          <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#D3C6AA"/>
+          <!-- Snout -->
+          <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#A7C080"/>
+          <!-- Eyes — warm ember orange -->
+          <circle cx="35" cy="17" r="2" fill="#E69875"/>
+          <circle cx="45" cy="17" r="2" fill="#E69875"/>
+          <!-- Body -->
+          <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#D3C6AA"/>
+          <!-- Tail fins -->
+          <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#9DA9A0"/>
+          <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#9DA9A0"/>
+          <!-- Chest detail -->
+          <path d="M33 32 L40 36 L47 32" stroke="#A7C080" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div class="logo-wordmark">Vissar</div>
+      </div>
+    </div>
+
+    <div class="logo-variants">
+      <!-- Dark variant -->
+      <div class="variant-card dark">
+        <div class="small-lockup">
+          <svg width="32" height="32" viewBox="0 0 80 80" fill="none">
+            <path d="M10 38 L6 20 L24 30 Z" fill="#A7C080" opacity="0.65"/>
+            <path d="M70 38 L74 20 L56 30 Z" fill="#A7C080" opacity="0.65"/>
+            <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#D3C6AA"/>
+            <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#A7C080"/>
+            <circle cx="35" cy="17" r="2" fill="#E69875"/>
+            <circle cx="45" cy="17" r="2" fill="#E69875"/>
+            <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#D3C6AA"/>
+            <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#9DA9A0"/>
+            <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#9DA9A0"/>
+            <path d="M33 32 L40 36 L47 32" stroke="#A7C080" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div class="small-wordmark" style="color:#D3C6AA;">Vissar</div>
+        </div>
+        <span class="variant-label">Primary dark</span>
+      </div>
+      <!-- Light variant -->
+      <div class="variant-card light">
+        <div class="small-lockup">
+          <svg width="32" height="32" viewBox="0 0 80 80" fill="none">
+            <path d="M10 38 L6 20 L24 30 Z" fill="#8DA101" opacity="0.7"/>
+            <path d="M70 38 L74 20 L56 30 Z" fill="#8DA101" opacity="0.7"/>
+            <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#3C4841"/>
+            <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#8DA101"/>
+            <circle cx="35" cy="17" r="2" fill="#F57D26"/>
+            <circle cx="45" cy="17" r="2" fill="#F57D26"/>
+            <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#3C4841"/>
+            <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#708089"/>
+            <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#708089"/>
+            <path d="M33 32 L40 36 L47 32" stroke="#8DA101" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div class="small-wordmark" style="color:#5C6A72;">Vissar</div>
+        </div>
+        <span class="variant-label">Light version</span>
+      </div>
+      <!-- Icon only -->
+      <div class="variant-card mid">
+        <svg width="40" height="40" viewBox="0 0 80 80" fill="none">
+          <path d="M10 38 L6 20 L24 30 Z" fill="#A7C080" opacity="0.65"/>
+          <path d="M70 38 L74 20 L56 30 Z" fill="#A7C080" opacity="0.65"/>
+          <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#D3C6AA"/>
+          <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#A7C080"/>
+          <circle cx="35" cy="17" r="2" fill="#E69875"/>
+          <circle cx="45" cy="17" r="2" fill="#E69875"/>
+          <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#D3C6AA"/>
+          <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#9DA9A0"/>
+          <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#9DA9A0"/>
+          <path d="M33 32 L40 36 L47 32" stroke="#A7C080" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </svg>
+        <span class="variant-label">Icon mark only</span>
+      </div>
+    </div>
+
+    <div class="usage-grid">
+      <div class="usage-item"><div class="usage-icon do">✓</div><div class="usage-text"><strong>Do</strong> use on dark forest-toned backgrounds</div></div>
+      <div class="usage-item"><div class="usage-icon dont">✕</div><div class="usage-text"><strong>Don't</strong> rotate, distort, or recolor the dragon mark</div></div>
+      <div class="usage-item"><div class="usage-icon do">✓</div><div class="usage-text"><strong>Do</strong> maintain minimum 16px clear space all around</div></div>
+      <div class="usage-item"><div class="usage-icon dont">✕</div><div class="usage-text"><strong>Don't</strong> place on backgrounds without sufficient contrast</div></div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- COLOR PALETTE -->
+  <div class="section">
+    <div class="section-label">02 — Color System · Everforest Dark</div>
+    <div class="color-grid">
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#1E2326;"></div>
+        <div class="swatch-info"><span class="swatch-name">Background</span><span class="swatch-hex">#1E2326</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#272E33;"></div>
+        <div class="swatch-info"><span class="swatch-name">Surface</span><span class="swatch-hex">#272E33</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#374145;"></div>
+        <div class="swatch-info"><span class="swatch-name">Raised</span><span class="swatch-hex">#374145</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#A7C080;"></div>
+        <div class="swatch-info"><span class="swatch-name">Canopy</span><span class="swatch-hex">#A7C080</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#83C092;"></div>
+        <div class="swatch-info"><span class="swatch-name">Aqua</span><span class="swatch-hex">#83C092</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#7FBBB3;"></div>
+        <div class="swatch-info"><span class="swatch-name">Blue</span><span class="swatch-hex">#7FBBB3</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#D3C6AA;"></div>
+        <div class="swatch-info"><span class="swatch-name">Fog</span><span class="swatch-hex">#D3C6AA</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#DBBC7F;"></div>
+        <div class="swatch-info"><span class="swatch-name">Amber</span><span class="swatch-hex">#DBBC7F</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#E69875;"></div>
+        <div class="swatch-info"><span class="swatch-name">Ember</span><span class="swatch-hex">#E69875</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#E67E80;"></div>
+        <div class="swatch-info"><span class="swatch-name">Red</span><span class="swatch-hex">#E67E80</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#D699B6;"></div>
+        <div class="swatch-info"><span class="swatch-name">Purple</span><span class="swatch-hex">#D699B6</span></div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#9DA9A0;"></div>
+        <div class="swatch-info"><span class="swatch-name">Grey</span><span class="swatch-hex">#9DA9A0</span></div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+      <div style="background:var(--bg1); border:1px solid rgba(255,255,255,0.05); border-radius:8px; padding:16px;">
+        <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:var(--fg-faint); margin-bottom:10px;">Primary role</div>
+        <div style="font-size:13px; color:var(--fg-muted); line-height:1.6;"><span style="color:var(--green);">Canopy green</span> leads all brand moments — navigation, CTAs, and the logo mark. It carries the identity's organic authority.</div>
+      </div>
+      <div style="background:var(--bg1); border:1px solid rgba(255,255,255,0.05); border-radius:8px; padding:16px;">
+        <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:var(--fg-faint); margin-bottom:10px;">Accent roles</div>
+        <div style="font-size:13px; color:var(--fg-muted); line-height:1.6;"><span style="color:var(--orange);">Ember orange</span> for the dragon eyes and power indicators. <span style="color:var(--blue);">Blue</span> for data and telemetry. <span style="color:var(--red);">Red</span> for alerts only.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- TYPOGRAPHY -->
+  <div class="section">
+    <div class="section-label">03 — Typography</div>
+    <div class="type-samples">
+      <div class="type-row">
+        <div class="type-meta"><span class="type-role">Display</span><span class="type-spec">Rajdhani 700<br>52–72px</span></div>
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:52px; line-height:1; color:var(--fg); letter-spacing:0.04em;">Beyond the horizon.</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta"><span class="type-role">Heading</span><span class="type-spec">Rajdhani 500<br>24–36px</span></div>
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:500; font-size:30px; line-height:1.1; color:var(--fg); letter-spacing:0.03em;">Advanced aerial systems for demanding environments</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta"><span class="type-role">Body</span><span class="type-spec">Outfit 400<br>14–16px</span></div>
+        <div style="font-family:'Outfit',sans-serif; font-weight:400; font-size:15px; line-height:1.7; color:var(--fg-muted); max-width:480px;">Vissar aerial platforms deliver sub-centimeter precision across industrial, cinematic, and defense-grade deployment scenarios. Engineered for the edge.</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta"><span class="type-role">Mono / Data</span><span class="type-spec">DM Mono 400<br>10–13px</span></div>
+        <div style="font-family:'DM Mono',monospace; font-size:13px; color:var(--aqua); letter-spacing:0.08em;">ALT: 312m · SPD: 84km/h · BAT: 94% · GPS: LOCKED</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- COMPONENTS -->
+  <div class="section">
+    <div class="section-label">04 — UI Components</div>
+    <div class="elements-grid">
+      <div class="element-card">
+        <div class="element-title">Buttons</div>
+        <div class="btn-samples">
+          <button class="btn btn-primary">Request a demo</button>
+          <button class="btn btn-outline">View specs</button>
+          <button class="btn btn-ghost">Learn more</button>
+          <button class="btn btn-danger">Emergency stop</button>
+        </div>
+      </div>
+      <div class="element-card">
+        <div class="element-title">Status Tags</div>
+        <div class="tag-samples" style="margin-bottom:16px;">
+          <span class="tag tag-green">In flight</span>
+          <span class="tag tag-aqua">GPS lock</span>
+          <span class="tag tag-red">Low battery</span>
+          <span class="tag tag-yellow">Standby</span>
+          <span class="tag tag-blue">Auto mode</span>
+          <span class="tag tag-orange">Industrial</span>
+        </div>
+        <div class="element-title" style="margin-top:8px;">Data Card</div>
+        <div class="stat-card">
+          <div class="stat-label">Max altitude</div>
+          <div class="stat-value">6,200<span class="stat-unit">m</span></div>
+          <div class="stat-sub">Above sea level · Certified</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- VOICE -->
+  <div class="section">
+    <div class="section-label">05 — Voice & Tone</div>
+    <div class="voice-grid">
+      <div class="voice-card">
+        <div class="voice-title">Precise</div>
+        <div class="voice-body">Every word earns its place. Specs are stated exactly. No fluff, no filler. Technical claims are always verifiable.</div>
+      </div>
+      <div class="voice-card">
+        <div class="voice-title">Assured</div>
+        <div class="voice-body">Confident without arrogance. Vissar knows its domain. Tone is declarative, not promotional. We don't ask — we state.</div>
+      </div>
+      <div class="voice-card">
+        <div class="voice-title">Forward</div>
+        <div class="voice-body">Language lives at the frontier. Vissar doesn't look backward. The voice anticipates what's next — not what was.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:var(--fg-faint); text-align:center;">
+    Vissar · Brand Identity · Everforest Edition · Confidential
+  </div>
+
+</div>
+</body>
+</html>

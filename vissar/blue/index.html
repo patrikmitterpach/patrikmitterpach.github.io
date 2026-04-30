@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500&display=swap');
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0a0b0f;
+    color: #e8e9ed;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .page { max-width: 860px; margin: 0 auto; padding: 48px 32px; }
+
+  /* SECTION HEADERS */
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #5a8fff;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, rgba(90,143,255,0.3), transparent);
+  }
+
+  .section { margin-bottom: 60px; }
+
+  /* =================== LOGO SECTION =================== */
+  .logo-hero {
+    background: #0d0f16;
+    border: 1px solid rgba(90,143,255,0.15);
+    border-radius: 16px;
+    padding: 56px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .logo-hero::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 220px; height: 220px;
+    background: radial-gradient(circle, rgba(90,143,255,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .logo-hero::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: 30%;
+    width: 160px; height: 160px;
+    background: radial-gradient(circle, rgba(255,80,60,0.05) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .logo-lockup {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .logo-wordmark {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    letter-spacing: 0.08em;
+    color: #ffffff;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  /* DRAGON SVG MARK */
+  .dragon-mark svg { display: block; }
+
+  /* LOGO VARIANTS */
+  .logo-variants {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .variant-card {
+    border-radius: 10px;
+    padding: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .variant-card.dark { background: #0d0f16; border: 1px solid rgba(255,255,255,0.06); }
+  .variant-card.light { background: #f0f1f5; border: 1px solid rgba(0,0,0,0.08); }
+  .variant-card.accent { background: #1a2340; border: 1px solid rgba(90,143,255,0.2); }
+  .variant-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: #5a5d6a;
+    text-transform: uppercase;
+  }
+  .variant-card.light .variant-label { color: #9a9da8; }
+
+  /* SMALL LOGO */
+  .small-lockup { display: flex; align-items: center; gap: 10px; }
+  .small-wordmark {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    line-height: 1;
+  }
+
+  /* =================== COLOR SECTION =================== */
+  .color-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .color-swatch {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.05);
+  }
+  .swatch-block { height: 64px; }
+  .swatch-info {
+    background: #12141c;
+    padding: 8px 10px;
+  }
+  .swatch-name {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.05em;
+    color: #e8e9ed;
+    display: block;
+    margin-bottom: 2px;
+  }
+  .swatch-hex {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: #5a5d6a;
+    display: block;
+  }
+
+  /* =================== TYPOGRAPHY SECTION =================== */
+  .type-samples { display: flex; flex-direction: column; gap: 24px; }
+  .type-row {
+    display: flex;
+    align-items: baseline;
+    gap: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+  .type-row:last-child { border-bottom: none; }
+  .type-meta {
+    width: 120px;
+    flex-shrink: 0;
+  }
+  .type-role {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #5a8fff;
+    display: block;
+    margin-bottom: 2px;
+  }
+  .type-spec {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: #5a5d6a;
+    display: block;
+  }
+
+  /* =================== DESIGN ELEMENTS =================== */
+  .elements-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .element-card {
+    background: #0d0f16;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 12px;
+    padding: 24px;
+  }
+  .element-title {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #5a5d6a;
+    margin-bottom: 16px;
+  }
+
+  /* BUTTONS */
+  .btn-samples { display: flex; flex-direction: column; gap: 10px; }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    width: fit-content;
+  }
+  .btn-primary { background: #5a8fff; color: #ffffff; }
+  .btn-outline { background: transparent; color: #5a8fff; border: 1px solid rgba(90,143,255,0.4); }
+  .btn-ghost { background: rgba(255,255,255,0.04); color: #e8e9ed; border: 1px solid rgba(255,255,255,0.08); }
+  .btn-danger { background: rgba(255,80,60,0.12); color: #ff6b5a; border: 1px solid rgba(255,80,60,0.25); }
+
+  /* TAGS */
+  .tag-samples { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 4px;
+  }
+  .tag-blue { background: rgba(90,143,255,0.12); color: #5a8fff; border: 1px solid rgba(90,143,255,0.2); }
+  .tag-red { background: rgba(255,80,60,0.1); color: #ff6b5a; border: 1px solid rgba(255,80,60,0.2); }
+  .tag-white { background: rgba(255,255,255,0.06); color: #c0c2cc; border: 1px solid rgba(255,255,255,0.1); }
+  .tag-green { background: rgba(80,220,150,0.1); color: #50dc96; border: 1px solid rgba(80,220,150,0.2); }
+
+  /* DATA CARD */
+  .stat-card {
+    background: rgba(90,143,255,0.06);
+    border: 1px solid rgba(90,143,255,0.15);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 10px;
+  }
+  .stat-label { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: #5a5d6a; margin-bottom: 4px; }
+  .stat-value { font-family: 'Rajdhani', sans-serif; font-size: 28px; font-weight: 700; color: #ffffff; line-height: 1; }
+  .stat-unit { font-size: 14px; color: #5a8fff; margin-left: 4px; }
+  .stat-sub { font-size: 12px; color: #5a5d6a; margin-top: 4px; }
+
+  /* USAGE ROW */
+  .usage-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-top: 20px;
+  }
+  .usage-item {
+    background: #0d0f16;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 8px;
+    padding: 16px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .usage-icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .usage-icon.do { background: rgba(80,220,150,0.15); color: #50dc96; }
+  .usage-icon.dont { background: rgba(255,80,60,0.12); color: #ff6b5a; }
+  .usage-text { font-size: 12px; color: #a0a2ad; line-height: 1.5; }
+  .usage-text strong { color: #e8e9ed; font-weight: 500; }
+
+  hr.divider { border: none; border-top: 1px solid rgba(255,255,255,0.05); margin: 40px 0; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- BRAND HEADER -->
+  <div style="margin-bottom: 48px;">
+    <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#5a5d6a; margin-bottom:8px;">Brand Identity System</div>
+    <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:36px; color:#ffffff; letter-spacing:0.08em; text-transform:uppercase;">Vissar</div>
+    <div style="font-size:13px; color:#5a5d6a; margin-top:4px;">Aerial Systems · Brand Guidelines v1.0</div>
+  </div>
+
+  <!-- LOGO MARK -->
+  <div class="section">
+    <div class="section-label">01 — Logo Mark</div>
+
+    <div class="logo-hero">
+      <div class="logo-lockup">
+        <!-- DRAGON MARK SVG -->
+        <div class="dragon-mark">
+          <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <!-- Dragon body: angular, stylized, drone-like -->
+            <!-- Wing left -->
+            <path d="M10 38 L6 20 L24 30 Z" fill="#5a8fff" opacity="0.6"/>
+            <!-- Wing right -->
+            <path d="M70 38 L74 20 L56 30 Z" fill="#5a8fff" opacity="0.6"/>
+            <!-- Main body: angular dragon silhouette -->
+            <!-- Neck & head area -->
+            <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#ffffff"/>
+            <!-- Snout -->
+            <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#5a8fff"/>
+            <!-- Eye (heat signature dot) -->
+            <circle cx="35" cy="17" r="2" fill="#ff503c"/>
+            <circle cx="45" cy="17" r="2" fill="#ff503c"/>
+            <!-- Body -->
+            <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#ffffff"/>
+            <!-- Tail -->
+            <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#c8d0e0"/>
+            <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#c8d0e0"/>
+            <!-- Chest detail line -->
+            <path d="M33 32 L40 36 L47 32" stroke="#5a8fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+            <!-- Wing membrane detail lines -->
+            <line x1="10" y1="38" x2="18" y2="28" stroke="rgba(90,143,255,0.4)" stroke-width="0.8"/>
+            <line x1="10" y1="38" x2="22" y2="34" stroke="rgba(90,143,255,0.4)" stroke-width="0.8"/>
+            <line x1="70" y1="38" x2="62" y2="28" stroke="rgba(90,143,255,0.4)" stroke-width="0.8"/>
+            <line x1="70" y1="38" x2="58" y2="34" stroke="rgba(90,143,255,0.4)" stroke-width="0.8"/>
+          </svg>
+        </div>
+        <div class="logo-wordmark">Vissar</div>
+      </div>
+    </div>
+
+    <!-- Variants -->
+    <div class="logo-variants">
+      <div class="variant-card dark">
+        <div class="small-lockup">
+          <svg width="32" height="32" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10 38 L6 20 L24 30 Z" fill="#5a8fff" opacity="0.6"/>
+            <path d="M70 38 L74 20 L56 30 Z" fill="#5a8fff" opacity="0.6"/>
+            <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#ffffff"/>
+            <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#5a8fff"/>
+            <circle cx="35" cy="17" r="2" fill="#ff503c"/>
+            <circle cx="45" cy="17" r="2" fill="#ff503c"/>
+            <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#ffffff"/>
+            <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#c8d0e0"/>
+            <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#c8d0e0"/>
+            <path d="M33 32 L40 36 L47 32" stroke="#5a8fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div class="small-wordmark" style="color:#ffffff;">Vissar</div>
+        </div>
+        <span class="variant-label">Primary dark</span>
+      </div>
+      <div class="variant-card light">
+        <div class="small-lockup">
+          <svg width="32" height="32" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10 38 L6 20 L24 30 Z" fill="#185FA5" opacity="0.7"/>
+            <path d="M70 38 L74 20 L56 30 Z" fill="#185FA5" opacity="0.7"/>
+            <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#0d0f16"/>
+            <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#185FA5"/>
+            <circle cx="35" cy="17" r="2" fill="#cc3322"/>
+            <circle cx="45" cy="17" r="2" fill="#cc3322"/>
+            <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#0d0f16"/>
+            <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#444"/>
+            <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#444"/>
+            <path d="M33 32 L40 36 L47 32" stroke="#185FA5" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div class="small-wordmark" style="color:#0d0f16;">Vissar</div>
+        </div>
+        <span class="variant-label">Light version</span>
+      </div>
+      <div class="variant-card accent">
+        <!-- Icon only -->
+        <svg width="40" height="40" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10 38 L6 20 L24 30 Z" fill="#5a8fff" opacity="0.6"/>
+          <path d="M70 38 L74 20 L56 30 Z" fill="#5a8fff" opacity="0.6"/>
+          <path d="M36 12 L30 22 L28 30 L40 26 L52 30 L50 22 Z" fill="#ffffff"/>
+          <path d="M36 12 L33 6 L40 10 L47 6 L44 12 Z" fill="#5a8fff"/>
+          <circle cx="35" cy="17" r="2" fill="#ff503c"/>
+          <circle cx="45" cy="17" r="2" fill="#ff503c"/>
+          <path d="M28 30 L24 50 L40 44 L56 50 L52 30 L40 26 Z" fill="#ffffff"/>
+          <path d="M24 50 L14 62 L20 58 L26 66 L30 54 Z" fill="#c8d0e0"/>
+          <path d="M56 50 L66 62 L60 58 L54 66 L50 54 Z" fill="#c8d0e0"/>
+          <path d="M33 32 L40 36 L47 32" stroke="#5a8fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        </svg>
+        <span class="variant-label">Icon mark only</span>
+      </div>
+    </div>
+
+    <!-- Do / Don't -->
+    <div class="usage-grid">
+      <div class="usage-item">
+        <div class="usage-icon do">✓</div>
+        <div class="usage-text"><strong>Do</strong> use on dark or deeply saturated backgrounds</div>
+      </div>
+      <div class="usage-item">
+        <div class="usage-icon dont">✕</div>
+        <div class="usage-text"><strong>Don't</strong> rotate, distort, or recolor the dragon mark</div>
+      </div>
+      <div class="usage-item">
+        <div class="usage-icon do">✓</div>
+        <div class="usage-text"><strong>Do</strong> maintain minimum 16px clear space around the mark</div>
+      </div>
+      <div class="usage-item">
+        <div class="usage-icon dont">✕</div>
+        <div class="usage-text"><strong>Don't</strong> use light wordmark on light backgrounds</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- COLOR PALETTE -->
+  <div class="section">
+    <div class="section-label">02 — Color System</div>
+
+    <div class="color-grid">
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#0a0b0f;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Void</span>
+          <span class="swatch-hex">#0a0b0f</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#0d0f16;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Abyss</span>
+          <span class="swatch-hex">#0d0f16</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#1a1e2e;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Slate</span>
+          <span class="swatch-hex">#1a1e2e</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#5a8fff;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Signal</span>
+          <span class="swatch-hex">#5a8fff</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#ff503c;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Ember</span>
+          <span class="swatch-hex">#ff503c</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="swatch-block" style="background:#50dc96;"></div>
+        <div class="swatch-info">
+          <span class="swatch-name">Lock</span>
+          <span class="swatch-hex">#50dc96</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+      <div style="background:#12141c; border:1px solid rgba(255,255,255,0.05); border-radius:8px; padding:16px;">
+        <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#5a5d6a; margin-bottom:10px;">Primary role</div>
+        <div style="font-size:13px; color:#a0a2ad; line-height:1.6;"><span style="color:#5a8fff;">Signal blue</span> is the primary accent — navigation, CTAs, data highlights, UI chrome. It's the brand's technological heartbeat.</div>
+      </div>
+      <div style="background:#12141c; border:1px solid rgba(255,255,255,0.05); border-radius:8px; padding:16px;">
+        <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#5a5d6a; margin-bottom:10px;">Accent roles</div>
+        <div style="font-size:13px; color:#a0a2ad; line-height:1.6;"><span style="color:#ff503c;">Ember red</span> for alerts, heat, and power. <span style="color:#50dc96;">Lock green</span> for status, GPS lock, success states only. Both used sparingly.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- TYPOGRAPHY -->
+  <div class="section">
+    <div class="section-label">03 — Typography</div>
+    <div class="type-samples">
+      <div class="type-row">
+        <div class="type-meta">
+          <span class="type-role">Display</span>
+          <span class="type-spec">Rajdhani 700<br>52–72px</span>
+        </div>
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:700; font-size:52px; line-height:1; color:#ffffff; letter-spacing:0.04em;">Beyond the horizon.</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta">
+          <span class="type-role">Heading</span>
+          <span class="type-spec">Rajdhani 500<br>24–36px</span>
+        </div>
+        <div style="font-family:'Rajdhani',sans-serif; font-weight:500; font-size:30px; line-height:1.1; color:#e8e9ed; letter-spacing:0.03em;">Advanced aerial systems for demanding environments</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta">
+          <span class="type-role">Body</span>
+          <span class="type-spec">Outfit 400<br>14–16px</span>
+        </div>
+        <div style="font-family:'Outfit',sans-serif; font-weight:400; font-size:15px; line-height:1.7; color:#a0a2ad; max-width:480px;">Vissar aerial platforms deliver sub-centimeter precision across industrial, cinematic, and defense-grade deployment scenarios. Engineered for the edge.</div>
+      </div>
+      <div class="type-row">
+        <div class="type-meta">
+          <span class="type-role">Mono / Data</span>
+          <span class="type-spec">DM Mono 400<br>10–13px</span>
+        </div>
+        <div style="font-family:'DM Mono',monospace; font-size:13px; color:#5a8fff; letter-spacing:0.08em;">ALT: 312m · SPD: 84km/h · BAT: 94% · GPS: LOCKED</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- COMPONENTS -->
+  <div class="section">
+    <div class="section-label">04 — UI Components</div>
+    <div class="elements-grid">
+      <div class="element-card">
+        <div class="element-title">Buttons</div>
+        <div class="btn-samples">
+          <button class="btn btn-primary">Request a demo</button>
+          <button class="btn btn-outline">View specs</button>
+          <button class="btn btn-ghost">Learn more</button>
+          <button class="btn btn-danger">Emergency stop</button>
+        </div>
+      </div>
+      <div class="element-card">
+        <div class="element-title">Status Tags</div>
+        <div class="tag-samples" style="margin-bottom:16px;">
+          <span class="tag tag-blue">In flight</span>
+          <span class="tag tag-green">GPS lock</span>
+          <span class="tag tag-red">Low battery</span>
+          <span class="tag tag-white">Standby</span>
+          <span class="tag tag-white">Industrial</span>
+          <span class="tag tag-blue">Auto mode</span>
+          <span class="tag tag-red">Alert</span>
+          <span class="tag tag-green">Mission complete</span>
+        </div>
+        <div class="element-title" style="margin-top:8px;">Data Card</div>
+        <div class="stat-card">
+          <div class="stat-label">Max altitude</div>
+          <div class="stat-value">6,200<span class="stat-unit">m</span></div>
+          <div class="stat-sub">Above sea level · Certified</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- VOICE & TONE -->
+  <div class="section">
+    <div class="section-label">05 — Voice & Tone</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px;">
+      <div style="background:#0d0f16; border:1px solid rgba(255,255,255,0.06); border-radius:10px; padding:20px;">
+        <div style="font-family:'Rajdhani',sans-serif; font-size:16px; font-weight:700; color:#5a8fff; margin-bottom:8px; letter-spacing:0.05em;">Precise</div>
+        <div style="font-size:12px; color:#6a6d7a; line-height:1.6;">Every word earns its place. Specs are stated exactly. No fluff, no filler. Technical claims are always verifiable.</div>
+      </div>
+      <div style="background:#0d0f16; border:1px solid rgba(255,255,255,0.06); border-radius:10px; padding:20px;">
+        <div style="font-family:'Rajdhani',sans-serif; font-size:16px; font-weight:700; color:#5a8fff; margin-bottom:8px; letter-spacing:0.05em;">Assured</div>
+        <div style="font-size:12px; color:#6a6d7a; line-height:1.6;">Confident without arrogance. Vissar knows its domain. Tone is declarative, not promotional. We don't ask — we state.</div>
+      </div>
+      <div style="background:#0d0f16; border:1px solid rgba(255,255,255,0.06); border-radius:10px; padding:20px;">
+        <div style="font-family:'Rajdhani',sans-serif; font-size:16px; font-weight:700; color:#5a8fff; margin-bottom:8px; letter-spacing:0.05em;">Forward</div>
+        <div style="font-size:12px; color:#6a6d7a; line-height:1.6;">Language lives at the frontier. Vissar doesn't look backward. The voice anticipates what's next — not what was.</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- FOOTER NOTE -->
+  <div style="font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#3a3d4a; text-align:center;">
+    Vissar · Brand Identity v1.0 · Confidential
+  </div>
+
+</div>
+</body>
+</html>
