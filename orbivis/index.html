@@ -39,6 +39,17 @@
                                         <span><span class="ov-legend-glyph is-station">X</span>station</span>
                                         <span><i class="ov-legend-swatch" aria-hidden="true"></i>coverage</span>
                                 </p>
+
+                                <section class="ov-panel ov-tle-panel" aria-label="TLE input">
+                                        <label class="ov-sr-only" for="tle-input">Two-line element set</label>
+                                        <textarea id="tle-input" rows="3" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
+                                        <div class="ov-actions">
+                                                <button id="tle-button" type="button">Load TLE</button>
+                                                <button id="tle-reset" class="ov-button-secondary" type="button">Reset to ISS</button>
+                                                <p class="ov-message" id="tle-message" role="status" aria-live="polite"></p>
+                                        </div>
+                                        <p class="ov-hint">The bundled ISS TLE is a snapshot from Celestrak. Paste a current element set for the most accurate position. Ctrl + Enter also loads it.</p>
+                                </section>
                         </div>
 
                         <aside class="ov-sidebar">
@@ -69,33 +80,6 @@
                                         <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
                                 </section>
                         </aside>
-                </section>
-
-                <section class="ov-panel ov-tle-panel" aria-label="TLE input">
-                        <label class="ov-sr-only" for="tle-input">Two-line element set</label>
-                        <textarea id="tle-input" rows="3" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
-                        <div class="ov-actions">
-                                <button id="tle-button" type="button">Load TLE</button>
-                                <button id="tle-reset" class="ov-button-secondary" type="button">Reset to ISS</button>
-                                <p class="ov-message" id="tle-message" role="status" aria-live="polite"></p>
-                        </div>
-                        <p class="ov-hint">The bundled ISS TLE is a snapshot from Celestrak. Paste a current element set for the most accurate position. Ctrl + Enter also loads it.</p>
-                </section>
-
-                <section class="ov-help" id="tle-help" aria-label="About this visualizer">
-                        <p>Orbit Visualizer projects a satellite's current position and surrounding ground track onto an equirectangular world map. The default object is the International Space Station; paste any current two- or three-line element set to track something else.</p>
-                        <details>
-                                <summary>What is a TLE?</summary>
-                                <p>A two-line element set is a compact text format describing an Earth-orbiting object's orbit at a specific epoch. Orbit trackers propagate that data forward and backward in time. TLEs age quickly, so use a current one from <a href="https://celestrak.org/NORAD/elements/">Celestrak</a> for accurate positions.</p>
-                        </details>
-                        <details>
-                                <summary>How is the ground track calculated?</summary>
-                                <p>Positions come from the SGP4 model in the vendored <a href="https://github.com/davidcalhoun/tle.js/">tle.js</a> and <a href="https://github.com/shashwatak/satellite-js">satellite-js</a> libraries. The map uses a simple equirectangular projection, not Mercator, so latitude spacing stays uniform. Ground-station coverage is a great-circle radius drawn by sampling its circumference.</p>
-                        </details>
-                        <details>
-                                <summary>Why does the map update once per second?</summary>
-                                <p>The canvas is redrawn on a one-second timer rather than continuously animated. This keeps CPU use low, and every frame is still calculated for the timestamp shown below the map.</p>
-                        </details>
                 </section>
 
                 <footer class="ov-footer">

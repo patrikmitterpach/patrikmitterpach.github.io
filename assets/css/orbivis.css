@@ -87,7 +87,7 @@ body {
 }
 
 .ov-header::after {
-        content: "├" var(--rule);
+        content: var(--rule);
         grid-column: 1 / -1;
         display: block;
         overflow: hidden;
@@ -250,7 +250,7 @@ body {
 }
 
 .ov-sidebar .ov-panel + .ov-panel::before {
-        content: "├" var(--rule);
+        content: var(--rule);
         display: block;
         overflow: hidden;
         margin-bottom: 11px;
@@ -259,9 +259,8 @@ body {
 
 .ov-telemetry {
         font-family: inherit;
-        font-size: 14px;
+        font-size: clamp(11px, 3.3vw, 13.5px);
         line-height: 1.45;
-        overflow-x: auto;
         white-space: pre;
 }
 
@@ -370,8 +369,7 @@ body {
         margin-top: 33px;
 }
 
-.ov-tle-panel::before,
-.ov-help::before {
+.ov-tle-panel::before {
         content: "┌" var(--rule);
         display: block;
         overflow: hidden;
@@ -439,38 +437,6 @@ body {
         content: "ok ";
 }
 
-.ov-help {
-        margin-top: 33px;
-}
-
-.ov-help > p,
-.ov-help details {
-        max-width: 72ch;
-}
-
-.ov-help details {
-        margin-top: 11px;
-}
-
-.ov-help summary {
-        cursor: pointer;
-        font-size: 10px;
-        letter-spacing: 0.04em;
-        list-style: none;
-}
-
-.ov-help summary::after {
-        content: " [+]";
-}
-
-.ov-help details[open] summary::after {
-        content: " [-]";
-}
-
-.ov-help details p {
-        margin-top: 8px !important;
-}
-
 .ov-footer {
         display: flex;
         flex-wrap: wrap;
@@ -480,7 +446,7 @@ body {
 }
 
 .ov-footer::before {
-        content: "├" var(--rule);
+        content: var(--rule);
         flex-basis: 100%;
         display: block;
         overflow: hidden;
@@ -523,7 +489,7 @@ body {
 
         .ov-sidebar {
                 display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+                grid-template-columns: minmax(0, 1fr);
                 gap: 22px;
         }
 }
@@ -542,10 +508,6 @@ body {
                 font-size: 30px;
         }
 
-        .ov-sidebar {
-                grid-template-columns: minmax(0, 1fr);
-        }
-
         .ov-actions {
                 gap: 11px;
         }
@@ -554,9 +516,5 @@ body {
 @media (max-width: 420px) {
         .ov h1 {
                 font-size: 25px;
-        }
-
-        .ov-telemetry {
-                font-size: 13px;
         }
 }
