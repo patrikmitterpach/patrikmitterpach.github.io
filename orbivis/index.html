@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#fdfdfc">
+        <title>Orbit Visualizer · mitterpach.dev</title>
+        <meta name="description" content="A live satellite ground-track visualizer with custom TLE support and ground-station coverage.">
+        <link rel="stylesheet" href="/assets/css/orbivis.css">
+</head>
+
+<body class="orbivis-page">
+        <main class="ov">
+                <header class="ov-header">
+                        <div>
+                                <p class="ov-eyebrow">mitterpach.dev:~$ orbivis</p>
+                                <h1>Orbit Visualizer</h1>
+                                <p class="ov-lede">ground-track monitor -- SGP4 propagation -- custom TLE input</p>
+                        </div>
+                        <a class="ov-back" href="../">[ back to site ]</a>
+                </header>
+
+                <section class="ov-layout" aria-label="Satellite map and controls">
+                        <div class="ov-map-panel">
+                                <div class="ov-map-frame" id="map-frame">
+                                        <canvas id="map" role="img" aria-label="World map with satellite ground track"></canvas>
+                                        <p class="ov-map-status" id="map-status" role="status">loading map</p>
+                                </div>
+                                <p class="ov-map-caption">
+                                        <span class="ov-live-dot" aria-hidden="true"></span>
+                                        <span>tracking</span>
+                                        <span id="satellite-name">ISS (ZARYA)</span>
+                                        <span class="ov-caption-sep" aria-hidden="true">--</span>
+                                        <span>updated <span id="last-updated">—</span></span>
+                                </p>
+                                <p class="ov-legend" aria-hidden="true">
+                                        <span><span class="ov-legend-glyph">- - -</span>past</span>
+                                        <span><span class="ov-legend-glyph">=====</span>future</span>
+                                        <span><span class="ov-legend-glyph">@</span>satellite</span>
+                                        <span><span class="ov-legend-glyph is-station">X</span>station</span>
+                                        <span><i class="ov-legend-swatch" aria-hidden="true"></i>coverage</span>
+                                </p>
+                        </div>
+
+                        <aside class="ov-sidebar">
+                                <section class="ov-panel" aria-label="Telemetry">
+                                        <!-- <h2>[ telemetry ]</h2> -->
+                                        <dl class="ov-stats">
+                                                <div class="ov-stat">
+                                                        <dt>Latitude</dt>
+                                                        <dd id="stat-latitude">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Longitude</dt>
+                                                        <dd id="stat-longitude">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Altitude</dt>
+                                                        <dd id="stat-height">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Velocity</dt>
+                                                        <dd id="stat-velocity">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Period</dt>
+                                                        <dd id="stat-period">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Inclination</dt>
+                                                        <dd id="stat-inclination">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Apogee</dt>
+                                                        <dd id="stat-apogee">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Perigee</dt>
+                                                        <dd id="stat-perigee">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Orbits / day</dt>
+                                                        <dd id="stat-orbits">--</dd>
+                                                </div>
+                                                <div class="ov-stat">
+                                                        <dt>Station passes</dt>
+                                                        <dd id="stat-passes">--</dd>
+                                                </div>
+                                        </dl>
+                                </section>
+
+                                <section class="ov-panel" aria-label="Display settings">
+                                        <!-- <h2>[ display ]</h2> -->
+                                        <div class="ov-field">
+                                                <label for="window-minutes">
+                                                        <span>track window</span>
+                                                        <output id="window-value" for="window-minutes">±60 min</output>
+                                                </label>
+                                                <input id="window-minutes" type="range" min="10" max="240" step="10" value="120">
+                                                <p class="ov-hint">Past and future ground tracks around the current position.</p>
+                                        </div>
+                                </section>
+
+                                <section class="ov-panel" aria-labelledby="gs-title">
+                                        <h2 id="gs-title">[ GROUND STATION ]</h2>
+                                        <div class="ov-field-row">
+                                                <div class="ov-field">
+                                                        <label for="gs-latitude"><span>latitude</span></label>
+                                                        <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
+                                                </div>
+                                                <div class="ov-field">
+                                                        <label for="gs-longitude"><span>longitude</span></label>
+                                                        <input id="gs-longitude" type="number" min="-180" max="180" step="0.1" value="14" inputmode="decimal">
+                                                </div>
+                                        </div>
+                                        <div class="ov-field">
+                                                <label for="gs-range"><span>coverage radius (km)</span></label>
+                                                <input id="gs-range" type="number" min="0" max="20000" step="10" value="1200" inputmode="numeric">
+                                        </div>
+                                        <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
+                                </section>
+                        </aside>
+                </section>
+
+                <section class="ov-panel ov-tle-panel" aria-labelledby="tle-title">
+                        <h2 id="tle-title">[ tle input ]</h2>
+                        <label class="ov-sr-only" for="tle-input">Two-line element set</label>
+                        <textarea id="tle-input" rows="3" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
+                        <div class="ov-actions">
+                                <button id="tle-button" type="button">Load TLE</button>
+                                <button id="tle-reset" class="ov-button-secondary" type="button">Reset to ISS</button>
+                                <p class="ov-message" id="tle-message" role="status" aria-live="polite"></p>
+                        </div>
+                        <p class="ov-hint">The bundled ISS TLE is a snapshot from Celestrak. Paste a current element set for the most accurate position. Ctrl + Enter also loads it.</p>
+                </section>
+
+                <section class="ov-help" id="tle-help" aria-label="About this visualizer">
+                        <h2>[ notes ]</h2>
+                        <p>Orbit Visualizer projects a satellite's current position and surrounding ground track onto an equirectangular world map. The default object is the International Space Station; paste any current two- or three-line element set to track something else.</p>
+                        <details>
+                                <summary>What is a TLE?</summary>
+                                <p>A two-line element set is a compact text format describing an Earth-orbiting object's orbit at a specific epoch. Orbit trackers propagate that data forward and backward in time. TLEs age quickly, so use a current one from <a href="https://celestrak.org/NORAD/elements/">Celestrak</a> for accurate positions.</p>
+                        </details>
+                        <details>
+                                <summary>How is the ground track calculated?</summary>
+                                <p>Positions come from the SGP4 model in the vendored <a href="https://github.com/davidcalhoun/tle.js/">tle.js</a> and <a href="https://github.com/shashwatak/satellite-js">satellite-js</a> libraries. The map uses a simple equirectangular projection, not Mercator, so latitude spacing stays uniform. Ground-station coverage is a great-circle radius drawn by sampling its circumference.</p>
+                        </details>
+                        <details>
+                                <summary>Why does the map update once per second?</summary>
+                                <p>The canvas is redrawn on a one-second timer rather than continuously animated. This keeps CPU use low, and every frame is still calculated for the timestamp shown below the map.</p>
+                        </details>
+                </section>
+
+                <footer class="ov-footer">
+                        <p>map: public-domain data -- orbital math: tle.js / satellite-js</p>
+                        <p>type: <a href="https://departuremono.com">departure mono</a> (sil ofl)</p>
+                </footer>
+        </main>
+
+        <noscript>
+                <p class="ov-noscript">Orbit Visualizer needs JavaScript to calculate and draw the ground track.</p>
+        </noscript>
+
+        <script type="module" src="./mapping.js"></script>
+</body>
+</html>

@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
 
 html {
 	margin-left: 1em;
 	margin-right: 1em;
+	background: #fff;
 }
 
-div {
+body > div {
 	max-width: 30em;
 	position: absolute;
 	top: 1em;
@@ -25,10 +26,118 @@ pre {
 	max-width: 40em;
 	text-align: left;
 	overflow: hidden;
+	margin: 5em 0em 5em;
+}
+
+pre.logo {
+	font-size: 1.5vh !important;
+	line-height: 1;
+	margin: 1em 0;
+	text-align: center;
 }
 
 h1, h2 {
 	font-size: 1em;
 	font-weight: normal;
 	text-align: center;
+}
+
+.bio {
+	margin-top: 2em;
+}
+
+.bio h2 {
+	font-weight: 700;
+	letter-spacing: .08em;
+	margin-bottom: 1em;
+	text-align: left;
+}
+
+.bio p {
+	color: #222;
+	line-height: 1.6;
+	margin: 0;
+	text-align: left;
+}
+
+.bio .prompt {
+	color: #777;
+	margin-right: .5em;
+}
+
+.bio p::after {
+	content: "▮";
+	margin-left: .2em;
+	animation: blink 1.2s steps(1) infinite;
+}
+
+@keyframes blink {
+	50% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.bio p::after {
+		animation: none;
+	}
+}
+
+.separator {
+	text-align: center;
+	color: #555;
+	font-weight: 700;
+	margin: 3em 0em 3em 0em;
+	user-select: none;
+}
+
+.links {
+	display: flex;
+	justify-content: center;
+	gap: 2em;
+	margin-top: 1.5em;
+}
+
+.links a {
+	color: inherit;
+	text-decoration: none;
+	padding: 0 .2em;
+}
+
+.links a::before {
+	content: "[";
+	margin-right: .5em;
+	color: #777;
+}
+
+.links a::after {
+	content: "]";
+	margin-left: .5em;
+	color: #777;
+}
+
+.links a:hover,
+.links a:focus-visible {
+	background: #111;
+	color: #fff;
+	outline: none;
+}
+
+.links a:hover::before,
+.links a:hover::after,
+.links a:focus-visible::before,
+.links a:focus-visible::after {
+	color: #aaa;
+}
+
+.bio a {
+	color: inherit;
+	font-weight: 700;
+	text-decoration: underline;
+	text-underline-offset: .2em;
+}
+
+.bio a:hover,
+.bio a:focus-visible {
+	background: #111;
+	color: #fff;
+	outline: none;
 }
