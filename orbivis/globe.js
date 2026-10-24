@@ -2,7 +2,7 @@ import { isLand } from "./world.js";
 import { ASCII, BLOCK_RAMP, BLOCKS, asciiToHtml, hasActiveSelection } from "./ascii.js";
 
 export function createGlobe({ grid }) {
-        const W = 100, H = 54, S = 32, A = 1.7, TAU = Math.PI * 2, DEG = 180 / Math.PI;
+        const W = 50, H = 27, S = 16, A = 1.7, TAU = Math.PI * 2, DEG = 180 / Math.PI;
         const DEG_TO_RAD = Math.PI / 180;
         const CX = (W - 1) / 2, CY = (H - 1) / 2, K = S / A;
         const RAMP = BLOCK_RAMP, NR = RAMP.length - 1;
