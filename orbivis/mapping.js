@@ -56,6 +56,7 @@ const dom = {
         gsLongitude: document.getElementById("gs-longitude"),
         gsRange: document.getElementById("gs-range"),
         gsSummary: document.getElementById("gs-summary"),
+        passInfo: document.getElementById("pass-info"),
         tleInput: document.getElementById("tle-input"),
         tleButton: document.getElementById("tle-button"),
         tleReset: document.getElementById("tle-reset"),
@@ -75,6 +76,7 @@ let clockId = null;
 let renderQueued = false;
 let resizeObserver = null;
 let passCache = { key: "", count: null };
+let rangePassCache = { key: "", inRange: false, until: null };
 
 function clamp(value, min, max) {
         return Math.min(max, Math.max(min, value));
@@ -180,7 +182,9 @@ function drawGeoPath(points, options) {
                         if (options.fill) {
                                 ctx.closePath();
                                 ctx.fillStyle = options.fill;
+                                if (options.invert) ctx.globalCompositeOperation = "difference";
                                 ctx.fill();
+                                ctx.globalCompositeOperation = "source-over";
                         }
 
                         if (options.halo) {
@@ -272,7 +276,8 @@ function drawGroundStation() {
                         stroke: MAP_GS,
                         lineWidth: 1,
                         dash: [2, 5],
-                        fill: MAP_GS_FILL
+                        fill: MAP_BACKGROUND,
+                        invert: true
                 });
         }
 }
@@ -459,6 +464,80 @@ function formatLongitude(longitude) {
         return `${Math.abs(longitude).toFixed(3)}°${longitude >= 0 ? "E" : "W"}`;
 }
 
+function distanceKm(latitude, longitude, targetLatitude, targetLongitude) {
+        const deltaLatitude = (targetLatitude - latitude) * DEG_TO_RAD;
+        const deltaLongitude = (targetLongitude - longitude) * DEG_TO_RAD;
+        const a = Math.sin(deltaLatitude / 2) ** 2
+                + Math.cos(latitude * DEG_TO_RAD)
+                * Math.cos(targetLatitude * DEG_TO_RAD)
+                * Math.sin(deltaLongitude / 2) ** 2;
+
+        return 2 * EARTH_RADIUS_KM * Math.asin(Math.sqrt(a));
+}
+
+function stationRangeInfo(current, timestamp) {
+        const inRange = distanceKm(
+                current.lat,
+                current.lng,
+                groundStation.lat,
+                groundStation.lng
+        ) <= groundStation.range;
+        const bucket = inRange ? 30_000 : 300_000;
+        const key = [
+                satellite.tle.join("|"),
+                groundStation.lat,
+                groundStation.lng,
+                groundStation.range,
+                Math.floor(timestamp / bucket)
+        ].join("|");
+
+        if (rangePassCache.key === key && (!rangePassCache.until || timestamp < rangePassCache.until)) {
+                return rangePassCache;
+        }
+
+        const step = inRange ? 10_000 : 60_000;
+        const limit = inRange ? 3_600_000 : 86_400_000;
+        let until = null;
+
+        for (let offset = step; offset <= limit; offset += step) {
+                const state = safeStateAt(satellite, timestamp + offset);
+                if (!state) continue;
+
+                const inside = distanceKm(
+                        state.lat,
+                        state.lng,
+                        groundStation.lat,
+                        groundStation.lng
+                ) <= groundStation.range;
+
+                if (inside !== inRange) {
+                        until = timestamp + offset;
+                        break;
+                }
+        }
+
+        rangePassCache = { key, inRange, until };
+        return rangePassCache;
+}
+
+function formatDuration(milliseconds) {
+        return new Date(Math.max(0, milliseconds)).toISOString().slice(11, 19);
+}
+
+function updatePassInfo(current, timestamp) {
+        const info = stationRangeInfo(current, timestamp);
+
+        if (info.inRange) {
+                dom.passInfo.textContent = info.until === null
+                        ? "IN RANGE -- LOS --"
+                        : `IN RANGE -- LOS ${formatDuration(info.until - timestamp)}`;
+        } else {
+                dom.passInfo.textContent = info.until === null
+                        ? "NEXT PASS --"
+                        : `NEXT PASS IN ${formatDuration(info.until - timestamp)}`;
+        }
+}
+
 function updateTelemetry(current, timestamp) {
         const stats = orbitStats(satellite.satrec);
         const passes = stationPasses(satellite, groundStation, timestamp);
@@ -488,6 +567,7 @@ function updateTelemetry(current, timestamp) {
 
         dom.satelliteName.textContent = satellite.name;
         dom.lastUpdated.textContent = `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
+        updatePassInfo(current, timestamp);
         dom.canvas.setAttribute(
                 "aria-label",
                 `World map showing the ground track of ${satellite.name}. Current position ${formatLatitude(current.lat)}, ${formatLongitude(current.lng)}.`

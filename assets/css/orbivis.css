@@ -84,15 +84,7 @@ body {
         display: grid;
         grid-template-columns: minmax(0, 1fr) auto;
         gap: 22px;
-}
-
-.ov-header::after {
-        content: var(--rule);
-        grid-column: 1 / -1;
-        display: block;
-        overflow: hidden;
-        margin-top: 22px;
-        white-space: nowrap;
+        margin-bottom: 22px;
 }
 
 .ov-eyebrow {
@@ -101,9 +93,23 @@ body {
         letter-spacing: 0.04em;
 }
 
+.ov-label {
+        margin-bottom: 6px;
+        font-size: 10px;
+        letter-spacing: 0.06em;
+}
+
 .ov-lede {
         margin-top: 11px !important;
         white-space: nowrap;
+}
+
+.ov-meta {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        gap: 11px;
+        font-size: 10px;
 }
 
 .ov-back {
@@ -233,7 +239,7 @@ body {
         flex: none;
         width: 9px;
         height: 9px;
-        background: rgba(111, 125, 95, 0.28);
+        background: linear-gradient(90deg, var(--ink) 50%, var(--paper) 50%);
         border: 1px dashed var(--highlight);
 }
 
@@ -247,14 +253,6 @@ body {
         padding: 0;
         background: none;
         border: 0;
-}
-
-.ov-sidebar .ov-panel + .ov-panel::before {
-        content: var(--rule);
-        display: block;
-        overflow: hidden;
-        margin-bottom: 11px;
-        white-space: nowrap;
 }
 
 .ov-telemetry {
@@ -369,14 +367,6 @@ body {
         margin-top: 33px;
 }
 
-.ov-tle-panel::before {
-        content: "┌" var(--rule);
-        display: block;
-        overflow: hidden;
-        margin-bottom: 11px;
-        white-space: nowrap;
-}
-
 .ov textarea {
         min-height: 66px;
         padding: 8px 11px;
@@ -445,14 +435,6 @@ body {
         margin-top: 33px;
 }
 
-.ov-footer::before {
-        content: var(--rule);
-        flex-basis: 100%;
-        display: block;
-        overflow: hidden;
-        white-space: nowrap;
-}
-
 .ov-footer p {
         font-size: 10px;
         letter-spacing: 0.04em;
@@ -502,6 +484,10 @@ body {
         .ov-header {
                 grid-template-columns: minmax(0, 1fr);
                 gap: 11px;
+        }
+
+        .ov-meta {
+                justify-content: flex-start;
         }
 
         .ov h1 {

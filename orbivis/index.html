@@ -17,11 +17,15 @@
                                 <h1>Orbit Visualizer</h1>
                                 <p class="ov-lede">ground-track monitor -- SGP4 propagation -- custom TLE input</p>
                         </div>
-                        <a class="ov-back" href="../">[ back to site ]</a>
+                        <div class="ov-meta">
+                                <p>updated <span id="last-updated">—</span></p>
+                                <a class="ov-back" href="../">[ back to site ]</a>
+                        </div>
                 </header>
 
                 <section class="ov-layout" aria-label="Satellite map and controls">
                         <div class="ov-map-panel">
+                                <p class="ov-label"># map</p>
                                 <div class="ov-map-frame" id="map-frame">
                                         <canvas id="map" role="img" aria-label="World map with satellite ground track"></canvas>
                                         <p class="ov-map-status" id="map-status" role="status">loading map</p>
@@ -30,17 +34,15 @@
                                         <span class="ov-live-dot" aria-hidden="true"></span>
                                         <span>tracking</span>
                                         <span id="satellite-name">ISS (ZARYA)</span>
-                                        <span>updated <span id="last-updated">—</span></span>
                                 </p>
                                 <p class="ov-legend" aria-hidden="true">
-                                        <span><span class="ov-legend-glyph">- - -</span>past</span>
-                                        <span><span class="ov-legend-glyph">=====</span>future</span>
                                         <span><span class="ov-legend-glyph">@</span>satellite</span>
                                         <span><span class="ov-legend-glyph is-station">X</span>station</span>
                                         <span><i class="ov-legend-swatch" aria-hidden="true"></i>coverage</span>
                                 </p>
 
                                 <section class="ov-panel ov-tle-panel" aria-label="TLE input">
+                                        <p class="ov-label"># tle input</p>
                                         <label class="ov-sr-only" for="tle-input">Two-line element set</label>
                                         <textarea id="tle-input" rows="3" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
                                         <div class="ov-actions">
@@ -54,10 +56,12 @@
 
                         <aside class="ov-sidebar">
                                 <section class="ov-panel" aria-label="Telemetry">
+                                        <p class="ov-label"># telemetry</p>
                                         <pre class="ov-telemetry" id="telemetry">--</pre>
                                 </section>
 
                                 <section class="ov-panel" aria-label="Display settings">
+                                        <p class="ov-label"># display</p>
                                         <div class="ov-field">
                                                 <label for="window-minutes">
                                                         <span>track window</span>
@@ -69,6 +73,7 @@
                                 </section>
 
                                 <section class="ov-panel" aria-label="Ground station">
+                                        <p class="ov-label"># ground station</p>
                                         <div class="ov-gs">
                                                 <label for="gs-latitude">lat</label>
                                                 <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
@@ -78,6 +83,7 @@
                                                 <input id="gs-range" type="number" min="0" max="20000" step="10" value="1200" inputmode="numeric">
                                         </div>
                                         <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
+                                        <p class="ov-hint" id="pass-info">next pass --</p>
                                 </section>
                         </aside>
                 </section>
