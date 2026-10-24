@@ -9,6 +9,7 @@ import {
         degreesLat,
         degreesLong
 } from "./tle.js/satellite-js/index.mjs";
+import { createGlobe } from "./globe.js";
 
 const DEFAULT_TLE = `ISS (ZARYA)
 1 25544U 98067A   26296.69304404  .00008515  00000+0  16237-3 0  9995
@@ -68,6 +69,7 @@ const dom = {
 const ctx = dom.canvas.getContext("2d");
 
 let satellite = null;
+let globe = null;
 let mapImage = null;
 let mapFallbackImage = null;
 let mapLayer = null;
@@ -620,6 +622,11 @@ function updateStatus(current, timestamp) {
 function updateTelemetry(current, timestamp) {
         const stats = orbitStats(satellite.satrec);
         const passes = stationPasses(satellite, groundStation, timestamp);
+
+        if (globe && stats.inclination !== null) {
+                globe.setInclination(stats.inclination);
+        }
+
         const rows = [
                 ["latitude", Math.abs(current.lat).toFixed(3), `°${current.lat >= 0 ? "N" : "S"}`],
                 ["longitude", Math.abs(current.lng).toFixed(3), `°${current.lng >= 0 ? "E" : "W"}`],
@@ -1046,6 +1053,14 @@ function initialize() {
         windowMinutes = clamp(Number(dom.windowMinutes.value) || 120, 10, 240);
         updateWindowOutput();
         refreshGroundStation();
+
+        globe = createGlobe({
+                base: document.getElementById("globe-base"),
+                land: document.getElementById("globe-land"),
+                orbit: document.getElementById("globe-orbit")
+        });
+        globe.start();
+
         loadSatellite(DEFAULT_TLE, true);
 
         resizeObserver = new ResizeObserver(() => resizeCanvas());

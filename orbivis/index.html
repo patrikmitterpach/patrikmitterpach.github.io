@@ -6,7 +6,7 @@
         <meta name="theme-color" content="#fdfdfc">
         <title>Orbit Visualizer · mitterpach.dev</title>
         <meta name="description" content="A live satellite ground-track visualizer with custom TLE support and ground-station coverage.">
-        <link rel="stylesheet" href="/assets/css/orbivis.css">
+        <link rel="stylesheet" href="../assets/css/orbivis.css">
 </head>
 
 <body class="orbivis-page">
@@ -81,6 +81,17 @@
                                                 <div class="ov-table-edge"><span>┌</span><span class="ov-table-rule"></span><span>┐</span></div>
                                                 <div class="ov-table ov-telemetry" id="telemetry"></div>
                                                 <div class="ov-table-edge"><span>└</span><span class="ov-table-rule"></span><span>┘</span></div>
+                                        </div>
+                                </section>
+
+                                <section class="ov-panel ov-globe" aria-label="Orbital inclination">
+                                        <p class="ov-label"># inclination</p>
+                                        <div class="ov-globe-stage">
+                                                <div class="stage">
+                                                        <pre id="globe-base"></pre>
+                                                        <pre id="globe-land" class="land"></pre>
+                                                        <pre id="globe-orbit" class="orbit"></pre>
+                                                </div>
                                         </div>
                                 </section>
                         </aside>
