@@ -202,7 +202,7 @@ export function createGlobe({ grid }) {
                                 const sx = (column - CX) / S, sy = (CY - row) * A / S;
                                 const q = 1 - sx * sx - sy * sy;
                                 orbitBuf[index] = " ";
-                                satelliteBuf[index] = " ";
+                                satelliteBuf[index] = null;
 
                                 if (q < 0) {
                                         baseBuf[index] = " ";
@@ -276,18 +276,21 @@ export function createGlobe({ grid }) {
                 };
 
                 if (satelliteColumn >= 0 && satelliteColumn < W && satelliteRow >= 0 && satelliteRow < H) {
-                        paintSatellite(satelliteColumn, satelliteRow, ASCII.satellite);
-                        paintSatellite(satelliteColumn - 1, satelliteRow, "+");
-                        paintSatellite(satelliteColumn + 1, satelliteRow, "+");
-                        paintSatellite(satelliteColumn, satelliteRow - 1, "+");
-                        paintSatellite(satelliteColumn, satelliteRow + 1, "+");
+                        for (let rowOffset = -1; rowOffset <= 1; rowOffset += 1) {
+                                for (let columnOffset = -1; columnOffset <= 1; columnOffset += 1) {
+                                        const character = rowOffset === 0 && columnOffset === 0
+                                                ? ASCII.satellite
+                                                : " ";
+                                        paintSatellite(satelliteColumn + columnOffset, satelliteRow + rowOffset, character);
+                                }
+                        }
                 }
 
                 const chars = new Array(W * H);
                 const styles = new Array(W * H);
 
                 for (let index = 0; index < chars.length; index += 1) {
-                        if (satelliteBuf[index] !== " ") {
+                        if (satelliteBuf[index] !== null) {
                                 chars[index] = satelliteBuf[index];
                                 styles[index] = "globe-satellite";
                         } else if (orbitBuf[index] !== " ") {

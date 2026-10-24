@@ -351,7 +351,7 @@ body {
 .ov-globe-stage .stage {
         position: relative;
         color: var(--globe-base);
-        font: 4.5px/1 var(--font-mono);
+        font: 6px/1 var(--font-mono);
 }
 
 .ov-globe-grid {
@@ -370,9 +370,10 @@ body {
         text-shadow: 0 0 10px rgba(255, 228, 92, 0.3);
 }
 
+/* Same marker treatment as the map satellite. */
 .globe-satellite {
+        background: var(--satellite-bg);
         color: var(--fg);
-        text-shadow: 0 0 3px currentColor, 0 0 8px currentColor;
 }
 
 .ov-globe-note {
