@@ -13,7 +13,23 @@
         --surface-low: #f3f3f0;
         --ink: #3b372f;
         --line: #d9d9d3;
+        --fg: var(--ink);
+        --bg: var(--paper);
+        --font-mono: "Departure Mono", monospace;
         --rule: "────────────────────────────────────────────────────────────────────────────────────────────────";
+        --sidebar-width: 24rem;
+        --orbit: #dabb09;
+        --orbit-past: rgba(218, 187, 9, 0.55);
+        --globe-stage: #b0b0b0;
+        --globe-base: #9a9a9a;
+        --globe-land: #d8d8d8;
+        --map-base: rgba(253, 253, 252, 0.6);
+        --map-coast: rgba(253, 253, 252, 0.82);
+        --map-graticule: rgba(253, 253, 252, 0.26);
+        --map-range: rgba(253, 253, 252, 0.42);
+        --station-area: rgba(111, 143, 99, 0.26);
+        --station-bg: #6f8f63;
+        --satellite-bg: #3f78b0;
 }
 
 * {
@@ -27,18 +43,19 @@ html {
 body {
         margin: 0;
         padding: 44px;
-        background: var(--paper);
-        color: var(--ink);
+        padding-right: calc(var(--sidebar-width) + 44px);
+        background: var(--bg);
+        color: var(--fg);
         color-scheme: light;
-        font: 15px/1.45 "Departure Mono", monospace;
+        font: 15px/1.45 var(--font-mono);
         text-transform: uppercase;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
 }
 
 ::selection {
-        color: var(--paper);
-        background: var(--ink);
+        color: var(--bg);
+        background: var(--fg);
 }
 
 .ov {
@@ -76,21 +93,51 @@ body {
         padding-bottom: 1em;
 }
 
+.ov-header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 11px 22px;
+        padding-bottom: 22px;
+        margin-bottom: 44px;
+        border-bottom: 1px dashed var(--line);
+}
+
+.ov-header-brand {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: 0.08em;
+}
+
+.ov-header-tagline {
+        font-size: 10px;
+        letter-spacing: 0.04em;
+}
+
 .ov-layout {
         display: grid;
-        grid-template-columns: minmax(0, 1fr) 22rem;
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-areas:
+                "map"
+                "controls";
         gap: 44px;
         align-items: start;
 }
 
 .ov-map-panel {
+        grid-area: map;
         min-width: 0;
 }
 
 .ov-map-frame {
+        --fg: var(--paper);
+        --bg: var(--ink);
         position: relative;
         padding: 1.2em 0;
-        background: none;
+        background: var(--bg);
+        color: var(--fg);
 }
 
 .ov-map-frame::before,
@@ -114,70 +161,124 @@ body {
         bottom: 0;
 }
 
-.ov-map-frame canvas {
-        display: block;
-        width: 100%;
-        height: auto;
-        aspect-ratio: 2 / 1;
-        background: var(--surface);
-}
-
-.ov-map-status {
+.ov-ascii-layer {
         position: absolute;
-        top: calc(1.2em + 11px);
-        left: 11px;
-        padding: 3px 7px;
-        background: var(--surface);
-        font-size: 10px;
-        letter-spacing: 0.04em;
+        inset: 0;
+        margin: 0;
+        font-family: var(--font-mono);
+        line-height: 1;
+        white-space: pre;
+        user-select: text;
 }
 
-.ov-map-status::after {
-        content: "_";
-        animation: blink 1s steps(1) infinite;
+.ov-map-stage {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 2 / 1;
+        container-type: inline-size;
+        overflow: hidden;
+        background: var(--bg);
 }
 
-@keyframes blink {
-        50% { opacity: 0; }
+.ov-map-grid {
+        font-size: 8px;
+        font-size: calc(100cqw / 101.818);
+        color: var(--map-base);
 }
 
-@media (prefers-reduced-motion: reduce) {
-        .ov-map-status::after {
-                animation: none;
-        }
+.map-graticule {
+        color: var(--map-graticule);
+}
+
+.map-gs-area {
+        background: var(--station-area);
+}
+
+.map-coast {
+        color: var(--map-coast);
+}
+
+.map-orbit-past {
+        color: var(--orbit-past);
+}
+
+.map-orbit-future {
+        background: var(--orbit);
+        color: var(--bg);
+}
+
+.map-range {
+        color: var(--map-range);
+}
+
+.map-gs {
+        background: var(--station-bg);
+        color: var(--bg);
+}
+
+.map-sat {
+        background: var(--satellite-bg);
+        color: var(--fg);
 }
 
 .ov-controls {
+        grid-area: controls;
         display: grid;
-        grid-template-columns: 2.5fr 1fr 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 22px;
-        margin-top: 22px;
+        min-width: 0;
+}
+
+.ov-controls > .ov-label {
+        grid-column: 1 / -1;
+        padding-bottom: 0;
+}
+
+.ov-tle-panel {
+        grid-column: 1 / -1;
 }
 
 .ov-controls .ov-field label,
 .ov-controls .ov-field output,
 .ov-controls .ov-gs label {
-        font-size: 11px;
+        font-size: 13px;
 }
 
 .ov-controls .ov-panel input {
-        font-size: 11px;
+        font-size: 13px;
 }
 
 .ov-controls .ov-panel textarea {
         min-height: 52px;
         padding: 4px 6px;
-        font-size: 9px;
+        font-size: 11px;
 }
 
 .ov-controls .ov-hint {
-        font-size: 9px;
+        font-size: 11px;
 }
 
 .ov-sidebar {
+        --fg: var(--paper);
+        --bg: var(--ink);
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1;
+        width: var(--sidebar-width);
+        overflow-y: auto;
+        grid-area: sidebar;
         display: flex;
         flex-direction: column;
-        gap: 22px;
+        gap: 16px;
+        padding: 28px 20px;
+        background: var(--bg);
+        color: var(--fg);
+}
+
+.ov-sidebar .ov-label {
+        padding-bottom: 0.5em;
 }
 
 .ov-panel {
@@ -225,7 +326,7 @@ body {
 }
 
 .status-row {
-        grid-template-columns: 1ch 23ch minmax(0, 1fr) 1ch;
+        grid-template-columns: 1ch 15ch minmax(0, 1fr) 1ch;
 }
 
 .status-row span:first-child {
@@ -240,48 +341,46 @@ body {
         white-space: nowrap;
 }
 
-.status-row.is-flash {
-        background: var(--ink);
-        color: var(--paper);
-}
-
 .ov-globe-stage {
         width: fit-content;
+        margin-right: auto;
         margin-left: auto;
-        padding: 6px;
-        background: radial-gradient(ellipse at 50% 0%, #0c1724, #05070a 72%);
+        padding: 2px;
 }
 
 .ov-globe-stage .stage {
         position: relative;
-        color: #9fc6e8;
-        font: 4px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+        color: var(--globe-base);
+        font: 4.5px/1 var(--font-mono);
 }
 
-.ov-globe-stage pre {
-        position: absolute;
-        inset: 0;
-        margin: 0;
-        white-space: pre;
-        font: inherit;
-        line-height: 1;
-        user-select: none;
-}
-
-.ov-globe-stage pre:first-child {
+.ov-globe-grid {
         position: relative;
-        color: #6db9f0;
-        text-shadow: 0 0 14px #1e90ff44;
+        color: var(--globe-base);
+        text-shadow: 0 0 14px #ffffff14;
 }
 
-.ov-globe-stage .land {
-        color: #7ef0b2;
-        text-shadow: 0 0 10px #2fffa422;
+.globe-land {
+        color: var(--globe-land);
+        text-shadow: 0 0 10px #ffffff24;
 }
 
-.ov-globe-stage .orbit {
-        color: #eaf6ff;
-        text-shadow: 0 0 10px #bfe9ff55;
+.globe-orbit {
+        color: var(--orbit);
+        text-shadow: 0 0 10px rgba(255, 228, 92, 0.3);
+}
+
+.globe-satellite {
+        color: var(--fg);
+        text-shadow: 0 0 3px currentColor, 0 0 8px currentColor;
+}
+
+.ov-globe-note {
+        margin-top: 4px;
+        color: var(--globe-stage);
+        font-size: 9px;
+        line-height: 1.4;
+        text-align: center;
 }
 
 .telemetry-row {
@@ -497,13 +596,21 @@ body {
 
         .ov-layout {
                 grid-template-columns: minmax(0, 1fr);
+                grid-template-areas:
+                        "map"
+                        "controls"
+                        "sidebar";
                 gap: 22px;
         }
 
         .ov-sidebar {
+                position: static;
+                width: auto;
+                overflow: visible;
                 display: grid;
                 grid-template-columns: minmax(0, 1fr);
-                gap: 22px;
+                gap: 16px;
+                padding: 18px 14px;
         }
 }
 
@@ -517,7 +624,7 @@ body {
         }
 
         .ov-controls .ov-panel textarea {
-                font-size: 7.5px;
+                font-size: 10px;
         }
 
         .ov-actions {

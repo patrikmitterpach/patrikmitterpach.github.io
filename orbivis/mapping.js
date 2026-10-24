@@ -10,12 +10,13 @@ import {
         degreesLong
 } from "./tle.js/satellite-js/index.mjs";
 import { createGlobe } from "./globe.js";
+import { MAP_COLUMNS, MAP_LAND_ROWS, MAP_ROWS } from "./world.js";
+import { ASCII, asciiToHtml, hasActiveSelection } from "./ascii.js";
 
 const DEFAULT_TLE = `ISS (ZARYA)
 1 25544U 98067A   26296.69304404  .00008515  00000+0  16237-3 0  9995
 2 25544  51.6336  24.1765 0006871 300.7285  59.3026 15.49021515591674`;
 
-const MAP_SOURCE = "./mercator.svg";
 const EARTH_RADIUS_KM = 6371.0088;
 const DEG_TO_RAD = Math.PI / 180;
 const RAD_TO_DEG = 180 / Math.PI;
@@ -27,12 +28,8 @@ const MAX_STEP_MS = 30_000;
 const PASS_WINDOW_MS = 24 * 60 * 60 * 1000;
 const PASS_STEP_MS = 60_000;
 const PASS_CACHE_MS = 10 * 60 * 1000;
-const MAP_BACKGROUND = "#ffffff";
-const MAP_INK = "#3b372f";
-const MAP_CELL_HEIGHT = 5;
-const MAP_LAND = "#";
-const MAP_COAST = "+";
-const MAX_DPR = 4;
+const ORBIT_REFRESH_MS = 10_000;
+const FUTURE_TRACK_GAP_CELLS = 3;
 
 const SGP4_ERRORS = {
         1: "the TLE has an eccentricity outside the supported range",
@@ -43,11 +40,9 @@ const SGP4_ERRORS = {
 };
 
 const dom = {
-        canvas: document.getElementById("map"),
-        mapFrame: document.getElementById("map-frame"),
-        mapStatus: document.getElementById("map-status"),
+        mapStage: document.getElementById("map-stage"),
+        mapGrid: document.getElementById("map-grid"),
         statusTracking: document.getElementById("status-tracking"),
-        statusContact: document.getElementById("status-contact"),
         statusContactValue: document.getElementById("status-contact-value"),
         statusLength: document.getElementById("status-length"),
         statusAosValue: document.getElementById("status-aos-value"),
@@ -66,19 +61,14 @@ const dom = {
         tleMessage: document.getElementById("tle-message")
 };
 
-const ctx = dom.canvas.getContext("2d");
-
 let satellite = null;
 let globe = null;
-let mapImage = null;
-let mapFallbackImage = null;
-let mapLayer = null;
-let view = { width: 0, height: 0, dpr: 1 };
+let mapBaseChars = null;
+let mapBaseStyles = null;
 let windowMinutes = 120;
 let groundStation = { lat: 50, lng: 14, range: 1200 };
 let clockId = null;
 let renderQueued = false;
-let resizeObserver = null;
 let passCache = { key: "", count: null };
 let rangePassCache = { key: "", inRange: false, until: null, start: null, end: null, length: null };
 
@@ -94,33 +84,134 @@ function normalizeLongitude(value) {
         return ((((value + 180) % 360) + 360) % 360) - 180;
 }
 
-function project(latitude, longitude, width, height) {
+function mapPoint(latitude, longitude) {
         return {
-                x: ((longitude + 180) / 360) * width,
-                y: ((90 - latitude) / 180) * height
+                x: ((normalizeLongitude(longitude) + 180) / 360) * MAP_COLUMNS,
+                y: ((90 - clamp(latitude, -90, 90)) / 180) * MAP_ROWS
         };
 }
 
-function splitAtAntimeridian(points) {
-        if (points.length < 2) return [];
+function mapCell(latitude, longitude) {
+        const point = mapPoint(latitude, longitude);
 
-        const segments = [];
-        let segment = [points[0]];
+        return {
+                column: clamp(Math.round(point.x - 0.5), 0, MAP_COLUMNS - 1),
+                row: clamp(Math.round(point.y - 0.5), 0, MAP_ROWS - 1)
+        };
+}
 
-        for (let index = 1; index < points.length; index += 1) {
-                const previous = points[index - 1];
-                const current = points[index];
+function mapCellDistance(a, b) {
+        const deltaColumn = Math.abs(a.column - b.column);
 
-                if (Math.abs(current.lng - previous.lng) > 180) {
-                        if (segment.length > 1) segments.push(segment);
-                        segment = [current];
-                } else {
-                        segment.push(current);
-                }
+        return Math.hypot(
+                Math.min(deltaColumn, MAP_COLUMNS - deltaColumn),
+                a.row - b.row
+        );
+}
+
+function trimFutureTrack(points, origin) {
+        let start = 0;
+
+        while (
+                start < points.length - 1
+                && mapCellDistance(mapCell(points[start].lat, points[start].lng), origin) < FUTURE_TRACK_GAP_CELLS
+        ) {
+                start += 1;
         }
 
-        if (segment.length > 1) segments.push(segment);
-        return segments;
+        return points.slice(start);
+}
+
+function createMapGrid() {
+        return {
+                chars: mapBaseChars ? mapBaseChars.slice() : new Array(MAP_COLUMNS * MAP_ROWS).fill(" "),
+                styles: mapBaseStyles ? mapBaseStyles.slice() : new Array(MAP_COLUMNS * MAP_ROWS).fill(null)
+        };
+}
+
+function plotMapCell(grid, column, row, character, style = null) {
+        if (column < 0 || column >= MAP_COLUMNS || row < 0 || row >= MAP_ROWS) return;
+
+        const index = row * MAP_COLUMNS + column;
+        grid.chars[index] = character;
+        grid.styles[index] = style;
+}
+
+function plotMapSatellite(grid, column, row) {
+        for (let rowOffset = -1; rowOffset <= 1; rowOffset += 1) {
+                const targetRow = row + rowOffset;
+                if (targetRow < 0 || targetRow >= MAP_ROWS) continue;
+
+                for (let columnOffset = -1; columnOffset <= 1; columnOffset += 1) {
+                        for (const wrapOffset of [-MAP_COLUMNS, 0, MAP_COLUMNS]) {
+                                const targetColumn = column + columnOffset + wrapOffset;
+                                if (targetColumn < 0 || targetColumn >= MAP_COLUMNS) continue;
+
+                                const character = rowOffset === 0 && columnOffset === 0
+                                        ? ASCII.satellite
+                                        : " ";
+                                plotMapCell(grid, targetColumn, targetRow, character, "map-sat");
+                        }
+                }
+        }
+}
+
+function drawMapLineAtOffset(grid, x0, y0, x1, y1, character, style) {
+        let x = x0;
+        let y = y0;
+        const dx = Math.abs(x1 - x0);
+        const sx = x0 < x1 ? 1 : -1;
+        const dy = -Math.abs(y1 - y0);
+        const sy = y0 < y1 ? 1 : -1;
+        let error = dx + dy;
+
+        while (true) {
+                plotMapCell(grid, x, y, character, style);
+
+                if (x === x1 && y === y1) break;
+
+                const doubled = error * 2;
+
+                if (doubled >= dy) {
+                        error += dy;
+                        x += sx;
+                }
+
+                if (doubled <= dx) {
+                        error += dx;
+                        y += sy;
+                }
+        }
+}
+
+function drawMapLine(grid, x0, y0, x1, y1, character, style) {
+        for (const offset of [-MAP_COLUMNS, 0, MAP_COLUMNS]) {
+                drawMapLineAtOffset(grid, x0 + offset, y0, x1 + offset, y1, character, style);
+        }
+}
+
+function drawMapPath(grid, points, character, style) {
+        let previous = null;
+
+        for (const point of points) {
+                const cell = mapCell(point.lat, point.lng);
+
+                if (previous && Math.abs(point.lng - previous.lng) <= 180) {
+                        drawMapLine(
+                                grid,
+                                previous.cell.column,
+                                previous.cell.row,
+                                cell.column,
+                                cell.row,
+                                character,
+                                style
+                        );
+                } else {
+                        plotMapCell(grid, cell.column, cell.row, character, style);
+                }
+
+                previous = { cell, lng: point.lng };
+        }
 }
 
 function destinationPoint(latitude, longitude, bearing, distanceKm) {
@@ -154,126 +245,93 @@ function circlePoints(latitude, longitude, radiusKm) {
         return points;
 }
 
-function drawGeoPath(points, options) {
-        const segments = splitAtAntimeridian(points);
-        if (segments.length === 0) return;
+function buildBaseMap() {
+        const chars = new Array(MAP_COLUMNS * MAP_ROWS).fill(" ");
+        const styles = new Array(MAP_COLUMNS * MAP_ROWS).fill(null);
 
-        const width = view.width;
-        const offsets = [-width, 0, width];
+        for (let row = 0; row < MAP_ROWS; row += 1) {
+                const line = (MAP_LAND_ROWS[row] || "").padEnd(MAP_COLUMNS, " ");
 
-        ctx.save();
-        ctx.lineCap = "round";
-        ctx.lineJoin = "round";
-        ctx.strokeStyle = options.stroke || "#111";
-        ctx.lineWidth = options.lineWidth || 1;
-        ctx.setLineDash(options.dash || []);
+                for (let column = 0; column < MAP_COLUMNS; column += 1) {
+                        const source = line[column];
+                        const index = row * MAP_COLUMNS + column;
 
-        for (const segment of segments) {
-                for (const offset of offsets) {
-                        ctx.beginPath();
-
-                        segment.forEach((point, index) => {
-                                const position = project(point.lat, point.lng, view.width, view.height);
-                                const x = position.x + offset;
-
-                                if (index === 0) {
-                                        ctx.moveTo(x, position.y);
-                                } else {
-                                        ctx.lineTo(x, position.y);
-                                }
-                        });
-
-                        if (options.fill) {
-                                ctx.closePath();
-                                ctx.fillStyle = options.fill;
-                                if (options.invert) ctx.globalCompositeOperation = "difference";
-                                ctx.fill();
-                                ctx.globalCompositeOperation = "source-over";
-
-                                if (options.tone) {
-                                        ctx.fillStyle = options.tone;
-                                        ctx.fill();
-                                }
+                        if (source === "#") {
+                                chars[index] = ASCII.land;
+                        } else if (source === "+") {
+                                chars[index] = ASCII.coast;
+                                styles[index] = "map-coast";
                         }
-
-                        if (options.halo) {
-                                ctx.save();
-                                ctx.strokeStyle = MAP_BACKGROUND;
-                                ctx.lineWidth = (options.lineWidth || 1) + 3.5;
-                                ctx.setLineDash([]);
-                                ctx.stroke();
-                                ctx.restore();
-                        }
-
-                        if (options.stroke) ctx.stroke();
                 }
         }
 
-        ctx.restore();
-}
-
-function drawGraticule() {
-        ctx.save();
-        ctx.strokeStyle = "rgba(38, 35, 29, 0.18)";
-        ctx.lineWidth = 1;
-        ctx.setLineDash([2, 6]);
-        ctx.beginPath();
-
         for (let longitude = -150; longitude <= 150; longitude += 30) {
-                const x = project(0, longitude, view.width, view.height).x;
-                ctx.moveTo(x, 0);
-                ctx.lineTo(x, view.height);
+                const column = clamp(
+                        Math.round(((longitude + 180) / 360) * MAP_COLUMNS - 0.5),
+                        0,
+                        MAP_COLUMNS - 1
+                );
+
+                for (let row = 0; row < MAP_ROWS; row += 1) {
+                        const index = row * MAP_COLUMNS + column;
+                        if (chars[index] === " ") {
+                                chars[index] = ASCII.graticule;
+                                styles[index] = "map-graticule";
+                        }
+                }
         }
 
         for (let latitude = -60; latitude <= 60; latitude += 30) {
-                const y = project(latitude, 0, view.width, view.height).y;
-                ctx.moveTo(0, y);
-                ctx.lineTo(view.width, y);
+                const row = clamp(
+                        Math.round(((90 - latitude) / 180) * MAP_ROWS - 0.5),
+                        0,
+                        MAP_ROWS - 1
+                );
+
+                for (let column = 0; column < MAP_COLUMNS; column += 1) {
+                        const index = row * MAP_COLUMNS + column;
+                        if (chars[index] === " ") {
+                                chars[index] = ASCII.graticule;
+                                styles[index] = "map-graticule";
+                        }
+                }
         }
 
-        ctx.stroke();
-        ctx.restore();
+        mapBaseChars = chars;
+        mapBaseStyles = styles;
+        dom.mapGrid.innerHTML = asciiToHtml(chars, MAP_COLUMNS, MAP_ROWS, styles);
 }
 
-function drawMapGlyph(glyph, x, y, size, color = MAP_INK, halo = true) {
-        ctx.save();
-        ctx.font = `${size}px "Departure Mono", monospace`;
-        ctx.textAlign = "center";
-        ctx.textBaseline = "middle";
-        ctx.lineJoin = "round";
+function fillStationRange(grid) {
+        if (groundStation.range <= 0) return;
 
-        if (halo) {
-                ctx.lineWidth = 3.5;
-                ctx.strokeStyle = MAP_BACKGROUND;
-                ctx.strokeText(glyph, x, y);
-        }
+        for (let row = 0; row < MAP_ROWS; row += 1) {
+                const latitude = 90 - ((row + 0.5) / MAP_ROWS) * 180;
 
-        ctx.fillStyle = color;
-        ctx.fillText(glyph, x, y);
-        ctx.restore();
-}
+                for (let column = 0; column < MAP_COLUMNS; column += 1) {
+                        const longitude = ((column + 0.5) / MAP_COLUMNS) * 360 - 180;
 
-function drawGroundStationMarker() {
-        const position = project(groundStation.lat, groundStation.lng, view.width, view.height);
-        const offsets = [-view.width, 0, view.width];
+                        if (distanceKm(latitude, longitude, groundStation.lat, groundStation.lng) > groundStation.range) {
+                                continue;
+                        }
 
-        for (const offset of offsets) {
-                const x = position.x + offset;
-                if (x < -16 || x > view.width + 16) continue;
-
-                ctx.save();
-                ctx.fillStyle = "rgba(253, 253, 252, 0.7)";
-                ctx.fillRect(x - 9, position.y - 9, 18, 18);
-                ctx.strokeStyle = MAP_INK;
-                ctx.lineWidth = 1;
-                ctx.strokeRect(x - 9.5, position.y - 9.5, 19, 19);
-                ctx.restore();
-
-                drawMapGlyph("X", x, position.y, 14, MAP_INK, false);
+                        const index = row * MAP_COLUMNS + column;
+                        grid.styles[index] = grid.styles[index]
+                                ? `${grid.styles[index]} map-gs-area`
+                                : "map-gs-area";
+                }
         }
 }
 
-function drawGroundStation() {
+function renderMap(past, future, current) {
+        const grid = createMapGrid();
+        const satelliteCell = mapCell(current.lat, current.lng);
+        const visibleFuture = trimFutureTrack(future, satelliteCell);
+
+        fillStationRange(grid);
+        drawMapPath(grid, past, ASCII.orbitPast, "map-orbit-past");
+        drawMapPath(grid, visibleFuture, ASCII.orbitFuture, "map-orbit-future");
+
         if (groundStation.range > 0) {
                 const points = circlePoints(
                         groundStation.lat,
@@ -281,42 +339,16 @@ function drawGroundStation() {
                         groundStation.range
                 );
 
-                drawGeoPath(points, {
-                        stroke: MAP_INK,
-                        lineWidth: 3,
-                        fill: MAP_BACKGROUND,
-                        invert: true,
-                        halo: true,
-                        tone: "rgba(253, 253, 252, 0.22)"
-                });
+                drawMapPath(grid, points, ASCII.range, "map-range");
         }
-}
 
-function drawSatelliteMarker(current) {
-        const position = project(current.lat, current.lng, view.width, view.height);
-        const offsets = [-view.width, 0, view.width];
+        const groundCell = mapCell(groundStation.lat, groundStation.lng);
+        plotMapCell(grid, groundCell.column, groundCell.row, ASCII.groundStation, "map-gs");
 
-        for (const offset of offsets) {
-                const x = position.x + offset;
+        plotMapSatellite(grid, satelliteCell.column, satelliteCell.row);
 
-                if (x < -16 || x > view.width + 16) continue;
-
-                drawMapGlyph("@", x, position.y, 16);
-
-                ctx.save();
-                ctx.strokeStyle = MAP_INK;
-                ctx.lineWidth = 1;
-                ctx.beginPath();
-                ctx.moveTo(x - 14, position.y);
-                ctx.lineTo(x - 10, position.y);
-                ctx.moveTo(x + 10, position.y);
-                ctx.lineTo(x + 14, position.y);
-                ctx.moveTo(x, position.y - 14);
-                ctx.lineTo(x, position.y - 11);
-                ctx.moveTo(x, position.y + 11);
-                ctx.lineTo(x, position.y + 14);
-                ctx.stroke();
-                ctx.restore();
+        if (!hasActiveSelection(dom.mapGrid)) {
+                dom.mapGrid.innerHTML = asciiToHtml(grid.chars, MAP_COLUMNS, MAP_ROWS, grid.styles);
         }
 }
 
@@ -616,16 +648,11 @@ function updateStatus(current, timestamp) {
         dom.statusAosValue.textContent = info.start === null ? "--" : formatClock(info.start);
         dom.statusLosValue.textContent = info.end === null ? "--" : formatClock(info.end);
         dom.statusGs.textContent = gs;
-        dom.statusContact.classList.toggle("is-flash", Math.floor(timestamp / 1000) % 2 === 0);
 }
 
 function updateTelemetry(current, timestamp) {
         const stats = orbitStats(satellite.satrec);
         const passes = stationPasses(satellite, groundStation, timestamp);
-
-        if (globe && stats.inclination !== null) {
-                globe.setInclination(stats.inclination);
-        }
 
         const rows = [
                 ["latitude", Math.abs(current.lat).toFixed(3), `°${current.lat >= 0 ? "N" : "S"}`],
@@ -642,19 +669,14 @@ function updateTelemetry(current, timestamp) {
 
         renderTelemetry(rows);
         updateStatus(current, timestamp);
-        dom.canvas.setAttribute(
+        dom.mapStage.setAttribute(
                 "aria-label",
                 `World map showing the ground track of ${satellite.name}. Current position ${formatLatitude(current.lat)}, ${formatLongitude(current.lng)}.`
         );
 }
 
 function render() {
-        if (!satellite || view.width < 2 || view.height < 2) return;
-
-        if (currentDpr() !== view.dpr) {
-                resizeCanvas(true);
-                return;
-        }
+        if (!satellite) return;
 
         const timestamp = Date.now();
         let current;
@@ -666,21 +688,6 @@ function render() {
                 return;
         }
 
-        ctx.setTransform(1, 0, 0, 1, 0, 0);
-        ctx.clearRect(0, 0, dom.canvas.width, dom.canvas.height);
-
-        if (mapLayer) {
-                ctx.drawImage(mapLayer, 0, 0);
-        } else {
-                ctx.fillStyle = MAP_BACKGROUND;
-                ctx.fillRect(0, 0, dom.canvas.width, dom.canvas.height);
-        }
-
-        ctx.setTransform(view.dpr, 0, 0, view.dpr, 0, 0);
-
-        drawGraticule();
-        drawGroundStation();
-
         const halfWindowMs = windowMinutes * 60_000;
         const stepMs = clamp(
                 Math.round(halfWindowMs / TRACK_POINT_BUDGET / 1000) * 1000,
@@ -688,27 +695,18 @@ function render() {
                 MAX_STEP_MS
         );
 
-        const past = sampleTrack(timestamp - halfWindowMs, timestamp, stepMs);
-        past.push({ lat: current.lat, lng: current.lng });
+        const orbitTimestamp = Math.floor(timestamp / ORBIT_REFRESH_MS) * ORBIT_REFRESH_MS;
+        const orbitCurrent = orbitTimestamp === timestamp
+                ? current
+                : safeStateAt(satellite, orbitTimestamp) || current;
 
-        const future = sampleTrack(timestamp, timestamp + halfWindowMs, stepMs);
-        future[0] = { lat: current.lat, lng: current.lng };
+        const past = sampleTrack(orbitTimestamp - halfWindowMs, orbitTimestamp, stepMs);
+        past.push({ lat: orbitCurrent.lat, lng: orbitCurrent.lng });
 
-        drawGeoPath(past, {
-                stroke: "#8a8a82",
-                lineWidth: 1.2,
-                dash: [1, 4],
-                halo: true
-        });
+        const future = sampleTrack(orbitTimestamp, orbitTimestamp + halfWindowMs, stepMs);
+        future[0] = { lat: orbitCurrent.lat, lng: orbitCurrent.lng };
 
-        drawGeoPath(future, {
-                stroke: MAP_INK,
-                lineWidth: 1.5,
-                halo: true
-        });
-
-        drawGroundStationMarker();
-        drawSatelliteMarker(current);
+        renderMap(past, future, current);
         updateTelemetry(current, timestamp);
 }
 
@@ -720,194 +718,6 @@ function requestRender() {
                 renderQueued = false;
                 render();
         });
-}
-
-function buildLandMask(image, columns, rows) {
-        const sample = document.createElement("canvas");
-        sample.width = columns;
-        sample.height = rows;
-
-        const sampleContext = sample.getContext("2d", { willReadFrequently: true });
-        sampleContext.imageSmoothingEnabled = false;
-        sampleContext.drawImage(image, 0, 0, columns, rows);
-
-        let pixels;
-
-        try {
-                pixels = sampleContext.getImageData(0, 0, columns, rows).data;
-        } catch {
-                return null;
-        }
-
-        const land = new Uint8Array(columns * rows);
-
-        for (let index = 0; index < land.length; index += 1) {
-                const offset = index * 4;
-
-                if (pixels[offset + 3] > 32 && pixels[offset] > 200) {
-                        land[index] = 1;
-                }
-        }
-
-        return land;
-}
-
-function drawMapLayer(layer, image, width, height, dpr) {
-        const canvasWidth = Math.round(width * dpr);
-        const canvasHeight = Math.round(height * dpr);
-
-        layer.width = canvasWidth;
-        layer.height = canvasHeight;
-
-        const context = layer.getContext("2d");
-        context.setTransform(1, 0, 0, 1, 0, 0);
-        context.fillStyle = MAP_BACKGROUND;
-        context.fillRect(0, 0, canvasWidth, canvasHeight);
-
-        const cellHeight = Math.max(4, Math.round(MAP_CELL_HEIGHT * dpr));
-        context.font = `${cellHeight}px "Departure Mono", monospace`;
-
-        const cellWidth = context.measureText("0").width || cellHeight * 0.6;
-        const columns = Math.max(1, Math.floor(canvasWidth / cellWidth));
-        const rows = Math.max(1, Math.floor(canvasHeight / cellHeight));
-        const land = buildLandMask(image, columns, rows);
-
-        if (!land) return;
-
-        context.fillStyle = MAP_INK;
-        context.textAlign = "center";
-        context.textBaseline = "middle";
-
-        for (let row = 0; row < rows; row += 1) {
-                for (let column = 0; column < columns; column += 1) {
-                        const index = row * columns + column;
-                        if (!land[index]) continue;
-
-                        const touchesOcean = (row === 0 || !land[index - columns])
-                                || (row === rows - 1 || !land[index + columns])
-                                || (column === 0 || !land[index - 1])
-                                || (column === columns - 1 || !land[index + 1]);
-
-                        context.fillText(
-                                touchesOcean ? MAP_COAST : MAP_LAND,
-                                Math.round((column + 0.5) * cellWidth),
-                                Math.round((row + 0.5) * cellHeight)
-                        );
-                }
-        }
-}
-
-function rebuildMapLayer() {
-        if (view.width < 2 || view.height < 2) return;
-
-        const layer = mapLayer || document.createElement("canvas");
-
-        if (mapImage) {
-                drawMapLayer(layer, mapImage, view.width, view.height, view.dpr);
-                mapLayer = layer;
-                return;
-        }
-
-        layer.width = Math.round(view.width * view.dpr);
-        layer.height = Math.round(view.height * view.dpr);
-
-        const context = layer.getContext("2d");
-        context.setTransform(1, 0, 0, 1, 0, 0);
-        context.fillStyle = MAP_BACKGROUND;
-        context.fillRect(0, 0, layer.width, layer.height);
-
-        if (mapFallbackImage) {
-                context.imageSmoothingEnabled = true;
-                context.drawImage(mapFallbackImage, 0, 0, layer.width, layer.height);
-        }
-
-        mapLayer = layer;
-}
-
-function currentDpr() {
-        return Math.min(window.devicePixelRatio || 1, MAX_DPR);
-}
-
-function resizeCanvas(force = false) {
-        const rect = dom.canvas.getBoundingClientRect();
-        const width = Math.floor(rect.width);
-        const height = Math.floor(rect.height);
-
-        if (width < 2 || height < 2) return;
-
-        const dpr = currentDpr();
-
-        if (!force && width === view.width && height === view.height && dpr === view.dpr) {
-                return;
-        }
-
-        view = { width, height, dpr };
-        dom.canvas.width = Math.round(width * dpr);
-        dom.canvas.height = Math.round(height * dpr);
-        rebuildMapLayer();
-        requestRender();
-}
-
-function decodeImage(source) {
-        return new Promise((resolve, reject) => {
-                const image = new Image();
-                image.onload = () => resolve(image);
-                image.onerror = () => reject(new Error("The map image could not be loaded."));
-                image.src = source;
-        });
-}
-
-function recolorMap(svg) {
-        return svg
-                .replace(/stroke\s*:\s*#4d4539/gi, "stroke:#ffffff")
-                .replace(/#4d4539/gi, "#000000")
-                .replace(/#79444a/gi, "#ffffff")
-                .replace(/#fefee9/gi, "#ffffff")
-                .replace(/#646464/gi, "#808080")
-                .replace(/#666666/gi, "#808080");
-}
-
-async function imageFromSvg(svg) {
-        const blob = new Blob([svg], { type: "image/svg+xml" });
-        const url = URL.createObjectURL(blob);
-
-        try {
-                return await decodeImage(url);
-        } finally {
-                URL.revokeObjectURL(url);
-        }
-}
-
-async function loadMapSource(url) {
-        const response = await fetch(url);
-
-        if (!response.ok) {
-                throw new Error(`Map request failed with status ${response.status}.`);
-        }
-
-        return imageFromSvg(recolorMap(await response.text()));
-}
-
-async function loadMap() {
-        try {
-                mapImage = await loadMapSource(MAP_SOURCE);
-                mapFallbackImage = null;
-                dom.mapStatus.hidden = true;
-        } catch {
-                try {
-                        mapFallbackImage = await decodeImage(MAP_SOURCE);
-                        mapImage = null;
-                        dom.mapStatus.hidden = true;
-                } catch {
-                        mapImage = null;
-                        mapFallbackImage = null;
-                        dom.mapStatus.textContent = "map unavailable -- track still live";
-                        dom.mapStatus.hidden = false;
-                }
-        }
-
-        rebuildMapLayer();
-        requestRender();
 }
 
 function setMessage(text, kind = "") {
@@ -958,10 +768,26 @@ function buildSatellite(rawTle) {
                 throw new Error(`Invalid TLE: ${reason}.`);
         }
 
+        const radius = Math.hypot(probe.position.x, probe.position.y, probe.position.z) || 1;
+        const period = Number.isFinite(satrec.no) && satrec.no > 0 ? (TAU / satrec.no) * 60 : null;
+
         return {
                 name: (parsed.name || `NORAD ${satrec.satnum}`).trim() || "Unnamed satellite",
                 satrec,
-                tle: [line1, line2]
+                tle: [line1, line2],
+                orbit: {
+                        inclination: satrec.inclo,
+                        raan: satrec.nodeo,
+                        argPerigee: satrec.argpo,
+                        eccentricity: satrec.ecco,
+                        semiMajor: satrec.a,
+                        period,
+                        satellite: {
+                                x: probe.position.x / radius,
+                                y: probe.position.y / radius,
+                                z: probe.position.z / radius
+                        }
+                }
         };
 }
 
@@ -971,6 +797,10 @@ function loadSatellite(rawTle, silent = false) {
 
                 if (!silent) {
                         setMessage(`Tracking ${satellite.name}.`, "success");
+                }
+
+                if (globe) {
+                        globe.setOrbit(satellite.orbit);
                 }
 
                 requestRender();
@@ -1053,23 +883,14 @@ function initialize() {
         windowMinutes = clamp(Number(dom.windowMinutes.value) || 120, 10, 240);
         updateWindowOutput();
         refreshGroundStation();
+        buildBaseMap();
 
         globe = createGlobe({
-                base: document.getElementById("globe-base"),
-                land: document.getElementById("globe-land"),
-                orbit: document.getElementById("globe-orbit")
+                grid: document.getElementById("globe-grid")
         });
         globe.start();
 
         loadSatellite(DEFAULT_TLE, true);
-
-        resizeObserver = new ResizeObserver(() => resizeCanvas());
-        resizeObserver.observe(dom.mapFrame);
-        window.addEventListener("resize", () => resizeCanvas());
-
-        if (window.visualViewport) {
-                window.visualViewport.addEventListener("resize", () => resizeCanvas());
-        }
 
         dom.windowMinutes.addEventListener("input", () => {
                 windowMinutes = clamp(Number(dom.windowMinutes.value) || 120, 10, 240);
@@ -1110,16 +931,7 @@ function initialize() {
                 }
         });
 
-        resizeCanvas(true);
         startClock();
-        loadMap();
-
-        if (document.fonts && document.fonts.ready) {
-                document.fonts.ready.then(() => {
-                        rebuildMapLayer();
-                        requestRender();
-                });
-        }
 }
 
 initialize();
