@@ -1,5 +1,5 @@
 import { isLand } from "./world.js";
-import { ASCII, BLOCK_RAMP, BLOCKS, asciiToHtml, hasActiveSelection } from "./ascii.js";
+import { BLOCK_RAMP, BLOCKS, asciiToHtml, hasActiveSelection, plotSatellite } from "./ascii.js";
 
 const TAU = Math.PI * 2;
 const DEG = 180 / Math.PI;
@@ -228,12 +228,7 @@ export function createGlobe({ grid }) {
                         styles[row * W + column] = "globe-satellite";
                 };
 
-                for (let rowOffset = -1; rowOffset <= 1; rowOffset += 1) {
-                        for (let columnOffset = -1; columnOffset <= 1; columnOffset += 1) {
-                                const character = rowOffset === 0 && columnOffset === 0 ? ASCII.satellite : " ";
-                                paint(satelliteColumn + columnOffset, satelliteRow + rowOffset, character);
-                        }
-                }
+                plotSatellite(satelliteColumn, satelliteRow, W, H, paint);
 
                 grid.innerHTML = asciiToHtml(chars, W, H, styles);
         }

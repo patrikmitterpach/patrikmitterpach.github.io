@@ -11,7 +11,7 @@ import {
 } from "./tle.js/satellite-js/index.mjs";
 import { createGlobe } from "./globe.js";
 import { MAP_COLUMNS as W, MAP_LAND_ROWS, MAP_ROWS as H } from "./world.js";
-import { ASCII, asciiToHtml, hasActiveSelection } from "./ascii.js";
+import { ASCII, asciiToHtml, hasActiveSelection, plotSatellite } from "./ascii.js";
 
 const DEFAULT_TLE = `ISS (ZARYA)
 1 25544U 98067A   26296.69304404  .00008515  00000+0  16237-3 0  9995
@@ -119,15 +119,9 @@ function plotMapCell(grid, column, row, character, style = null) {
 }
 
 function plotMapSatellite(grid, column, row) {
-        for (let rowOffset = -1; rowOffset <= 1; rowOffset += 1) {
-                const targetRow = row + rowOffset;
-                if (targetRow < 0 || targetRow >= H) continue;
-
-                for (let columnOffset = -1; columnOffset <= 1; columnOffset += 1) {
-                        const character = rowOffset === 0 && columnOffset === 0 ? ASCII.satellite : " ";
-                        plotMapCell(grid, (column + columnOffset + W) % W, targetRow, character, "map-sat");
-                }
-        }
+        plotSatellite(column, row, W, H, (targetColumn, targetRow, character) => {
+                plotMapCell(grid, targetColumn, targetRow, character, "map-sat");
+        }, true);
 }
 
 function drawMapLineAtOffset(grid, x0, y0, x1, y1, character, style) {
