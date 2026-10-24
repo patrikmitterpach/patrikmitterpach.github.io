@@ -28,8 +28,6 @@ const PASS_STEP_MS = 60_000;
 const PASS_CACHE_MS = 10 * 60 * 1000;
 const MAP_BACKGROUND = "#ffffff";
 const MAP_INK = "#3b372f";
-const MAP_GS = "#5f6d50";
-const MAP_GS_FILL = "rgba(111, 125, 95, 0.28)";
 const MAP_CELL_HEIGHT = 5;
 const MAP_LAND = "#";
 const MAP_COAST = "+";
@@ -48,11 +46,11 @@ const dom = {
         mapFrame: document.getElementById("map-frame"),
         mapStatus: document.getElementById("map-status"),
         statusTracking: document.getElementById("status-tracking"),
-        statusUpdated: document.getElementById("status-updated"),
-        statusAos: document.getElementById("status-aos"),
-        statusNext: document.getElementById("status-next"),
+        statusContact: document.getElementById("status-contact"),
+        statusContactValue: document.getElementById("status-contact-value"),
         statusLength: document.getElementById("status-length"),
-        statusLoss: document.getElementById("status-loss"),
+        statusAosValue: document.getElementById("status-aos-value"),
+        statusLosValue: document.getElementById("status-los-value"),
         statusGs: document.getElementById("status-gs"),
         telemetry: document.getElementById("telemetry"),
         windowMinutes: document.getElementById("window-minutes"),
@@ -80,7 +78,7 @@ let clockId = null;
 let renderQueued = false;
 let resizeObserver = null;
 let passCache = { key: "", count: null };
-let rangePassCache = { key: "", inRange: false, until: null, end: null, length: null };
+let rangePassCache = { key: "", inRange: false, until: null, start: null, end: null, length: null };
 
 function clamp(value, min, max) {
         return Math.min(max, Math.max(min, value));
@@ -262,14 +260,14 @@ function drawGroundStationMarker() {
                 if (x < -16 || x > view.width + 16) continue;
 
                 ctx.save();
-                ctx.fillStyle = MAP_GS_FILL;
+                ctx.fillStyle = "rgba(253, 253, 252, 0.7)";
                 ctx.fillRect(x - 9, position.y - 9, 18, 18);
-                ctx.strokeStyle = MAP_GS;
+                ctx.strokeStyle = MAP_INK;
                 ctx.lineWidth = 1;
                 ctx.strokeRect(x - 9.5, position.y - 9.5, 19, 19);
                 ctx.restore();
 
-                drawMapGlyph("X", x, position.y, 14, MAP_GS, false);
+                drawMapGlyph("X", x, position.y, 14, MAP_INK, false);
         }
 }
 
@@ -282,10 +280,11 @@ function drawGroundStation() {
                 );
 
                 drawGeoPath(points, {
-                        stroke: MAP_GS,
+                        stroke: MAP_INK,
                         lineWidth: 3,
                         fill: MAP_BACKGROUND,
                         invert: true,
+                        halo: true,
                         tone: "rgba(253, 253, 252, 0.22)"
                 });
         }
@@ -573,7 +572,7 @@ function stationRangeInfo(current, timestamp) {
         }
 
         const length = start !== null && end !== null ? end - start : null;
-        rangePassCache = { key, inRange, until, end, length };
+        rangePassCache = { key, inRange, until, start, end, length };
         return rangePassCache;
 }
 
@@ -602,20 +601,20 @@ function renderTelemetry(rows) {
 
 function updateStatus(current, timestamp) {
         const info = stationRangeInfo(current, timestamp);
-        const next = info.inRange
+        const contact = info.inRange
                 ? "IN RANGE"
-                : info.until === null
+                : info.start === null
                         ? "--"
-                        : formatDuration(info.until - timestamp);
+                        : formatDuration(info.start - timestamp);
         const gs = `${Math.abs(groundStation.lat).toFixed(1)}°${groundStation.lat >= 0 ? "N" : "S"} ${Math.abs(groundStation.lng).toFixed(1)}°${groundStation.lng >= 0 ? "E" : "W"}`;
 
         dom.statusTracking.textContent = satellite.name;
-        dom.statusUpdated.textContent = formatClock(timestamp);
-        dom.statusNext.textContent = next;
+        dom.statusContactValue.textContent = contact;
         dom.statusLength.textContent = info.length === null ? "--" : formatDuration(info.length);
-        dom.statusLoss.textContent = info.end === null ? "--" : formatClock(info.end);
+        dom.statusAosValue.textContent = info.start === null ? "--" : formatClock(info.start);
+        dom.statusLosValue.textContent = info.end === null ? "--" : formatClock(info.end);
         dom.statusGs.textContent = gs;
-        dom.statusAos.classList.toggle("is-flash", Math.floor(timestamp / 1000) % 2 === 0);
+        dom.statusContact.classList.toggle("is-flash", Math.floor(timestamp / 1000) % 2 === 0);
 }
 
 function updateTelemetry(current, timestamp) {

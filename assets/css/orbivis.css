@@ -79,13 +79,11 @@ body {
 .ov-layout {
         display: grid;
         grid-template-columns: minmax(0, 1fr) 22rem;
-        grid-template-areas: "map side" "controls controls";
-        gap: 22px 44px;
+        gap: 44px;
         align-items: start;
 }
 
 .ov-map-panel {
-        grid-area: map;
         min-width: 0;
 }
 
@@ -150,16 +148,16 @@ body {
 }
 
 .ov-controls {
-        grid-area: controls;
         display: grid;
-        grid-template-columns: 3fr 1fr 1fr;
+        grid-template-columns: 2.5fr 1fr 1fr;
         gap: 22px;
+        margin-top: 22px;
 }
 
 .ov-controls .ov-field label,
 .ov-controls .ov-field output,
 .ov-controls .ov-gs label {
-        font-size: 12px;
+        font-size: 11px;
 }
 
 .ov-controls .ov-panel input {
@@ -177,7 +175,6 @@ body {
 }
 
 .ov-sidebar {
-        grid-area: side;
         display: flex;
         flex-direction: column;
         gap: 22px;
@@ -189,22 +186,29 @@ body {
         border: 0;
 }
 
+.ov-table-frame {
+        font-size: 13px;
+}
+
 .ov-table {
         font-size: 13px;
         line-height: 1.45;
 }
 
-.ov-table::before,
-.ov-table::after {
-        content: "┌" var(--rule);
-        display: block;
-        overflow: hidden;
+.ov-table-edge {
+        display: flex;
         line-height: 1;
+}
+
+.ov-table-rule {
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
         white-space: nowrap;
 }
 
-.ov-table::after {
-        content: "└" var(--rule);
+.ov-table-rule::before {
+        content: var(--rule);
 }
 
 .ov-table-row {
@@ -221,11 +225,16 @@ body {
 }
 
 .status-row {
-        grid-template-columns: 1ch 21ch minmax(0, 1fr) 1ch;
+        grid-template-columns: 1ch 23ch minmax(0, 1fr) 1ch;
+}
+
+.status-row span:first-child {
+        padding-left: 1ch;
 }
 
 .status-row span:last-child {
         overflow: hidden;
+        padding-right: 1ch;
         text-align: right;
         text-overflow: ellipsis;
         white-space: nowrap;
@@ -237,7 +246,11 @@ body {
 }
 
 .telemetry-row {
-        grid-template-columns: 1ch 15ch minmax(0, 1fr) 6ch 1ch;
+        grid-template-columns: 1ch 16ch minmax(0, 1fr) 8ch 1ch;
+}
+
+.telemetry-row span:first-child {
+        padding-left: 1ch;
 }
 
 .telemetry-row span:nth-child(2) {
@@ -245,6 +258,7 @@ body {
 }
 
 .telemetry-row span:nth-child(3) {
+        padding-right: 1ch;
         padding-left: 2ch;
 }
 
@@ -444,7 +458,6 @@ body {
 
         .ov-layout {
                 grid-template-columns: minmax(0, 1fr);
-                grid-template-areas: "map" "controls" "side";
                 gap: 22px;
         }
 

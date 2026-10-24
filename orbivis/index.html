@@ -18,63 +18,72 @@
                                         <canvas id="map" role="img" aria-label="World map with satellite ground track"></canvas>
                                         <p class="ov-map-status" id="map-status" role="status">loading map</p>
                                 </div>
+
+                                <div class="ov-controls">
+                                        <section class="ov-panel ov-tle-panel" aria-label="TLE input">
+                                                <p class="ov-label"># tle input</p>
+                                                <label class="ov-sr-only" for="tle-input">Two-line element set</label>
+                                                <textarea id="tle-input" rows="3" wrap="off" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
+                                                <div class="ov-actions">
+                                                        <button id="tle-button" type="button">Load TLE</button>
+                                                        <button id="tle-reset" class="ov-button-secondary" type="button">Reset to ISS</button>
+                                                        <p class="ov-message" id="tle-message" role="status" aria-live="polite"></p>
+                                                </div>
+                                        </section>
+
+                                        <section class="ov-panel" aria-label="Display settings">
+                                                <p class="ov-label"># display</p>
+                                                <div class="ov-field">
+                                                        <label for="window-minutes">
+                                                                <span>track window</span>
+                                                                <output id="window-value" for="window-minutes">±120 min</output>
+                                                        </label>
+                                                        <input id="window-minutes" type="range" min="10" max="240" step="10" value="120">
+                                                </div>
+                                        </section>
+
+                                        <section class="ov-panel" aria-label="Ground station">
+                                                <p class="ov-label"># ground station</p>
+                                                <div class="ov-gs">
+                                                        <label for="gs-latitude">lat</label>
+                                                        <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
+                                                        <label for="gs-longitude">lon</label>
+                                                        <input id="gs-longitude" type="number" min="-180" max="180" step="0.1" value="14" inputmode="decimal">
+                                                        <label for="gs-range">range (km)</label>
+                                                        <input id="gs-range" type="number" min="0" max="20000" step="10" value="1200" inputmode="numeric">
+                                                </div>
+                                                <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
+                                        </section>
+                                </div>
                         </div>
 
                         <aside class="ov-sidebar">
                                 <section class="ov-panel" aria-label="Status">
                                         <p class="ov-label"># status</p>
-                                        <div class="ov-table ov-status" id="status">
-                                                <div class="ov-table-row status-row"><span>tracking</span><span id="status-tracking">ISS (ZARYA)</span></div>
-                                                <div class="ov-table-row status-row"><span>updated</span><span id="status-updated">--</span></div>
-                                                <div class="ov-table-row status-row" id="status-aos"><span>acquisition of signal</span><span id="status-next">--</span></div>
-                                                <div class="ov-table-row status-row"><span>pass length</span><span id="status-length">--</span></div>
-                                                <div class="ov-table-row status-row"><span>loss of signal</span><span id="status-loss">--</span></div>
-                                                <div class="ov-table-row status-row"><span>gs position</span><span id="status-gs">--</span></div>
+                                        <div class="ov-table-frame">
+                                                <div class="ov-table-edge"><span>┌</span><span class="ov-table-rule"></span><span>┐</span></div>
+                                                <div class="ov-table ov-status" id="status">
+                                                        <div class="ov-table-row status-row"><span>tracking</span><span id="status-tracking">ISS (ZARYA)</span></div>
+                                                        <div class="ov-table-row status-row" id="status-contact"><span>contact in</span><span id="status-contact-value">--</span></div>
+                                                        <div class="ov-table-row status-row"><span>next pass length</span><span id="status-length">--</span></div>
+                                                        <div class="ov-table-row status-row"><span>aos</span><span id="status-aos-value">--</span></div>
+                                                        <div class="ov-table-row status-row"><span>los</span><span id="status-los-value">--</span></div>
+                                                        <div class="ov-table-row status-row" aria-hidden="true"><span></span><span></span></div>
+                                                        <div class="ov-table-row status-row"><span>gs position</span><span id="status-gs">--</span></div>
+                                                </div>
+                                                <div class="ov-table-edge"><span>└</span><span class="ov-table-rule"></span><span>┘</span></div>
                                         </div>
                                 </section>
 
                                 <section class="ov-panel" aria-label="Telemetry">
                                         <p class="ov-label"># telemetry</p>
-                                        <div class="ov-table ov-telemetry" id="telemetry"></div>
+                                        <div class="ov-table-frame">
+                                                <div class="ov-table-edge"><span>┌</span><span class="ov-table-rule"></span><span>┐</span></div>
+                                                <div class="ov-table ov-telemetry" id="telemetry"></div>
+                                                <div class="ov-table-edge"><span>└</span><span class="ov-table-rule"></span><span>┘</span></div>
+                                        </div>
                                 </section>
                         </aside>
-
-                        <div class="ov-controls">
-                                <section class="ov-panel ov-tle-panel" aria-label="TLE input">
-                                        <p class="ov-label"># tle input</p>
-                                        <label class="ov-sr-only" for="tle-input">Two-line element set</label>
-                                        <textarea id="tle-input" rows="3" wrap="off" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
-                                        <div class="ov-actions">
-                                                <button id="tle-button" type="button">Load TLE</button>
-                                                <button id="tle-reset" class="ov-button-secondary" type="button">Reset to ISS</button>
-                                                <p class="ov-message" id="tle-message" role="status" aria-live="polite"></p>
-                                        </div>
-                                </section>
-
-                                <section class="ov-panel" aria-label="Display settings">
-                                        <p class="ov-label"># display</p>
-                                        <div class="ov-field">
-                                                <label for="window-minutes">
-                                                        <span>track window</span>
-                                                        <output id="window-value" for="window-minutes">±120 min</output>
-                                                </label>
-                                                <input id="window-minutes" type="range" min="10" max="240" step="10" value="120">
-                                        </div>
-                                </section>
-
-                                <section class="ov-panel" aria-label="Ground station">
-                                        <p class="ov-label"># ground station</p>
-                                        <div class="ov-gs">
-                                                <label for="gs-latitude">lat</label>
-                                                <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
-                                                <label for="gs-longitude">lon</label>
-                                                <input id="gs-longitude" type="number" min="-180" max="180" step="0.1" value="14" inputmode="decimal">
-                                                <label for="gs-range">range (km)</label>
-                                                <input id="gs-range" type="number" min="0" max="20000" step="10" value="1200" inputmode="numeric">
-                                        </div>
-                                        <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
-                                </section>
-                        </div>
                 </section>
 
                 <footer class="ov-footer">
