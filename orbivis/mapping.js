@@ -49,10 +49,10 @@ const dom = {
         mapStatus: document.getElementById("map-status"),
         statusTracking: document.getElementById("status-tracking"),
         statusUpdated: document.getElementById("status-updated"),
-        statusNextLabel: document.getElementById("status-next-label"),
+        statusAos: document.getElementById("status-aos"),
         statusNext: document.getElementById("status-next"),
         statusLength: document.getElementById("status-length"),
-        statusEnds: document.getElementById("status-ends"),
+        statusLoss: document.getElementById("status-loss"),
         statusGs: document.getElementById("status-gs"),
         telemetry: document.getElementById("telemetry"),
         windowMinutes: document.getElementById("window-minutes"),
@@ -189,6 +189,11 @@ function drawGeoPath(points, options) {
                                 if (options.invert) ctx.globalCompositeOperation = "difference";
                                 ctx.fill();
                                 ctx.globalCompositeOperation = "source-over";
+
+                                if (options.tone) {
+                                        ctx.fillStyle = options.tone;
+                                        ctx.fill();
+                                }
                         }
 
                         if (options.halo) {
@@ -278,10 +283,10 @@ function drawGroundStation() {
 
                 drawGeoPath(points, {
                         stroke: MAP_GS,
-                        lineWidth: 1,
-                        dash: [2, 5],
+                        lineWidth: 3,
                         fill: MAP_BACKGROUND,
-                        invert: true
+                        invert: true,
+                        tone: "rgba(253, 253, 252, 0.22)"
                 });
         }
 }
@@ -580,31 +585,37 @@ function formatClock(timestamp) {
         return `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
 }
 
-function asciiTable(rows) {
-        const inner = 36;
-        const lines = rows.map(([label, value, unit]) => (
-                `│ ${label.padEnd(16)} ${value.padStart(8)} ${unit.padEnd(8)} │`
-        ));
+function renderTelemetry(rows) {
+        dom.telemetry.replaceChildren(...rows.map(([label, value, unit]) => {
+                const row = document.createElement("div");
+                row.className = "ov-table-row telemetry-row";
 
-        return [
-                `┌${"─".repeat(inner)}┐`,
-                ...lines,
-                `└${"─".repeat(inner)}┘`
-        ].join("\n");
+                for (const text of [label, value, unit]) {
+                        const span = document.createElement("span");
+                        span.textContent = text;
+                        row.append(span);
+                }
+
+                return row;
+        }));
 }
 
 function updateStatus(current, timestamp) {
         const info = stationRangeInfo(current, timestamp);
-        const next = info.until === null ? "--" : formatDuration(info.until - timestamp);
+        const next = info.inRange
+                ? "IN RANGE"
+                : info.until === null
+                        ? "--"
+                        : formatDuration(info.until - timestamp);
         const gs = `${Math.abs(groundStation.lat).toFixed(1)}°${groundStation.lat >= 0 ? "N" : "S"} ${Math.abs(groundStation.lng).toFixed(1)}°${groundStation.lng >= 0 ? "E" : "W"}`;
 
         dom.statusTracking.textContent = satellite.name;
         dom.statusUpdated.textContent = formatClock(timestamp);
-        dom.statusNextLabel.textContent = info.inRange ? "LOS IN" : "NEXT PASS IN";
         dom.statusNext.textContent = next;
         dom.statusLength.textContent = info.length === null ? "--" : formatDuration(info.length);
-        dom.statusEnds.textContent = info.end === null ? "--" : formatClock(info.end);
+        dom.statusLoss.textContent = info.end === null ? "--" : formatClock(info.end);
         dom.statusGs.textContent = gs;
+        dom.statusAos.classList.toggle("is-flash", Math.floor(timestamp / 1000) % 2 === 0);
 }
 
 function updateTelemetry(current, timestamp) {
@@ -614,16 +625,16 @@ function updateTelemetry(current, timestamp) {
                 ["latitude", Math.abs(current.lat).toFixed(3), `°${current.lat >= 0 ? "N" : "S"}`],
                 ["longitude", Math.abs(current.lng).toFixed(3), `°${current.lng >= 0 ? "E" : "W"}`],
                 ["altitude", current.height.toFixed(2), "KM"],
+                ["apogee", stats.apogee === null ? "--" : stats.apogee.toFixed(2), "KM"],
+                ["perigee", stats.perigee === null ? "--" : stats.perigee.toFixed(2), "KM"],
                 ["velocity", current.velocity.toFixed(3), "KM/S"],
                 ["period", stats.period === null ? "--" : stats.period.toFixed(2), "MIN"],
                 ["inclination", stats.inclination === null ? "--" : stats.inclination.toFixed(2), "°"],
-                ["apogee", stats.apogee === null ? "--" : stats.apogee.toFixed(2), "KM"],
-                ["perigee", stats.perigee === null ? "--" : stats.perigee.toFixed(2), "KM"],
                 ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2), ""],
                 ["station passes", passes === null ? "--" : String(passes), "/24H"]
         ];
 
-        dom.telemetry.textContent = asciiTable(rows);
+        renderTelemetry(rows);
         updateStatus(current, timestamp);
         dom.canvas.setAttribute(
                 "aria-label",
@@ -664,7 +675,7 @@ function render() {
         drawGraticule();
         drawGroundStation();
 
-        const halfWindowMs = windowMinutes * 30_000;
+        const halfWindowMs = windowMinutes * 60_000;
         const stepMs = clamp(
                 Math.round(halfWindowMs / TRACK_POINT_BUDGET / 1000) * 1000,
                 MIN_STEP_MS,
@@ -1005,7 +1016,7 @@ function refreshGroundStation() {
 }
 
 function updateWindowOutput() {
-        dom.windowValue.textContent = `±${windowMinutes / 2} min`;
+        dom.windowValue.textContent = `±${windowMinutes} min`;
 }
 
 function snapGroundStationInputs() {

@@ -47,17 +47,10 @@ body {
         margin: 0 auto;
 }
 
-.ov h1,
 .ov p,
 .ov pre {
         margin: 0;
         text-align: left;
-}
-
-.ov h1 {
-        font-size: 38px;
-        font-weight: 400;
-        line-height: 1;
 }
 
 .ov a {
@@ -79,43 +72,20 @@ body {
         outline-offset: 3px;
 }
 
-.ov-header {
-        display: grid;
-        grid-template-columns: minmax(0, 1fr) auto;
-        gap: 22px;
-        margin-bottom: 22px;
-}
-
-.ov-eyebrow {
-        margin-bottom: 11px !important;
-        font-size: 10px;
-        letter-spacing: 0.04em;
-}
-
 .ov-label {
         padding-bottom: 1em;
-}
-
-.ov-lede {
-        margin-top: 11px !important;
-        white-space: nowrap;
-}
-
-.ov-back {
-        font-size: 10px;
-        letter-spacing: 0.1em;
-        text-decoration: none;
-        white-space: nowrap;
 }
 
 .ov-layout {
         display: grid;
         grid-template-columns: minmax(0, 1fr) 22rem;
-        gap: 44px;
+        grid-template-areas: "map side" "controls controls";
+        gap: 22px 44px;
         align-items: start;
 }
 
 .ov-map-panel {
+        grid-area: map;
         min-width: 0;
 }
 
@@ -180,10 +150,10 @@ body {
 }
 
 .ov-controls {
+        grid-area: controls;
         display: grid;
-        grid-template-columns: 2.1fr 1fr 1fr;
+        grid-template-columns: 3fr 1fr 1fr;
         gap: 22px;
-        margin-top: 22px;
 }
 
 .ov-controls .ov-field label,
@@ -192,12 +162,12 @@ body {
         font-size: 12px;
 }
 
-.ov-controls input {
+.ov-controls .ov-panel input {
         font-size: 11px;
 }
 
-.ov-controls textarea {
-        min-height: 64px;
+.ov-controls .ov-panel textarea {
+        min-height: 52px;
         padding: 4px 6px;
         font-size: 9px;
 }
@@ -207,6 +177,7 @@ body {
 }
 
 .ov-sidebar {
+        grid-area: side;
         display: flex;
         flex-direction: column;
         gap: 22px;
@@ -218,54 +189,63 @@ body {
         border: 0;
 }
 
-.ov-status {
-        font-size: 13.5px;
+.ov-table {
+        font-size: 13px;
         line-height: 1.45;
 }
 
-.ov-status::before,
-.ov-status::after {
-        content: var(--rule);
+.ov-table::before,
+.ov-table::after {
+        content: "┌" var(--rule);
         display: block;
         overflow: hidden;
         line-height: 1;
         white-space: nowrap;
 }
 
-.ov-status-row {
+.ov-table::after {
+        content: "└" var(--rule);
+}
+
+.ov-table-row {
         display: grid;
-        grid-template-columns: 1ch 14ch minmax(0, 1fr) 1ch;
+        align-items: baseline;
 }
 
-.ov-status-row::before {
+.ov-table-row::before {
         content: "│";
 }
 
-.ov-status-row::after {
+.ov-table-row::after {
         content: "│";
 }
 
-.ov-status-row span:last-child {
+.status-row {
+        grid-template-columns: 1ch 21ch minmax(0, 1fr) 1ch;
+}
+
+.status-row span:last-child {
         overflow: hidden;
         text-align: right;
         text-overflow: ellipsis;
         white-space: nowrap;
 }
 
-.ov-status-row.is-updated {
-        animation: blink-row 2s steps(1) infinite;
+.status-row.is-flash {
+        background: var(--ink);
+        color: var(--paper);
 }
 
-@keyframes blink-row {
-        0%, 100% { background: var(--paper); color: var(--ink); }
-        50% { background: var(--ink); color: var(--paper); }
+.telemetry-row {
+        grid-template-columns: 1ch 15ch minmax(0, 1fr) 6ch 1ch;
 }
 
-.ov-telemetry {
-        font-family: inherit;
-        font-size: clamp(11px, 3.3vw, 13.5px);
-        line-height: 1.45;
-        white-space: pre;
+.telemetry-row span:nth-child(2) {
+        text-align: right;
+}
+
+.telemetry-row span:nth-child(3) {
+        padding-left: 2ch;
 }
 
 .ov-field label {
@@ -464,11 +444,8 @@ body {
 
         .ov-layout {
                 grid-template-columns: minmax(0, 1fr);
-                gap: 33px;
-        }
-
-        .ov-lede {
-                white-space: normal;
+                grid-template-areas: "map" "controls" "side";
+                gap: 22px;
         }
 
         .ov-sidebar {
@@ -483,26 +460,15 @@ body {
                 padding: 16px;
         }
 
-        .ov-header {
-                grid-template-columns: minmax(0, 1fr);
-                gap: 11px;
-        }
-
         .ov-controls {
                 grid-template-columns: minmax(0, 1fr);
         }
 
-        .ov h1 {
-                font-size: 30px;
+        .ov-controls .ov-panel textarea {
+                font-size: 7.5px;
         }
 
         .ov-actions {
                 gap: 11px;
-        }
-}
-
-@media (max-width: 420px) {
-        .ov h1 {
-                font-size: 25px;
         }
 }
