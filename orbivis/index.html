@@ -57,20 +57,13 @@
                                         </div>
                                 </section>
 
-                                <section class="ov-panel" aria-labelledby="gs-title">
-                                        <h2 id="gs-title">[ GROUND STATION ]</h2>
-                                        <div class="ov-field-row">
-                                                <div class="ov-field">
-                                                        <label for="gs-latitude"><span>latitude</span></label>
-                                                        <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
-                                                </div>
-                                                <div class="ov-field">
-                                                        <label for="gs-longitude"><span>longitude</span></label>
-                                                        <input id="gs-longitude" type="number" min="-180" max="180" step="0.1" value="14" inputmode="decimal">
-                                                </div>
-                                        </div>
-                                        <div class="ov-field">
-                                                <label for="gs-range"><span>coverage radius (km)</span></label>
+                                <section class="ov-panel" aria-label="Ground station">
+                                        <div class="ov-gs">
+                                                <label for="gs-latitude">lat</label>
+                                                <input id="gs-latitude" type="number" min="-90" max="90" step="0.1" value="50" inputmode="decimal">
+                                                <label for="gs-longitude">lon</label>
+                                                <input id="gs-longitude" type="number" min="-180" max="180" step="0.1" value="14" inputmode="decimal">
+                                                <label for="gs-range">range (km)</label>
                                                 <input id="gs-range" type="number" min="0" max="20000" step="10" value="1200" inputmode="numeric">
                                         </div>
                                         <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
@@ -78,8 +71,7 @@
                         </aside>
                 </section>
 
-                <section class="ov-panel ov-tle-panel" aria-labelledby="tle-title">
-                        <h2 id="tle-title">[ tle input ]</h2>
+                <section class="ov-panel ov-tle-panel" aria-label="TLE input">
                         <label class="ov-sr-only" for="tle-input">Two-line element set</label>
                         <textarea id="tle-input" rows="3" spellcheck="false" placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
                         <div class="ov-actions">
@@ -91,7 +83,6 @@
                 </section>
 
                 <section class="ov-help" id="tle-help" aria-label="About this visualizer">
-                        <h2>[ notes ]</h2>
                         <p>Orbit Visualizer projects a satellite's current position and surrounding ground track onto an equirectangular world map. The default object is the International Space Station; paste any current two- or three-line element set to track something else.</p>
                         <details>
                                 <summary>What is a TLE?</summary>

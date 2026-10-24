@@ -31,7 +31,8 @@ body {
         background: var(--paper);
         color: var(--ink);
         color-scheme: light;
-        font: 16.5px/1.45 "Departure Mono", monospace;
+        font: 15px/1.45 "Departure Mono", monospace;
+        text-transform: uppercase;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
 }
@@ -48,7 +49,6 @@ body {
 }
 
 .ov h1,
-.ov h2,
 .ov p,
 .ov pre {
         margin: 0;
@@ -56,17 +56,9 @@ body {
 }
 
 .ov h1 {
-        font-size: 44px;
+        font-size: 38px;
         font-weight: 400;
         line-height: 1;
-        text-transform: uppercase;
-}
-
-.ov h2 {
-        margin-bottom: 11px;
-        font-size: 12px;
-        font-weight: 400;
-        letter-spacing: 0.06em;
 }
 
 .ov a {
@@ -105,21 +97,19 @@ body {
 
 .ov-eyebrow {
         margin-bottom: 11px !important;
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.04em;
 }
 
 .ov-lede {
         margin-top: 11px !important;
-        text-transform: lowercase;
         white-space: nowrap;
 }
 
 .ov-back {
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.1em;
         text-decoration: none;
-        text-transform: lowercase;
         white-space: nowrap;
 }
 
@@ -175,9 +165,8 @@ body {
         left: 11px;
         padding: 3px 7px;
         background: var(--surface);
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.04em;
-        text-transform: lowercase;
 }
 
 .ov-map-status::after {
@@ -200,9 +189,8 @@ body {
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.04em;
-        text-transform: lowercase;
 }
 
 .ov-map-caption {
@@ -270,50 +258,18 @@ body {
 }
 
 .ov-telemetry {
-        font-size: 17px;
+        font-family: inherit;
+        font-size: 14px;
         line-height: 1.45;
         overflow-x: auto;
         white-space: pre;
-}
-
-.ov-field + .ov-field,
-.ov-field-row + .ov-field,
-.ov-field + .ov-field-row {
-        margin-top: 11px;
-}
-
-.ov-field-row {
-        position: relative;
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        column-gap: 22px;
-}
-
-.ov-field-row::after {
-        content: "│";
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-}
-
-.ov-field-row .ov-field {
-        margin-top: 0;
 }
 
 .ov-field label {
         display: flex;
         justify-content: space-between;
         margin-bottom: 2px;
-        font-size: 20px;
-        text-transform: lowercase;
-}
-
-.ov-field label::before {
-        content: ">";
-        flex: none;
-        margin-right: 0.5ch;
+        font-size: 15px;
 }
 
 .ov-field label > span:first-child {
@@ -321,7 +277,18 @@ body {
 }
 
 .ov-field output {
-        font-size: 20px;
+        font-size: 15px;
+}
+
+.ov-gs {
+        display: grid;
+        grid-template-columns: 10ch minmax(0, 1fr);
+        gap: 4px 11px;
+        align-items: baseline;
+}
+
+.ov-gs label {
+        font-size: 15px;
 }
 
 .ov button,
@@ -341,10 +308,6 @@ body {
         border-radius: 0;
         color: var(--ink);
         outline: none;
-}
-
-.ov input[type="number"] {
-        font-size: 20px;
 }
 
 .ov input:focus,
@@ -399,9 +362,8 @@ body {
 
 .ov-hint {
         margin-top: 6px !important;
-        font-size: 11px;
+        font-size: 10px;
         line-height: 1.5;
-        text-transform: lowercase;
 }
 
 .ov-tle-panel {
@@ -423,8 +385,6 @@ body {
         background: var(--surface-low);
         resize: vertical;
         border-bottom: 0;
-        font-size: 16.5px;
-        line-height: 1.45;
 }
 
 .ov textarea::placeholder {
@@ -446,9 +406,8 @@ body {
         border: 0;
         color: var(--ink);
         cursor: pointer;
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.1em;
-        text-transform: lowercase;
 }
 
 .ov button::before {
@@ -469,8 +428,7 @@ body {
 .ov-message {
         flex-basis: 100%;
         min-height: 1.4em;
-        font-size: 11px;
-        text-transform: lowercase;
+        font-size: 10px;
 }
 
 .ov-message.is-error::before {
@@ -488,7 +446,6 @@ body {
 .ov-help > p,
 .ov-help details {
         max-width: 72ch;
-        text-transform: lowercase;
 }
 
 .ov-help details {
@@ -497,10 +454,9 @@ body {
 
 .ov-help summary {
         cursor: pointer;
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.04em;
         list-style: none;
-        text-transform: lowercase;
 }
 
 .ov-help summary::after {
@@ -513,7 +469,6 @@ body {
 
 .ov-help details p {
         margin-top: 8px !important;
-        text-transform: lowercase;
 }
 
 .ov-footer {
@@ -533,9 +488,8 @@ body {
 }
 
 .ov-footer p {
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0.04em;
-        text-transform: lowercase;
 }
 
 .ov-sr-only {
@@ -550,8 +504,7 @@ body {
 .ov-noscript {
         max-width: 1200px;
         margin: 22px auto;
-        font-size: 11px;
-        text-transform: lowercase;
+        font-size: 10px;
 }
 
 @media (max-width: 920px) {
@@ -586,7 +539,7 @@ body {
         }
 
         .ov h1 {
-                font-size: 33px;
+                font-size: 30px;
         }
 
         .ov-sidebar {
@@ -600,18 +553,10 @@ body {
 
 @media (max-width: 420px) {
         .ov h1 {
-                font-size: 27.5px;
+                font-size: 25px;
         }
 
         .ov-telemetry {
-                font-size: 15px;
-        }
-
-        .ov-field-row {
-                grid-template-columns: minmax(0, 1fr);
-        }
-
-        .ov-field-row::after {
-                display: none;
+                font-size: 13px;
         }
 }

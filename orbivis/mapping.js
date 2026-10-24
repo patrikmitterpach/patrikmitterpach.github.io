@@ -474,9 +474,9 @@ function updateTelemetry(current, timestamp) {
                 ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2)],
                 ["station passes", passes === null ? "--" : `${passes} / 24h`]
         ];
-        const inner = 28;
+        const inner = 38;
         const lines = rows.map(([label, value]) => {
-                const text = ` > ${label}`;
+                const text = ` ${label}`;
                 return `│${text.padEnd(inner - value.length - 1)}${value} │`;
         });
 
