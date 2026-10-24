@@ -11,17 +11,13 @@
         --paper: #fdfdfc;
         --surface: #ffffff;
         --surface-low: #f3f3f0;
-        --ink: #26231d;
+        --ink: #3b372f;
         --line: #d9d9d3;
-        --line-strong: #bdbdb6;
-        --accent: var(--ink);
         --highlight: #5f6d50;
-        --map-paper: #ffffff;
+        --rule: "────────────────────────────────────────────────────────────────────────────────────────────────";
 }
 
-*,
-*::before,
-*::after {
+* {
         box-sizing: border-box;
 }
 
@@ -29,25 +25,20 @@ html {
         background: var(--paper);
 }
 
-body.orbivis-page {
+body {
         margin: 0;
         padding: 44px;
         background: var(--paper);
         color: var(--ink);
         color-scheme: light;
-        accent-color: var(--accent);
-        font-family: "Departure Mono", monospace;
-        font-size: 16.5px;
-        font-synthesis: none;
-        line-height: 1.45;
-        text-rendering: optimizeLegibility;
+        font: 16.5px/1.45 "Departure Mono", monospace;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
 }
 
 ::selection {
         color: var(--paper);
-        background: var(--accent);
+        background: var(--ink);
 }
 
 .ov {
@@ -59,16 +50,12 @@ body.orbivis-page {
 .ov h1,
 .ov h2,
 .ov p,
-.ov dl,
-.ov dd,
-.ov dt,
-.ov figure {
+.ov pre {
         margin: 0;
         text-align: left;
 }
 
 .ov h1 {
-        color: var(--ink);
         font-size: 44px;
         font-weight: 400;
         line-height: 1;
@@ -77,60 +64,58 @@ body.orbivis-page {
 
 .ov h2 {
         margin-bottom: 11px;
-        color: var(--ink);
         font-size: 12px;
         font-weight: 400;
         letter-spacing: 0.06em;
-        text-transform: lowercase;
 }
 
 .ov a {
         color: var(--ink);
         text-decoration: underline;
-        text-decoration-color: var(--line-strong);
-        text-decoration-thickness: 1px;
+        text-decoration-color: var(--line);
         text-underline-offset: 3px;
 }
 
 .ov a:hover,
 .ov a:focus-visible {
-        background: var(--ink);
         color: var(--paper);
+        background: var(--ink);
         text-decoration-color: transparent;
 }
 
 .ov :focus-visible {
-        outline: 1px solid var(--accent);
+        outline: 1px solid var(--ink);
         outline-offset: 3px;
 }
 
 .ov-header {
-        display: flex;
-        align-items: flex-start;
-        justify-content: space-between;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
         gap: 22px;
-        margin-bottom: 33px;
-        padding-bottom: 22px;
-        border-bottom: 1px solid var(--line);
+}
+
+.ov-header::after {
+        content: "├" var(--rule);
+        grid-column: 1 / -1;
+        display: block;
+        overflow: hidden;
+        margin-top: 22px;
+        white-space: nowrap;
 }
 
 .ov-eyebrow {
         margin-bottom: 11px !important;
-        color: var(--ink);
         font-size: 11px;
         letter-spacing: 0.04em;
 }
 
 .ov-lede {
         margin-top: 11px !important;
-        color: var(--ink);
         text-transform: lowercase;
         white-space: nowrap;
 }
 
 .ov-back {
-        flex: none;
-        color: var(--ink) !important;
         font-size: 11px;
         letter-spacing: 0.1em;
         text-decoration: none;
@@ -154,7 +139,7 @@ body.orbivis-page {
         width: 100%;
         aspect-ratio: 2 / 1;
         overflow: hidden;
-        background: var(--map-paper);
+        background: var(--surface);
         border: 1px solid var(--ink);
 }
 
@@ -170,7 +155,6 @@ body.orbivis-page {
         left: 11px;
         padding: 3px 7px;
         background: var(--surface);
-        color: var(--ink);
         font-size: 11px;
         letter-spacing: 0.04em;
         text-transform: lowercase;
@@ -179,6 +163,10 @@ body.orbivis-page {
 .ov-map-status::after {
         content: "_";
         animation: blink 1s steps(1) infinite;
+}
+
+.ov-map-status[hidden] {
+        display: none;
 }
 
 @keyframes blink {
@@ -191,56 +179,43 @@ body.orbivis-page {
         }
 }
 
-.ov-map-status[hidden] {
-        display: none;
-}
-
-.ov-map-caption {
+.ov-map-caption,
+.ov-legend {
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-        gap: 8px;
-        margin-top: 11px !important;
-        color: var(--ink);
         font-size: 11px;
         letter-spacing: 0.04em;
         text-transform: lowercase;
 }
 
-.ov-map-caption #satellite-name {
-        color: var(--ink);
+.ov-map-caption {
+        margin-top: 11px !important;
+}
+
+.ov-legend {
+        margin-top: 8px !important;
+}
+
+.ov-map-caption > span + span::before,
+.ov-legend > span + span::before {
+        content: " │ ";
 }
 
 .ov-live-dot {
         flex: none;
         width: 5px;
         height: 9px;
-        background: var(--accent);
+        background: var(--ink);
 }
 
-.ov-caption-sep {
-        color: var(--line-strong);
-}
-
-.ov-legend {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 22px;
-        margin-top: 8px !important;
-        color: var(--ink);
-        font-size: 11px;
-        letter-spacing: 0.04em;
-        text-transform: lowercase;
-}
-
-.ov-legend span {
+.ov-legend > span {
         display: inline-flex;
         align-items: center;
         gap: 7px;
 }
 
 .ov-legend-glyph {
-        font-weight: 400;
         letter-spacing: 0.12em;
         white-space: nowrap;
 }
@@ -270,45 +245,19 @@ body.orbivis-page {
         border: 0;
 }
 
-.ov-sidebar .ov-panel + .ov-panel {
-        padding-top: 22px;
-        border-top: 1px solid var(--line);
-}
-
-.ov-stats {
-        display: flex;
-        flex-direction: column;
-        gap: 1px;
-}
-
-.ov-stat {
-        display: grid;
-        grid-template-columns: max-content minmax(0, 1fr);
-        column-gap: 2ch;
-        align-items: baseline;
-        min-width: 0;
-}
-
-.ov-stat dt {
-        color: var(--ink);
-        font-size: 17px;
-        letter-spacing: 0;
-        text-transform: lowercase;
+.ov-sidebar .ov-panel + .ov-panel::before {
+        content: "├" var(--rule);
+        display: block;
+        overflow: hidden;
+        margin-bottom: 11px;
         white-space: nowrap;
 }
 
-.ov-stat dt::before {
-        content: ">";
-        margin-right: 0.5ch;
-}
-
-.ov-stat dd {
-        margin-top: 0;
-        color: var(--ink);
+.ov-telemetry {
         font-size: 17px;
         line-height: 1.45;
-        text-align: right;
-        white-space: nowrap;
+        overflow-x: auto;
+        white-space: pre;
 }
 
 .ov-field + .ov-field,
@@ -318,9 +267,19 @@ body.orbivis-page {
 }
 
 .ov-field-row {
+        position: relative;
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 11px;
+        column-gap: 22px;
+}
+
+.ov-field-row::after {
+        content: "│";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
 }
 
 .ov-field-row .ov-field {
@@ -329,13 +288,9 @@ body.orbivis-page {
 
 .ov-field label {
         display: flex;
-        align-items: baseline;
         justify-content: space-between;
-        gap: 0;
         margin-bottom: 2px;
-        color: var(--ink);
         font-size: 20px;
-        letter-spacing: 0;
         text-transform: lowercase;
 }
 
@@ -350,10 +305,7 @@ body.orbivis-page {
 }
 
 .ov-field output {
-        color: var(--ink);
         font-size: 20px;
-        letter-spacing: 0;
-        text-transform: none;
 }
 
 .ov button,
@@ -369,7 +321,7 @@ body.orbivis-page {
         padding: 3px 0;
         background: transparent;
         border: 0;
-        border-bottom: 1px solid var(--line);
+        border-bottom: 1px dashed var(--line);
         border-radius: 0;
         color: var(--ink);
         outline: none;
@@ -379,24 +331,21 @@ body.orbivis-page {
         font-size: 20px;
 }
 
-.ov input[type="number"]:focus,
+.ov input:focus,
 .ov textarea:focus {
-        border-bottom-color: var(--accent);
-        outline: 1px solid var(--accent);
+        border-bottom-color: var(--ink);
+        outline: 1px solid var(--ink);
         outline-offset: 3px;
 }
 
 .ov input[aria-invalid="true"] {
-        border-bottom-color: var(--ink);
-        border-bottom-width: 2px;
+        border-bottom: 2px solid var(--ink);
 }
 
 .ov input[type="range"] {
-        display: block;
         width: 100%;
         height: 16px;
         margin: 4px 0 5px;
-        padding: 0;
         background: transparent;
         cursor: pointer;
         -webkit-appearance: none;
@@ -412,7 +361,7 @@ body.orbivis-page {
         width: 9px;
         height: 9px;
         margin-top: -4px;
-        background: var(--accent);
+        background: var(--ink);
         border: 0;
         border-radius: 0;
         -webkit-appearance: none;
@@ -427,23 +376,29 @@ body.orbivis-page {
 .ov input[type="range"]::-moz-range-thumb {
         width: 9px;
         height: 9px;
-        background: var(--accent);
+        background: var(--ink);
         border: 0;
         border-radius: 0;
 }
 
 .ov-hint {
         margin-top: 6px !important;
-        color: var(--ink);
         font-size: 11px;
         line-height: 1.5;
         text-transform: lowercase;
 }
 
 .ov-tle-panel {
-        margin-top: 44px;
-        padding-top: 22px;
-        border-top: 1px solid var(--line);
+        margin-top: 33px;
+}
+
+.ov-tle-panel::before,
+.ov-help::before {
+        content: "┌" var(--rule);
+        display: block;
+        overflow: hidden;
+        margin-bottom: 11px;
+        white-space: nowrap;
 }
 
 .ov textarea {
@@ -478,20 +433,16 @@ body.orbivis-page {
         font-size: 11px;
         letter-spacing: 0.1em;
         text-transform: lowercase;
-        -webkit-appearance: none;
-        appearance: none;
 }
 
 .ov button::before {
         content: "[";
         margin-right: 4px;
-        color: var(--ink);
 }
 
 .ov button::after {
         content: "]";
         margin-left: 4px;
-        color: var(--ink);
 }
 
 .ov button:hover {
@@ -504,14 +455,9 @@ body.orbivis-page {
         color: var(--paper);
 }
 
-.ov .ov-button-secondary {
-        color: var(--ink);
-}
-
 .ov-message {
         flex-basis: 100%;
         min-height: 1.4em;
-        color: var(--ink);
         font-size: 11px;
         text-transform: lowercase;
 }
@@ -524,30 +470,21 @@ body.orbivis-page {
         content: "ok ";
 }
 
-.ov-message.is-error,
-.ov-message.is-success {
-        color: var(--ink);
-}
-
 .ov-help {
-        margin-top: 44px;
-        padding-top: 22px;
-        border-top: 1px solid var(--line);
+        margin-top: 33px;
 }
 
-.ov-help > p {
+.ov-help > p,
+.ov-help details {
         max-width: 72ch;
-        color: var(--ink);
         text-transform: lowercase;
 }
 
 .ov-help details {
-        max-width: 72ch;
         margin-top: 11px;
 }
 
 .ov-help summary {
-        color: var(--ink);
         cursor: pointer;
         font-size: 11px;
         letter-spacing: 0.04em;
@@ -565,7 +502,6 @@ body.orbivis-page {
 
 .ov-help summary::after {
         content: " [+]";
-        color: var(--ink);
 }
 
 .ov-help details[open] summary::after {
@@ -574,7 +510,6 @@ body.orbivis-page {
 
 .ov-help details p {
         margin-top: 8px !important;
-        color: var(--ink);
         text-transform: lowercase;
 }
 
@@ -582,14 +517,19 @@ body.orbivis-page {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        gap: 22px;
-        margin-top: 44px;
-        padding-top: 11px;
-        border-top: 1px solid var(--line);
+        gap: 11px 22px;
+        margin-top: 33px;
+}
+
+.ov-footer::before {
+        content: "├" var(--rule);
+        flex-basis: 100%;
+        display: block;
+        overflow: hidden;
+        white-space: nowrap;
 }
 
 .ov-footer p {
-        color: var(--ink);
         font-size: 11px;
         letter-spacing: 0.04em;
         text-transform: lowercase;
@@ -599,25 +539,20 @@ body.orbivis-page {
         position: absolute;
         width: 1px;
         height: 1px;
-        padding: 0;
         overflow: hidden;
         clip: rect(0, 0, 0, 0);
         white-space: nowrap;
-        border: 0;
 }
 
 .ov-noscript {
         max-width: 1200px;
         margin: 22px auto;
-        padding: 11px 0;
-        color: var(--ink);
         font-size: 11px;
-        letter-spacing: 0.04em;
         text-transform: lowercase;
 }
 
 @media (max-width: 920px) {
-        body.orbivis-page {
+        body {
                 padding: 22px;
         }
 
@@ -635,21 +570,15 @@ body.orbivis-page {
                 grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
                 gap: 22px;
         }
-
-        .ov-sidebar .ov-panel {
-                padding-top: 11px;
-                border-top: 1px solid var(--line);
-        }
 }
 
 @media (max-width: 720px) {
-        body.orbivis-page {
+        body {
                 padding: 16px;
         }
 
         .ov-header {
-                flex-direction: column;
-                align-items: flex-start;
+                grid-template-columns: minmax(0, 1fr);
                 gap: 11px;
         }
 
@@ -671,7 +600,15 @@ body.orbivis-page {
                 font-size: 27.5px;
         }
 
+        .ov-telemetry {
+                font-size: 15px;
+        }
+
         .ov-field-row {
                 grid-template-columns: minmax(0, 1fr);
+        }
+
+        .ov-field-row::after {
+                display: none;
         }
 }

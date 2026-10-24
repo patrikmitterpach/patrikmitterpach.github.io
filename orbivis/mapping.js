@@ -27,7 +27,7 @@ const PASS_WINDOW_MS = 24 * 60 * 60 * 1000;
 const PASS_STEP_MS = 60_000;
 const PASS_CACHE_MS = 10 * 60 * 1000;
 const MAP_BACKGROUND = "#ffffff";
-const MAP_INK = "#26231d";
+const MAP_INK = "#3b372f";
 const MAP_GS = "#5f6d50";
 const MAP_GS_FILL = "rgba(111, 125, 95, 0.28)";
 const MAP_CELL_HEIGHT = 5;
@@ -49,16 +49,7 @@ const dom = {
         mapStatus: document.getElementById("map-status"),
         satelliteName: document.getElementById("satellite-name"),
         lastUpdated: document.getElementById("last-updated"),
-        latitude: document.getElementById("stat-latitude"),
-        longitude: document.getElementById("stat-longitude"),
-        velocity: document.getElementById("stat-velocity"),
-        height: document.getElementById("stat-height"),
-        period: document.getElementById("stat-period"),
-        inclination: document.getElementById("stat-inclination"),
-        apogee: document.getElementById("stat-apogee"),
-        perigee: document.getElementById("stat-perigee"),
-        orbits: document.getElementById("stat-orbits"),
-        passes: document.getElementById("stat-passes"),
+        telemetry: document.getElementById("telemetry"),
         windowMinutes: document.getElementById("window-minutes"),
         windowValue: document.getElementById("window-value"),
         gsLatitude: document.getElementById("gs-latitude"),
@@ -471,26 +462,31 @@ function formatLongitude(longitude) {
 function updateTelemetry(current, timestamp) {
         const stats = orbitStats(satellite.satrec);
         const passes = stationPasses(satellite, groundStation, timestamp);
+        const rows = [
+                ["latitude", formatLatitude(current.lat)],
+                ["longitude", formatLongitude(current.lng)],
+                ["altitude", `${current.height.toFixed(2)} km`],
+                ["velocity", `${current.velocity.toFixed(3)} km/s`],
+                ["period", stats.period === null ? "--" : `${stats.period.toFixed(2)} min`],
+                ["inclination", stats.inclination === null ? "--" : `${stats.inclination.toFixed(2)}°`],
+                ["apogee", stats.apogee === null ? "--" : `${stats.apogee.toFixed(2)} km`],
+                ["perigee", stats.perigee === null ? "--" : `${stats.perigee.toFixed(2)} km`],
+                ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2)],
+                ["station passes", passes === null ? "--" : `${passes} / 24h`]
+        ];
+        const inner = 28;
+        const lines = rows.map(([label, value]) => {
+                const text = ` > ${label}`;
+                return `│${text.padEnd(inner - value.length - 1)}${value} │`;
+        });
+
+        dom.telemetry.textContent = [
+                `┌${"─".repeat(inner)}┐`,
+                ...lines,
+                `└${"─".repeat(inner)}┘`
+        ].join("\n");
 
         dom.satelliteName.textContent = satellite.name;
-        dom.latitude.textContent = formatLatitude(current.lat);
-        dom.longitude.textContent = formatLongitude(current.lng);
-        dom.height.textContent = `${current.height.toFixed(2)} km`;
-        dom.velocity.textContent = `${current.velocity.toFixed(3)} km/s`;
-        dom.period.textContent = stats.period === null ? "--" : `${stats.period.toFixed(2)} min`;
-        dom.inclination.textContent = stats.inclination === null
-                ? "--"
-                : `${stats.inclination.toFixed(2)}°`;
-        dom.apogee.textContent = stats.apogee === null
-                ? "--"
-                : `${stats.apogee.toFixed(2)} km`;
-        dom.perigee.textContent = stats.perigee === null
-                ? "--"
-                : `${stats.perigee.toFixed(2)} km`;
-        dom.orbits.textContent = stats.orbitsPerDay === null
-                ? "--"
-                : stats.orbitsPerDay.toFixed(2);
-        dom.passes.textContent = passes === null ? "--" : `${passes} / 24h`;
         dom.lastUpdated.textContent = `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
         dom.canvas.setAttribute(
                 "aria-label",
