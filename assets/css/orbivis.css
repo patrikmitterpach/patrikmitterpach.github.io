@@ -15,7 +15,8 @@
         --fg: var(--ink);
         --bg: var(--paper);
         --font-mono: "Departure Mono", monospace;
-        --rule: "────────────────────────────────────────────────────────────────────────────────────────────────";
+        --rule: "///////////////////////////////////////////////////////////////////////////////////////////////////////";
+        --rule-line: "─────────────────────────────────────────────────────────────────────────────────────────────────────────";
         --sidebar-width: 24rem;
         --orbit: #dabb09;
         --orbit-past: rgba(218, 187, 9, 0.55);
@@ -92,7 +93,7 @@ body {
 
 .ov-map-frame::before,
 .ov-map-frame::after {
-        content: "┌" var(--rule);
+        content: var(--rule);
         position: absolute;
         right: 0;
         left: 0;
@@ -103,7 +104,7 @@ body {
 }
 
 .ov-map-frame::before { top: 0; }
-.ov-map-frame::after { content: "└" var(--rule); bottom: 0; }
+.ov-map-frame::after { content: var(--rule); bottom: 0; }
 
 .ov-ascii-layer {
         position: absolute;
@@ -113,6 +114,7 @@ body {
         line-height: 1;
         white-space: pre;
         user-select: text;
+        font-weight: 500;
 }
 
 .ov-map-stage {
@@ -178,7 +180,7 @@ body {
 .ov-table { line-height: 1.45; }
 .ov-table-edge { display: flex; line-height: 1; }
 .ov-table-rule { flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; }
-.ov-table-rule::before { content: var(--rule); }
+.ov-table-rule::before { content: var(--rule-line); }
 .ov-table-row { display: grid; align-items: baseline; }
 .ov-table-row::before { content: "│"; }
 .ov-table-row::after { content: "│"; }
