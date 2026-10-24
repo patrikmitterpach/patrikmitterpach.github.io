@@ -13,7 +13,6 @@
         --surface-low: #f3f3f0;
         --ink: #3b372f;
         --line: #d9d9d3;
-        --highlight: #5f6d50;
         --rule: "────────────────────────────────────────────────────────────────────────────────────────────────";
 }
 
@@ -94,22 +93,12 @@ body {
 }
 
 .ov-label {
-        margin-bottom: 6px;
-        font-size: 10px;
-        letter-spacing: 0.06em;
+        padding-bottom: 1em;
 }
 
 .ov-lede {
         margin-top: 11px !important;
         white-space: nowrap;
-}
-
-.ov-meta {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: flex-end;
-        gap: 11px;
-        font-size: 10px;
 }
 
 .ov-back {
@@ -190,57 +179,31 @@ body {
         }
 }
 
-.ov-map-caption,
-.ov-legend {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        font-size: 10px;
-        letter-spacing: 0.04em;
+.ov-controls {
+        display: grid;
+        grid-template-columns: 2.1fr 1fr 1fr;
+        gap: 22px;
+        margin-top: 22px;
 }
 
-.ov-map-caption {
-        margin-top: 11px !important;
+.ov-controls .ov-field label,
+.ov-controls .ov-field output,
+.ov-controls .ov-gs label {
+        font-size: 12px;
 }
 
-.ov-legend {
-        margin-top: 8px !important;
+.ov-controls input {
+        font-size: 11px;
 }
 
-.ov-map-caption > span + span::before,
-.ov-legend > span + span::before {
-        content: " │ ";
+.ov-controls textarea {
+        min-height: 64px;
+        padding: 4px 6px;
+        font-size: 9px;
 }
 
-.ov-live-dot {
-        flex: none;
-        width: 5px;
-        height: 9px;
-        background: var(--ink);
-}
-
-.ov-legend > span {
-        display: inline-flex;
-        align-items: center;
-        gap: 7px;
-}
-
-.ov-legend-glyph {
-        letter-spacing: 0.12em;
-        white-space: nowrap;
-}
-
-.ov-legend-glyph.is-station {
-        color: var(--highlight);
-}
-
-.ov-legend-swatch {
-        display: inline-block;
-        flex: none;
-        width: 9px;
-        height: 9px;
-        background: linear-gradient(90deg, var(--ink) 50%, var(--paper) 50%);
-        border: 1px dashed var(--highlight);
+.ov-controls .ov-hint {
+        font-size: 9px;
 }
 
 .ov-sidebar {
@@ -253,6 +216,49 @@ body {
         padding: 0;
         background: none;
         border: 0;
+}
+
+.ov-status {
+        font-size: 13.5px;
+        line-height: 1.45;
+}
+
+.ov-status::before,
+.ov-status::after {
+        content: var(--rule);
+        display: block;
+        overflow: hidden;
+        line-height: 1;
+        white-space: nowrap;
+}
+
+.ov-status-row {
+        display: grid;
+        grid-template-columns: 1ch 14ch minmax(0, 1fr) 1ch;
+}
+
+.ov-status-row::before {
+        content: "│";
+}
+
+.ov-status-row::after {
+        content: "│";
+}
+
+.ov-status-row span:last-child {
+        overflow: hidden;
+        text-align: right;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+}
+
+.ov-status-row.is-updated {
+        animation: blink-row 2s steps(1) infinite;
+}
+
+@keyframes blink-row {
+        0%, 100% { background: var(--paper); color: var(--ink); }
+        50% { background: var(--ink); color: var(--paper); }
 }
 
 .ov-telemetry {
@@ -361,10 +367,6 @@ body {
         margin-top: 6px !important;
         font-size: 10px;
         line-height: 1.5;
-}
-
-.ov-tle-panel {
-        margin-top: 33px;
 }
 
 .ov textarea {
@@ -486,8 +488,8 @@ body {
                 gap: 11px;
         }
 
-        .ov-meta {
-                justify-content: flex-start;
+        .ov-controls {
+                grid-template-columns: minmax(0, 1fr);
         }
 
         .ov h1 {

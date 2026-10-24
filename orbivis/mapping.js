@@ -47,8 +47,13 @@ const dom = {
         canvas: document.getElementById("map"),
         mapFrame: document.getElementById("map-frame"),
         mapStatus: document.getElementById("map-status"),
-        satelliteName: document.getElementById("satellite-name"),
-        lastUpdated: document.getElementById("last-updated"),
+        statusTracking: document.getElementById("status-tracking"),
+        statusUpdated: document.getElementById("status-updated"),
+        statusNextLabel: document.getElementById("status-next-label"),
+        statusNext: document.getElementById("status-next"),
+        statusLength: document.getElementById("status-length"),
+        statusEnds: document.getElementById("status-ends"),
+        statusGs: document.getElementById("status-gs"),
         telemetry: document.getElementById("telemetry"),
         windowMinutes: document.getElementById("window-minutes"),
         windowValue: document.getElementById("window-value"),
@@ -56,7 +61,6 @@ const dom = {
         gsLongitude: document.getElementById("gs-longitude"),
         gsRange: document.getElementById("gs-range"),
         gsSummary: document.getElementById("gs-summary"),
-        passInfo: document.getElementById("pass-info"),
         tleInput: document.getElementById("tle-input"),
         tleButton: document.getElementById("tle-button"),
         tleReset: document.getElementById("tle-reset"),
@@ -76,7 +80,7 @@ let clockId = null;
 let renderQueued = false;
 let resizeObserver = null;
 let passCache = { key: "", count: null };
-let rangePassCache = { key: "", inRange: false, until: null };
+let rangePassCache = { key: "", inRange: false, until: null, end: null, length: null };
 
 function clamp(value, min, max) {
         return Math.min(max, Math.max(min, value));
@@ -516,7 +520,55 @@ function stationRangeInfo(current, timestamp) {
                 }
         }
 
-        rangePassCache = { key, inRange, until };
+        let start = null;
+        let end = null;
+
+        if (inRange) {
+                end = until;
+        } else if (until !== null) {
+                start = until;
+
+                for (let offset = 30_000; offset <= 7_200_000; offset += 30_000) {
+                        const state = safeStateAt(satellite, until + offset);
+                        if (!state) continue;
+
+                        const inside = distanceKm(
+                                state.lat,
+                                state.lng,
+                                groundStation.lat,
+                                groundStation.lng
+                        ) <= groundStation.range;
+
+                        if (!inside) {
+                                end = until + offset;
+                                break;
+                        }
+                }
+        }
+
+        if (inRange && end !== null) {
+                start = end;
+
+                for (let offset = 30_000; offset <= 7_200_000; offset += 30_000) {
+                        const state = safeStateAt(satellite, timestamp - offset);
+                        if (!state) continue;
+
+                        const inside = distanceKm(
+                                state.lat,
+                                state.lng,
+                                groundStation.lat,
+                                groundStation.lng
+                        ) <= groundStation.range;
+
+                        if (!inside) {
+                                start = timestamp - offset + 30_000;
+                                break;
+                        }
+                }
+        }
+
+        const length = start !== null && end !== null ? end - start : null;
+        rangePassCache = { key, inRange, until, end, length };
         return rangePassCache;
 }
 
@@ -524,50 +576,55 @@ function formatDuration(milliseconds) {
         return new Date(Math.max(0, milliseconds)).toISOString().slice(11, 19);
 }
 
-function updatePassInfo(current, timestamp) {
-        const info = stationRangeInfo(current, timestamp);
+function formatClock(timestamp) {
+        return `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
+}
 
-        if (info.inRange) {
-                dom.passInfo.textContent = info.until === null
-                        ? "IN RANGE -- LOS --"
-                        : `IN RANGE -- LOS ${formatDuration(info.until - timestamp)}`;
-        } else {
-                dom.passInfo.textContent = info.until === null
-                        ? "NEXT PASS --"
-                        : `NEXT PASS IN ${formatDuration(info.until - timestamp)}`;
-        }
+function asciiTable(rows) {
+        const inner = 36;
+        const lines = rows.map(([label, value, unit]) => (
+                `│ ${label.padEnd(16)} ${value.padStart(8)} ${unit.padEnd(8)} │`
+        ));
+
+        return [
+                `┌${"─".repeat(inner)}┐`,
+                ...lines,
+                `└${"─".repeat(inner)}┘`
+        ].join("\n");
+}
+
+function updateStatus(current, timestamp) {
+        const info = stationRangeInfo(current, timestamp);
+        const next = info.until === null ? "--" : formatDuration(info.until - timestamp);
+        const gs = `${Math.abs(groundStation.lat).toFixed(1)}°${groundStation.lat >= 0 ? "N" : "S"} ${Math.abs(groundStation.lng).toFixed(1)}°${groundStation.lng >= 0 ? "E" : "W"}`;
+
+        dom.statusTracking.textContent = satellite.name;
+        dom.statusUpdated.textContent = formatClock(timestamp);
+        dom.statusNextLabel.textContent = info.inRange ? "LOS IN" : "NEXT PASS IN";
+        dom.statusNext.textContent = next;
+        dom.statusLength.textContent = info.length === null ? "--" : formatDuration(info.length);
+        dom.statusEnds.textContent = info.end === null ? "--" : formatClock(info.end);
+        dom.statusGs.textContent = gs;
 }
 
 function updateTelemetry(current, timestamp) {
         const stats = orbitStats(satellite.satrec);
         const passes = stationPasses(satellite, groundStation, timestamp);
         const rows = [
-                ["latitude", formatLatitude(current.lat)],
-                ["longitude", formatLongitude(current.lng)],
-                ["altitude", `${current.height.toFixed(2)} km`],
-                ["velocity", `${current.velocity.toFixed(3)} km/s`],
-                ["period", stats.period === null ? "--" : `${stats.period.toFixed(2)} min`],
-                ["inclination", stats.inclination === null ? "--" : `${stats.inclination.toFixed(2)}°`],
-                ["apogee", stats.apogee === null ? "--" : `${stats.apogee.toFixed(2)} km`],
-                ["perigee", stats.perigee === null ? "--" : `${stats.perigee.toFixed(2)} km`],
-                ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2)],
-                ["station passes", passes === null ? "--" : `${passes} / 24h`]
+                ["latitude", Math.abs(current.lat).toFixed(3), `°${current.lat >= 0 ? "N" : "S"}`],
+                ["longitude", Math.abs(current.lng).toFixed(3), `°${current.lng >= 0 ? "E" : "W"}`],
+                ["altitude", current.height.toFixed(2), "KM"],
+                ["velocity", current.velocity.toFixed(3), "KM/S"],
+                ["period", stats.period === null ? "--" : stats.period.toFixed(2), "MIN"],
+                ["inclination", stats.inclination === null ? "--" : stats.inclination.toFixed(2), "°"],
+                ["apogee", stats.apogee === null ? "--" : stats.apogee.toFixed(2), "KM"],
+                ["perigee", stats.perigee === null ? "--" : stats.perigee.toFixed(2), "KM"],
+                ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2), ""],
+                ["station passes", passes === null ? "--" : String(passes), "/24H"]
         ];
-        const inner = 36;
-        const lines = rows.map(([label, value]) => {
-                const text = ` ${label}`;
-                return `│${text.padEnd(inner - value.length - 1)}${value} │`;
-        });
 
-        dom.telemetry.textContent = [
-                `┌${"─".repeat(inner)}┐`,
-                ...lines,
-                `└${"─".repeat(inner)}┘`
-        ].join("\n");
-
-        dom.satelliteName.textContent = satellite.name;
-        dom.lastUpdated.textContent = `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
-        updatePassInfo(current, timestamp);
+        dom.telemetry.textContent = asciiTable(rows);
+        updateStatus(current, timestamp);
         dom.canvas.setAttribute(
                 "aria-label",
                 `World map showing the ground track of ${satellite.name}. Current position ${formatLatitude(current.lat)}, ${formatLongitude(current.lng)}.`
@@ -894,7 +951,6 @@ function buildSatellite(rawTle) {
 function loadSatellite(rawTle, silent = false) {
         try {
                 satellite = buildSatellite(rawTle);
-                dom.satelliteName.textContent = satellite.name;
 
                 if (!silent) {
                         setMessage(`Tracking ${satellite.name}.`, "success");
