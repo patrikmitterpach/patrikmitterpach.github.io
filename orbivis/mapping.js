@@ -10,7 +10,7 @@ import {
         degreesLong
 } from "./tle.js/satellite-js/index.mjs";
 import { createGlobe } from "./globe.js";
-import { MAP_COLUMNS, MAP_LAND_ROWS, MAP_ROWS } from "./world.js";
+import { MAP_COLUMNS as W, MAP_LAND_ROWS, MAP_ROWS as H } from "./world.js";
 import { ASCII, asciiToHtml, hasActiveSelection } from "./ascii.js";
 
 const DEFAULT_TLE = `ISS (ZARYA)
@@ -39,26 +39,27 @@ const SGP4_ERRORS = {
         6: "the satellite has decayed"
 };
 
+const $ = (id) => document.getElementById(id);
 const dom = {
-        mapStage: document.getElementById("map-stage"),
-        mapGrid: document.getElementById("map-grid"),
-        statusTracking: document.getElementById("status-tracking"),
-        statusContactValue: document.getElementById("status-contact-value"),
-        statusLength: document.getElementById("status-length"),
-        statusAosValue: document.getElementById("status-aos-value"),
-        statusLosValue: document.getElementById("status-los-value"),
-        statusGs: document.getElementById("status-gs"),
-        telemetry: document.getElementById("telemetry"),
-        windowMinutes: document.getElementById("window-minutes"),
-        windowValue: document.getElementById("window-value"),
-        gsLatitude: document.getElementById("gs-latitude"),
-        gsLongitude: document.getElementById("gs-longitude"),
-        gsRange: document.getElementById("gs-range"),
-        gsSummary: document.getElementById("gs-summary"),
-        tleInput: document.getElementById("tle-input"),
-        tleButton: document.getElementById("tle-button"),
-        tleReset: document.getElementById("tle-reset"),
-        tleMessage: document.getElementById("tle-message")
+        mapStage: $("map-stage"),
+        mapGrid: $("map-grid"),
+        statusTracking: $("status-tracking"),
+        statusContactValue: $("status-contact-value"),
+        statusLength: $("status-length"),
+        statusAosValue: $("status-aos-value"),
+        statusLosValue: $("status-los-value"),
+        statusGs: $("status-gs"),
+        telemetry: $("telemetry"),
+        windowMinutes: $("window-minutes"),
+        windowValue: $("window-value"),
+        gsLatitude: $("gs-latitude"),
+        gsLongitude: $("gs-longitude"),
+        gsRange: $("gs-range"),
+        gsSummary: $("gs-summary"),
+        tleInput: $("tle-input"),
+        tleButton: $("tle-button"),
+        tleReset: $("tle-reset"),
+        tleMessage: $("tle-message")
 };
 
 let satellite = null;
@@ -72,67 +73,47 @@ let renderQueued = false;
 let passCache = { key: "", count: null };
 let rangePassCache = { key: "", inRange: false, until: null, start: null, end: null, length: null };
 
-function clamp(value, min, max) {
-        return Math.min(max, Math.max(min, value));
-}
-
-function roundTo(value, decimals) {
-        return Number(value.toFixed(decimals));
-}
-
-function normalizeLongitude(value) {
-        return ((((value + 180) % 360) + 360) % 360) - 180;
-}
-
-function mapPoint(latitude, longitude) {
-        return {
-                x: ((normalizeLongitude(longitude) + 180) / 360) * MAP_COLUMNS,
-                y: ((90 - clamp(latitude, -90, 90)) / 180) * MAP_ROWS
-        };
-}
+const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
+const roundTo = (value, decimals) => Number(value.toFixed(decimals));
+const normalizeLongitude = (value) => ((((value + 180) % 360) + 360) % 360) - 180;
+const formatCoord = (value, positive, negative, decimals = 1) =>
+        `${Math.abs(value).toFixed(decimals)}°${value >= 0 ? positive : negative}`;
 
 function mapCell(latitude, longitude) {
-        const point = mapPoint(latitude, longitude);
+        const x = ((normalizeLongitude(longitude) + 180) / 360) * W;
+        const y = ((90 - clamp(latitude, -90, 90)) / 180) * H;
 
         return {
-                column: clamp(Math.round(point.x - 0.5), 0, MAP_COLUMNS - 1),
-                row: clamp(Math.round(point.y - 0.5), 0, MAP_ROWS - 1)
+                column: clamp(Math.round(x - 0.5), 0, W - 1),
+                row: clamp(Math.round(y - 0.5), 0, H - 1)
         };
 }
 
 function mapCellDistance(a, b) {
         const deltaColumn = Math.abs(a.column - b.column);
 
-        return Math.hypot(
-                Math.min(deltaColumn, MAP_COLUMNS - deltaColumn),
-                a.row - b.row
-        );
+        return Math.hypot(Math.min(deltaColumn, W - deltaColumn), a.row - b.row);
 }
 
 function trimFutureTrack(points, origin) {
-        let start = 0;
+        const start = points.findIndex(
+                (point) => mapCellDistance(mapCell(point.lat, point.lng), origin) >= FUTURE_TRACK_GAP_CELLS
+        );
 
-        while (
-                start < points.length - 1
-                && mapCellDistance(mapCell(points[start].lat, points[start].lng), origin) < FUTURE_TRACK_GAP_CELLS
-        ) {
-                start += 1;
-        }
-
-        return points.slice(start);
+        return points.slice(start < 0 ? points.length - 1 : start);
 }
 
 function createMapGrid() {
         return {
-                chars: mapBaseChars ? mapBaseChars.slice() : new Array(MAP_COLUMNS * MAP_ROWS).fill(" "),
-                styles: mapBaseStyles ? mapBaseStyles.slice() : new Array(MAP_COLUMNS * MAP_ROWS).fill(null)
+                chars: mapBaseChars ? mapBaseChars.slice() : new Array(W * H).fill(" "),
+                styles: mapBaseStyles ? mapBaseStyles.slice() : new Array(W * H).fill(null)
         };
 }
 
 function plotMapCell(grid, column, row, character, style = null) {
-        if (column < 0 || column >= MAP_COLUMNS || row < 0 || row >= MAP_ROWS) return;
+        if (column < 0 || column >= W || row < 0 || row >= H) return;
 
-        const index = row * MAP_COLUMNS + column;
+        const index = row * W + column;
         grid.chars[index] = character;
         grid.styles[index] = style;
 }
@@ -140,18 +121,11 @@ function plotMapCell(grid, column, row, character, style = null) {
 function plotMapSatellite(grid, column, row) {
         for (let rowOffset = -1; rowOffset <= 1; rowOffset += 1) {
                 const targetRow = row + rowOffset;
-                if (targetRow < 0 || targetRow >= MAP_ROWS) continue;
+                if (targetRow < 0 || targetRow >= H) continue;
 
                 for (let columnOffset = -1; columnOffset <= 1; columnOffset += 1) {
-                        for (const wrapOffset of [-MAP_COLUMNS, 0, MAP_COLUMNS]) {
-                                const targetColumn = column + columnOffset + wrapOffset;
-                                if (targetColumn < 0 || targetColumn >= MAP_COLUMNS) continue;
-
-                                const character = rowOffset === 0 && columnOffset === 0
-                                        ? ASCII.satellite
-                                        : " ";
-                                plotMapCell(grid, targetColumn, targetRow, character, "map-sat");
-                        }
+                        const character = rowOffset === 0 && columnOffset === 0 ? ASCII.satellite : " ";
+                        plotMapCell(grid, (column + columnOffset + W) % W, targetRow, character, "map-sat");
                 }
         }
 }
@@ -185,7 +159,7 @@ function drawMapLineAtOffset(grid, x0, y0, x1, y1, character, style) {
 }
 
 function drawMapLine(grid, x0, y0, x1, y1, character, style) {
-        for (const offset of [-MAP_COLUMNS, 0, MAP_COLUMNS]) {
+        for (const offset of [-W, 0, W]) {
                 drawMapLineAtOffset(grid, x0 + offset, y0, x1 + offset, y1, character, style);
         }
 }
@@ -197,15 +171,7 @@ function drawMapPath(grid, points, character, style) {
                 const cell = mapCell(point.lat, point.lng);
 
                 if (previous && Math.abs(point.lng - previous.lng) <= 180) {
-                        drawMapLine(
-                                grid,
-                                previous.cell.column,
-                                previous.cell.row,
-                                cell.column,
-                                cell.row,
-                                character,
-                                style
-                        );
+                        drawMapLine(grid, previous.cell.column, previous.cell.row, cell.column, cell.row, character, style);
                 } else {
                         plotMapCell(grid, cell.column, cell.row, character, style);
                 }
@@ -234,27 +200,21 @@ function destinationPoint(latitude, longitude, bearing, distanceKm) {
         };
 }
 
-function circlePoints(latitude, longitude, radiusKm) {
-        const points = [];
-
-        for (let index = 0; index <= CIRCLE_STEPS; index += 1) {
-                const bearing = (index / CIRCLE_STEPS) * 360;
-                points.push(destinationPoint(latitude, longitude, bearing, radiusKm));
-        }
-
-        return points;
-}
+const circlePoints = (latitude, longitude, radiusKm) => Array.from(
+        { length: CIRCLE_STEPS + 1 },
+        (_, index) => destinationPoint(latitude, longitude, (index / CIRCLE_STEPS) * 360, radiusKm)
+);
 
 function buildBaseMap() {
-        const chars = new Array(MAP_COLUMNS * MAP_ROWS).fill(" ");
-        const styles = new Array(MAP_COLUMNS * MAP_ROWS).fill(null);
+        const chars = new Array(W * H).fill(" ");
+        const styles = new Array(W * H).fill(null);
 
-        for (let row = 0; row < MAP_ROWS; row += 1) {
-                const line = (MAP_LAND_ROWS[row] || "").padEnd(MAP_COLUMNS, " ");
+        for (let row = 0; row < H; row += 1) {
+                const line = (MAP_LAND_ROWS[row] || "").padEnd(W, " ");
 
-                for (let column = 0; column < MAP_COLUMNS; column += 1) {
+                for (let column = 0; column < W; column += 1) {
                         const source = line[column];
-                        const index = row * MAP_COLUMNS + column;
+                        const index = row * W + column;
 
                         if (source === "#") {
                                 chars[index] = ASCII.land;
@@ -266,14 +226,10 @@ function buildBaseMap() {
         }
 
         for (let longitude = -150; longitude <= 150; longitude += 30) {
-                const column = clamp(
-                        Math.round(((longitude + 180) / 360) * MAP_COLUMNS - 0.5),
-                        0,
-                        MAP_COLUMNS - 1
-                );
+                const column = clamp(Math.round(((longitude + 180) / 360) * W - 0.5), 0, W - 1);
 
-                for (let row = 0; row < MAP_ROWS; row += 1) {
-                        const index = row * MAP_COLUMNS + column;
+                for (let row = 0; row < H; row += 1) {
+                        const index = row * W + column;
                         if (chars[index] === " ") {
                                 chars[index] = ASCII.graticule;
                                 styles[index] = "map-graticule";
@@ -282,14 +238,10 @@ function buildBaseMap() {
         }
 
         for (let latitude = -60; latitude <= 60; latitude += 30) {
-                const row = clamp(
-                        Math.round(((90 - latitude) / 180) * MAP_ROWS - 0.5),
-                        0,
-                        MAP_ROWS - 1
-                );
+                const row = clamp(Math.round(((90 - latitude) / 180) * H - 0.5), 0, H - 1);
 
-                for (let column = 0; column < MAP_COLUMNS; column += 1) {
-                        const index = row * MAP_COLUMNS + column;
+                for (let column = 0; column < W; column += 1) {
+                        const index = row * W + column;
                         if (chars[index] === " ") {
                                 chars[index] = ASCII.graticule;
                                 styles[index] = "map-graticule";
@@ -299,23 +251,23 @@ function buildBaseMap() {
 
         mapBaseChars = chars;
         mapBaseStyles = styles;
-        dom.mapGrid.innerHTML = asciiToHtml(chars, MAP_COLUMNS, MAP_ROWS, styles);
+        dom.mapGrid.innerHTML = asciiToHtml(chars, W, H, styles);
 }
 
 function fillStationRange(grid) {
         if (groundStation.range <= 0) return;
 
-        for (let row = 0; row < MAP_ROWS; row += 1) {
-                const latitude = 90 - ((row + 0.5) / MAP_ROWS) * 180;
+        for (let row = 0; row < H; row += 1) {
+                const latitude = 90 - ((row + 0.5) / H) * 180;
 
-                for (let column = 0; column < MAP_COLUMNS; column += 1) {
-                        const longitude = ((column + 0.5) / MAP_COLUMNS) * 360 - 180;
+                for (let column = 0; column < W; column += 1) {
+                        const longitude = ((column + 0.5) / W) * 360 - 180;
 
                         if (distanceKm(latitude, longitude, groundStation.lat, groundStation.lng) > groundStation.range) {
                                 continue;
                         }
 
-                        const index = row * MAP_COLUMNS + column;
+                        const index = row * W + column;
                         grid.styles[index] = grid.styles[index]
                                 ? `${grid.styles[index]} map-gs-area`
                                 : "map-gs-area";
@@ -326,29 +278,26 @@ function fillStationRange(grid) {
 function renderMap(past, future, current) {
         const grid = createMapGrid();
         const satelliteCell = mapCell(current.lat, current.lng);
-        const visibleFuture = trimFutureTrack(future, satelliteCell);
 
         fillStationRange(grid);
         drawMapPath(grid, past, ASCII.orbitPast, "map-orbit-past");
-        drawMapPath(grid, visibleFuture, ASCII.orbitFuture, "map-orbit-future");
+        drawMapPath(grid, trimFutureTrack(future, satelliteCell), ASCII.orbitFuture, "map-orbit-future");
 
         if (groundStation.range > 0) {
-                const points = circlePoints(
-                        groundStation.lat,
-                        groundStation.lng,
-                        groundStation.range
+                drawMapPath(
+                        grid,
+                        circlePoints(groundStation.lat, groundStation.lng, groundStation.range),
+                        ASCII.range,
+                        "map-range"
                 );
-
-                drawMapPath(grid, points, ASCII.range, "map-range");
         }
 
         const groundCell = mapCell(groundStation.lat, groundStation.lng);
         plotMapCell(grid, groundCell.column, groundCell.row, ASCII.groundStation, "map-gs");
-
         plotMapSatellite(grid, satelliteCell.column, satelliteCell.row);
 
         if (!hasActiveSelection(dom.mapGrid)) {
-                dom.mapGrid.innerHTML = asciiToHtml(grid.chars, MAP_COLUMNS, MAP_ROWS, grid.styles);
+                dom.mapGrid.innerHTML = asciiToHtml(grid.chars, W, H, grid.styles);
         }
 }
 
@@ -356,38 +305,25 @@ function describeSatrecError(code) {
         return SGP4_ERRORS[code] || "the TLE could not be propagated";
 }
 
-function isFiniteVector(vector) {
-        return Boolean(vector)
-                && Number.isFinite(vector.x)
-                && Number.isFinite(vector.y)
-                && Number.isFinite(vector.z);
-}
+const isFiniteVector = (vector) =>
+        Boolean(vector) && Number.isFinite(vector.x) && Number.isFinite(vector.y) && Number.isFinite(vector.z);
 
-function stateAt(satelliteRecord, date) {
-        const positionAndVelocity = propagate(satelliteRecord.satrec, date);
+const propagationError = (satrec) =>
+        satrec.error ? describeSatrecError(satrec.error) : "the TLE contains invalid numeric fields";
 
-        if (
-                !positionAndVelocity
-                || !isFiniteVector(positionAndVelocity.position)
-                || !isFiniteVector(positionAndVelocity.velocity)
-        ) {
-                const message = satelliteRecord.satrec.error
-                        ? describeSatrecError(satelliteRecord.satrec.error)
-                        : "the TLE contains invalid numeric fields";
-                throw new Error(message);
+function stateAt(record, date) {
+        const positionAndVelocity = propagate(record.satrec, date);
+
+        if (!positionAndVelocity || !isFiniteVector(positionAndVelocity.position) || !isFiniteVector(positionAndVelocity.velocity)) {
+                throw new Error(propagationError(record.satrec));
         }
 
-        const gmst = gstime(date);
-        const geodetic = eciToGeodetic(positionAndVelocity.position, gmst);
+        const geodetic = eciToGeodetic(positionAndVelocity.position, gstime(date));
         const { x, y, z } = positionAndVelocity.velocity;
         const velocity = Math.sqrt((x * x) + (y * y) + (z * z));
 
-        if (
-                !Number.isFinite(geodetic.latitude)
-                || !Number.isFinite(geodetic.longitude)
-                || !Number.isFinite(geodetic.height)
-                || !Number.isFinite(velocity)
-        ) {
+        if (!Number.isFinite(geodetic.latitude) || !Number.isFinite(geodetic.longitude)
+                || !Number.isFinite(geodetic.height) || !Number.isFinite(velocity)) {
                 throw new Error("the TLE contains invalid numeric fields");
         }
 
@@ -399,51 +335,26 @@ function stateAt(satelliteRecord, date) {
         };
 }
 
-function safeStateAt(satelliteRecord, timestamp) {
+function safeStateAt(record, timestamp) {
         try {
-                return stateAt(satelliteRecord, new Date(timestamp));
+                return stateAt(record, new Date(timestamp));
         } catch {
                 return null;
         }
-}
-
-function orbitStats(record) {
-        const period = Number.isFinite(record.no) && record.no > 0 ? TAU / record.no : null;
-        const inclination = Number.isFinite(record.inclo) ? record.inclo * RAD_TO_DEG : null;
-        const eccentricity = Number.isFinite(record.ecco) ? record.ecco : 0;
-        const semiMajor = Number.isFinite(record.a) ? record.a : null;
-        const apogee = semiMajor === null
-                ? null
-                : (semiMajor * (1 + eccentricity) - 1) * EARTH_RADIUS_KM;
-        const perigee = semiMajor === null
-                ? null
-                : (semiMajor * (1 - eccentricity) - 1) * EARTH_RADIUS_KM;
-        const orbitsPerDay = period === null ? null : 1440 / period;
-
-        return {
-                period: Number.isFinite(period) ? period : null,
-                inclination: Number.isFinite(inclination) ? inclination : null,
-                apogee: Number.isFinite(apogee) ? apogee : null,
-                perigee: Number.isFinite(perigee) ? perigee : null,
-                orbitsPerDay: Number.isFinite(orbitsPerDay) ? orbitsPerDay : null
-        };
 }
 
 function elevationAt(record, station, timestamp) {
         const date = new Date(timestamp);
         const positionAndVelocity = propagate(record.satrec, date);
 
-        if (!positionAndVelocity || !isFiniteVector(positionAndVelocity.position)) {
-                return null;
-        }
+        if (!positionAndVelocity || !isFiniteVector(positionAndVelocity.position)) return null;
 
         const satelliteEcf = eciToEcf(positionAndVelocity.position, gstime(date));
-        const observer = {
+        const look = ecfToLookAngles({
                 longitude: station.lng * DEG_TO_RAD,
                 latitude: station.lat * DEG_TO_RAD,
                 height: 0
-        };
-        const look = ecfToLookAngles(observer, satelliteEcf);
+        }, satelliteEcf);
 
         return Number.isFinite(look.elevation) ? look.elevation : null;
 }
@@ -457,7 +368,6 @@ function countStationPasses(record, station, startTimestamp) {
                 if (elevation === null) continue;
 
                 const visible = elevation > 0;
-
                 if (visible && !aboveHorizon) count += 1;
                 aboveHorizon = visible;
         }
@@ -487,23 +397,15 @@ function stationPasses(record, station, timestamp) {
         return count;
 }
 
-function sampleTrack(startTimestamp, endTimestamp, stepMs) {
+function sampleTrack(record, startTimestamp, endTimestamp, stepMs) {
         const points = [];
 
         for (let timestamp = startTimestamp; timestamp <= endTimestamp; timestamp += stepMs) {
-                const state = safeStateAt(satellite, timestamp);
+                const state = safeStateAt(record, timestamp);
                 if (state) points.push({ lat: state.lat, lng: state.lng });
         }
 
         return points;
-}
-
-function formatLatitude(latitude) {
-        return `${Math.abs(latitude).toFixed(3)}°${latitude >= 0 ? "N" : "S"}`;
-}
-
-function formatLongitude(longitude) {
-        return `${Math.abs(longitude).toFixed(3)}°${longitude >= 0 ? "E" : "W"}`;
 }
 
 function distanceKm(latitude, longitude, targetLatitude, targetLongitude) {
@@ -518,12 +420,7 @@ function distanceKm(latitude, longitude, targetLatitude, targetLongitude) {
 }
 
 function stationRangeInfo(current, timestamp) {
-        const inRange = distanceKm(
-                current.lat,
-                current.lng,
-                groundStation.lat,
-                groundStation.lng
-        ) <= groundStation.range;
+        const inRange = distanceKm(current.lat, current.lng, groundStation.lat, groundStation.lng) <= groundStation.range;
         const bucket = inRange ? 30_000 : 300_000;
         const key = [
                 satellite.tle.join("|"),
@@ -537,100 +434,62 @@ function stationRangeInfo(current, timestamp) {
                 return rangePassCache;
         }
 
-        const step = inRange ? 10_000 : 60_000;
-        const limit = inRange ? 3_600_000 : 86_400_000;
-        let until = null;
-
-        for (let offset = step; offset <= limit; offset += step) {
-                const state = safeStateAt(satellite, timestamp + offset);
-                if (!state) continue;
-
-                const inside = distanceKm(
-                        state.lat,
-                        state.lng,
-                        groundStation.lat,
-                        groundStation.lng
-                ) <= groundStation.range;
-
-                if (inside !== inRange) {
-                        until = timestamp + offset;
-                        break;
+        const insideAt = (time) => {
+                const state = safeStateAt(satellite, time);
+                return state
+                        ? distanceKm(state.lat, state.lng, groundStation.lat, groundStation.lng) <= groundStation.range
+                        : null;
+        };
+        const find = (time, direction, step, limit, matches) => {
+                for (let offset = step; offset <= limit; offset += step) {
+                        const inside = insideAt(time + direction * offset);
+                        if (inside !== null && matches(inside)) return time + direction * offset;
                 }
-        }
+                return null;
+        };
 
+        const until = find(
+                timestamp,
+                1,
+                inRange ? 10_000 : 60_000,
+                inRange ? 3_600_000 : 86_400_000,
+                (inside) => inside !== inRange
+        );
         let start = null;
         let end = null;
 
         if (inRange) {
                 end = until;
+
+                if (end !== null) {
+                        const before = find(timestamp, -1, 30_000, 7_200_000, (inside) => inside === false);
+                        start = before === null ? end : before + 30_000;
+                }
         } else if (until !== null) {
                 start = until;
-
-                for (let offset = 30_000; offset <= 7_200_000; offset += 30_000) {
-                        const state = safeStateAt(satellite, until + offset);
-                        if (!state) continue;
-
-                        const inside = distanceKm(
-                                state.lat,
-                                state.lng,
-                                groundStation.lat,
-                                groundStation.lng
-                        ) <= groundStation.range;
-
-                        if (!inside) {
-                                end = until + offset;
-                                break;
-                        }
-                }
+                end = find(until, 1, 30_000, 7_200_000, (inside) => inside === false);
         }
 
-        if (inRange && end !== null) {
-                start = end;
-
-                for (let offset = 30_000; offset <= 7_200_000; offset += 30_000) {
-                        const state = safeStateAt(satellite, timestamp - offset);
-                        if (!state) continue;
-
-                        const inside = distanceKm(
-                                state.lat,
-                                state.lng,
-                                groundStation.lat,
-                                groundStation.lng
-                        ) <= groundStation.range;
-
-                        if (!inside) {
-                                start = timestamp - offset + 30_000;
-                                break;
-                        }
-                }
-        }
-
-        const length = start !== null && end !== null ? end - start : null;
-        rangePassCache = { key, inRange, until, start, end, length };
+        rangePassCache = {
+                key,
+                inRange,
+                until,
+                start,
+                end,
+                length: start !== null && end !== null ? end - start : null
+        };
         return rangePassCache;
 }
 
-function formatDuration(milliseconds) {
-        return new Date(Math.max(0, milliseconds)).toISOString().slice(11, 19);
-}
-
-function formatClock(timestamp) {
-        return `${new Date(timestamp).toISOString().slice(11, 19)} UTC`;
-}
+const clockTime = (timestamp) => new Date(timestamp).toISOString().slice(11, 19);
+const formatDuration = (milliseconds) => clockTime(Math.max(0, milliseconds));
+const formatClock = (timestamp) => `${clockTime(timestamp)} UTC`;
 
 function renderTelemetry(rows) {
-        dom.telemetry.replaceChildren(...rows.map(([label, value, unit]) => {
-                const row = document.createElement("div");
-                row.className = "ov-table-row telemetry-row";
-
-                for (const text of [label, value, unit]) {
-                        const span = document.createElement("span");
-                        span.textContent = text;
-                        row.append(span);
-                }
-
-                return row;
-        }));
+        dom.telemetry.innerHTML = rows
+                .map(([label, value, unit]) =>
+                        `<div class="ov-table-row telemetry-row"><span>${label}</span><span>${value}</span><span>${unit}</span></div>`)
+                .join("");
 }
 
 function updateStatus(current, timestamp) {
@@ -640,38 +499,37 @@ function updateStatus(current, timestamp) {
                 : info.start === null
                         ? "--"
                         : formatDuration(info.start - timestamp);
-        const gs = `${Math.abs(groundStation.lat).toFixed(1)}°${groundStation.lat >= 0 ? "N" : "S"} ${Math.abs(groundStation.lng).toFixed(1)}°${groundStation.lng >= 0 ? "E" : "W"}`;
 
         dom.statusTracking.textContent = satellite.name;
         dom.statusContactValue.textContent = contact;
         dom.statusLength.textContent = info.length === null ? "--" : formatDuration(info.length);
         dom.statusAosValue.textContent = info.start === null ? "--" : formatClock(info.start);
         dom.statusLosValue.textContent = info.end === null ? "--" : formatClock(info.end);
-        dom.statusGs.textContent = gs;
+        dom.statusGs.textContent = `${formatCoord(groundStation.lat, "N", "S")} ${formatCoord(groundStation.lng, "E", "W")}`;
 }
 
 function updateTelemetry(current, timestamp) {
-        const stats = orbitStats(satellite.satrec);
+        const { stats } = satellite;
         const passes = stationPasses(satellite, groundStation, timestamp);
+        const value = (number, decimals = 2) => (number === null ? "--" : number.toFixed(decimals));
 
-        const rows = [
+        renderTelemetry([
                 ["latitude", Math.abs(current.lat).toFixed(3), `°${current.lat >= 0 ? "N" : "S"}`],
                 ["longitude", Math.abs(current.lng).toFixed(3), `°${current.lng >= 0 ? "E" : "W"}`],
                 ["altitude", current.height.toFixed(2), "KM"],
-                ["apogee", stats.apogee === null ? "--" : stats.apogee.toFixed(2), "KM"],
-                ["perigee", stats.perigee === null ? "--" : stats.perigee.toFixed(2), "KM"],
+                ["apogee", value(stats.apogee), "KM"],
+                ["perigee", value(stats.perigee), "KM"],
                 ["velocity", current.velocity.toFixed(3), "KM/S"],
-                ["period", stats.period === null ? "--" : stats.period.toFixed(2), "MIN"],
-                ["inclination", stats.inclination === null ? "--" : stats.inclination.toFixed(2), "°"],
-                ["orbits / day", stats.orbitsPerDay === null ? "--" : stats.orbitsPerDay.toFixed(2), ""],
+                ["period", value(stats.period), "MIN"],
+                ["inclination", value(stats.inclination), "°"],
+                ["orbits / day", value(stats.orbitsPerDay), ""],
                 ["station passes", passes === null ? "--" : String(passes), "/24H"]
-        ];
+        ]);
 
-        renderTelemetry(rows);
         updateStatus(current, timestamp);
         dom.mapStage.setAttribute(
                 "aria-label",
-                `World map showing the ground track of ${satellite.name}. Current position ${formatLatitude(current.lat)}, ${formatLongitude(current.lng)}.`
+                `World map showing the ground track of ${satellite.name}. Current position ${formatCoord(current.lat, "N", "S", 3)}, ${formatCoord(current.lng, "E", "W", 3)}.`
         );
 }
 
@@ -694,16 +552,15 @@ function render() {
                 MIN_STEP_MS,
                 MAX_STEP_MS
         );
-
         const orbitTimestamp = Math.floor(timestamp / ORBIT_REFRESH_MS) * ORBIT_REFRESH_MS;
         const orbitCurrent = orbitTimestamp === timestamp
                 ? current
                 : safeStateAt(satellite, orbitTimestamp) || current;
 
-        const past = sampleTrack(orbitTimestamp - halfWindowMs, orbitTimestamp, stepMs);
+        const past = sampleTrack(satellite, orbitTimestamp - halfWindowMs, orbitTimestamp, stepMs);
         past.push({ lat: orbitCurrent.lat, lng: orbitCurrent.lng });
 
-        const future = sampleTrack(orbitTimestamp, orbitTimestamp + halfWindowMs, stepMs);
+        const future = sampleTrack(satellite, orbitTimestamp, orbitTimestamp + halfWindowMs, stepMs);
         future[0] = { lat: orbitCurrent.lat, lng: orbitCurrent.lng };
 
         renderMap(past, future, current);
@@ -757,31 +614,33 @@ function buildSatellite(rawTle) {
 
         const probe = propagate(satrec, new Date());
 
-        if (
-                !probe
-                || !isFiniteVector(probe.position)
-                || !isFiniteVector(probe.velocity)
-        ) {
-                const reason = satrec.error
-                        ? describeSatrecError(satrec.error)
-                        : "the TLE contains invalid numeric fields";
-                throw new Error(`Invalid TLE: ${reason}.`);
+        if (!probe || !isFiniteVector(probe.position) || !isFiniteVector(probe.velocity)) {
+                throw new Error(`Invalid TLE: ${propagationError(satrec)}.`);
         }
 
         const radius = Math.hypot(probe.position.x, probe.position.y, probe.position.z) || 1;
-        const period = Number.isFinite(satrec.no) && satrec.no > 0 ? (TAU / satrec.no) * 60 : null;
+        const periodMinutes = Number.isFinite(satrec.no) && satrec.no > 0 ? TAU / satrec.no : null;
+        const eccentricity = satrec.ecco || 0;
+        const semiMajor = satrec.a;
 
         return {
                 name: (parsed.name || `NORAD ${satrec.satnum}`).trim() || "Unnamed satellite",
                 satrec,
                 tle: [line1, line2],
+                stats: {
+                        period: periodMinutes,
+                        inclination: satrec.inclo * RAD_TO_DEG,
+                        apogee: (semiMajor * (1 + eccentricity) - 1) * EARTH_RADIUS_KM,
+                        perigee: (semiMajor * (1 - eccentricity) - 1) * EARTH_RADIUS_KM,
+                        orbitsPerDay: periodMinutes === null ? null : 1440 / periodMinutes
+                },
                 orbit: {
                         inclination: satrec.inclo,
                         raan: satrec.nodeo,
                         argPerigee: satrec.argpo,
                         eccentricity: satrec.ecco,
-                        semiMajor: satrec.a,
-                        period,
+                        semiMajor,
+                        period: periodMinutes === null ? null : periodMinutes * 60,
                         satellite: {
                                 x: probe.position.x / radius,
                                 y: probe.position.y / radius,
@@ -795,19 +654,11 @@ function loadSatellite(rawTle, silent = false) {
         try {
                 satellite = buildSatellite(rawTle);
 
-                if (!silent) {
-                        setMessage(`Tracking ${satellite.name}.`, "success");
-                }
-
-                if (globe) {
-                        globe.setOrbit(satellite.orbit);
-                }
-
+                if (!silent) setMessage(`Tracking ${satellite.name}.`, "success");
+                globe.setOrbit(satellite.orbit);
                 requestRender();
-                return true;
         } catch (error) {
                 setMessage(error.message, "error");
-                return false;
         }
 }
 
@@ -844,9 +695,12 @@ function refreshGroundStation() {
                 range: roundTo(clamp(range, 0, 20_000), 2)
         };
 
-        const latitudeText = `${Math.abs(groundStation.lat).toFixed(1)}°${groundStation.lat >= 0 ? "N" : "S"}`;
-        const longitudeText = `${Math.abs(groundStation.lng).toFixed(1)}°${groundStation.lng >= 0 ? "E" : "W"}`;
-        dom.gsSummary.textContent = `${latitudeText} ${longitudeText} -- ${Math.round(groundStation.range).toLocaleString("en-US")} km`;
+        dom.gsSummary.textContent = [
+                formatCoord(groundStation.lat, "N", "S"),
+                formatCoord(groundStation.lng, "E", "W"),
+                "--",
+                `${Math.round(groundStation.range).toLocaleString("en-US")} km`
+        ].join(" ");
 
         return true;
 }
@@ -879,42 +733,35 @@ function stopClock() {
 }
 
 function initialize() {
-        dom.tleInput.value = DEFAULT_TLE;
-        windowMinutes = clamp(Number(dom.windowMinutes.value) || 120, 10, 240);
-        updateWindowOutput();
-        refreshGroundStation();
-        buildBaseMap();
-
-        globe = createGlobe({
-                grid: document.getElementById("globe-grid")
-        });
-        globe.start();
-
-        loadSatellite(DEFAULT_TLE, true);
-
-        dom.windowMinutes.addEventListener("input", () => {
+        const updateWindow = () => {
                 windowMinutes = clamp(Number(dom.windowMinutes.value) || 120, 10, 240);
                 updateWindowOutput();
                 requestRender();
-        });
+        };
+
+        dom.tleInput.value = DEFAULT_TLE;
+        updateWindow();
+        refreshGroundStation();
+        buildBaseMap();
+
+        globe = createGlobe({ grid: $("globe-grid") });
+        globe.start();
+
+        loadSatellite(DEFAULT_TLE, true);
+        dom.windowMinutes.addEventListener("input", updateWindow);
 
         for (const input of [dom.gsLatitude, dom.gsLongitude, dom.gsRange]) {
                 input.addEventListener("input", () => {
                         if (refreshGroundStation()) requestRender();
                 });
-
                 input.addEventListener("change", snapGroundStationInputs);
         }
 
-        dom.tleButton.addEventListener("click", () => {
-                loadSatellite(dom.tleInput.value);
-        });
-
+        dom.tleButton.addEventListener("click", () => loadSatellite(dom.tleInput.value));
         dom.tleReset.addEventListener("click", () => {
                 dom.tleInput.value = DEFAULT_TLE;
                 loadSatellite(DEFAULT_TLE);
         });
-
         dom.tleInput.addEventListener("keydown", (event) => {
                 if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) {
                         event.preventDefault();

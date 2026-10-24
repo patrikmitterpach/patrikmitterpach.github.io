@@ -9,7 +9,6 @@
 
 :root {
         --paper: #fdfdfc;
-        --surface: #ffffff;
         --surface-low: #f3f3f0;
         --ink: #3b372f;
         --line: #d9d9d3;
@@ -32,13 +31,9 @@
         --satellite-bg: #3f78b0;
 }
 
-* {
-        box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
-html {
-        background: var(--paper);
-}
+html { background: var(--paper); }
 
 body {
         margin: 0;
@@ -53,45 +48,14 @@ body {
         -moz-osx-font-smoothing: grayscale;
 }
 
-::selection {
-        color: var(--bg);
-        background: var(--fg);
-}
+::selection { color: var(--bg); background: var(--fg); }
 
-.ov {
-        width: 100%;
-        max-width: 1200px;
-        margin: 0 auto;
-}
-
-.ov p,
-.ov pre {
-        margin: 0;
-        text-align: left;
-}
-
-.ov a {
-        color: var(--ink);
-        text-decoration: underline;
-        text-decoration-color: var(--line);
-        text-underline-offset: 3px;
-}
-
-.ov a:hover,
-.ov a:focus-visible {
-        color: var(--paper);
-        background: var(--ink);
-        text-decoration-color: transparent;
-}
-
-.ov :focus-visible {
-        outline: 1px solid var(--ink);
-        outline-offset: 3px;
-}
-
-.ov-label {
-        padding-bottom: 1em;
-}
+.ov { width: 100%; max-width: 1200px; margin: 0 auto; }
+.ov p, .ov pre { margin: 0; text-align: left; }
+.ov a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.ov a:hover, .ov a:focus-visible { color: var(--paper); background: var(--ink); text-decoration-color: transparent; }
+.ov :focus-visible { outline: 1px solid var(--ink); outline-offset: 3px; }
+.ov-label { padding-bottom: 1em; }
 
 .ov-header {
         display: flex;
@@ -104,32 +68,18 @@ body {
         border-bottom: 1px dashed var(--line);
 }
 
-.ov-header-brand {
-        margin: 0;
-        font-size: 15px;
-        font-weight: 400;
-        letter-spacing: 0.08em;
-}
-
-.ov-header-tagline {
-        font-size: 10px;
-        letter-spacing: 0.04em;
-}
+.ov-header-brand { margin: 0; font-size: 15px; font-weight: 400; letter-spacing: 0.08em; }
+.ov-header-tagline { font-size: 10px; letter-spacing: 0.04em; }
 
 .ov-layout {
         display: grid;
         grid-template-columns: minmax(0, 1fr);
-        grid-template-areas:
-                "map"
-                "controls";
+        grid-template-areas: "map" "controls";
         gap: 44px;
         align-items: start;
 }
 
-.ov-map-panel {
-        grid-area: map;
-        min-width: 0;
-}
+.ov-map-panel { grid-area: map; min-width: 0; }
 
 .ov-map-frame {
         --fg: var(--paper);
@@ -152,14 +102,8 @@ body {
         white-space: nowrap;
 }
 
-.ov-map-frame::before {
-        top: 0;
-}
-
-.ov-map-frame::after {
-        content: "└" var(--rule);
-        bottom: 0;
-}
+.ov-map-frame::before { top: 0; }
+.ov-map-frame::after { content: "└" var(--rule); bottom: 0; }
 
 .ov-ascii-layer {
         position: absolute;
@@ -180,46 +124,16 @@ body {
         background: var(--bg);
 }
 
-.ov-map-grid {
-        font-size: 8px;
-        font-size: calc(100cqw / 101.818);
-        color: var(--map-base);
-}
+.ov-map-grid { font-size: 8px; font-size: calc(100cqw / 101.818); color: var(--map-base); }
 
-.map-graticule {
-        color: var(--map-graticule);
-}
-
-.map-gs-area {
-        background: var(--station-area);
-}
-
-.map-coast {
-        color: var(--map-coast);
-}
-
-.map-orbit-past {
-        color: var(--orbit-past);
-}
-
-.map-orbit-future {
-        background: var(--orbit);
-        color: var(--bg);
-}
-
-.map-range {
-        color: var(--map-range);
-}
-
-.map-gs {
-        background: var(--station-bg);
-        color: var(--bg);
-}
-
-.map-sat {
-        background: var(--satellite-bg);
-        color: var(--fg);
-}
+.map-graticule { color: var(--map-graticule); }
+.map-gs-area { background: var(--station-area); }
+.map-coast { color: var(--map-coast); }
+.map-orbit-past { color: var(--orbit-past); }
+.map-orbit-future { background: var(--orbit); color: var(--bg); }
+.map-range { color: var(--map-range); }
+.map-gs { background: var(--station-bg); color: var(--bg); }
+.map-sat { background: var(--satellite-bg); color: var(--fg); }
 
 .ov-controls {
         grid-area: controls;
@@ -229,34 +143,14 @@ body {
         min-width: 0;
 }
 
-.ov-controls > .ov-label {
-        grid-column: 1 / -1;
-        padding-bottom: 0;
-}
-
-.ov-tle-panel {
-        grid-column: 1 / -1;
-}
-
+.ov-controls > .ov-label { grid-column: 1 / -1; padding-bottom: 0; }
+.ov-tle-panel { grid-column: 1 / -1; }
 .ov-controls .ov-field label,
 .ov-controls .ov-field output,
-.ov-controls .ov-gs label {
-        font-size: 13px;
-}
-
-.ov-controls .ov-panel input {
-        font-size: 13px;
-}
-
-.ov-controls .ov-panel textarea {
-        min-height: 52px;
-        padding: 4px 6px;
-        font-size: 11px;
-}
-
-.ov-controls .ov-hint {
-        font-size: 11px;
-}
+.ov-controls .ov-gs label,
+.ov-controls .ov-panel input { font-size: 13px; }
+.ov-controls .ov-panel textarea { min-height: 52px; padding: 4px 6px; font-size: 11px; }
+.ov-controls .ov-hint { font-size: 11px; }
 
 .ov-sidebar {
         --fg: var(--paper);
@@ -277,61 +171,20 @@ body {
         color: var(--fg);
 }
 
-.ov-sidebar .ov-label {
-        padding-bottom: 0.5em;
-}
+.ov-sidebar .ov-label { padding-bottom: 0.5em; }
+.ov-panel { padding: 0; background: none; border: 0; }
 
-.ov-panel {
-        padding: 0;
-        background: none;
-        border: 0;
-}
+.ov-table-frame { font-size: 13px; }
+.ov-table { line-height: 1.45; }
+.ov-table-edge { display: flex; line-height: 1; }
+.ov-table-rule { flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; }
+.ov-table-rule::before { content: var(--rule); }
+.ov-table-row { display: grid; align-items: baseline; }
+.ov-table-row::before { content: "│"; }
+.ov-table-row::after { content: "│"; }
 
-.ov-table-frame {
-        font-size: 13px;
-}
-
-.ov-table {
-        font-size: 13px;
-        line-height: 1.45;
-}
-
-.ov-table-edge {
-        display: flex;
-        line-height: 1;
-}
-
-.ov-table-rule {
-        flex: 1;
-        min-width: 0;
-        overflow: hidden;
-        white-space: nowrap;
-}
-
-.ov-table-rule::before {
-        content: var(--rule);
-}
-
-.ov-table-row {
-        display: grid;
-        align-items: baseline;
-}
-
-.ov-table-row::before {
-        content: "│";
-}
-
-.ov-table-row::after {
-        content: "│";
-}
-
-.status-row {
-        grid-template-columns: 1ch 15ch minmax(0, 1fr) 1ch;
-}
-
-.status-row span:first-child {
-        padding-left: 1ch;
-}
+.status-row { grid-template-columns: 1ch 15ch minmax(0, 1fr) 1ch; }
+.status-row span:first-child { padding-left: 1ch; }
 
 .status-row span:last-child {
         overflow: hidden;
@@ -341,40 +194,13 @@ body {
         white-space: nowrap;
 }
 
-.ov-globe-stage {
-        width: fit-content;
-        margin-right: auto;
-        margin-left: auto;
-        padding: 2px;
-}
-
-.ov-globe-stage .stage {
-        position: relative;
-        color: var(--globe-base);
-        font: 6px/1 var(--font-mono);
-}
-
-.ov-globe-grid {
-        position: relative;
-        color: var(--globe-base);
-        text-shadow: 0 0 14px #ffffff14;
-}
-
-.globe-land {
-        color: var(--globe-land);
-        text-shadow: 0 0 10px #ffffff24;
-}
-
-.globe-orbit {
-        color: var(--orbit);
-        text-shadow: 0 0 10px rgba(255, 228, 92, 0.3);
-}
-
+.ov-globe-stage { width: fit-content; margin-right: auto; margin-left: auto; padding: 2px; }
+.ov-globe-stage .stage { position: relative; color: var(--globe-base); font: 6px/1 var(--font-mono); }
+.ov-globe-grid { position: relative; color: var(--globe-base); text-shadow: 0 0 14px #ffffff14; }
+.globe-land { color: var(--globe-land); text-shadow: 0 0 10px #ffffff24; }
+.globe-orbit { color: var(--orbit); text-shadow: 0 0 10px rgba(255, 228, 92, 0.3); }
 /* Same marker treatment as the map satellite. */
-.globe-satellite {
-        background: var(--satellite-bg);
-        color: var(--fg);
-}
+.globe-satellite { background: var(--satellite-bg); color: var(--fg); }
 
 .ov-globe-note {
         margin-top: 4px;
@@ -384,54 +210,18 @@ body {
         text-align: center;
 }
 
-.telemetry-row {
-        grid-template-columns: 1ch 16ch minmax(0, 1fr) 8ch 1ch;
-}
+.telemetry-row { grid-template-columns: 1ch 16ch minmax(0, 1fr) 8ch 1ch; }
+.telemetry-row span:first-child { padding-left: 1ch; }
+.telemetry-row span:nth-child(2) { text-align: right; }
+.telemetry-row span:nth-child(3) { padding-right: 1ch; padding-left: 2ch; }
 
-.telemetry-row span:first-child {
-        padding-left: 1ch;
-}
+.ov-field label { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 15px; }
+.ov-field label > span:first-child { margin-right: auto; }
+.ov-field output { font-size: 15px; }
+.ov-gs { display: grid; grid-template-columns: 10ch minmax(0, 1fr); gap: 4px 11px; align-items: baseline; }
+.ov-gs label { font-size: 15px; }
 
-.telemetry-row span:nth-child(2) {
-        text-align: right;
-}
-
-.telemetry-row span:nth-child(3) {
-        padding-right: 1ch;
-        padding-left: 2ch;
-}
-
-.ov-field label {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 2px;
-        font-size: 15px;
-}
-
-.ov-field label > span:first-child {
-        margin-right: auto;
-}
-
-.ov-field output {
-        font-size: 15px;
-}
-
-.ov-gs {
-        display: grid;
-        grid-template-columns: 10ch minmax(0, 1fr);
-        gap: 4px 11px;
-        align-items: baseline;
-}
-
-.ov-gs label {
-        font-size: 15px;
-}
-
-.ov button,
-.ov input,
-.ov textarea {
-        font: inherit;
-}
+.ov button, .ov input, .ov textarea { font: inherit; }
 
 .ov input[type="number"],
 .ov textarea {
@@ -447,15 +237,8 @@ body {
 }
 
 .ov input:focus,
-.ov textarea:focus {
-        border-bottom-color: var(--ink);
-        outline: 1px solid var(--ink);
-        outline-offset: 3px;
-}
-
-.ov input[aria-invalid="true"] {
-        border-bottom: 2px solid var(--ink);
-}
+.ov textarea:focus { border-bottom-color: var(--ink); outline: 1px solid var(--ink); outline-offset: 3px; }
+.ov input[aria-invalid="true"] { border-bottom: 2px solid var(--ink); }
 
 .ov input[type="range"] {
         width: 100%;
@@ -467,10 +250,8 @@ body {
         appearance: none;
 }
 
-.ov input[type="range"]::-webkit-slider-runnable-track {
-        height: 1px;
-        background: var(--ink);
-}
+.ov input[type="range"]::-webkit-slider-runnable-track,
+.ov input[type="range"]::-moz-range-track { height: 1px; background: var(--ink); }
 
 .ov input[type="range"]::-webkit-slider-thumb {
         width: 9px;
@@ -483,11 +264,6 @@ body {
         appearance: none;
 }
 
-.ov input[type="range"]::-moz-range-track {
-        height: 1px;
-        background: var(--ink);
-}
-
 .ov input[type="range"]::-moz-range-thumb {
         width: 9px;
         height: 9px;
@@ -496,32 +272,10 @@ body {
         border-radius: 0;
 }
 
-.ov-hint {
-        margin-top: 6px !important;
-        font-size: 10px;
-        line-height: 1.5;
-}
-
-.ov textarea {
-        min-height: 66px;
-        padding: 8px 11px;
-        background: var(--surface-low);
-        resize: vertical;
-        border-bottom: 0;
-}
-
-.ov textarea::placeholder {
-        color: var(--ink);
-        opacity: 0.55;
-}
-
-.ov-actions {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        gap: 22px;
-        margin-top: 11px;
-}
+.ov-hint { margin-top: 6px !important; font-size: 10px; line-height: 1.5; }
+.ov textarea { min-height: 66px; padding: 8px 11px; background: var(--surface-low); resize: vertical; border-bottom: 0; }
+.ov textarea::placeholder { color: var(--ink); opacity: 0.55; }
+.ov-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 22px; margin-top: 11px; }
 
 .ov button {
         padding: 0;
@@ -533,47 +287,16 @@ body {
         letter-spacing: 0.1em;
 }
 
-.ov button::before {
-        content: "[";
-        margin-right: 4px;
-}
+.ov button::before { content: "["; margin-right: 4px; }
+.ov button::after { content: "]"; margin-left: 4px; }
+.ov button:hover { color: var(--paper); background: var(--ink); }
 
-.ov button::after {
-        content: "]";
-        margin-left: 4px;
-}
+.ov-message { flex-basis: 100%; min-height: 1.4em; font-size: 10px; }
+.ov-message.is-error::before { content: "! "; }
+.ov-message.is-success::before { content: "ok "; }
 
-.ov button:hover {
-        color: var(--paper);
-        background: var(--ink);
-}
-
-.ov-message {
-        flex-basis: 100%;
-        min-height: 1.4em;
-        font-size: 10px;
-}
-
-.ov-message.is-error::before {
-        content: "! ";
-}
-
-.ov-message.is-success::before {
-        content: "ok ";
-}
-
-.ov-footer {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        gap: 11px 22px;
-        margin-top: 33px;
-}
-
-.ov-footer p {
-        font-size: 10px;
-        letter-spacing: 0.04em;
-}
+.ov-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 11px 22px; margin-top: 33px; }
+.ov-footer p { font-size: 10px; letter-spacing: 0.04em; }
 
 .ov-sr-only {
         position: absolute;
@@ -584,26 +307,11 @@ body {
         white-space: nowrap;
 }
 
-.ov-noscript {
-        max-width: 1200px;
-        margin: 22px auto;
-        font-size: 10px;
-}
+.ov-noscript { max-width: 1200px; margin: 22px auto; font-size: 10px; }
 
 @media (max-width: 920px) {
-        body {
-                padding: 22px;
-        }
-
-        .ov-layout {
-                grid-template-columns: minmax(0, 1fr);
-                grid-template-areas:
-                        "map"
-                        "controls"
-                        "sidebar";
-                gap: 22px;
-        }
-
+        body { padding: 22px; }
+        .ov-layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "map" "controls" "sidebar"; gap: 22px; }
         .ov-sidebar {
                 position: static;
                 width: auto;
@@ -616,19 +324,8 @@ body {
 }
 
 @media (max-width: 720px) {
-        body {
-                padding: 16px;
-        }
-
-        .ov-controls {
-                grid-template-columns: minmax(0, 1fr);
-        }
-
-        .ov-controls .ov-panel textarea {
-                font-size: 10px;
-        }
-
-        .ov-actions {
-                gap: 11px;
-        }
+        body { padding: 16px; }
+        .ov-controls { grid-template-columns: minmax(0, 1fr); }
+        .ov-controls .ov-panel textarea { font-size: 10px; }
+        .ov-actions { gap: 11px; }
 }

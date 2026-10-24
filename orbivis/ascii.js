@@ -6,7 +6,7 @@ export const BLOCKS = {
         solid: "█"
 };
 
-export const BLOCK_RAMP = `${BLOCKS.light}${BLOCKS.medium}${BLOCKS.dark}${BLOCKS.solid}`;
+export const BLOCK_RAMP = Object.values(BLOCKS).join("");
 
 export const ASCII = {
         land: "#",
@@ -19,54 +19,46 @@ export const ASCII = {
         satellite: "@"
 };
 
-const HTML_ESCAPES = {
-        "&": "&amp;",
-        "<": "&lt;",
-        ">": "&gt;"
-};
+const ESCAPES = { "&": "&amp;", "<": "&lt;", ">": "&gt;" };
+const span = (text, style) => (style ? `<span class="${style}">${text}</span>` : text);
 
 export function asciiToHtml(chars, columns, rows, styles) {
-        const parts = [];
+        let html = "";
 
         for (let row = 0; row < rows; row += 1) {
                 let run = "";
-                let runStyle = null;
-                const start = row * columns;
-                const end = start + columns;
+                let style = null;
+                const end = (row + 1) * columns;
 
-                for (let index = start; index < end; index += 1) {
-                        const style = styles[index] || null;
+                for (let index = row * columns; index < end; index += 1) {
+                        const nextStyle = styles[index] || null;
 
-                        if (style !== runStyle) {
-                                if (run) parts.push(wrapRun(run, runStyle));
+                        if (nextStyle !== style) {
+                                html += span(run, style);
                                 run = "";
-                                runStyle = style;
+                                style = nextStyle;
                         }
 
                         const character = chars[index];
-                        run += HTML_ESCAPES[character] || character;
+                        run += ESCAPES[character] || character;
                 }
 
-                if (run) parts.push(wrapRun(run, runStyle));
-                if (row < rows - 1) parts.push("\n");
+                html += span(run, style);
+                if (row < rows - 1) html += "\n";
         }
 
-        return parts.join("");
-}
-
-function wrapRun(text, style) {
-        return style ? `<span class="${style}">${text}</span>` : text;
+        return html;
 }
 
 export function hasActiveSelection(element) {
-        const selection = window.getSelection();
-
-        if (!selection || selection.isCollapsed || selection.rangeCount === 0) {
-                return false;
-        }
-
         try {
-                return selection.getRangeAt(0).intersectsNode(element);
+                const selection = window.getSelection();
+                return Boolean(
+                        selection
+                        && !selection.isCollapsed
+                        && selection.rangeCount
+                        && selection.getRangeAt(0).intersectsNode(element)
+                );
         } catch {
                 return false;
         }
