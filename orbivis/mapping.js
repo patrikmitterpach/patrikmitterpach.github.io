@@ -675,7 +675,7 @@ function currentDpr() {
 }
 
 function resizeCanvas(force = false) {
-        const rect = dom.mapFrame.getBoundingClientRect();
+        const rect = dom.canvas.getBoundingClientRect();
         const width = Math.floor(rect.width);
         const height = Math.floor(rect.height);
 
