@@ -8,7 +8,8 @@ const W = 50, H = 27, S = 16, A = 1.7;
 const CX = (W - 1) / 2, CY = (H - 1) / 2, K = S / A;
 const RAMP = BLOCK_RAMP, NR = RAMP.length - 1;
 const CAMERA_ORBIT_TILT = 18 * DEG_TO_RAD;
-const EARTH_OBLIQUITY = 23.4393 * DEG_TO_RAD;
+const AXIS_GRID_TILT = Math.atan(1 / A); // Matches the "/" glyph diagonal in the character grid.
+const VIEW_LONGITUDE = 12; // Keep Europe near the centre when the globe first appears.
 const LX = -0.55, LY = -0.72, LZ = 0.42, LN = Math.hypot(LX, LY, LZ);
 const CAM_SPIN = 0.00007;
 const MIN_DISPLAY_RADIUS = 1.14;
@@ -32,12 +33,11 @@ const cross = (a, b) => [
         a[2] * b[0] - a[0] * b[2],
         a[0] * b[1] - a[1] * b[0]
 ];
-const dot = (a, b) => a[0] * b[0] + a[1] * b[1] + a[2] * b[2];
 
 export function createGlobe({ grid }) {
         let inclination = 23 * DEG_TO_RAD, raan = 0, argPerigee = 0, eccentricity = 0, semiMajor = 1.06;
         let meanAnomaly = 0, visualMeanMotion = TAU / 20;
-        let phi = 1.1, last = performance.now(), frame = 0, running = false;
+        let phi = null, last = performance.now(), frame = 0, running = false;
 
         const depth = new Float32Array(W * H);
         const mask = new Uint8Array(W * H);
@@ -72,9 +72,10 @@ export function createGlobe({ grid }) {
                 const nodeLength = Math.hypot(-n[1], n[0]);
                 let d = nodeLength < 1e-6 ? [1, 0, 0] : [-n[1] / nodeLength, n[0] / nodeLength, 0];
 
-                // Tilt the camera slightly out of the orbital plane to show a side-on ellipse.
+                // Tilt the camera slightly above the orbital plane so the north pole
+                // tips toward the viewer and the ellipse stays side-on.
                 const ct = Math.cos(CAMERA_ORBIT_TILT), st = Math.sin(CAMERA_ORBIT_TILT);
-                d = unit(d[0] * ct + n[0] * st, d[1] * ct + n[1] * st, d[2] * ct + n[2] * st);
+                d = unit(d[0] * ct - n[0] * st, d[1] * ct - n[1] * st, d[2] * ct - n[2] * st);
 
                 // Start with Earth's north pole upright on screen; the roll below tilts it.
                 let v = unit(-d[0] * d[2], -d[1] * d[2], 1 - d[2] * d[2]);
@@ -82,11 +83,11 @@ export function createGlobe({ grid }) {
                 // Screen right.
                 let u = unit(...cross(d, v));
 
-                // Earth's spin axis is tilted 23.44° from the ecliptic normal. Roll the
-                // whole view so the globe shows that tilt, leaning the same way the orbit
-                // plane rises above the equator.
-                const w = [-n[2] * n[0], -n[2] * n[1], 1 - n[2] * n[2]];
-                const roll = EARTH_OBLIQUITY * (dot(w, u) < 0 ? -1 : 1);
+                // Lean the axis along the same diagonal as the "/" glyphs so the axis
+                // line reads as one continuous stroke across the character grid.
+                const tiltedRight = u[2] * Math.cos(AXIS_GRID_TILT)
+                        + v[2] * Math.sin(AXIS_GRID_TILT) > 0;
+                const roll = AXIS_GRID_TILT * (tiltedRight ? 1 : -1);
                 const cr = Math.cos(roll), sr = Math.sin(roll);
                 const rolledU = [u[0] * cr + v[0] * sr, u[1] * cr + v[1] * sr, u[2] * cr + v[2] * sr];
                 const rolledV = [v[0] * cr - u[0] * sr, v[1] * cr - u[1] * sr, v[2] * cr - u[2] * sr];
@@ -147,6 +148,9 @@ export function createGlobe({ grid }) {
                 const period = Number.isFinite(data.period) && data.period > 0 ? data.period : DEFAULT_PERIOD;
                 visualMeanMotion = TAU / clamp(period / VISUAL_SPEED, MIN_VISUAL_PERIOD, MAX_VISUAL_PERIOD);
 
+                // Re-aim the view at Europe whenever the orbit orientation changes.
+                phi = null;
+
                 if (data.satellite) updateSatellitePhase(data.satellite);
                 render();
         }
@@ -156,6 +160,12 @@ export function createGlobe({ grid }) {
 
                 const basis = orbitBasis();
                 const { u, v, d } = cameraBasis(basis);
+
+                if (phi === null) {
+                        const cameraLongitude = Math.atan2(-d[1], -d[0]) * DEG;
+                        phi = (VIEW_LONGITUDE - cameraLongitude) * DEG_TO_RAD;
+                }
+
                 const chars = new Array(W * H);
                 const styles = new Array(W * H);
 
@@ -216,6 +226,35 @@ export function createGlobe({ grid }) {
                         previousX = fx;
                         previousY = fy;
                         previousDepth = fd;
+                }
+
+                // Draw the spin axis as short runs of "/" glyphs emerging from the
+                // globe, four characters beyond the limb on each side.
+                const axisRatio = (u[2] * S) / (v[2] * K);
+                const axisOverhang = 4;
+
+                for (const direction of [-1, 1]) {
+                        for (let offset = direction; Math.abs(offset) <= H; offset += direction) {
+                                const row = Math.round(CY) + offset;
+                                const column = Math.round(CX - offset * axisRatio);
+                                if (row < 0 || row >= H || column < 0 || column >= W) break;
+                                if (mask[row * W + column]) continue;
+
+                                for (let step = 0; step < axisOverhang; step += 1) {
+                                        const reach = offset + direction * step;
+                                        const axisRow = Math.round(CY) + reach;
+                                        const axisColumn = Math.round(CX - reach * axisRatio);
+                                        if (axisRow < 0 || axisRow >= H || axisColumn < 0 || axisColumn >= W) {
+                                                continue;
+                                        }
+
+                                        const index = axisRow * W + axisColumn;
+                                        chars[index] = "/";
+                                        styles[index] = "globe-axis";
+                                }
+
+                                break;
+                        }
                 }
 
                 const [satelliteX, satelliteY, satelliteZ] = orbitPoint(solveKepler(meanAnomaly, e), radius, e, basis);

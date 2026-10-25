@@ -15,20 +15,20 @@
         --fg: var(--ink);
         --bg: var(--paper);
         --font-mono: "Departure Mono", monospace;
-        --rule: "///////////////////////////////////////////////////////////////////////////////////////////////////////";
+        --rule: "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////";
         --rule-line: "─────────────────────────────────────────────────────────────────────────────────────────────────────────";
         --sidebar-width: 24rem;
         --orbit: #dabb09;
-        --orbit-past: rgba(218, 187, 9, 0.55);
+        --orbit-past: rgba(218, 187, 9, 0.2);
         --globe-stage: #b0b0b0;
         --globe-base: #9a9a9a;
         --globe-land: #d8d8d8;
         --map-base: rgba(253, 253, 252, 0.6);
         --map-coast: rgba(253, 253, 252, 0.82);
         --map-graticule: rgba(253, 253, 252, 0.26);
-        --map-range: rgba(253, 253, 252, 0.42);
-        --station-area: rgba(111, 143, 99, 0.26);
-        --station-bg: #6f8f63;
+        --map-range: rgba(253, 253, 252, 0.9);
+        --station-area: rgba(111, 143, 99, 0.5);
+        --station-bg: #74b35d;
         --satellite-bg: #3f78b0;
 }
 
@@ -59,25 +59,21 @@ body {
 .ov-label { padding-bottom: 1em; }
 
 .ov-header {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: baseline;
-        justify-content: space-between;
-        gap: 11px 22px;
-        padding-bottom: 22px;
-        margin-bottom: 44px;
-        border-bottom: 1px dashed var(--line);
+        grid-area: header;
+        min-width: 0;
+        margin-bottom: 0;
 }
 
-.ov-header-brand { margin: 0; font-size: 15px; font-weight: 400; letter-spacing: 0.08em; }
-.ov-header-tagline { font-size: 10px; letter-spacing: 0.04em; }
+.ov-header-ascii { margin: 0; font: inherit; font-weight: 400; letter-spacing: 0; }
 
 .ov-layout {
         display: grid;
-        grid-template-columns: minmax(0, 1fr);
-        grid-template-areas: "map" "controls";
-        gap: 44px;
-        align-items: start;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-template-areas:
+                "header controls gs"
+                "map map map";
+        gap: 22px;
+        align-items: stretch;
 }
 
 .ov-map-panel { grid-area: map; min-width: 0; }
@@ -89,6 +85,7 @@ body {
         padding: 1.2em 0;
         background: var(--bg);
         color: var(--fg);
+        container-type: inline-size;
 }
 
 .ov-map-frame::before,
@@ -99,6 +96,9 @@ body {
         left: 0;
         display: block;
         overflow: hidden;
+        font-size: 15px;
+        font-size: calc(100cqw / 101.818);
+        font-weight: 500;
         line-height: 1;
         white-space: nowrap;
 }
@@ -131,7 +131,7 @@ body {
 .map-graticule { color: var(--map-graticule); }
 .map-gs-area { background: var(--station-area); }
 .map-coast { color: var(--map-coast); }
-.map-orbit-past { color: var(--orbit-past); }
+.map-orbit-past { background: var(--orbit-past); color: var(--bg); }
 .map-orbit-future { background: var(--orbit); color: var(--bg); }
 .map-range { color: var(--map-range); }
 .map-gs { background: var(--station-bg); color: var(--bg); }
@@ -139,20 +139,201 @@ body {
 
 .ov-controls {
         grid-area: controls;
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 22px;
+        display: flex;
+        flex-direction: column;
+        gap: 11px;
         min-width: 0;
 }
 
-.ov-controls > .ov-label { grid-column: 1 / -1; padding-bottom: 0; }
-.ov-tle-panel { grid-column: 1 / -1; }
+.ov-controls .ov-panel { min-width: 0; }
+.ov-controls .ov-panel > .ov-label,
+.ov-gs-panel > .ov-label { padding-bottom: 0.35em; font-size: 13px; }
+.ov-gs-panel { grid-area: gs; min-width: 0; }
 .ov-controls .ov-field label,
 .ov-controls .ov-field output,
-.ov-controls .ov-gs label,
-.ov-controls .ov-panel input { font-size: 13px; }
-.ov-controls .ov-panel textarea { min-height: 52px; padding: 4px 6px; font-size: 11px; }
-.ov-controls .ov-hint { font-size: 11px; }
+.ov-gs-panel .ov-gs label,
+.ov-controls .ov-panel input,
+.ov-gs-panel input { font-size: 12px; }
+.ov-controls .ov-actions { gap: 8px 14px; margin-top: 6px; }
+.ov-gs-panel .ov-gs { gap: 3px 8px; }
+.ov-select { position: relative; min-width: 0; }
+
+.ov .ov-select-button {
+        display: flex;
+        width: 100%;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1ch;
+        padding: 4px 6px;
+        background: var(--surface-low);
+        border: 1px solid var(--line);
+        border-radius: 0;
+        color: var(--ink);
+        font-size: 12px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        -webkit-appearance: none;
+        appearance: none;
+}
+
+.ov .ov-select-button::before,
+.ov .ov-select-button::after { content: none; }
+
+.ov .ov-select-button:hover,
+.ov .ov-select-button:focus-visible,
+.ov-select.is-open .ov-select-button {
+        background: var(--ink);
+        border-color: var(--ink);
+        color: var(--paper);
+}
+
+.ov-select-value {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+}
+
+.ov-select-caret { flex: none; font-size: 12px; line-height: 1; opacity: 0.75; }
+.ov-select.is-loading .ov-select-caret { animation: ov-select-blink 0.9s steps(1, end) infinite; }
+
+@keyframes ov-select-blink {
+        50% { opacity: 0.15; }
+}
+
+.ov-select-popup {
+        position: absolute;
+        top: calc(100% + 6px);
+        right: 0;
+        left: 0;
+        z-index: 5;
+        display: flex;
+        flex-direction: column;
+        max-height: min(60vh, 420px);
+        min-width: min(20rem, calc(100vw - 2rem));
+        background: var(--ink);
+        color: var(--paper);
+        border: 1px solid var(--ink);
+        box-shadow: 5px 5px 0 rgba(59, 55, 47, 0.16);
+}
+
+.ov-select-popup[hidden] { display: none; }
+.ov-select-popup ::selection { color: var(--ink); background: var(--paper); }
+
+.ov-select-filter {
+        display: flex;
+        flex: none;
+        align-items: baseline;
+        gap: 1ch;
+        padding: 7px 9px;
+        border-bottom: 1px dashed rgba(253, 253, 252, 0.28);
+}
+
+.ov-select-filter:focus-within { border-bottom-color: var(--paper); }
+
+.ov-select-prompt { flex: none; color: var(--paper); font-size: 12px; opacity: 0.5; }
+
+.ov .ov-select-filter input {
+        flex: 1 1 auto;
+        min-width: 0;
+        padding: 0;
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        color: var(--paper);
+        font: inherit;
+        font-size: 12px;
+        letter-spacing: 0.02em;
+        outline: none;
+}
+
+.ov .ov-select-filter input:focus {
+        border: 0;
+        outline: none;
+}
+
+.ov .ov-select-filter input::placeholder { color: var(--paper); opacity: 0.45; }
+
+.ov-select-count {
+        flex: none;
+        color: rgba(253, 253, 252, 0.5);
+        font-size: 9px;
+        letter-spacing: 0.06em;
+}
+
+.ov-select-list {
+        flex: 1 1 auto;
+        min-height: 0;
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        padding: 4px 0;
+        scrollbar-color: rgba(253, 253, 252, 0.35) transparent;
+        scrollbar-width: thin;
+}
+
+.ov-select-list::-webkit-scrollbar { width: 8px; }
+.ov-select-list::-webkit-scrollbar-thumb { background: rgba(253, 253, 252, 0.3); }
+.ov-select-list::-webkit-scrollbar-track { background: transparent; }
+
+.ov-select-group {
+        margin: 0 !important;
+        padding: 7px 9px 3px;
+        color: rgba(253, 253, 252, 0.45);
+        font-size: 9px;
+        letter-spacing: 0.12em;
+        line-height: 1.4;
+}
+
+.ov-select-option {
+        display: grid;
+        grid-template-columns: 2ch minmax(0, 1fr) 6ch;
+        gap: 0 6px;
+        align-items: baseline;
+        padding: 2px 9px;
+        cursor: pointer;
+        font-size: 12px;
+        line-height: 1.45;
+}
+
+.ov-select-option.is-active { background: var(--paper); color: var(--ink); }
+.ov-select-mark { color: rgba(253, 253, 252, 0.55); }
+.ov-select-option.is-active .ov-select-mark { color: var(--ink); }
+
+.ov-select-name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+}
+
+.ov-select-option[aria-selected="true"] .ov-select-name {
+        text-decoration: underline;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
+}
+
+.ov-select-id { color: rgba(253, 253, 252, 0.4); font-size: 10px; text-align: right; }
+.ov-select-option.is-active .ov-select-id { color: rgba(59, 55, 47, 0.6); }
+
+.ov-select-empty {
+        margin: 0 !important;
+        padding: 10px 9px;
+        color: rgba(253, 253, 252, 0.55);
+        font-size: 10px;
+}
+
+.ov-select-hint {
+        margin: 0 !important;
+        padding: 6px 9px;
+        border-top: 1px dashed rgba(253, 253, 252, 0.28);
+        color: rgba(253, 253, 252, 0.45);
+        font-size: 9px;
+        letter-spacing: 0.06em;
+        line-height: 1.4;
+}
+
+@media (prefers-reduced-motion: reduce) {
+        .ov-select.is-loading .ov-select-caret { animation: none; }
+}
 
 .ov-sidebar {
         --fg: var(--paper);
@@ -220,16 +401,15 @@ body {
 .ov-field label { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 15px; }
 .ov-field label > span:first-child { margin-right: auto; }
 .ov-field output { font-size: 15px; }
-.ov-gs { display: grid; grid-template-columns: 10ch minmax(0, 1fr); gap: 4px 11px; align-items: baseline; }
-.ov-gs label { font-size: 15px; }
+.ov-gs { display: grid; grid-template-columns: 10ch minmax(0, 9ch); gap: 3px 8px; align-items: baseline; justify-content: start; }
+.ov-gs label { font-size: 12px; }
 
-.ov button, .ov input, .ov textarea { font: inherit; }
+.ov button, .ov input { font: inherit; }
 
-.ov input[type="number"],
-.ov textarea {
+.ov input[type="number"] {
         display: block;
         width: 100%;
-        padding: 3px 0;
+        padding: 2px 0;
         background: transparent;
         border: 0;
         border-bottom: 1px dashed var(--line);
@@ -238,8 +418,7 @@ body {
         outline: none;
 }
 
-.ov input:focus,
-.ov textarea:focus { border-bottom-color: var(--ink); outline: 1px solid var(--ink); outline-offset: 3px; }
+.ov input:focus { border-bottom-color: var(--ink); outline: 1px solid var(--ink); outline-offset: 3px; }
 .ov input[aria-invalid="true"] { border-bottom: 2px solid var(--ink); }
 
 .ov input[type="range"] {
@@ -252,8 +431,15 @@ body {
         appearance: none;
 }
 
-.ov input[type="range"]::-webkit-slider-runnable-track,
-.ov input[type="range"]::-moz-range-track { height: 1px; background: var(--ink); }
+.ov input[type="range"]::-webkit-slider-runnable-track {
+        height: 1px;
+        background: var(--ink);
+}
+
+.ov input[type="range"]::-moz-range-track {
+        height: 1px;
+        background: var(--ink);
+}
 
 .ov input[type="range"]::-webkit-slider-thumb {
         width: 9px;
@@ -274,9 +460,6 @@ body {
         border-radius: 0;
 }
 
-.ov-hint { margin-top: 6px !important; font-size: 10px; line-height: 1.5; }
-.ov textarea { min-height: 66px; padding: 8px 11px; background: var(--surface-low); resize: vertical; border-bottom: 0; }
-.ov textarea::placeholder { color: var(--ink); opacity: 0.55; }
 .ov-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 22px; margin-top: 11px; }
 
 .ov button {
@@ -313,7 +496,14 @@ body {
 
 @media (max-width: 920px) {
         body { padding: 22px; }
-        .ov-layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "map" "controls" "sidebar"; gap: 22px; }
+        .ov-layout {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+                grid-template-areas:
+                        "header controls gs"
+                        "map map map"
+                        "sidebar sidebar sidebar";
+                gap: 22px;
+        }
         .ov-sidebar {
                 position: static;
                 width: auto;
@@ -327,7 +517,15 @@ body {
 
 @media (max-width: 720px) {
         body { padding: 16px; }
-        .ov-controls { grid-template-columns: minmax(0, 1fr); }
-        .ov-controls .ov-panel textarea { font-size: 10px; }
+        .ov-layout {
+                grid-template-columns: minmax(0, 1fr);
+                grid-template-areas:
+                        "header"
+                        "controls"
+                        "gs"
+                        "map"
+                        "sidebar";
+        }
+        .ov-select-popup { max-height: 50vh; }
         .ov-actions { gap: 11px; }
 }

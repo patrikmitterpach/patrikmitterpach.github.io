@@ -7,46 +7,55 @@
         <meta name="theme-color" content="#fdfdfc">
         <title>Orbit Visualizer · mitterpach.dev</title>
         <meta name="description"
-                content="A live satellite ground-track visualizer with custom TLE support and ground-station coverage.">
+                content="A live satellite ground-track visualizer with a curated satellite catalog and ground-station coverage.">
         <link rel="stylesheet" href="../assets/css/orbivis.css">
 </head>
 
 <body class="orbivis-page">
         <main class="ov">
-                <header class="ov-header">
-                        <h1 class="ov-header-brand">orbivis</h1>
-                        <p class="ov-header-tagline"><a href="../">mitterpach.dev</a> / orbit visualizer</p>
-                </header>
+                <section class="ov-layout" aria-label="Satellite controls and map">
+                        <header class="ov-header">
+                                <h1 class="ov-header-ascii"><a href="../">mitterpach.dev</a> / orbivis</h1>
+                        </header>
 
-                <section class="ov-layout" aria-label="Satellite map and controls">
-                        <section class="ov-map-panel" aria-label="Satellite map">
-                                <div class="ov-map-frame" id="map-frame">
-                                        <div class="ov-map-stage" id="map-stage" role="img"
-                                                aria-label="World map with satellite ground track">
-                                                <pre class="ov-ascii-layer ov-map-grid" id="map-grid"
-                                                        aria-hidden="true"></pre>
+                        <section class="ov-controls" aria-label="Satellite and display controls">
+                                <section class="ov-panel ov-sat-panel" aria-label="Satellite selection">
+                                        <p class="ov-label"># satellite</p>
+                                        <div class="ov-select" id="satellite-select">
+                                                <button class="ov-select-button" id="satellite-button" type="button"
+                                                        aria-haspopup="listbox" aria-expanded="false"
+                                                        aria-controls="satellite-popup">
+                                                        <span class="ov-select-value" id="satellite-value">ISS (ZARYA)</span>
+                                                        <span class="ov-select-caret" id="satellite-caret"
+                                                                aria-hidden="true">v</span>
+                                                </button>
+                                                <div class="ov-select-popup" id="satellite-popup" hidden>
+                                                        <div class="ov-select-filter">
+                                                                <label class="ov-sr-only"
+                                                                        for="satellite-filter">Filter satellites</label>
+                                                                <span class="ov-select-prompt"
+                                                                        aria-hidden="true">&gt;</span>
+                                                                <input id="satellite-filter" type="text" role="combobox"
+                                                                        aria-autocomplete="list"
+                                                                        aria-controls="satellite-list"
+                                                                        aria-expanded="false" autocomplete="off"
+                                                                        spellcheck="false" placeholder="filter satellites">
+                                                                <span class="ov-select-count" id="satellite-count"
+                                                                        aria-hidden="true"></span>
+                                                        </div>
+                                                        <div class="ov-select-list" id="satellite-list" role="listbox"
+                                                                aria-label="Satellites"></div>
+                                                        <p class="ov-select-hint" aria-hidden="true">↑↓ move / enter load / esc close</p>
+                                                </div>
                                         </div>
-                                </div>
-                        </section>
-
-                        <section class="ov-controls" aria-label="Controls">
-                                <p class="ov-label"># controls</p>
-                                <section class="ov-panel ov-tle-panel" aria-label="TLE input">
-                                        <p class="ov-label"># tle input</p>
-                                        <label class="ov-sr-only" for="tle-input">Two-line element set</label>
-                                        <textarea id="tle-input" rows="3" wrap="off" spellcheck="false"
-                                                placeholder="Satellite name&#10;1 ...&#10;2 ..."></textarea>
                                         <div class="ov-actions">
-                                                <button id="tle-button" type="button">Load TLE</button>
-                                                <button id="tle-reset" class="ov-button-secondary" type="button">Reset
-                                                        to ISS</button>
                                                 <p class="ov-message" id="tle-message" role="status" aria-live="polite">
                                                 </p>
                                         </div>
                                 </section>
 
-                                <section class="ov-panel" aria-label="Display settings">
-                                        <p class="ov-label"># display</p>
+                                <section class="ov-panel ov-display-panel" aria-label="Display settings">
+                                        <!-- <p class="ov-label"># display</p> -->
                                         <div class="ov-field">
                                                 <label for="window-minutes">
                                                         <span>track window</span>
@@ -56,22 +65,31 @@
                                                         value="120">
                                         </div>
                                 </section>
+                        </section>
 
-                                <section class="ov-panel" aria-label="Ground station">
-                                        <p class="ov-label"># ground station</p>
-                                        <div class="ov-gs">
-                                                <label for="gs-latitude">lat</label>
-                                                <input id="gs-latitude" type="number" min="-90" max="90" step="0.1"
-                                                        value="50" inputmode="decimal">
-                                                <label for="gs-longitude">lon</label>
-                                                <input id="gs-longitude" type="number" min="-180" max="180" step="0.1"
-                                                        value="14" inputmode="decimal">
-                                                <label for="gs-range">range (km)</label>
-                                                <input id="gs-range" type="number" min="0" max="20000" step="10"
-                                                        value="1200" inputmode="numeric">
+                        <section class="ov-panel ov-gs-panel" aria-label="Ground station">
+                                <p class="ov-label"># ground station</p>
+                                <div class="ov-gs">
+                                        <label for="gs-latitude">lat</label>
+                                        <input id="gs-latitude" type="number" min="-90" max="90" step="0.1"
+                                                value="50" inputmode="decimal">
+                                        <label for="gs-longitude">lon</label>
+                                        <input id="gs-longitude" type="number" min="-180" max="180" step="0.1"
+                                                value="14" inputmode="decimal">
+                                        <label for="gs-range">range (km)</label>
+                                        <input id="gs-range" type="number" min="0" max="20000" step="10"
+                                                value="1200" inputmode="numeric">
+                                </div>
+                        </section>
+
+                        <section class="ov-map-panel" aria-label="Satellite map">
+                                <div class="ov-map-frame" id="map-frame">
+                                        <div class="ov-map-stage" id="map-stage" role="img"
+                                                aria-label="World map with satellite ground track">
+                                                <pre class="ov-ascii-layer ov-map-grid" id="map-grid"
+                                                        aria-hidden="true"></pre>
                                         </div>
-                                        <p class="ov-hint" id="gs-summary">50.0°N 14.0°E -- 1,200 km</p>
-                                </section>
+                                </div>
                         </section>
 
 
@@ -99,6 +117,8 @@
                                                 <div class="ov-table ov-status" id="status">
                                                         <div class="ov-table-row status-row"><span>tracking</span><span
                                                                         id="status-tracking">ISS (ZARYA)</span></div>
+                                                        <div class="ov-table-row status-row"><span>norad id</span><span
+                                                                        id="status-norad">25544</span></div>
                                                         <div class="ov-table-row status-row" id="status-contact">
                                                                 <span>cntct cntdwn</span><span
                                                                         id="status-contact-value">--</span></div>
@@ -114,6 +134,8 @@
                                                         <div class="ov-table-row status-row"><span>gs
                                                                         position</span><span id="status-gs">--</span>
                                                         </div>
+                                                        <div class="ov-table-row status-row"><span>gs range</span><span
+                                                                        id="status-gs-range">--</span></div>
                                                 </div>
                                                 <div class="ov-table-edge"><span>└</span><span
                                                                 class="ov-table-rule"></span><span>┘</span></div>
@@ -136,8 +158,9 @@
                 </section>
 
                 <footer class="ov-footer">
-                        <p>map: public-domain data -- orbital math: tle.js / satellite-js</p>
-                        <p>type: <a href="https://departuremono.com">departure mono</a> (sil ofl)</p>
+                        <p>map: public-domain data -- orbital math: tle.js / satellite-js -- tle: celestrak</p>
+                        <p>catalog: curated (no starlinks) -- type: <a href="https://departuremono.com">departure mono</a>
+                                (sil ofl)</p>
                 </footer>
         </main>
 

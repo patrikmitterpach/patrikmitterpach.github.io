@@ -12,10 +12,18 @@ import {
 import { createGlobe } from "./globe.js";
 import { MAP_COLUMNS as W, MAP_LAND_ROWS, MAP_ROWS as H } from "./world.js";
 import { ASCII, asciiToHtml, hasActiveSelection, plotSatellite } from "./ascii.js";
+import { createSatellitePicker } from "./picker.js";
+import {
+        DEFAULT_SATELLITE,
+        SATELLITE_GROUPS,
+        fetchSatelliteTle,
+        findSatellite,
+        tleEpoch
+} from "./satellites.js";
 
-const DEFAULT_TLE = `ISS (ZARYA)
-1 25544U 98067A   26296.69304404  .00008515  00000+0  16237-3 0  9995
-2 25544  51.6336  24.1765 0006871 300.7285  59.3026 15.49021515591674`;
+// A recent ISS snapshot so the map paints immediately and still works offline.
+const ISS_FALLBACK_TLE = `1 25544U 98067A   26297.20915682  .00007800  00000+0  14938-3 0  9991
+2 25544  51.6335  21.6229 0006884 302.9098  57.1228 15.49030149591752`;
 
 const EARTH_RADIUS_KM = 6371.0088;
 const DEG_TO_RAD = Math.PI / 180;
@@ -44,26 +52,26 @@ const dom = {
         mapStage: $("map-stage"),
         mapGrid: $("map-grid"),
         statusTracking: $("status-tracking"),
+        statusNorad: $("status-norad"),
         statusContactValue: $("status-contact-value"),
         statusLength: $("status-length"),
         statusAosValue: $("status-aos-value"),
         statusLosValue: $("status-los-value"),
         statusGs: $("status-gs"),
+        statusGsRange: $("status-gs-range"),
         telemetry: $("telemetry"),
         windowMinutes: $("window-minutes"),
         windowValue: $("window-value"),
         gsLatitude: $("gs-latitude"),
         gsLongitude: $("gs-longitude"),
         gsRange: $("gs-range"),
-        gsSummary: $("gs-summary"),
-        tleInput: $("tle-input"),
-        tleButton: $("tle-button"),
-        tleReset: $("tle-reset"),
+        satelliteSelect: $("satellite-select"),
         tleMessage: $("tle-message")
 };
 
 let satellite = null;
 let globe = null;
+let picker = null;
 let mapBaseChars = null;
 let mapBaseStyles = null;
 let windowMinutes = 120;
@@ -72,6 +80,8 @@ let clockId = null;
 let renderQueued = false;
 let passCache = { key: "", count: null };
 let rangePassCache = { key: "", inRange: false, until: null, start: null, end: null, length: null };
+let loadSequence = 0;
+let loadController = null;
 
 const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
 const roundTo = (value, decimals) => Number(value.toFixed(decimals));
@@ -122,6 +132,15 @@ function plotMapSatellite(grid, column, row) {
         plotSatellite(column, row, W, H, (targetColumn, targetRow, character) => {
                 plotMapCell(grid, targetColumn, targetRow, character, "map-sat");
         }, true);
+}
+
+function plotMapLabel(grid, column, row, text) {
+        const label = Array.from(text).slice(0, W);
+        const start = clamp(column - Math.floor(label.length / 2), 0, W - label.length);
+
+        label.forEach((character, offset) => {
+                plotMapCell(grid, start + offset, row, character, "map-sat-label");
+        });
 }
 
 function drawMapLineAtOffset(grid, x0, y0, x1, y1, character, style) {
@@ -289,6 +308,10 @@ function renderMap(past, future, current) {
         const groundCell = mapCell(groundStation.lat, groundStation.lng);
         plotMapCell(grid, groundCell.column, groundCell.row, ASCII.groundStation, "map-gs");
         plotMapSatellite(grid, satelliteCell.column, satelliteCell.row);
+
+        // Sit the label one row below the marker, centered on it.
+        const labelRow = satelliteCell.row + 3 < H ? satelliteCell.row + 3 : satelliteCell.row - 3;
+        plotMapLabel(grid, satelliteCell.column, labelRow, satellite.name);
 
         if (!hasActiveSelection(dom.mapGrid)) {
                 dom.mapGrid.innerHTML = asciiToHtml(grid.chars, W, H, grid.styles);
@@ -495,11 +518,13 @@ function updateStatus(current, timestamp) {
                         : formatDuration(info.start - timestamp);
 
         dom.statusTracking.textContent = satellite.name;
+        dom.statusNorad.textContent = String(satellite.catalog?.noradId ?? satellite.satrec?.satnum ?? "--");
         dom.statusContactValue.textContent = contact;
         dom.statusLength.textContent = info.length === null ? "--" : formatDuration(info.length);
         dom.statusAosValue.textContent = info.start === null ? "--" : formatClock(info.start);
         dom.statusLosValue.textContent = info.end === null ? "--" : formatClock(info.end);
         dom.statusGs.textContent = `${formatCoord(groundStation.lat, "N", "S")} ${formatCoord(groundStation.lng, "E", "W")}`;
+        dom.statusGsRange.textContent = `${Math.round(groundStation.range).toLocaleString("en-US")} km`;
 }
 
 function updateTelemetry(current, timestamp) {
@@ -577,7 +602,7 @@ function setMessage(text, kind = "") {
         dom.tleMessage.classList.toggle("is-success", kind === "success");
 }
 
-function buildSatellite(rawTle) {
+function buildSatellite(rawTle, nameOverride = "") {
         const lines = rawTle
                 .trim()
                 .split(/\r?\n/)
@@ -616,9 +641,11 @@ function buildSatellite(rawTle) {
         const periodMinutes = Number.isFinite(satrec.no) && satrec.no > 0 ? TAU / satrec.no : null;
         const eccentricity = satrec.ecco || 0;
         const semiMajor = satrec.a;
+        const name = (nameOverride || parsed.name || `NORAD ${satrec.satnum}`).trim();
 
         return {
-                name: (parsed.name || `NORAD ${satrec.satnum}`).trim() || "Unnamed satellite",
+                name: name || "Unnamed satellite",
+                catalog: null,
                 satrec,
                 tle: [line1, line2],
                 stats: {
@@ -644,15 +671,75 @@ function buildSatellite(rawTle) {
         };
 }
 
-function loadSatellite(rawTle, silent = false) {
-        try {
-                satellite = buildSatellite(rawTle);
+function applySatellite(entry, next) {
+        next.catalog = entry;
+        satellite = next;
+        picker.setSelected(entry);
+        globe.setOrbit(next.orbit);
+        requestRender();
+}
 
-                if (!silent) setMessage(`Tracking ${satellite.name}.`, "success");
-                globe.setOrbit(satellite.orbit);
-                requestRender();
+function loadFallbackSatellite() {
+        try {
+                applySatellite(DEFAULT_SATELLITE, buildSatellite(ISS_FALLBACK_TLE, DEFAULT_SATELLITE.name));
         } catch (error) {
                 setMessage(error.message, "error");
+        }
+}
+
+function writeLocation(entry) {
+        try {
+                const url = new URL(window.location.href);
+                url.searchParams.set("satellite", entry.id);
+                window.history.replaceState(null, "", url);
+        } catch {
+                // The URL cannot always be updated (for example on file://).
+        }
+}
+
+async function loadSatellite(entry, { force = false, announce = true, updateLocation = false } = {}) {
+        const sequence = ++loadSequence;
+        loadController?.abort();
+
+        const controller = new AbortController();
+        loadController = controller;
+
+        picker.setSelected(entry);
+        picker.setLoading(true);
+        setMessage(announce ? `fetching TLE for ${entry.name} ...` : "fetching TLE ...");
+
+        try {
+                const result = await fetchSatelliteTle(entry, { force, signal: controller.signal });
+
+                if (sequence !== loadSequence) return;
+
+                const next = buildSatellite(result.tle.join("\n"), entry.name);
+                applySatellite(entry, next);
+
+                if (updateLocation) writeLocation(entry);
+
+                const epoch = tleEpoch(result.tle);
+                const stamp = epoch ? epoch.toISOString().slice(0, 10) : "unknown epoch";
+                const source = result.source === "cache" ? "cached" : "live";
+
+                setMessage(`${source} TLE ${stamp} -- tracking ${entry.name}.`, "success");
+        } catch (error) {
+                if (sequence !== loadSequence || error.name === "AbortError") return;
+
+                if (satellite?.catalog) picker.setSelected(satellite.catalog);
+
+                const current = satellite?.catalog?.name;
+                setMessage(
+                        current && current !== entry.name
+                                ? `${entry.name}: ${error.message} -- still tracking ${current}.`
+                                : `${entry.name}: ${error.message}`,
+                        "error"
+                );
+        } finally {
+                if (sequence === loadSequence) {
+                        picker.setLoading(false);
+                        loadController = null;
+                }
         }
 }
 
@@ -679,7 +766,6 @@ function refreshGroundStation() {
         markInvalid(dom.gsRange, range === null);
 
         if (latitude === null || longitude === null || range === null) {
-                dom.gsSummary.textContent = "Enter a numeric latitude, longitude, and radius.";
                 return false;
         }
 
@@ -688,13 +774,6 @@ function refreshGroundStation() {
                 lng: roundTo(normalizeLongitude(longitude), 4),
                 range: roundTo(clamp(range, 0, 20_000), 2)
         };
-
-        dom.gsSummary.textContent = [
-                formatCoord(groundStation.lat, "N", "S"),
-                formatCoord(groundStation.lng, "E", "W"),
-                "--",
-                `${Math.round(groundStation.range).toLocaleString("en-US")} km`
-        ].join(" ");
 
         return true;
 }
@@ -733,7 +812,6 @@ function initialize() {
                 requestRender();
         };
 
-        dom.tleInput.value = DEFAULT_TLE;
         updateWindow();
         refreshGroundStation();
         buildBaseMap();
@@ -741,7 +819,28 @@ function initialize() {
         globe = createGlobe({ grid: $("globe-grid") });
         globe.start();
 
-        loadSatellite(DEFAULT_TLE, true);
+        picker = createSatellitePicker({
+                root: dom.satelliteSelect,
+                groups: SATELLITE_GROUPS,
+                onSelect: (entry) => {
+                        loadSatellite(entry, { force: true, updateLocation: true });
+                }
+        });
+
+        loadFallbackSatellite();
+
+        const requestedName = new URLSearchParams(window.location.search).get("satellite")?.trim() || "";
+        const requested = requestedName ? findSatellite(requestedName) : DEFAULT_SATELLITE;
+
+        if (requested) {
+                loadSatellite(requested, { announce: false, updateLocation: false });
+        } else {
+                setMessage(
+                        `"${requestedName}" is not in the catalog -- showing ${DEFAULT_SATELLITE.name}.`,
+                        "error"
+                );
+        }
+
         dom.windowMinutes.addEventListener("input", updateWindow);
 
         for (const input of [dom.gsLatitude, dom.gsLongitude, dom.gsRange]) {
@@ -750,18 +849,6 @@ function initialize() {
                 });
                 input.addEventListener("change", snapGroundStationInputs);
         }
-
-        dom.tleButton.addEventListener("click", () => loadSatellite(dom.tleInput.value));
-        dom.tleReset.addEventListener("click", () => {
-                dom.tleInput.value = DEFAULT_TLE;
-                loadSatellite(DEFAULT_TLE);
-        });
-        dom.tleInput.addEventListener("keydown", (event) => {
-                if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) {
-                        event.preventDefault();
-                        loadSatellite(dom.tleInput.value);
-                }
-        });
 
         document.addEventListener("visibilitychange", () => {
                 if (document.hidden) {
