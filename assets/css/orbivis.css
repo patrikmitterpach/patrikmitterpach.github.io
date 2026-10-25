@@ -155,7 +155,7 @@ body {
 .ov-controls .ov-panel input,
 .ov-gs-panel input { font-size: 12px; }
 .ov-controls .ov-actions { gap: 8px 14px; margin-top: 6px; }
-.ov-gs-panel .ov-gs { gap: 3px 8px; }
+.ov-gs-panel .ov-gs { gap: 2px 5px; }
 .ov-select { position: relative; min-width: 0; }
 
 .ov .ov-select-button {
